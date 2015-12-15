@@ -1898,57 +1898,52 @@ licence CC directement, vous permettant de sélectionner une licence
 appropriée. Ensuite le service marque correctement l’œuvre pour
 vous.
 
-### CC a publié certaines des meilleures pratiques
-pour le marquage de votre matériel sous licence CC, et
-recommande:
+CC a publié certaines des meilleures pratiques pour le marquage de
+votre matériel sous licence CC, et recommande:
 
--    D’inclure un indicateur visuel (une
-    combinaison de texte et images) que l’œuvre est autorisé avec l’une
-    des licences CC.
--    D’indiquer clairement quel matériel est
-    couvert par la licence CC, surtout si elle est présentée avec du de
-    matériel non autorisé.
--    D’inclure un lien vers l’acte lisible (qui
-    lui-même contient un lien vers le code juridique).
--   D’incorporer les métadonnées <!--<span
-    class="c0"> -->lisibles par la machine<!--<span
-    class="c6  c7"> --> dans le code de l’indicateur de licence ou dans le
-    code de la page sous licence.
+* D’inclure un indicateur visuel (une combinaison de texte et images)
+  que l’œuvre est autorisé avec l’une des licences CC.
+
+* D’indiquer clairement quel matériel est couvert par la licence CC,
+surtout si elle est présentée avec du de matériel non autorisé.
+
+* D’inclure un lien vers l’acte lisible (qui lui-même contient un lien
+  vers le code juridique).
+
+* D’incorporer les métadonnées <!--<span class="c0"> -->lisibles par
+    la machine<!--<span class="c6 c7"> --> dans le code de
+    l’indicateur de licence ou dans le code de la page sous licence.
 
 Pour plus de détails voir la page de <!--<span
 class="c0 c28"> -->marquage<!--<span class="c6 c49 c7 c28"> -->.
 
-### Qu’est-ce que cela signifie que les licences
-Creative Commons sont « lisibles par la machine »?
+### Qu’est-ce que cela signifie que les licences Creative Commons sont « lisibles par la machine »?
 
-Creative Commons a précisé CC
-REL  comme un moyen pour associer les
+Creative Commons a précisé CC REL  comme un moyen pour associer les
 métadonnées de licence lisibles par la machine avec des objets offerts
 sous licences CC.
 
-### Avant que Creative Commons n’ait développé ce
-vocabulaire, il était difficile pour une machine de vérifier si un objet
-a été marqué par une licence CC. Il n’y avait non plus de norme, un lieu
-prévisible pour héberger les métadonnées de cette licence (par exemple,
-l’URL de la source de l’œuvre ou le mode d’attribution
-obligatoire).
+Avant que Creative Commons n’ait développé ce vocabulaire, il était
+difficile pour une machine de vérifier si un objet a été marqué par
+une licence CC. Il n’y avait non plus de norme, un lieu prévisible
+pour héberger les métadonnées de cette licence (par exemple, l’URL de
+la source de l’œuvre ou le mode d’attribution obligatoire).
 
-Les métadonnées lisibles par la machine basées sur des
-normes de métadonnées bien acceptées crée une plateforme sur laquelle de
+Les métadonnées lisibles par la machine basées sur des normes de
+métadonnées bien acceptées crée une plateforme sur laquelle de
 nouveaux services et applications peuvent être construites. Des
-logiciels et services peuvent détecter les licences CC et les détails de
-cette licence, tel que décrit par les métadonnées. Par exemple, sur
+logiciels et services peuvent détecter les licences CC et les détails
+de cette licence, tel que décrit par les métadonnées. Par exemple, sur
 plusieurs sites Web et moteurs de recherche tels que Google et Flickr,
-vous pouvez effectuer des recherches filtrées pour les œuvres proposées
-sous une licence CC spécifique. En outre, les actes de licences CC
-peuvent créer automatiquement un copier-coller du code d’attribution
-afin que les utilisateurs puissent se conformer aisément à la condition
-Attribution (BY) des licences. Lorsque vous cliquez sur une licence CC
-ou le bouton  d’une
-page avec des métadonnées de licence, vous obtenez un copier-coller de
-l’attribution en HTML dans cette page des actes de licence. Ce HTML est
-basé sur les métadonnées RDFa disponibles dans le matériel
-d’origine.
+vous pouvez effectuer des recherches filtrées pour les œuvres
+proposées sous une licence CC spécifique. En outre, les actes de
+licences CC peuvent créer automatiquement un copier-coller du code
+d’attribution afin que les utilisateurs puissent se conformer aisément
+à la condition Attribution (BY) des licences. Lorsque vous cliquez sur
+une licence CC ou le bouton  d’une page avec des métadonnées de
+licence, vous obtenez un copier-coller de l’attribution en HTML dans
+cette page des actes de licence. Ce HTML est basé sur les métadonnées
+RDFa disponibles dans le matériel d’origine.
 
 Tous HTML fourni par le sélecteur de licence CC est
 automatiquement annoté avec des métadonnées en format RDFa .
