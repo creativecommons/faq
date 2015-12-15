@@ -1358,90 +1358,80 @@ autorisés par la licence - par exemple faire un usage commercial  d’une phot
 licenciée, le concédant peut facturer pour ces droits
 supplémentaires.)
 
-### Que devrais-je savoir sur les différences entre
-les licences internationales et les licences adaptées?
+### Que devrais-je savoir sur les différences entre les licences internationales et les licences adaptées?
 
-En tant que titulaire, vous devez toujours lire et
-comprendre le code juridique de la licence avant d’utiliser un matériel
-sous licence CC, en particulier si vous utilisez un matériel qui est
-autorisé en utilisant une licence
-adaptée<!--<span class="c86"> --> avec laquelle
-vous n’êtes pas familier. Notre processus de portage a fallu adapter les
-licences internationales au cadre juridique des différentes
+En tant que titulaire, vous devez toujours lire et comprendre le code
+juridique de la licence avant d’utiliser un matériel sous licence CC,
+en particulier si vous utilisez un matériel qui est autorisé en
+utilisant une licence adaptée<!--<span class="c86"> --> avec laquelle
+vous n’êtes pas familier. Notre processus de portage a fallu adapter
+les licences internationales au cadre juridique des différentes
 juridictions, et dans ce processus de légers ajustements peuvent avoir
 été faits auxquels vous devez prendre connaissance avant l’utilisation
 du matériel. Vous pouvez trouver plus d’informations sur les licences
-adaptées dans la base de données des
-juridictions.
+adaptées dans la base de données des juridictions.
 
-### Il n’y a pas de versions adaptées 4.0, et nous
-prévoyons qu’il y aura peu, voire aucun, dans l’avenir. Toutes les
-traductions officielles des licences internationales 4.0 sont
-équivalentes: vous pouvez substituer l’un à l’autre en fonction de votre
-langue préférée.
+Il n’y a pas de versions adaptées 4.0, et nous prévoyons qu’il y aura
+peu, voire aucun, dans l’avenir. Toutes les traductions officielles
+des licences internationales 4.0 sont équivalentes: vous pouvez
+substituer l’un à l’autre en fonction de votre langue préférée.
 
-### Toutefois, les versions adaptées de 3.0 et celles
-antérieures contiennent parfois des petites différences de la licence
+Toutefois, les versions adaptées de 3.0 et celles antérieures
+contiennent parfois des petites différences de la licence
 internationale en fonction de la façon dont elles ont été adaptées à
 leurs juridictions. Par exemple, un ensemble de licences adaptées
-contient des dispositions spécifiant que les lois seront appliquées dans
-le cas où le concédant de licence choisit de faire respecter la licence,
-et quelques-unes des licences adaptées contiennent des clauses
-d’élection de for.
+contient des dispositions spécifiant que les lois seront appliquées
+dans le cas où le concédant de licence choisit de faire respecter la
+licence, et quelques-unes des licences adaptées contiennent des
+clauses d’élection de for.
 
-### Le respect général de la licence
+## Le respect général de la licence
 
-### Qu’advient-il si je veux utiliser le matériel
-d’une manière non autorisée par la licence?
+### Qu’advient-il si je veux utiliser le matériel d’une manière non autorisée par la licence?
 
-Contactez les titulaires de droits pour demander la
-permission. Sinon, à moins qu’une exception ou
-une limitation au droit d’auteur s’applique,
-votre utilisation du matériel peut violer la licence Creative Commons.
-Si vous violez les termes de la licence, vos droits d’utilisation du
-matériel seront automatiquement
-résiliés , et vous pouvez être responsable
-d’une violation du droit d’auteur.\
- Dois-je toujours respecter les termes de la licence? Si non,
-quelles-sont les exceptions?
+Contactez les titulaires de droits pour demander la permission. Sinon,
+à moins qu’une exception ou une limitation au droit d’auteur
+s’applique, votre utilisation du matériel peut violer la licence
+Creative Commons.  Si vous violez les termes de la licence, vos droits
+d’utilisation du matériel seront automatiquement résiliés , et vous
+pouvez être responsable d’une violation du droit d’auteur.
 
-Vous devez respecter les termes de la licence si ce que
-vous faites exigerait autrement la permission du détenteur des droits.
-Si votre utilisation ne nécessiterait pas l’autorisation du titulaire
-des droits, car elle relève d’une exception ou d’une limitation, telle
-que l’usage équitable, ou parce que le matériel est dans le domaine
+### Dois-je toujours respecter les termes de la licence? Si non, quelles-sont les exceptions?
+
+Vous devez respecter les termes de la licence si ce que vous faites
+exigerait autrement la permission du détenteur des droits.  Si votre
+utilisation ne nécessiterait pas l’autorisation du titulaire des
+droits, car elle relève d’une exception ou d’une limitation, telle que
+l’usage équitable, ou parce que le matériel est dans le domaine
 public, la licence ne s’applique pas, et vous ne devez pas vous
 conformez à ses termes et conditions. En outre, si vous utilisez un
-extrait assez petit pour être non protégeable par le droit d’auteur, la
-licence ne couvre pas votre utilisation, et vous ne devez pas vous
-conformez à ses dispositions<!--<span class="c35  c7"> -->.
+extrait assez petit pour être non protégeable par le droit d’auteur,
+la licence ne couvre pas votre utilisation, et vous ne devez pas vous
+conformez à ses dispositions.
 
-### Toutefois, si vous utilisez des extraits de
-matériel sous licence CC qui sont individuellement minimes et ne
-nécessitent pas la conformité des licences, mais, ensemble, composent un
-morceau protégeable significative, vous devez alors respecter les termes
-de la licence. Par exemple, si vous citez plusieurs lignes individuelles
-d’un poème à travers plusieurs sections d’un blog, et votre utilisation
-n’est pas un usage équitable, vous devez vous conformer à la licence,
-même si aucune ligne individuelle aurait été une partie assez importante
-du œuvre pour exiger cela.
+Toutefois, si vous utilisez des extraits de matériel sous licence CC
+qui sont individuellement minimes et ne nécessitent pas la conformité
+des licences, mais, ensemble, composent un morceau protégeable
+significative, vous devez alors respecter les termes de la
+licence. Par exemple, si vous citez plusieurs lignes individuelles
+d’un poème à travers plusieurs sections d’un blog, et votre
+utilisation n’est pas un usage équitable, vous devez vous conformer à
+la licence, même si aucune ligne individuelle aurait été une partie
+assez importante du œuvre pour exiger cela.
 
-\
-### Attribution
+## Attribution
 
-### Comment puis-je attribuer correctement un
-matériel offert sous une licence Creative Commons?
+### Comment puis-je attribuer correctement un matériel offert sous une licence Creative Commons?
 
-Toutes les licences CC exigent des utilisateurs
-d’attribuer le créateur de matériel sous licence, à moins que le
-créateur a renoncé à cette exigence,
-n’a pas fourni un nom, ou a demandé que son nom soit retiré. <!--<span
-class="c6  c7"> -->De plus, vous devez conserver un avis de droit
-d’auteur, un lien vers la licence (ou à l’acte), un avis de la licence,
-un avis à propos de l’exclusion de garantie, et un URI si raisonnable.
-Pour les versions antérieures à 4.0, vous devez également fournir le
-titre de l’œuvre. (Bien qu’il ne soit pas une exigence en 4.0, il est
-toujours recommandé si l’on est fourni.)
+Toutes les licences CC exigent des utilisateurs d’attribuer le
+créateur de matériel sous licence, à moins que le créateur a renoncé à
+cette exigence, n’a pas fourni un nom, ou a demandé que son nom soit
+retiré. De plus, vous devez conserver un avis de droit d’auteur, un
+lien vers la licence (ou à l’acte), un avis de la licence, un avis à
+propos de l’exclusion de garantie, et un URI si raisonnable.  Pour les
+versions antérieures à 4.0, vous devez également fournir le titre de
+l’œuvre. (Bien qu’il ne soit pas une exigence en 4.0, il est toujours
+recommandé si l’on est fourni.)
 
 ### Vous devez également indiquer si vous avez
 modifié l’œuvre, si vous avez pris un extrait ou une photo recadrée.
@@ -1453,85 +1443,79 @@ triviales, comme la correction d’une faute de frappe ou le changement
 d’une taille de police. Enfin, vous devez conserver une indication de
 modifications antérieures à l’œuvre.
 
-### Les licences CC ont une exigence d’attribution
-flexible, donc il n’y a pas nécessairement une façon correcte de fournir
-une attribution. La bonne méthode pour donner crédit dépendra du support
-et des moyens que vous utilisez, et peut être mis en œuvre de manière
-raisonnable. En outre, vous pouvez satisfaire l’exigence d’attribution
-en fournissant un lien vers un endroit où les informations d’attribution
-peuvent être trouvées.
+Les licences CC ont une exigence d’attribution flexible, donc il n’y a
+pas nécessairement une façon correcte de fournir une attribution. La
+bonne méthode pour donner crédit dépendra du support et des moyens que
+vous utilisez, et peut être mis en œuvre de manière raisonnable. En
+outre, vous pouvez satisfaire l’exigence d’attribution en fournissant
+un lien vers un endroit où les informations d’attribution peuvent être
+trouvées.
 
-Bien que les exigences d’attribution de la licence sont
-le minimum requis, nous recommandons toujours que vous suivez les meilleures pratiques<!--<span
-class="c6  c7"> --> pour le type d’utilisation que vous faites. Par
-exemple, si vous utilisez des données scientifiques marqués CC0, vous
-n’êtes pas tenu du tout de donner l’attribution, mais nous vous
-recommandons que vous donnez le même crédit que vous donneriez à toute
-autre source, non pas parce que la licence l’exige, mais parce que c’est
-la norme pour permettre aux autres de connaître la source des
-données.
+Bien que les exigences d’attribution de la licence sont le minimum
+requis, nous recommandons toujours que vous suivez les meilleures
+pratiques<!--<span class="c6 c7"> --> pour le type d’utilisation que
+vous faites. Par exemple, si vous utilisez des données scientifiques
+marqués CC0, vous n’êtes pas tenu du tout de donner l’attribution,
+mais nous vous recommandons que vous donnez le même crédit que vous
+donneriez à toute autre source, non pas parce que la licence l’exige,
+mais parce que c’est la norme pour permettre aux autres de connaître
+la source des données.
 
-Le site de CC offre certaines des meilleures pratiques pour vous
-aider à attribuer correctement, et l’équipe CC
-Australie a élaboré un guide utile pour attribuer un matériel sous licence CC
-(.pdf) dans différents formats. Notez que
-l’attribution et les exigences de marquage varient légèrement entre les
-versions de licence. Voir ici pour un tableau
-comparant les exigences spécifiques.
+Le site de CC offre certaines des meilleures pratiques pour vous aider
+à attribuer correctement, et l’équipe CC Australie a élaboré un guide
+utile pour attribuer un matériel sous licence CC (.pdf) dans
+différents formats. Notez que l’attribution et les exigences de
+marquage varient légèrement entre les versions de licence. Voir ici
+pour un tableau comparant les exigences
 
-<!--<span class="c87"> -->  Dois-je être au courant
-de quoi que ce soit d’autre lors l’attribution?
+### Dois-je être au courant de quoi que ce soit d’autre lors l’attribution?
 
-Oui. Vous devez être prudent de ne pas impliquer un
-sponsorship, une commandite ou une connexion avec le concédant de
-licence ou la partie d’attribution sans leur permission. Suggérer
-injustement que le créateur, l’éditeur, ou quelqu’un d’autre vous
-endosse ou votre utilisation d’une œuvre peut être illégal. Creative
-Commons fait l’obligation de ne pas impliquer l’endossement explicite
-dans ses licences. En outre, si le donneur de l’œuvre demande que vous supprimez le crédit identifié<!--<span
-class="c6  c7"> -->, vous devez le faire dans la mesure de ce qui est
-pratique.
+Oui. Vous devez être prudent de ne pas impliquer un sponsorship, une
+commandite ou une connexion avec le concédant de licence ou la partie
+d’attribution sans leur permission. Suggérer injustement que le
+créateur, l’éditeur, ou quelqu’un d’autre vous endosse ou votre
+utilisation d’une œuvre peut être illégal. Creative Commons fait
+l’obligation de ne pas impliquer l’endossement explicite dans ses
+licences. En outre, si le donneur de l’œuvre demande que vous
+supprimez le crédit identifié<!--<span class="c6 c7"> -->, vous devez
+le faire dans la mesure de ce qui est pratique.
 
-### En outre, lorsque vous utilisez une œuvre qui est
-une adaptation d’une ou plusieurs œuvres préexistantes, vous pouvez
-avoir besoin de donner du crédit à l’auteur (s) de l’œuvre (s)
-préexistante, en plus de donner du crédit au créateur de
-l’adaptation.
+En outre, lorsque vous utilisez une œuvre qui est une adaptation d’une
+ou plusieurs œuvres préexistantes, vous pouvez avoir besoin de donner
+du crédit à l’auteur (s) de l’œuvre (s) préexistante, en plus de
+donner du crédit au créateur de l’adaptation.
 
-### Dois-je toujours d’attribuer le créateur du
-matériel sous licence?
+### Dois-je toujours d’attribuer le créateur du matériel sous licence?
 
-Vous devez citer le créateur, lorsque vous fournissez
-du matériel au public, par tout moyen qui est limité par le droit
-d’auteur ou des droits similaires. Si vous utilisez le matériel
-personnellement, mais ne faites pas le ou les adaptations de celui-ci à
-la disposition des autres, vous ne devez pas attribuer la licence. De
-même, si vous distribuez seulement le matériel ou les adaptations de
-celui-ci au sein de votre entreprise ou organisation, vous n’êtes pas
-obligés de vous conformer à l’exigence d’attribution. En savoir
-plus  sur quand la
+Vous devez citer le créateur, lorsque vous fournissez du matériel au
+public, par tout moyen qui est limité par le droit d’auteur ou des
+droits similaires. Si vous utilisez le matériel personnellement, mais
+ne faites pas le ou les adaptations de celui-ci à la disposition des
+autres, vous ne devez pas attribuer la licence. De même, si vous
+distribuez seulement le matériel ou les adaptations de celui-ci au
+sein de votre entreprise ou organisation, vous n’êtes pas obligés de
+vous conformer à l’exigence d’attribution. En savoir plus sur quand la
 conformité avec la licence n’est pas nécessaire.
 
-### Utilisation du materiel sous licence
+## Utilisation du materiel sous licence
 
-### Est-ce que mon utilisation viole la clause
-Non-Commercial des licences?
+### Est-ce que mon utilisation viole la clauseNon-Commercial des licences?
 
-### Les Licences de CC Non-commerciales (NC)
-interdisent les utilisations qui sont «principalement destinées
-directement à un avantage commercial ou une compensation financière.”
-Ceci est destiné à capturer l’intention de la communauté des
-utilisateurs de NC-sans imposé des restrictions détaillées qui sont soit
-trop larges ou trop étroites. S’il vous plaît noter que la définition de
-CC ne tourne pas sur le type d’utilisateur: si vous êtes un organisme
-sans but lucratif ou de bienfaisance, votre utilisation d’une œuvre
-licence-NC pourrait encore courir l’encontre de la restriction NC, et si
-vous êtes une entité à but lucratif, votre utilisation d’une œuvre
-licence-NC ne signifie pas nécessairement que vous avez violé les
-termes. Si une utilisation est commerciale ou pas dépendra des
-spécificités Dans l’expérience de CC, il est souvent relativement facile
-de déterminer si l’utilisation est autorisée, et les conflits connus
-sont relativement peu compte tenu de la popularité des licences NC.
+Les Licences de CC Non-commerciales (NC) interdisent les utilisations
+qui sont «principalement destinées directement à un avantage
+commercial ou une compensation financière.”  Ceci est destiné à
+capturer l’intention de la communauté des utilisateurs de NC-sans
+imposé des restrictions détaillées qui sont soit trop larges ou trop
+étroites. S’il vous plaît noter que la définition de CC ne tourne pas
+sur le type d’utilisateur: si vous êtes un organisme sans but lucratif
+ou de bienfaisance, votre utilisation d’une œuvre licence-NC pourrait
+encore courir l’encontre de la restriction NC, et si vous êtes une
+entité à but lucratif, votre utilisation d’une œuvre licence-NC ne
+signifie pas nécessairement que vous avez violé les termes. Si une
+utilisation est commerciale ou pas dépendra des spécificités Dans
+l’expérience de CC, il est souvent relativement facile de déterminer
+si l’utilisation est autorisée, et les conflits connus sont
+relativement peu compte tenu de la popularité des licences NC.
 Cependant, il y aura toujours des utilisations qui sont difficiles à
 catégoriser comme commerciale ou non commerciale. CC ne peut pas vous
 conseiller sur ce qui constitue ou non un usage commercial. Si vous
@@ -1539,90 +1523,85 @@ n’êtes pas sûr, vous devez soit contacter le titulaire des droits pour
 des clarifications, ou rechercher des œuvres qui permettent des
 utilisations commerciales.
 
-CC a un petit guide pour l’interprétation de la licence NC qui va plus en détail
-sur la signification de la licence NC et quelques points clés à prendre
-en considération. En outre, en 2008, Creative
-Commons a publié les résultats  d’une
-enquête sur les significations de l’utilisation commerciale et non
-commerciale en général. Notez que les résultats de l’étude ne sont pas
-destinés à servir comme interprétation officielle de CC de ce qui est ou
-pas un usage commercial sous nos licences, et les résultats ne devraient
-pas être invoqués tel quels.\
-\
- Puis-je prendre une œuvre sous licence CC et l’utiliser dans un format
-différent?
+CC a un petit guide pour l’interprétation de la licence NC qui va plus
+en détail sur la signification de la licence NC et quelques points
+clés à prendre en considération. En outre, en 2008, Creative Commons a
+publié les résultats  d’une enquête sur les significations de
+l’utilisation commerciale et non commerciale en général. Notez que les
+résultats de l’étude ne sont pas destinés à servir comme
+interprétation officielle de CC de ce qui est ou pas un usage
+commercial sous nos licences, et les résultats ne devraient pas être
+invoqués tel quels.
 
-### Oui. Lorsque l’une des six licences CC est
-appliquée au matériel, les titulaires obtiennent l’autorisation
-d’utiliser le matériel comme la licence le permet, quel que soit le
-média ou format choisi par l’utilisateur quand il est utilisé ou
-distribué. Cela est vrai même dans nos travaux avec licences dérivées.
-Ceci est l’une des très peu règles établies par défaut dans nos
-licences, d’harmoniser ce qui peut être des résultats différents selon
-l’endroit où la matériel sous licence CC est réutilisé et de quelle
-juridiction le droit d’auteur s’applique.
+### Puis-je prendre une œuvre sous licence CC et l’utiliser dans un format différent?
 
-### Cela signifie, par exemple, que même si un
-créateur distribue une œuvre en format numérique, vous avez la
-permission d’imprimer et de partager une copie papier de la même œuvre.\
-\
- Comment puis-je savoir si une photo basse résolution et une photo haute
-résolution sont la même œuvre?
+Oui. Lorsque l’une des six licences CC est appliquée au matériel, les
+titulaires obtiennent l’autorisation d’utiliser le matériel comme la
+licence le permet, quel que soit le média ou format choisi par
+l’utilisateur quand il est utilisé ou distribué. Cela est vrai même
+dans nos travaux avec licences dérivées.  Ceci est l’une des très peu
+règles établies par défaut dans nos licences, d’harmoniser ce qui peut
+être des résultats différents selon l’endroit où la matériel sous
+licence CC est réutilisé et de quelle juridiction le droit d’auteur
+s’applique.
 
-### Comme avec la plupart des questions de droit
-d’auteur, cela dépendra de la loi applicable. Généralement, pour être
-différentes œuvres sous droit d’auteur, il doit y avoir des choix
-expressifs ou originaux faits qui font d’une œuvre un œuvre séparé et
-distincte de l’autre. La détermination dépend des normes pour le droit
-d’auteur dans la juridiction concernée.
+Cela signifie, par exemple, que même si un créateur distribue une
+œuvre en format numérique, vous avez la permission d’imprimer et de
+partager une copie papier de la même œuvre.
 
-Selon la loi américaine sur le copyright, par exemple,
-la reproduction mécanique d’une œuvre dans un format différent
-est peu probable de créer une nouvelle œuvre
-séparé. Par conséquent, numériquement améliorer
-ou modifier le format d’une œuvre en l’absence d’une certaine
-originalité, comme choix expressifs réalisés dans l’amélioration ou le
-codage, probablement ne créera pas une œuvre distincte pour des fins de
-droits d’auteur. La barre créative est faible, mais elle n’est pas
-inexistante. En conséquent, dans certaines juridictions, libérer une
-photographie sous une licence CC donnera la permission publique de
-réutiliser la photographie dans une résolution différente.\
-<!--<span class="c87"> -->\
-Puis-je utiliser des mesures techniques
-efficaces (tels que les DRM) quand je partage le matériel sous licence
-CC?
+### Comment puis-je savoir si une photo basse résolution et une photo haute résolution sont la même œuvre?
 
-### Non, Lorsque vous recevez un matériel sous une
-licence Creative Commons, vous ne pouvez pas placer des conditions
-supplémentaires sur la réutilisation de l’œuvre. Cela comprend
-l’utilisation des mesures techniques efficaces (ETM) qui limiteraient la
-capacité d’un titulaire à exercer les droits de licence.
+Comme avec la plupart des questions de droit d’auteur, cela dépendra
+de la loi applicable. Généralement, pour être différentes œuvres sous
+droit d’auteur, il doit y avoir des choix expressifs ou originaux
+faits qui font d’une œuvre un œuvre séparé et distincte de l’autre. La
+détermination dépend des normes pour le droit d’auteur dans la
+juridiction concernée.
 
-### Une mesure technique est considérée comme un ETM
-si son contournement est passible de sanctions en vertu des lois qui se
-conforment aux obligations prévues dans l’article 11 du Traité de l’OMPI
-adoptée le 20 Décembre, 1996, ou des accords internationaux similaires.
-Généralement, cela signifie que les lois anti-contournement des diverses
-juridictions couvriraient les tentatives de le contourner.
+Selon la loi américaine sur le copyright, par exemple, la reproduction
+mécanique d’une œuvre dans un format différent est peu probable de
+créer une nouvelle œuvre séparé. Par conséquent, numériquement
+améliorer ou modifier le format d’une œuvre en l’absence d’une
+certaine originalité, comme choix expressifs réalisés dans
+l’amélioration ou le codage, probablement ne créera pas une œuvre
+distincte pour des fins de droits d’auteur. La barre créative est
+faible, mais elle n’est pas inexistante. En conséquent, dans certaines
+juridictions, libérer une photographie sous une licence CC donnera la
+permission publique de réutiliser la photographie dans une résolution
+différente.
 
-### Par exemple, si vous remixer une chanson sous
-licence CC, et que vous souhaitez partager sur un site de musique qui
-place la copie restriction numérique sur tous les fichiers téléchargés,
-vous ne pouvez pas le faire sans la permission expresse du concédant de
-licence. Toutefois, si vous téléchargez ce même fichier sur votre propre
-site ou tout autre site qui n’applique pas DRM sur le fichier, et qu’un
-auditeur choisit de le diffuser à travers une application qui applique
-DRM, vous n’aurez pas violé la licence.
+### Puis-je utiliser des mesures techniques efficaces (tels que les DRM) quand je partage le matériel sous licence CC?
 
-### Notez qu’un matériel converti simplement dans un
-autre format auquel il est difficile d’accéder ou est uniquement
-disponible pour certaines plates-formes ne viole pas la restriction;
-vous pouvez le faire sans violer les termes de la licence.\
-\
- Puis-je partager le matériel sous licence CC sur les sites protégés par
-mot de passe?
+Non, Lorsque vous recevez un matériel sous une licence Creative
+Commons, vous ne pouvez pas placer des conditions supplémentaires sur
+la réutilisation de l’œuvre. Cela comprend l’utilisation des mesures
+techniques efficaces (ETM) qui limiteraient la capacité d’un titulaire
+à exercer les droits de licence.
 
-### Oui. Ceci n’est pas considérée comme une mesure
+Une mesure technique est considérée comme un ETM si son contournement
+est passible de sanctions en vertu des lois qui se conforment aux
+obligations prévues dans l’article 11 du Traité de l’OMPI adoptée le
+20 Décembre, 1996, ou des accords internationaux similaires.
+Généralement, cela signifie que les lois anti-contournement des
+diverses juridictions couvriraient les tentatives de le contourner.
+
+Par exemple, si vous remixer une chanson sous licence CC, et que vous
+souhaitez partager sur un site de musique qui place la copie
+restriction numérique sur tous les fichiers téléchargés, vous ne
+pouvez pas le faire sans la permission expresse du concédant de
+licence. Toutefois, si vous téléchargez ce même fichier sur votre
+propre site ou tout autre site qui n’applique pas DRM sur le fichier,
+et qu’un auditeur choisit de le diffuser à travers une application qui
+applique DRM, vous n’aurez pas violé la licence.
+
+Notez qu’un matériel converti simplement dans un autre format auquel
+il est difficile d’accéder ou est uniquement disponible pour certaines
+plates-formes ne viole pas la restriction; vous pouvez le faire sans
+violer les termes de la licence.\
+
+### Puis-je partager le matériel sous licence CC sur les sites protégés par mot de passe?
+
+Oui. Ceci n’est pas considérée comme une mesure
 prohibée, tant que la protection limite à peine qui peut accéder au
 contenu, et n’arrête pas les destinataires autorisés d’exercer les
 droits de licence. Par exemple, vous pouvez afficher les documents en
@@ -1642,7 +1621,9 @@ est expressément considéré comme non commercial à des fins de
 conformité avec les licences NC. Le troc de matériel licence-NC pour
 d’autres objets de valeur est interdit.
 
-### Des restrictions supplémentaires sur le matériel Licencié Que faire si j’ai reçu du matériel sous licence CC avec des restrictions supplémentaires?
+## Des restrictions supplémentaires sur le matériel Licencié
+
+### Que faire si j’ai reçu du matériel sous licence CC avec des restrictions supplémentaires?
 
 Il est possible que le matériel sous licence CC apparaisse sur les
 plates-formes qui imposent en plus de la licence de droits d’auteur
@@ -1655,7 +1636,9 @@ d’enfreindre les conditions d’utilisation du site, mais vous ne violez
 pas la licence CC.  Voir notre guide de modifier les licences CC pour
 plus d’orientation et d’information.
 
-### Combiner et adapter le materiel CC Quand mon usage est considéré comme une adaptation?
+## Combiner et adapter le materiel CC
+
+### Quand mon usage est considéré comme une adaptation?
 
 si une modification des éléments sous licence est considérée comme une
 adaptation dans le but de licences CC dépend principalement du droit
@@ -1671,7 +1654,7 @@ suffisante à être protégée, comme par exemple la traduction d’un roman
 d’une langue à une autre, ou la création d’un scenario basé sur un
 roman.
 
- Sous les licences CC, la synchronisation de la musique avec une image
+Sous les licences CC, la synchronisation de la musique avec une image
 en mouvement est toujours considérée comme une adaptation, même si elle
 serait considérée ou pas en tant que tel en vertu du droit applicable.
 En outre, en vertu de la version 4.0, certaines utilisations de bases de
@@ -2314,8 +2297,7 @@ effet, la renonciation aux droits d’auteur et droits connexes élimine
 toute incertitude pour les utilisateurs potentiels, les encourageant à
 la réutilisation et le partage maximal de l'information.
 
-### Quand une licence CC est appliquée à une base de
-données, qu’est-ce qui serait sous licence?
+### Quand une licence CC est appliquée à une base de données, qu’est-ce qui serait sous licence?
 
 Les termes et les conditions de la licence s’appliquent
 à la structure de la base de données (son choix et la
@@ -2332,8 +2314,7 @@ est et ce qui n’est pas sous licence. Voir ci-dessous  pour plus
 d'informations sur la façon de fournir un avis clair de ce qui est
 autorisé.
 
-### Comment puis-je appliquer un outil juridique de
-CC à une base de données?
+### Comment puis-je appliquer un outil juridique de CC à une base de données?
 
 Avant de rendre une base de données disponible sous une
 licence CC, un fournisseur de base de données doit d'abord s’assurer
