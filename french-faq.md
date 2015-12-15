@@ -2611,6 +2611,3 @@ Catégorie :
 
 -   FAQ
 
-<div>
-
-</div>
