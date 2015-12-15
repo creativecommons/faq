@@ -295,7 +295,7 @@ la dernière version des licences CC s’applique également aux droits
 similaires aux droits d’auteur, comme les droits voisins et les droits
 de base de données sui generis.  En savoir plus sur le champ
 d’application des licences. Cela signifie que les termes et conditions
-de la licence CC ne sont<!--<span class="c6 c28"> --> pas déclenchées
+de la licence CC ne sont pas déclenchées
 par les utilisations permises en vertu des exceptions et limitations
 applicables au droit d’auteur, ni ne les conditions de licence et les
 conditions sont applicables aux œuvres sous licences et qui sont dans
@@ -494,192 +494,175 @@ adaptation d’une œuvre BY-SA. Pour voir la liste des licences
 compatibles BY-SA, cliquez ici. En savoir plus sur la compatibilité
 ShareAlike <!--<span class="c0 "> -->ici.
 
-Pour les concédants de licence
+# Pour les concédants de licence
 
-### Choisir une licence
+## Choisir une licence
 
-### A quoi penser avant de demander une licence
-Creative Commons
+### A quoi penser avant de demander une licence Creative Commons
 
-### L’application d’une licence Creative Commons sur
-votre œuvre est une décision importante. Lorsque vous appliquez une
-licence CC, vous donnez la permission à quiconque d’utiliser votre
-matériel pour toute la durée du droit d’auteur et des droits similaires
-applicables.
+L’application d’une licence Creative Commons sur votre œuvre est une
+décision importante. Lorsque vous appliquez une licence CC, vous
+donnez la permission à quiconque d’utiliser votre matériel pour toute
+la durée du droit d’auteur et des droits similaires applicables.
 
-### CC a identifié certaines choses que vous devriez
-prendre en considération avant de demander une licence CC, dont certains
-sont liés à la capacité même d’appliquer une licence CC. Voici
+CC a identifié certaines choses que vous devriez prendre en
+considération avant de demander une licence CC, dont certains sont
+liés à la capacité même d’appliquer une licence CC. Voici
 quelques-unes :
 
-* Le matériel est-il protégeable? Si non, est-il soumis
-à des droits voisins ou droits de base de
-données sui generis ? Les licences CC ne
-sont pas applicables au matériel dans le domaine public. Différents pays
-ont des normes différentes pour ce qui est dans le domaine
+* Le matériel est-il protégeable? Si non, est-il soumis à des droits
+voisins ou droits de base de données sui generis ? Les licences CC ne
+sont pas applicables au matériel dans le domaine public. Différents
+pays ont des normes différentes pour ce qui est dans le domaine
 public.
 
-### * Possédez-vous le matériel sur lequel vous
-souhaitez obtenir une licence? Si non, êtes-vous autorisé à le délivrer
-sous la licence spécifique CC que vous êtes intéressée à utiliser? Vous
-ne devez pas appliquer une licence à du matériel que vous ne possédez
-pas ou que vous n’êtes pas autorisé à licencier.
+* Possédez-vous le matériel sur lequel vous souhaitez obtenir une
+licence? Si non, êtes-vous autorisé à le délivrer sous la licence
+spécifique CC que vous êtes intéressée à utiliser? Vous ne devez pas
+appliquer une licence à du matériel que vous ne possédez pas ou que
+vous n’êtes pas autorisé à licencier.
 
-* Êtes-vous conscient que les licences CC ne sont pas révocables ? Vous
-êtes libre à tout moment d’arrêter de proposer une œuvre sous licence
-CC, mais ceci n’affectera pas les droits liés à toute copie de votre
-œuvre déjà en circulation. (Tout licencié peut perdre ses droits après
-avoir violé la licence, mais cela n’affectera pas l’utilisation continue
-de l’œuvre par d’autres titulaires de la licence).
+* Êtes-vous conscient que les licences CC ne sont pas révocables ?
+Vous êtes libre à tout moment d’arrêter de proposer une œuvre sous
+licence CC, mais ceci n’affectera pas les droits liés à toute copie de
+votre œuvre déjà en circulation. (Tout licencié peut perdre ses droits
+après avoir violé la licence, mais cela n’affectera pas l’utilisation
+continue de l’œuvre par d’autres titulaires de la licence).
 
--   <!--<span class="c6 c5"> -->Êtes-vous membre <!--<span
-    class="c0 c5"> -->d’une société de gestion collective<!--<span
-    class="c6 c5"> -->? Si oui, vous devez vous assurer que vous êtes
-    en mesure d’utiliser les licences CC pour votre
-    matériels.
+* Êtes-vous membre d’une société de gestion collective? Si oui, vous
+  devez vous assurer que vous êtes en mesure d’utiliser les licences
+  CC pour votre matériels.
 
-### * Il faudra toujours lire les termes et
-conditions de la licence spécifique que vous prévoyez appliquer.
+* Il faudra toujours lire les termes et conditions de la licence
+  spécifique que vous prévoyez appliquer.
 
-En plus, il y a plusieurs termes qui peuvent varier dans les versions antérieures de la
-licence, à la fois non-adaptées et
-adaptées. Si vous choisissez d’utiliser une
-version pré-4.0 ou toute version adaptée ,
-des clauses tel que le choix de la loi peuvent influencer votre choix de
-la licence désirée.
+En plus, il y a plusieurs termes qui peuvent varier dans les versions
+antérieures de la licence, à la fois non-adaptées et adaptées. Si vous
+choisissez d’utiliser une version pré-4.0 ou toute version adaptée ,
+des clauses tel que le choix de la loi peuvent influencer votre choix
+de la licence désirée.
 
-### [Comment savoir quelle licence
-choisir?](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Frequently_Asked_Questions%23How_should_I_decide_which_license_to_choose.3F&sa=D&usg=AFQjCNELN9AbWrCFA_5UUdhsNE2FElbyIg)
+### Comment savoir quelle licence choisir?
 
-Si vous n’êtes pas sûr quelle licence correspond le
-mieux à vos besoins, il y a beaucoup de moyens pour aider les titulaires
-de droits à choisir la licence CC convenable. CC Australie a élaboré
-un organigramme qui peut
-vous être utile pour vous aider à choisir la meilleur licence CC pour
-votre œuvre. Creative Commons a également compilé une liste d’exemples qui démontrent
-comment les diverses licences correspondent aux différentes stratégies
-globales des concédants. Vous pouvez aussi lire
-des études de cas d’autres personnes qui
-utilisent les licences CC. La communauté de CC peut également répondre à
-des questions, et a peut-être déjà abordé les questions que vous
-soulevez. Les listes de discussion par
-courriel  de la communauté CC et les
-archives de discussion peuvent être des sources d’information
-utiles.
+Si vous n’êtes pas sûr quelle licence correspond le mieux à vos
+besoins, il y a beaucoup de moyens pour aider les titulaires de droits
+à choisir la licence CC convenable. CC Australie a élaboré un
+organigramme qui peut vous être utile pour vous aider à choisir la
+meilleur licence CC pour votre œuvre. Creative Commons a également
+compilé une liste d’exemples qui démontrent comment les diverses
+licences correspondent aux différentes stratégies globales des
+concédants. Vous pouvez aussi lire des études de cas d’autres
+personnes qui utilisent les licences CC. La communauté de CC peut
+également répondre à des questions, et a peut-être déjà abordé les
+questions que vous soulevez. Les listes de discussion par courriel  de
+la communauté CC et les archives de discussion peuvent être des
+sources d’information utiles.
 
-Enfin, vous pouvez également consulter un avocat  pour
-obtenir des conseils sur la meilleure licence correspondant à vos
-besoins.
+Enfin, vous pouvez également consulter un avocat  pour obtenir des
+conseils sur la meilleure licence correspondant à vos besoins.
 
-Pourquoi devrais-je utiliser la dernière version des
-licences Creative Commons?\
- La dernière version des licences Creative Commons est une version 4.0.
-Vous devriez toujours utiliser la dernière version des licences Creative
-Commons dans le but de profiter des nombreuses améliorations décrites
-sur la page des versions de licence. 4.0 en particulier est censé être mieux adapté à un usage
-international, et utilisé dans de nombreux contextes différents, y
-compris le partage de données.
+### Pourquoi devrais-je utiliser la dernière version des licences Creative Commons?\
 
-### Que faire si les licences CC n’ont pas été
-adaptées à ma juridiction?
+La dernière version des licences Creative Commons est une version 4.0.
+Vous devriez toujours utiliser la dernière version des licences
+Creative Commons dans le but de profiter des nombreuses améliorations
+décrites sur la page des versions de licence. 4.0 en particulier est
+censé être mieux adapté à un usage international, et utilisé dans de
+nombreux contextes différents, y compris le partage de données.
 
-Toutes les licences CC sont destinées à être applicable
-dans le monde entier. Sauf si vous avez une raison particulière
-d’utiliser une licence adaptée<!--<span
-class="c6  c7"> -->, nous vous proposer d’utiliser une des licences
-internationales. 4.0 soutiendra les traductions officielles de la
-licence internationale pour ceux qui souhaitent utiliser les licences
-dans une autre langue.
+### Que faire si les licences CC n’ont pas été adaptées à ma juridiction?
 
-Apres la version 4.0, CC décourage l’utilisation des
-versions adaptées, et a placé une emprise sur de nouveaux projets de
-portage suivant sa publication de 2014.<!--<span
-class="c87"> -->  À ce moment, CC réévalue la
-nécessité de portage dans le futur.
+Toutes les licences CC sont destinées à être applicable dans le monde
+entier. Sauf si vous avez une raison particulière d’utiliser une
+licence adaptée<!--<span class="c6 c7"> -->, nous vous proposer
+d’utiliser une des licences internationales. 4.0 soutiendra les
+traductions officielles de la licence internationale pour ceux qui
+souhaitent utiliser les licences dans une autre langue.
 
-### Dois-je choisir une licence internationale ou une
-licence adaptée?
+Apres la version 4.0, CC décourage l’utilisation des versions
+adaptées, et a placé une emprise sur de nouveaux projets de portage
+suivant sa publication de 2014.<!--<span class="c87"> -->  À ce
+moment, CC réévalue la nécessité de portage dans le futur.
 
-Nous vous recommandons d’utiliser une licence
-internationale version 4.0. Ceci est la version la plus mise à jour de
-nos licences, rédigée suite à une large consultation avec notre réseau
-mondial de sociétés affiliées, et a été écrite pour être valable à
-l’échelle internationale. Il n’y a pas de ports  de 4.0, et il est prévu
-que quelques-unes seront créées.
+### Dois-je choisir une licence internationale ou une licence adaptée?
 
-### Toutes les licences adaptées sont à la version
-3.0 ou antérieure, ce qui signifie que les concédants de ces licences ne
-bénéficient pas des améliorations apportées à la suite 4.0 de la
-licence. Mais avant même d’envisager les améliorations à 4.0, il y a
-plusieurs raisons pour lesquelles les licences internationales peuvent
-être préférables pour les titulaires de droits, même si les licences ont
-été adaptées à leur juridiction. En tant qu’organisation, CC se licencie
-la totalité de son propre contenu sous une licence internationale parce
-que, entre autres, les licences internationales sont essentiellement
-juridiction neutre tout en restant efficace à l’échelle mondiale. Le
-caractère neutre des licences internationales fait appel à de nombreuses
-personnes et organisations, en particulier pour une utilisation dans le
-cadre de projets globaux qui transcendent les frontières politiques.
-Enfin, il est important de savoir que certaines des licences adaptées
-contiennent une clause de choix de la loi, qui peut être indésirable
-pour vos besoins.
+Nous vous recommandons d’utiliser une licence internationale version
+4.0. Ceci est la version la plus mise à jour de nos licences, rédigée
+suite à une large consultation avec notre réseau mondial de sociétés
+affiliées, et a été écrite pour être valable à l’échelle
+internationale. Il n’y a pas de ports de 4.0, et il est prévu que
+quelques-unes seront créées.
 
-### Cependant, certains titulaires de droits
-choisissent encore une licence adaptée à leur juridiction locale parce
-qu’ils estiment que leurs besoins ne sont pas suffisamment couverts par
-les licences internationales. Si les licences ont été adaptées à votre
-compétence et vous sentez que les licences adaptées prennent mieux en
-compte certains aspects de la législation locale, alors vous pouvez dans
-ce cas envisager une licence adaptée.
+Toutes les licences adaptées sont à la version 3.0 ou antérieure, ce
+qui signifie que les concédants de ces licences ne bénéficient pas des
+améliorations apportées à la suite 4.0 de la licence. Mais avant même
+d’envisager les améliorations à 4.0, il y a plusieurs raisons pour
+lesquelles les licences internationales peuvent être préférables pour
+les titulaires de droits, même si les licences ont été adaptées à leur
+juridiction. En tant qu’organisation, CC se licencie la totalité de
+son propre contenu sous une licence internationale parce que, entre
+autres, les licences internationales sont essentiellement juridiction
+neutre tout en restant efficace à l’échelle mondiale. Le caractère
+neutre des licences internationales fait appel à de nombreuses
+personnes et organisations, en particulier pour une utilisation dans
+le cadre de projets globaux qui transcendent les frontières
+politiques.  Enfin, il est important de savoir que certaines des
+licences adaptées contiennent une clause de choix de la loi, qui peut
+être indésirable pour vos besoins.
 
-Vous pouvez utiliser notre base
-de données  pour comparer les licences et
-les ports internationaux sur ces questions et d’autres, comme par
+Cependant, certains titulaires de droits choisissent encore une
+licence adaptée à leur juridiction locale parce qu’ils estiment que
+leurs besoins ne sont pas suffisamment couverts par les licences
+internationales. Si les licences ont été adaptées à votre compétence
+et vous sentez que les licences adaptées prennent mieux en compte
+certains aspects de la législation locale, alors vous pouvez dans ce
+cas envisager une licence adaptée.
+
+Vous pouvez utiliser notre base de données  pour comparer les licences
+et les ports internationaux sur ces questions et d’autres, comme par
 exemple, savoir si la licence adaptée contient un choix de loi ou un
 forum de sélection de clauses.
 
-### Pourquoi devrais-je utiliser le sélecteur de
-licence? Que faire si je ne le fais pas?
+### Pourquoi devrais-je utiliser le sélecteur de licence? Que faire si je ne le fais pas?
 
-Les concédants de licence ne sont pas tenus d’utiliser
-le sélecteur de licence CC<!--<span
-class="c6  c7"> --> ou de fournir des informations sur eux-mêmes ou leur
-matériel lors de l’application d’une licence CC sur leur matériel.
-Cependant, L’utilisation du sélecteur de licence permet aux concédants
-de licence de profiter de la couche « lisible par la machine » des
-licences CC. Notre code lisible par machine améliore la possibilité de
-découvrir votre œuvre parce que le code permet aux logiciels, moteurs de
-recherche, et autres outils de reconnaître quand quelque chose est
-autorisé en vertu d’une licence CC. Le code facilite également
-l’attribution: lorsque les utilisateurs cliquent sur le bouton CC placé
-sur votre site, ils seront directement liés au code HTML qu’ils peuvent
-couper et coller pour fournir une attribution.
+Les concédants de licence ne sont pas tenus d’utiliser le sélecteur de
+licence CC<!--<span class="c6 c7"> --> ou de fournir des informations
+sur eux-mêmes ou leur matériel lors de l’application d’une licence CC
+sur leur matériel.  Cependant, L’utilisation du sélecteur de licence
+permet aux concédants de licence de profiter de la couche « lisible
+par la machine » des licences CC. Notre code lisible par machine
+améliore la possibilité de découvrir votre œuvre parce que le code
+permet aux logiciels, moteurs de recherche, et autres outils de
+reconnaître quand quelque chose est autorisé en vertu d’une licence
+CC. Le code facilite également l’attribution: lorsque les utilisateurs
+cliquent sur le bouton CC placé sur votre site, ils seront directement
+liés au code HTML qu’ils peuvent couper et coller pour fournir une
+attribution.
 
-### Comment puis-je demander une licence Creative
-Commons pour mon matériel?
+### Comment puis-je demander une licence Creative Commons pour mon matériel?
 
-<!--<span class="c6 c28"> -->Pour le matériel en ligne: Sélectionnez la licence qui est appropriée pour votre
-matériel à partir du sélecteur de licence
-CC, puis suivez les instructions pour inclure le code
-HTML. Le code va automatiquement générer un
-bouton de licence et une déclaration que votre
-matériel est autorisé en vertu d’une licence CC. Si vous licenciez
-seulement une partie d’une œuvre (par exemple, si vous avez créé une
-vidéo sous une licence CC, mais que vous utilisez une chanson sous une
-licence différente), assurez-vous de marquer clairement quelles parties
-sont sous licence CC et quelles parties ne le sont pas. Le code HTML va
-également inclure des métadonnées qui permettent au matériel d’être
-découvert par les moteurs de recherche Creative
-Commons .
+Pour le matériel en ligne: Sélectionnez
+la licence qui est appropriée pour votre matériel à partir du
+sélecteur de licence CC, puis suivez les instructions pour inclure le
+code HTML. Le code va automatiquement générer un bouton de licence et
+une déclaration que votre matériel est autorisé en vertu d’une licence
+CC. Si vous licenciez seulement une partie d’une œuvre (par exemple,
+si vous avez créé une vidéo sous une licence CC, mais que vous
+utilisez une chanson sous une licence différente), assurez-vous de
+marquer clairement quelles parties sont sous licence CC et quelles
+parties ne le sont pas. Le code HTML va également inclure des
+métadonnées qui permettent au matériel d’être découvert par les
+moteurs de recherche Creative Commons .
 
-<!--<span class="c6 c28"> -->Pour le matériel offline: Identifiez quelle licence vous souhaitez appliquer à votre
-œuvre et (a) marquez votre œuvre avec une déclaration telle que, “Cette œuvre est sous
+Pour le matériel offline: Identifiez
+quelle licence vous souhaitez appliquer à votre œuvre et (a) marquez
+votre œuvre avec une déclaration telle que, “Cette œuvre est sous
 licence Creative Commons [insérer la description]. Pour consulter une
-copie de la licence, visitez [insert url] “; ou (b) insérez les boutons de licence<!--<span
-class="c6  c7"> --> applicables avec la même déclaration et un lien
-URL.
+copie de la licence, visitez [insert url] “; ou (b) insérez les
+boutons de licence<!--<span class="c6 c7"> --> applicables avec la
+même déclaration et un lien URL.
 
-<!--<span class="c6 c28"> -->Pour les plates-formes des tiers: plusieurs plates-formes de
+Pour les plates-formes des tiers: plusieurs plates-formes de
 media telles que Flickr, YouTube et SoundCloud ont intégré les capacités
 Creative Commons, permettant aux utilisateurs de marquer leur matériel
 avec une licence CC directement grâce à leurs paramètres de compte.
@@ -1167,7 +1150,7 @@ séparés pour le partage de leur matériel, en plus de l’application d’une
 licence CC. Cependant, ces différentes dispositions ne sont pas “CC” ou
 des licences “Creative Commons”.
 
-<!--<span class="c6 c28"> -->Des accords séparés: vous
+Des accords séparés: vous
 pouvez offrir le matériel licencié sous d’autres licences en plus de la
 licence CC (une pratique communément appelée “double licence”). Par
 exemple, vous pouvez autoriser une bande-son de jeu vidéo sous une
@@ -1176,7 +1159,7 @@ d’une de ces licences. Un réutilisateur peut alors choisir l’ensemble de
 termes à respecter. Ou, par exemple, vous pouvez offrir votre matériel
 au public sous une licence « Non-commerciale », mais offrir des
 autorisations commerciales à des clients payants.\
-<!--<span class="c6 c28"> -->Des accords supplémentaires : Les problèmes surgissent lorsque les concédants désignent ces
+Des accords supplémentaires : Les problèmes surgissent lorsque les concédants désignent ces
 termes ou modifications pour servir, non pas comme des modifications de
 licences séparées et alternatives, mais comme des termes
 supplémentaires ayant pour effet de modifier les
@@ -1356,8 +1339,7 @@ explicitement. Si vous voulez demander une garantie ou engagement sur
 les droits d’utiliser le matériel, vous devriez en parler avec le
 concédant de licence avant de l’utiliser.
 
-### Est-ce qu’une licence Creative Commons me donne
-tous les droits nécessaires pour utiliser une œuvre?
+### Est-ce qu’une licence Creative Commons me donne tous les droits nécessaires pour utiliser une œuvre?
 
 Ça dépend. Les licences CC ne concèdent pas de licence
 d’autres droits que le droit d’auteur et droits
@@ -2239,7 +2221,7 @@ class="c6  c7"> --> your CC-licensed material, and recommends:
     class="c6  c7"> --> metadata in the code of the license indicator or
     code of the licensed page.
 
-<!--<span class="c6 c28"> -->See the <!--<span
+See the <!--<span
 class="c0 c28"> -->[marking](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Marking/Creators&sa=D&usg=AFQjCNFWlZIhGIK3GlpaDpovzDsY_8WeSw)<!--<span
 class="c6 c28"> --> page for more details.
 
@@ -2588,20 +2570,16 @@ empêchent de partager le matériel ailleurs. (Notez que tarification de
 l’accès ne peut être autorisée avec un matériel sous licence-NC.
 Cependant, n’est pas rejeté par la restriction sur les ETM).
 
-### Puis-je partager le matériel sous licence CC sur
-les réseaux de partage de fichiers?
+### Puis-je partager le matériel sous licence CC sur les réseaux de partage de fichiers?
 
-### Oui. Toutes les licences CC permettent la
-redistribution de la matière non modifiée par tous les moyens, y compris
-la distribution via les réseaux de partage de fichiers. Notez que le
-fichier de transaction est expressément considéré comme non commercial à
-des fins de conformité avec les licences NC. Le troc de matériel
-licence-NC pour d’autres objets de valeur est interdit.
+Oui. Toutes les licences CC permettent la redistribution de la matière
+non modifiée par tous les moyens, y compris la distribution via les
+réseaux de partage de fichiers. Notez que le fichier de transaction
+est expressément considéré comme non commercial à des fins de
+conformité avec les licences NC. Le troc de matériel licence-NC pour
+d’autres objets de valeur est interdit.
 
-### Des restrictions supplémentaires sur le matériel
-Licencié
-
-### Que faire si j’ai reçu du matériel sous licence CC avec des restrictions supplémentaires?
+### Des restrictions supplémentaires sur le matériel Licencié Que faire si j’ai reçu du matériel sous licence CC avec des restrictions supplémentaires?
 
 Il est possible que le matériel sous licence CC apparaisse sur les
 plates-formes qui imposent en plus de la licence de droits d’auteur
@@ -2891,7 +2869,7 @@ recommande:
     class="c6  c7"> --> dans le code de l’indicateur de licence ou dans le
     code de la page sous licence.
 
-<!--<span class="c6 c28"> -->Pour plus de détails voir la page de <!--<span
+Pour plus de détails voir la page de <!--<span
 class="c0 c28"> -->marquage<!--<span class="c6 c49 c7 c28"> -->.
 
 ### Qu’est-ce que cela signifie que les licences
@@ -2963,642 +2941,6 @@ l’œuvre.
 Pour plus d’informations contextuelles sur CC REL, s’il
 vous plaît se référer à ce document<!--<span
 class="c6  c7"> -->.
-
-<!--<span class="7"> -->What does it mean for a search engine to be
-CC-enabled?
-
-Some search engines (like [Google](https://www.google.com/url?q=http://www.google.com/advanced_search?hl%3Den&sa=D&usg=AFQjCNE9FPD8-1P33jk9l5unhWhgmiqdtg)) allow people to filter their search results by usage rights
-so that you can limit your search results according to the particular CC
-license you seek. For example, if you are looking for a photo to adapt,
-you can filter your search to return photos that have a CC license that
-permits creation of adaptations. You can generally find this search
-feature on the advanced search page of your selected search engine. You
-can also use [CC
-Search](https://www.google.com/url?q=http://search.creativecommons.org/&sa=D&usg=AFQjCNGhCeVOZ6XHlxvh25x2c6xkYm8Vpg)<!--<span
-class="c6  c7"> -->, which offers a convenient interface to search and a
-list of those content providers that support searches for content based
-on usage rights.
-
-### Please note, however, that you should always
-double check to make sure that the work you locate through a search is
-licensed as you wish.
-
-<!--<span class="7"> -->How do I give users of my site the option to use CC
-licensing like Flickr does?
-
-Creative Commons provides tools for integrating license
-selection with your site. You can find an overview at the Web
-Integration article on the [CC
-wiki](https://www.google.com/url?q=http://wiki.creativecommons.org/Web_Integration&sa=D&usg=AFQjCNEvfDQXPEkeHw5IL3FpaSrK7nglNA). The [Partner
-Interface](https://www.google.com/url?q=http://wiki.creativecommons.org/Partner_Interface&sa=D&usg=AFQjCNE8HjiJzn2FH0Fga3OSeIfBlGhjNg) is a good way to get started and will always have the most
-up-to-date license versions and translations. However, there is also
-an [API](https://www.google.com/url?q=http://api.creativecommons.org/docs/&sa=D&usg=AFQjCNEx1fonwqCr1k1PXdr_Qg6vhjEIIQ)<!--<span
-class="c6  c7"> --> available if you want more control.
-
-<!--<span class="7"> -->How can I change or remove the Creative Commons search
-option built into the Firefox browser?
-
-Mozilla has included the Creative Commons search
-function in many versions of Firefox along with search options for
-Google, Amazon, and other popular sites. Please take a look at
-the [Firefox article on the CC
-wiki](https://www.google.com/url?q=http://wiki.creativecommons.org/Firefox_and_CC_Search&sa=D&usg=AFQjCNH6ggQyzaWiN5Z3SE52TlWDsd18zg)<!--<span
-class="c6  c7"> --> for an explanation of how to change these
-features.
-
-### If you want to add or remove a particular search
-option, click on the logo in the search box (for example, the CC logo or
-the Google logo). This will open the pull down menu, which will allow
-you to select different search providers. If you choose “Manage Search
-Engines,” you will be able to add or remove search engines. You can also
-alter the order in which the search providers appear on the pull down
-menu.
-
-<!--<span class="7"> -->Is Creative Commons involved in digital rights
-management (DRM)?
-
-### No. CC licenses are a form of rights expression,
-not rights management. CC provides tools to make it easier for creators
-and owners to say which rights they reserve and permissions they grant.
-This is different from digital rights management (or “DRM”), which uses
-technological protection measures to prevent people from using the work
-in a way that the owner has not permitted.
-
-### CC licenses contain language prohibiting
-licensees from the use of effective technological measures (including
-DRM) to prevent access to licensed material: “You may not offer or
-impose any additional or different terms or conditions on, or apply any
-Effective Technological Measures to, the Licensed Material if doing so
-restricts exercise of the Licensed Rights by any such recipient.”
-
-While licensors may apply effective technological
-measures (ETMs) to their own materials, the licensor provides
-a [limited permission to circumvent these
-measures](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Frequently_Asked_Questions%23What_if_I_received_CC-licensed_material_encumbered_with_effective_technological_measures_.28such_as_DRM.29.3F&sa=D&usg=AFQjCNE9PI55CyjHsfm6uN1ioXzCrpRjBA)<!--<span
-class="c6  c7"> -->: “The Licensor waives and/or agrees not to assert any
-right or authority to forbid You from making technical modifications
-necessary to exercise the Licensed Rights, including technical
-modifications necessary to circumvent Effective Technological Measures.”
-Note that this only applies to effective technological measures applied
-by licensors themselves: third parties such as distribution platforms
-may still apply ETMs if the licensor uploads there, and the license is
-not able to grant you permission to circumvent it.
-
-Legal Background
-
-<!--<span class="7  c7"> -->What is copyright and why does it matter?
-
-### Copyright law grants exclusive rights to creators
-of original works of authorship. National laws usually extend
-protections to such works automatically once fixed in a tangible medium,
-prohibiting the making of copies without the rights holder’s permission,
-among other things. On the internet, even the most basic activities
-involve making copies of copyrighted content. As content is increasingly
-uploaded, downloaded, and shared online, copyright law is becoming more
-relevant to more people than it was 20 years ago. Unfortunately,
-infringing copyrights—even unintentionally or unknowingly—can lead to
-liability. Successful navigation of the internet requires some
-understanding of copyright law.
-
-<!--<span class="7"> -->What is the public domain?
-
-The public domain of copyright refers to the aggregate
-of those works that are not restricted by copyright within a given
-jurisdiction. A work may be part of the public domain because the
-applicable term of copyright has expired, because the rights holder
-surrendered copyright in the work with a tool like [CC0](https://www.google.com/url?q=http://creativecommons.org/about/cc0&sa=D&usg=AFQjCNGmHKtsXNC7ei3sAxo86pnepTpDlA)<!--<span
-class="c6  c7"> -->, or because the work did not meet the applicable
-standards for copyrightability.
-
-Because the public domain depends on the copyright laws
-in force within a particular territory, sometimes a work may be
-considered “in the public domain” of one jurisdiction, but not in
-another. For example, [U.S. government works are
-automatically in the public domain under U.S. copyright
-law](https://www.google.com/url?q=http://www.copyright.gov/title17/92chap1.html%23105&sa=D&usg=AFQjCNE1ZfX4F69mQII5qpa_LU3IKqumpA)<!--<span
-class="c6  c7"> -->, but might be restricted by copyright in other
-countries.
-
-The [Public Domain
-Manifesto](https://www.google.com/url?q=http://publicdomainmanifesto.org/&sa=D&usg=AFQjCNEwvXA55ZGn4urkSA2EOnQ-CbbTRQ), the [University
-Libraries](https://www.google.com/url?q=http://fairuse.stanford.edu/Copyright_and_Fair_Use_Overview/chapter8/Stanford&sa=D&usg=AFQjCNET_ODluOv9XhfzJETiMz-QkFC3QQ) page, and the [CC0
-FAQs](https://www.google.com/url?q=http://wiki.creativecommons.org/CC0_FAQ&sa=D&usg=AFQjCNECaIVyBCTWlHQ16QZK9MvLLflaJQ)<!--<span
-class="c6  c7"> --> all contain additional information about the public
-domain.
-
-<!--<span class="7"> -->What do I need to do to get a copyright?
-
-### Copyright in most jurisdictions attaches
-automatically without need for any formality once a creative work is
-fixed in tangible form (i.e. the minute you put pen to paper, take a
-photo, or hit the “save” button on your computer).
-
-In some jurisdictions, creators may be required to
-register with a national agency in order to enforce copyright in court.
-If you would like more information, please consult the [Berne
-Convention](https://www.google.com/url?q=http://www.wipo.int/treaties/en/ip/berne/trtdocs_wo001.html&sa=D&usg=AFQjCNG-j0gSrrYYRRfkz1cAK8GN3hCzhQ) or [your jurisdiction’s copyright
-law](https://www.google.com/url?q=http://www.wipo.int/clea/en/&sa=D&usg=AFQjCNGPoCp8St7Zrpc06YhMaaDomRfBkQ)<!--<span
-class="c6  c7"> -->.
-
-### Although you do not have to apply a copyright
-notice for your work to be protected, it may be a useful tool to clearly
-signal to people that the work is yours. It also tells the public who to
-contact about the work.
-
-<!--<span class="7"> -->What is an adaptation?
-
-### An adaptation is a work based on one or more
-pre-existing works. What constitutes an adaptation depends on applicable
-law, however translating a work from one language to another or creating
-a film version of a novel are generally considered adaptations.
-
-In order for an adaptation to be protected by
-copyright, most national laws require the creator of the adaptation to
-add original expression to the pre-existing work. However, there is no
-international standard for originality, and the definition differs
-depending on the jurisdiction. Civil law jurisdictions (such
-as [Germany](https://www.google.com/url?q=http://www.wipo.int/clea/en/text_html.jsp?lang%3DEN%26id%3D1034&sa=D&usg=AFQjCNEK9a_qKxWec3CaMcX-YFKAgOF2zA) and [France](https://www.google.com/url?q=http://www.legifrance.gouv.fr/html/codes_traduits/cpialtext.htm&sa=D&usg=AFQjCNHtof8rn0xk2Hemc-A3ioCPV-5YbA)) tend to require that the work contain an imprint of the
-adapter’s personality. Common law jurisdictions (such as
-the [U.S.](https://www.google.com/url?q=http://www.copyright.gov/title17/92chap1.html%23103&sa=D&usg=AFQjCNEmG-nJmPFU7U90Tpk6SCaACQMbYw) or [Canada](https://www.google.com/url?q=http://laws.justice.gc.ca/eng/C-42/index.html&sa=D&usg=AFQjCNEZhl6yfqSKUL1_9v9aCFu2iU1QJw)), on the other hand, tend to have a lower threshold for
-originality, requiring only a minimal level of creativity and
-“independent conception.” Some countries approach originality completely
-differently. For example, [Brazil’s](https://www.google.com/url?q=http://www.wipo.int/clea/en/text_html.jsp?lang%3DEN%26id%3D514&sa=D&usg=AFQjCNGs6F6OnaNHrXF2ZQt87p4tTVRthQ) copyright code protects all works of the mind that do not
-fall within the list of works that are expressly defined in the statue
-as “unprotected works.” Consult [your
-jurisdiction’s copyright
-law](https://www.google.com/url?q=http://www.wipo.int/clea/en/&sa=D&usg=AFQjCNGPoCp8St7Zrpc06YhMaaDomRfBkQ)<!--<span
-class="c6  c7"> --> for more information.
-
-<!--<span class="7"> -->What are moral rights?
-
-### Copyright laws in many jurisdictions around the
-world grant creators “moral rights” in addition to the economic or
-commercial right to exploit their creative works. Moral rights protect
-the personal and reputational value of a work for its creator. Moral
-rights differ by country, and can include the right of attribution, the
-right to have a work published anonymously or pseudonymously, and/or the
-right to the integrity of the work. The moral right of integrity may
-provide creators with a source for redress if an adaptation represents
-derogatory treatment of their work, typically defined as “distortion or
-mutilation” of the work or treatment that is “prejudicial to the honor,
-or reputation of the author.” Not all jurisdictions provide for moral
-rights.
-
-The CC licenses are intended to minimize the effect of
-moral rights on a licensee’s ability to use licensed material; however,
-in some jurisdictions, these rights may still have an effect. CC offers
-some additional information on [how CC licenses
-may affect your moral
-rights](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Frequently_Asked_Questions%23How_do_Creative_Commons_licenses_affect_my_moral_rights.2C_if_at_all.3F&sa=D&usg=AFQjCNFee3U7sukN5rMzIRnh-ASEIEFSHA)<!--<span
-class="c6  c7"> -->.
-
-<!--<span class="7"> -->What are neighboring rights?
-
-Copyright provides an incentive to create works by
-providing exclusive rights to creators. However, the distribution or
-exploitation of a work often involves more than just the creator. For
-example, if someone writes a song, someone else may perform the song,
-and another may produce the recording of the song. Some jurisdictions
-extend copyright to the contributions made by these persons; other
-jurisdictions extend such exclusive rights in the form of neighboring
-rights. Neighboring rights may include performers’ rights or
-broadcasters’ rights, among others. The [Rome
-Convention](https://www.google.com/url?q=http://www.wipo.int/treaties/en/ip/rome/summary_rome.html&sa=D&usg=AFQjCNFIpYL1lffYXwBLKoTL_xT8w9WzYg)<!--<span
-class="c6  c7"> --> sets forth some guidelines on the scope of neighboring
-rights. Not all jurisdictions recognize neighboring rights.
-
-<!--<span class="7"> -->What are sui generis database rights?
-
-### Sui generis database rights grant qualifying
-database makers the right to prohibit the extraction and reuse of a
-substantial portion of a database. The rights are granted to database
-makers that make a substantial investment of time and resources to
-create the database. Sui generis database rights are primarily enacted
-within the European Union and a handful of other jurisdictions.
-
-<!--<span class="7"> -->What are collecting societies?
-
-[Collecting
-societies](https://www.google.com/url?q=http://wiki.creativecommons.org/Version_3%23International_Harmonization_.E2.80.94_Collecting_Societies&sa=D&usg=AFQjCNE4dB0_7OYg4Xia0qvbn-Bpdb7-XA)<!--<span
-class="c6  c7"> --> are copyright management organizations. Some examples
-of collecting societies include ASCAP and BMI (United States),
-BUMA/STEMRA (Netherlands), PRS (United Kingdom), and APRA (Australia).
-These societies license works on behalf of their owners and process
-royalty payments from parties using the copyrighted works.
-
-CC offers additional information on [how collecting societies might affect your rights and your
-ability to apply CC licenses to your
-work](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Frequently_Asked_Questions%23Can_I_use_a_Creative_Commons_license_if_I_am_a_member_of_a_collecting_society.3F&sa=D&usg=AFQjCNFIV8sV3eETIFFJIxrrDNj_Czv1Vg). CC has several [pilots](https://www.google.com/url?q=http://wiki.creativecommons.org/Collecting_Society_Projects&sa=D&usg=AFQjCNF1PSePSZDUhiUpx2tBW63w7u3mLQ)<!--<span
-class="c6  c7"> --> underway with collecting societies that have chosen to
-allow their members to use CC licenses on a limited basis.
-
-<!--<span class="7"> -->What are publicity, personality, and privacy
-rights?
-
-### These terms are used differently in different
-jurisdictions. Generally speaking, these rights allow individuals to
-control the use of their voice, image, likeness, or other identifiable
-aspect of their identity, especially for purposes of commercial
-exploitation. Similarly, in some jurisdictions these rights allow people
-to restrict others’ ability to publish information about them without
-their permission. Whether and to what extent these rights exist, and if
-so, how they are labeled, varies depending on the jurisdiction.
-
-[Creative Commons licenses have a limited effect on
-these
-rights](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Frequently_Asked_Questions%23How_are_publicity.2C_privacy.2C_and_personality_rights_affected_when_I_apply_a_CC_license.3F&sa=D&usg=AFQjCNE715UDYPJjqvSVxPvp5CqcVOj7yA)<!--<span
-class="c6  c7"> --> where the licensor holds them. Where the licensor has
-publicity, personality, or privacy rights that may affect your ability
-to use the material as the license intends, the licensor agrees to waive
-or not assert those rights. However, any such rights not held by the
-licensor are not affected and may still affect your desired use of a
-licensed work. If you have created a work or wish to use a work that
-might in some way implicate these rights, you may need to obtain
-permission from the individuals whose rights may be affected.
-
-<!--<span class="c21"> -->Data
-
-<!--<span class="7"> -->Frequently asked questions about data and CC
-licenses
-
-<!--<span class="1"> -->Can databases be released under CC licenses?
-
-Yes, [CC licenses can be used
-to license
-databases](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Frequently_Asked_Questions%23Can_I_apply_a_Creative_Commons_license_to_databases.3F&sa=D&usg=AFQjCNFpOaM202h6RIl-02qXp_2cvzTgtg). The most recent version (4.0) may be used to license
-databases subject to copyright and, where applicable, sui generis
-database rights. Sui generis database rights prevent copying and reusing
-of [substantial
-parts](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Data%23What_constitutes_a_.E2.80.9Csubstantial_portion.E2.80.9D_of_a_database.3F&sa=D&usg=AFQjCNGwgD8teoaIm4VVMQjtZ_utqPR0Ug)<!--<span
-class="c6  c7"> --> of a database (including frequent extraction of
-insubstantial parts). However unlike copyright, database rights protect
-the maker’s investment, not originality.
-
-### CC does not recommend use of its NonCommercial
-(NC) or NoDerivatives (ND) licenses on databases intended for scholarly
-or scientific use.
-
-In addition to our licenses, the [CC0 Public Domain
-Dedication](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/CC0_FAQ&sa=D&usg=AFQjCNFTLJ2Slf7WL54Q6F_TZCXVdkQJdA)<!--<span
-class="c6  c7"> --> may be used on databases to maximize reuse of
-databases. When applied, the effect is to waive all copyright and
-related rights in the database and its contents, placing it as close as
-possible into the worldwide public domain. In certain domains, such as
-science and government, there are important reasons to consider using
-CC0. Waiving copyright and related rights eliminates all uncertainty for
-potential users, encouraging maximal reuse and sharing of
-information.
-
-<!--<span class="1"> -->When a CC license is applied to a database, what is
-being licensed?
-
-The license terms and conditions apply to the database
-structure (its selection and arrangement, [to
-the extent
-copyrightable](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Data%23Which_components_of_databases_are_protected_by_copyright.3F&sa=D&usg=AFQjCNE4dTn77fMUmK0M7qmnN0sbRJPyGw)), its contents (if copyrightable), and in those instances
-where the database maker has [sui generis
-database
-rights](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Data%23Which_components_of_a_database_are_protected_by_sui_generis_database_rights.3F&sa=D&usg=AFQjCNH9_5D9Q6AEikjC6XdGOa7c3cYl3w) then the rights that are granted those makers.
-Notwithstanding, licensors can choose to license some rather than all of
-the rights they have in a database. Creative Commons advises against
-this practice. However, if a licensor chooses to do so anyway, we
-strongly encourage licensors to clearly demarcate what is and is not
-licensed. See [below](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Data%23How_do_I_apply_a_CC_legal_tool_to_a_database.3F&sa=D&usg=AFQjCNE-CSzIjlcuqQfRzMbuh6i0fyyjPw)<!--<span
-class="c6  c7"> --> for more information regarding how to provide clear
-notice of what is licensed.
-
-<!--<span class="1  c7"> -->How do I apply a CC legal tool to a
-database?
-
-Before making a database available under a CC license,
-a database provider should first make sure she has all rights necessary
-to do so. Often, the database provider is not the original author of the
-database contents. If that is the case, the database provider should
-secure separate permission from the other author(s) before publishing
-the database under a CC legal tool. If a database maker decides to
-license the database without securing permission from the author(s) of
-the database contents, it should clearly indicate the material for which
-permission has not been secured and clearly mark the material as not
-being offered under the terms of the license. For more information, read
-our [pre-licensing](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Considerations_for_licensors_and_licensees%23Considerations_for_licensors&sa=D&usg=AFQjCNEKTcWCmbb2hBFTgpiYAh70EEw0ZA)<!--<span
-class="c6  c7"> --> guidelines.
-
-Database providers should also consider carefully what
-elements of the database she wants covered by the CC legal tool and
-identify those elements in a manner that reusers will see and
-understand. Please see our [marking
-page](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Marking_your_work_with_a_CC_license&sa=D&usg=AFQjCNH1-gzEAJEwyZsVi95hDEL4Gwu7gw)<!--<span
-class="c6  c7"> --> for more information on how to clearly distinguish
-unlicensed content.
-
-<!--<span class="1  c7"> -->How do the different CC license elements operate
-for a CC-licensed database?
-
-Under version 4.0, if an NC license has been applied
-then any use of the licensed database or its contents [that is restricted by copyright
-law](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Data%23How_do_I_know_whether_a_particular_use_of_a_database_is_restricted_by_copyright.3F&sa=D&usg=AFQjCNGjYyRTr_IDmSr2QF4uIDJtUx_OvA) or [sui generis database
-rights](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Data%23How_do_I_know_whether_a_particular_use_of_a_database_is_restricted_by_sui_generis_database_rights.3F&sa=D&usg=AFQjCNGPIVADZl1Vz_Ez5Yi1w97BvjODMg) requires compliance with the [NC
-term](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Frequently_Asked_Questions%23Does_my_use_violate_the_NonCommercial_clause_of_the_licenses.3F&sa=D&usg=AFQjCNG8H6kd5uej4QsTX3LGJOxDAfG0MA), even if the database is not publicly shared. The other
-license elements (BY, ND, and SA, as applicable) must be complied with
-only if your use is so restricted and public sharing is involved. Learn
-more about how to comply when [your use
-implicates
-copyright](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Data%23If_my_use_of_a_database_is_restricted_by_copyright.2C_how_do_I_comply_with_the_license.3F&sa=D&usg=AFQjCNGXK97jys8bFhrhvRP04rKw2jryUw) and/or [sui generis database
-rights](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Data%23If_my_use_of_a_database_is_restricted_by_sui_generis_database_rights.2C_how_do_I_comply_with_the_license.3F&sa=D&usg=AFQjCNF7eeacv5Vaf2CvSZMnJASwwwtvzg)<!--<span
-class="c6  c7"> -->.
-
-Prior CC license versions do not require compliance
-with the license restrictions or conditions when only sui generis
-database rights (and not copyright) are implicated. Please see below for
-more detail about [how this works in the
-current](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Data%23If_my_use_of_a_database_is_restricted_by_sui_generis_database_rights.2C_how_do_I_comply_with_the_license.3F&sa=D&usg=AFQjCNF7eeacv5Vaf2CvSZMnJASwwwtvzg) and [prior
-versions](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Data%23How_does_the_treatment_of_sui_generis_database_rights_vary_in_prior_versions_of_CC_licenses.3F&sa=D&usg=AFQjCNFRRDSNeIW_6Hdku3cgAr5oC_UygQ)<!--<span
-class="c6  c7"> --> of the licenses.
-
-<!--<span class="1"> -->Can I conduct text/data mining on a CC-licensed
-database?
-
-### Yes. However, you should be aware that whether
-you have to comply with the CC license terms and conditions will depend
-on whether the type of mining activity you conduct implicates copyright
-or any applicable sui generis database rights. If you are not exercising
-an exclusive right held by the database maker, then you do not need to
-rely on the license to mine. Because there are many different methods
-for conducting text and data mining, however, there may be some types of
-mining activities that will implicate the licensed rights.
-
-<!--<span class="c6 c40 c28"> -->If and only if your particular use is one that
-would require permission , you should note
-the following:
-
--   <!--<span class="c6 c40"> -->Permission:  All
-    six of the 4.0 licenses allow for text and data mining by granting
-    express permission to privately reproduce, extract, and reuse the
-    contents of a licensed database and create adapted databases.
--   <!--<span class="c6 c40"> -->Commercial purposes: If
-    you are conducting text and data mining for <!--<span
-    class="c0"> -->[commercial
-    purposes](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Frequently_Asked_Questions%23Does_my_use_violate_the_NonCommercial_clause_of_the_licenses.3F&sa=D&usg=AFQjCNG8H6kd5uej4QsTX3LGJOxDAfG0MA)<!--<span
-    class="c6  c7"> -->, you should not mine NC-licensed databases or
-    other material.
--   <!--<span class="c6 c40"> -->Outputs:  If you
-    publicly share the results of your mining activity or the data you
-    mined, you should attribute the rights holder. If what you publicly
-    share qualifies as an adaptation of the licensed material, you
-    should not mine ND-licensed material. If you share an adaptation of
-    material under an SA license, you must apply the same license to the
-    adaptation that results.
--   [If your use is not one that requires permission
-    under the
-    license](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Frequently_Asked_Questions%23Do_I_always_have_to_comply_with_the_license_terms.3F_If_not.2C_what_are_the_exceptions.3F&sa=D&usg=AFQjCNEfsFLkMGaYQ_P7bvlOG_OO1nsBYw)<!--<span
-    class="c6  c7"> -->, you may conduct text and data mining activity
-    without regard to the above considerations.
-
-<!--<span class="1"> -->How does the treatment of sui generis database rights
-vary in prior versions of CC licenses?
-
-As explained [above](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Data%23Can_databases_be_released_under_CC_licenses.3F&sa=D&usg=AFQjCNH_yTdLy2tlobcvC_Tr12ZZdLcOiQ)<!--<span
-class="c6  c7"> -->, the current version of the CC license suite (4.0)
-licenses sui generis database rights in addition to copyright and other
-closely related rights. Past versions of CC licenses operate differently
-with respect to sui generis database rights.
-
-### In the CC version 3.0 licenses, the legal
-treatment of sui generis database rights varies, but the practical
-result is always the same: compliance with the license restrictions and
-conditions is not required where sui generis database rights--but not
-copyright--are implicated. This means that if someone extracts a
-substantial portion of a CC-licensed database and uses it in a way that
-does not implicate copyright (e.g., by rearranging purely factual data),
-the license does not require her to attribute the licensor or comply
-with any other restrictions or conditions, even if the database is
-protected by sui generis database rights.
-
-### While this result is the same across all CC
-version 3.0 licenses, the reason for this outcome varies. In the 3.0
-licenses ported to the laws of EU jurisdictions, the scope of the
-licenses expressly cover databases subject to copyright and/or sui
-generis database rights. However, the conditions of the license are
-explicitly waived when use of the licensed work only involves the
-exercise of database rights.
-
-### By contrast, the 3.0 unported licenses and all
-other ported licenses do not expressly license sui generis database
-rights. As a result, those licenses do not apply when sui generis
-database rights alone are implicated. This means a licensee may need
-separate permission to use the database in a way that implicates sui
-generis database rights (although arguably an implied license to
-exercise those rights may be deemed granted in some
-jurisdictions).
-
-More information on the underlying 3.0 policy decision
-the treatment of sui generis database rights those licenses can be
-found [on our wiki
-(.pdf)](https://www.google.com/url?q=https://wiki.creativecommons.org/images/f/f6/V3_Database_Rights.pdf&sa=D&usg=AFQjCNE1dJmzQU7cfbyBqwOXs7kmff9yDw)<!--<span
-class="c6  c7"> -->.
-
-<!--<span class="1"> -->What is the difference between the Open Data Commons
-licenses and the CC 4.0 licenses?
-
-The [Open Database License
-(ODbL)](https://www.google.com/url?q=http://opendatacommons.org/licenses/odbl/1.0/&sa=D&usg=AFQjCNETFRuG0TEg9ceM976MfI6Rh76OyA) and the [Open Data Commons
-Attribution License
-(ODC-BY)](https://www.google.com/url?q=http://opendatacommons.org/licenses/by/1.0/&sa=D&usg=AFQjCNEwtzMRkJ2fnBdsgDbcnQl8cjUi6g) are licenses designed specifically for use on databases and
-not on other types of material. There are many differences between those
-licenses and CC licenses, but the most important to be aware of relate
-to license scope and operation. The ODC licenses apply only to sui
-generis database rights and any copyright in the database structure,
-they do not apply to the individual contents of the database. The latest
-version of the CC licenses on the other hand apply to sui generis
-database rights and all copyright and neighboring rights in the database
-structure as well as the contents. (See [above](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Data%23How_does_the_treatment_of_sui_generis_database_rights_vary_in_prior_versions_of_CC_licenses.3F&sa=D&usg=AFQjCNFRRDSNeIW_6Hdku3cgAr5oC_UygQ)<!--<span
-class="c6  c7"> --> for more detail about how past versions of CC licenses
-vary with respect to sui generis database rights.)
-
-Another important difference is that ODC licenses may
-create contractual obligations even in jurisdictions where database
-rights would not otherwise exist and but for the license permission
-would not be necessary. CC has crafted its licenses to ensure that
-they [never impose obligations where permission
-is not otherwise
-required](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Frequently_Asked_Questions%23How_do_CC_licenses_operate.3F&sa=D&usg=AFQjCNEmLEqP-bOlOxzvL7TaCzyLsJS9xg)<!--<span
-class="c6  c7"> --> to use the licensed material.
-
-<!--<span class="7"> -->Frequently asked questions about data,
-generally
-
-<!--<span class="1  c7"> -->Which components of databases are protected by
-copyright?
-
-### With databases, there are likely four components
-to consider: (1) the database model or structure, (2) the data entry and
-output sheet, (3) field names, and (4) the data or other content.
-
-The <!--<span class="c6 c28"> -->database
-model refers to how a database is structured and
-organized, including database tables and table indexes. The selection,
-coordination, and arrangement of the database is subject to copyright if
-it is sufficiently original. The originality threshold is fairly low in
-many jurisdictions. For example, while courts in the United States have
-held that an alphabetical telephone directory was insufficiently
-original to merit copyright protection, an organized directory of
-Chinese-American businesses in a particular area did.<!--<span
-class="c64"> -->[[1]](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Frequently_Asked_Questions%23cite_note-1&sa=D&usg=AFQjCNE61PnV75j1BlIVRvB0G8vZ6zrBkQ)<!--<span
-class="c6  c7"> --> These determinations are very fact-specific (no pun
-intended) and vary by jurisdiction.
-
-The <!--<span class="c6 c28"> -->data entry and output
-sheets  contain questions, and the answers
-to these questions are stored in a database. For example, a web page
-asking a scientist to enter a gene’s name, its pathway information, and
-its ontology would constitute a data entry sheet. The format and layout
-of these sheets are protected by copyright according to the same
-standard of originality used to determine if the database model is
-copyrightable.
-
-<!--<span class="c6 c28"> -->Field names  describe
-the contents or data. For example, “address” might be the name of the
-field for street address information. These are less likely to be
-protected by copyright because they often lack sufficient
-originality.
-
-The <!--<span class="c6 c28"> -->data<!--<span
-class="c6  c7"> --> or other contents contained in the database are
-subject to copyright if they are sufficiently creative. Original poems
-contained in a database would be protected by copyright, but purely
-factual data (such as gene names or city populations) would not. Facts
-are not subject to copyright, nor are the ideas underlying copyrighted
-content.
-
-<!--<span class="1  c7"> -->How do I know whether a particular use of a
-database is restricted by copyright?
-
-### When the database structure or its contents is
-subject to copyright, reproducing, distributing, or modifying the
-database will often be restricted by copyright law. However, it is
-important to note that some uses of a copyrighted database will not be
-restricted by copyright. It may be possible, for example, to rearrange
-or modify the uncopyrightable data in a way that does not implicate the
-copyright in the database structure. For example, while (as noted above)
-a court in the United States held that a directory of Chinese-American
-businesses was restricted by copyright, the same court went on to hold
-that a directory that duplicated hundreds of its listings was not
-infringing because the listings were categorized and arranged in a
-sufficiently dissimilar way. In those situations, compliance with the
-license conditions is not required unless the database contents are
-themselves restricted by copyright.
-
-Similarly, even where database contents are subject to
-copyright and published under a CC license, use of the facts and ideas
-embedded within the contents will not require attribution (or compliance
-with other applicable license conditions), unless doing so implicates
-copyright in the database structure as explained above.
-This [important limitation of all CC
-licenses](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Frequently_Asked_Questions%23How_do_CC_licenses_operate.3F&sa=D&usg=AFQjCNEmLEqP-bOlOxzvL7TaCzyLsJS9xg)<!--<span
-class="c6  c7"> --> is highlighted on the license deeds in the Notice
-section, where we emphasize that compliance with the license is not
-required for elements of the material in the public domain.
-
-<!--<span class="1  c7"> -->If my use of a database is restricted by
-copyright, how do I comply with the license?
-
-All CC licenses require that you attribute the licensor
-when your use involves public sharing. Your other obligations depend on
-the particular CC license applied to the database. If it is a NC
-license, any regulated use must be limited to [noncommercial
-purposes](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Frequently_Asked_Questions%23Does_my_use_violate_the_NonCommercial_clause_of_the_licenses.3F&sa=D&usg=AFQjCNG8H6kd5uej4QsTX3LGJOxDAfG0MA) only. If a ND is applied, you may produce an adapted
-database but cannot share it publicly. If it is a ShareAlike (SA)
-license, you must apply the same or a [compatible
-license](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/FAQ%23If_I_derive_or_adapt_material_offered_under_a_Creative_Commons_license.2C_which_CC_license.28s.29_can_I_use.3F&sa=D&usg=AFQjCNHrhsOruciEOZpPw73Stw8DpVEj9w)<!--<span
-class="c6  c7"> --> to any adaptation of the database you share
-publicly.
-
-<!--<span class="1"> -->Which components of a database are protected by sui
-generis database rights?
-
-In contrast to copyright, sui generis database rights
-are designed to protect a maker’s substantial investment in a database.
-In particular, the right prevents the unauthorized extraction and reuse
-of a [substantial
-portion](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Data%23What_constitutes_a_.E2.80.9Csubstantial_portion.E2.80.9D_of_a_database.3F&sa=D&usg=AFQjCNGwgD8teoaIm4VVMQjtZ_utqPR0Ug)<!--<span
-class="c6  c7"> --> of the contents.
-
-<!--<span class="1"> -->How do I know whether a particular use of a database
-is restricted by sui generis database rights?
-
-When a database is subject to sui generis database
-rights, extracting and reusing a [substantial
-portion](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Data%23What_constitutes_a_.E2.80.9Csubstantial_portion.E2.80.9D_of_a_database.3F&sa=D&usg=AFQjCNGwgD8teoaIm4VVMQjtZ_utqPR0Ug)<!--<span
-class="c6  c7"> --> of the database contents is prohibited absent some
-express exception.
-
-<!--<span class="c6 c28"> -->It is important to remember that sui generis
-database rights exist in only a few countries outside the <!--<span
-class="c0 c28"> -->[European
-Union](https://www.google.com/url?q=http://en.wikipedia.org/wiki/Database_Directive%23Implementation&sa=D&usg=AFQjCNEPF7z9tQGFyOypZcnnciPZQRqghw)<!--<span
-class="c6 c28"> -->, such as Korea and Mexico. Generally, if you are using a
-CC-licensed database in a location where those rights do not exist, you
-do not have to comply with license restrictions or conditions unless
-copyright (or some other licensed right) is implicated.
-
-### Note that if you are using a database in a
-jurisdiction where you must respect database rights, and you receive a
-CC-licensed work from someone located in a jurisdiction without database
-rights, you should determine whether database rights exist and have been
-licensed. If so, you need to properly mark and attribute as the license
-requires, since the person from whom you received the database may not
-have been required to keep that information. If you are using a licensed
-database and you do not have to comply with the license terms because
-such rights do not exist in your jurisdiction, we recommend that you
-retain this information where possible. Doing so assists downstream
-reusers who are required to provide it when they share further.
-
-<!--<span class="1"> -->What constitutes a “substantial portion” of a
-database?
-
-### There is no bright line test for what constitutes
-a “substantial portion”. The answer will depend on the law in the
-relevant jurisdiction. Note that what constitutes a substantial portion
-is determined both quantitatively and qualitatively. Also, using several
-insubstantial portions can add up to a substantial portion.
-
-<!--<span class="1"> -->If my use of a database is restricted by sui generis
-database rights, how do I comply with the license?
-
-If the database is released under the current version
-(4.0) of CC licenses, you must attribute the licensor if you share
-a [substantial
-portion](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Data%23What_constitutes_a_.E2.80.9Csubstantial_portion.E2.80.9D_of_a_database.3F&sa=D&usg=AFQjCNGwgD8teoaIm4VVMQjtZ_utqPR0Ug) of the database contents. The other requirements depend on
-the particular license applied to the database. Under the NC licenses,
-you may not extract and reuse a substantial portion of the database
-contents for [commercial
-purposes](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Frequently_Asked_Questions%23Does_my_use_violate_the_NonCommercial_clause_of_the_licenses.3F&sa=D&usg=AFQjCNG8H6kd5uej4QsTX3LGJOxDAfG0MA). The ND licenses prohibit you from including a substantial
-portion of the database contents in another publicly shared database in
-which you have sui generis database rights of your own. And finally, the
-SA licenses require you to apply the same or a [compatible
-license](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/FAQ%23If_I_derive_or_adapt_material_offered_under_a_Creative_Commons_license.2C_which_CC_license.28s.29_can_I_use.3F&sa=D&usg=AFQjCNHrhsOruciEOZpPw73Stw8DpVEj9w) to any database you share publicly and in which you include
-a substantial portion of the licensed database contents. Note that this
-does <!--<span class="c6 c28"> -->not<!--<span
-class="c6  c7"> --> require you to ShareAlike any copyright or other
-rights you have in the individual contents of the database.
-
-Notes
-
-1.  <!--<span class="c86"> -->[Jump
-    up](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Frequently_Asked_Questions%23cite_ref-1&sa=D&usg=AFQjCNG_HAyAmL_KQdr4KkWGXrvvszheTA)<!--<span
-    class="c0"> -->[↑](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Frequently_Asked_Questions%23cite_ref-1&sa=D&usg=AFQjCNG_HAyAmL_KQdr4KkWGXrvvszheTA)<!--<span
-    class="c6  c7"> --> Key Publications, Inc. v. Chinatown Today
-    Publishing Enterprises Inc., 945 F.2d 509 (2d Cir. 1991).
-
-<!--<span
-class="c78"> -->[Category](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Special:Categories&sa=D&usg=AFQjCNGImUw_lREBOFZ6_6ykEyVunTmJiA)<!--<span
-class="c6  c7"> -->: 
-
--   <!--<span
-    class="c0"> -->[FAQ](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Category:FAQ&sa=D&usg=AFQjCNFF0g7ArStaN-XclNNijPfkG0LXVw)
-
-<!--<span
-class="c37  c7"> -->[](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Category:FAQ&sa=D&usg=AFQjCNFF0g7ArStaN-XclNNijPfkG0LXVw)
 
 ### Qu’est-ce que cela signifie pour un moteur de
 recherche d’être CC-autorisé?
@@ -3995,7 +3337,7 @@ pourraient impliquer les droits sous licence.
 
 ###         
 
-<!--<span class="c6 c28"> -->Si et seulement si votre usage particulier exige
+Si et seulement si votre usage particulier exige
 une autorisation , vous devez noter ce qui
 suit :
 
@@ -4111,7 +3453,7 @@ seraient à considérer: (1) le modèle ou la structure de la base de
 données, (2) la saisie de données et la feuille de sortie, (3) les noms
 des champs, et (4) les données ou tout autre contenu.
 
-Le <!--<span class="c6 c28"> -->modèle de base de
+Le modèle de base de
 données renvoi à la façon dont une base de
 données est structurée et organisée, y compris les tables de la base de
 données et la table des indexes. La sélection, la coordination, et la
@@ -4126,7 +3468,7 @@ class="c64"> -->[[1]](https://www.google.com/url?q=https://wiki.creativecommons.
 class="c6  c7"> -->. Ces résolutions sont très factuelles (sans jeu de
 mots) et varient selon les juridictions.
 
-Les <!--<span class="c6 c28"> -->feuilles de saisie de
+Les feuilles de saisie de
 données et de sortie  contiennent des
 questions, et les réponses à ces questions sont stockées dans une base
 de données. Par exemple, une page web demandant à un scientifique
@@ -4136,14 +3478,14 @@ disposition de ces feuilles sont protégés par le droit d'auteur selon le
 même critère d'originalité utilisé pour déterminer si le modèle de base
 de données est protégeable.
 
-<!--<span class="c6 c28"> -->Les noms des champs<!--<span
+Les noms des champs<!--<span
 class="c6  c7"> --> décrivent le contenu ou les données. Par exemple,
 "adresse" pourrait être le nom du champ pour obtenir des informations
 d'adresse postale. Ceux-ci sont moins susceptibles d'être protégés par
 le droit d'auteur parce qu'ils manquent souvent d'originalité
 suffisante.
 
-Les <!--<span class="c6 c28"> -->données<!--<span
+Les données<!--<span
 class="c6  c7"> --> ou autres éléments contenus dans la base de données
 sont soumis au droit d'auteur si elles sont suffisamment créatives. Des
 poèmes originaux contenus dans une base de données seraient protégés par
@@ -4224,7 +3566,7 @@ d'une partie substantielle<!--<span
 class="c6  c7"> --> du contenu de la base de données est interdite en
 l’absence d’une expresse exception.
 
-<!--<span class="c6 c28"> -->Il est important de se rappeler que les droits sui
+Il est important de se rappeler que les droits sui
 generis sur les bases de données existent dans seulement dans quelques
 pays en dehors de l'<!--<span class="c0 c28"> -->Union
 Européenne<!--<span class="c6 c49 c7 c28"> -->, tels que la Corée et le
