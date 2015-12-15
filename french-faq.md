@@ -2020,43 +2020,39 @@ façon de commencer et elle aura toujours les dernières versions mises
 une Interface de programmation d’application (API) disponible si vous
 voulez plus de contrôle.
 
-### Comment puis-je modifier ou supprimer l’option de
-recherche Creative Commons intégrée dans le navigateur Firefox?
+### Comment puis-je modifier ou supprimer l’option de recherche Creative Commons intégrée dans le navigateur Firefox?
 
-Mozilla a inclus la fonction de recherche Creative
-Commons dans de nombreuses versions de Firefox ainsi que des options de
-recherche pour Google, Amazon et d’autres sites populaires. S’il vous
-plaît consulter l’article de Firefox sur le wiki
-de CC  qui explique comment modifier ces
-caractéristiques.
+Mozilla a inclus la fonction de recherche Creative Commons dans de
+nombreuses versions de Firefox ainsi que des options de recherche pour
+Google, Amazon et d’autres sites populaires. S’il vous plaît consulter
+l’article de Firefox sur le wiki de CC  qui explique comment modifier
+ces caractéristiques.
 
-### Si vous voulez ajouter ou supprimer une option de
-recherche en particulier, cliquez sur le logo dans la boîte de recherche
-(par exemple, le logo de la CC ou le logo de Google). Cela va ouvrir le
+Si vous voulez ajouter ou supprimer une option de recherche en
+particulier, cliquez sur le logo dans la boîte de recherche (par
+exemple, le logo de la CC ou le logo de Google). Cela va ouvrir le
 menu déroulant, qui vous permettra de sélectionner les différents
 prestataires de recherche. Si vous choisissez “Gérer les moteurs de
 recherche”, vous serez en mesure d’ajouter ou supprimer des moteurs de
 recherche. Vous pouvez également modifier l’ordre dans lequel les
 fournisseurs de recherche apparaissent dans le menu déroulant.
 
-### Est-ce que Creative Commons est impliqué dans la
-gestion des droits numériques (DRM)?
+### Est-ce que Creative Commons est impliqué dans la gestion des droits numériques (DRM)?
 
-### Non. Les licences CC sont une forme d’expression
-des droits et non pas de gestion des droits. CC fournit des outils pour
-les créateurs et les propriétaires rendant plus facile de dire quels
-droits ils se réservent et les autorisations qu’ils accordent. Ceci est
-différent de la gestion des droits numériques (ou «DRM»), qui utilise
-des mesures techniques de protection pour empêcher les gens d’utiliser
-le travail d’une manière que le propriétaire n’a pas permis.
+Non. Les licences CC sont une forme d’expression des droits et non pas
+de gestion des droits. CC fournit des outils pour les créateurs et les
+propriétaires rendant plus facile de dire quels droits ils se
+réservent et les autorisations qu’ils accordent. Ceci est différent de
+la gestion des droits numériques (ou «DRM»), qui utilise des mesures
+techniques de protection pour empêcher les gens d’utiliser le travail
+d’une manière que le propriétaire n’a pas permis.
 
-### Le langage des licences CC interdit aux
-titulaires de licence d’ajouter des mesures techniques efficaces (y
-compris DRM) pour empêcher l’accès au matériel sous licence: « Vous ne
-pouvez pas offrir ou imposer des conditions supplémentaires ou
-différentes, ou appliquer des mesures techniques efficaces sur le
-matériel sous licence si cela restreint l’exercice par le bénéficiaire
-des droits concédés ».
+Le langage des licences CC interdit aux titulaires de licence
+d’ajouter des mesures techniques efficaces (y compris DRM) pour
+empêcher l’accès au matériel sous licence: « Vous ne pouvez pas offrir
+ou imposer des conditions supplémentaires ou différentes, ou appliquer
+des mesures techniques efficaces sur le matériel sous licence si cela
+restreint l’exercice par le bénéficiaire des droits concédés ».
 
 Bien que les concédants de licence peuvent appliquer des mesures
 techniques efficaces (MTE) à leurs propres matériaux, le concédant
