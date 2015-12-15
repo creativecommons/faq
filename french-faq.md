@@ -2076,35 +2076,33 @@ plates-formes de distribution, peuvent toujours appliquer des MTEs si le
 concédant télécharge vers leurs serveurs, et la licence ne vous donne
 pas la permission de les contourner.
 
-<!--<span class=" c7 c24"> -->Contexte juridique
+## Contexte juridique
 
-### Qu’est-ce que le droit d’auteur et pourquoi
-est-il important?
+### Qu’est-ce que le droit d’auteur et pourquoi est-il important?
 
-### La loi sur le droit d’auteur accorde des droits
-exclusifs aux créateurs d’œuvres originales. Les lois nationales
-étendent généralement la protection à ces œuvres automatiquement une
-fois fixées sur un support tangible, interdisant entre autres la
-production de copies sans l’autorisation du titulaire des droits. Sur
-l’Internet, même les activités les plus élémentaires impliquent la
-réalisation de copies de contenu protégé. Puisque du contenu est de plus
-en plus mis en ligne, téléchargé et partagé sur le réseau, le droit
-d’auteur est de plus en plus pertinent pour plus de gens qu’il ne
-l’était il y a 20 ans. Malheureusement, la violation même involontaire
-ou inconsciente des droits d’auteur peut engager une responsabilité. La
-navigation réussie sur l’Internet exige une certaine compréhension de la
-loi sur le droit d’auteur.
+La loi sur le droit d’auteur accorde des droits exclusifs aux
+créateurs d’œuvres originales. Les lois nationales étendent
+généralement la protection à ces œuvres automatiquement une fois
+fixées sur un support tangible, interdisant entre autres la production
+de copies sans l’autorisation du titulaire des droits. Sur l’Internet,
+même les activités les plus élémentaires impliquent la réalisation de
+copies de contenu protégé. Puisque du contenu est de plus en plus mis
+en ligne, téléchargé et partagé sur le réseau, le droit d’auteur est
+de plus en plus pertinent pour plus de gens qu’il ne l’était il y a 20
+ans. Malheureusement, la violation même involontaire ou inconsciente
+des droits d’auteur peut engager une responsabilité. La navigation
+réussie sur l’Internet exige une certaine compréhension de la loi sur
+le droit d’auteur.
 
 ### Quel est le domaine public?
 
-Le domaine public du droit d’auteur est l’ensemble des
-œuvres qui ne sont pas protégées par le droit d’auteur dans une
-juridiction donnée. Une œuvre peut faire partie du domaine public parce
-que sa durée de protection est expirée, ou parce que le titulaire des
-droits sur l’œuvre les abandonne par le biais d’un outil tel que
-le CC0 , ou parce
-que l’œuvre ne répond pas aux normes nécessaires pour acquérir la
-protection.
+Le domaine public du droit d’auteur est l’ensemble des œuvres qui ne
+sont pas protégées par le droit d’auteur dans une juridiction
+donnée. Une œuvre peut faire partie du domaine public parce que sa
+durée de protection est expirée, ou parce que le titulaire des droits
+sur l’œuvre les abandonne par le biais d’un outil tel que le CC0 , ou
+parce que l’œuvre ne répond pas aux normes nécessaires pour acquérir
+la protection.
 
 Puisque le domaine public dépend des lois sur le droit
 d’auteur en vigueur, parfois une œuvre peut être considérée « dans le
@@ -2114,80 +2112,74 @@ sont automatiquement dans le domaine public en vertu de la loi
 américaine sur le droit d’auteur , mais ils
 peuvent être protégés par le droit d’auteur dans d’autres pays.
 
-Le Manifeste du Domaine
-Public, la page Bibliothèques de l'Université, et
-la FAQ CC0<!--<span
-class="c6  c7"> --> contiennent tous des informations supplémentaires sur
-le domaine public.
+Le Manifeste du Domaine Public, la page Bibliothèques de l'Université,
+et la FAQ CC0 contiennent tous des informations supplémentaires sur le
+domaine public.
 
-### Que dois-je faire pour obtenir un droit
-d'auteur?
+### Que dois-je faire pour obtenir un droit d'auteur?
 
-### Le droit d'auteur dans la plupart des
-juridictions existe automatiquement sans besoin d'aucune formalité une
-fois le travail créatif est fixé sous forme tangible (c’est-à-dire le
-moment de mettre le stylo sur le papier, prendre une photo, ou cliquer
-sur le bouton "enregistrer" sur votre ordinateur).
+Le droit d'auteur dans la plupart des juridictions existe
+automatiquement sans besoin d'aucune formalité une fois le travail
+créatif est fixé sous forme tangible (c’est-à-dire le moment de mettre
+le stylo sur le papier, prendre une photo, ou cliquer sur le bouton
+"enregistrer" sur votre ordinateur).
 
-Sous certaines lois, les créateurs peuvent être tenus
-de s'inscrire avec une agence nationale afin de pouvoir faire respecter
-leur droit d'auteur judiciairement. Si vous souhaitez plus
-d'informations, s'il vous plaît consulter la Convention de Berne ou votre loi sur le droit d'auteur<!--<span
-class="c6  c7"> -->.
+Sous certaines lois, les créateurs peuvent être tenus de s'inscrire
+avec une agence nationale afin de pouvoir faire respecter leur droit
+d'auteur judiciairement. Si vous souhaitez plus d'informations, s'il
+vous plaît consulter la Convention de Berne ou votre loi sur le droit
+d'auteur.
 
-### Bien qu’il ne soit pas nécessaire d’ajouter une
-notice de protection par le droit d’auteur pour que l’œuvre soit
-protégée, telle notice serait utile pour signaler clairement que le
-travail est le vôtre. Elle informe aussi le public qui contacter au
-sujet de l’œuvre.
+Bien qu’il ne soit pas nécessaire d’ajouter une notice de protection
+par le droit d’auteur pour que l’œuvre soit protégée, telle notice
+serait utile pour signaler clairement que le travail est le
+vôtre. Elle informe aussi le public qui contacter au sujet de l’œuvre.
 
 ### Qu'est-ce qu'une adaptation?
 
-### Une adaptation est un travail basé sur une ou
-plusieurs œuvres préexistantes. Ce qui constitue une adaptation dépend
-de la loi applicable, mais la traduction d'une œuvre d'une langue à une
-autre, ou la création d'une version cinématographique d'un roman sont
+Une adaptation est un travail basé sur une ou plusieurs œuvres
+préexistantes. Ce qui constitue une adaptation dépend de la loi
+applicable, mais la traduction d'une œuvre d'une langue à une autre,
+ou la création d'une version cinématographique d'un roman sont
 généralement considérées comme des adaptations.
 
-Pour qu’une adaptation soit protégée par le droit
-d'auteur, la plupart des législations nationales exigent que l’auteur
-apporte une expression originale à l'œuvre préexistante. Cependant, il
-n'y a pas de norme internationale pour l'originalité et la définition
-varie en fonction des lois.  Les juridictions de droit civil (tels que
-l'Allemagne et la
-France) exigent que le travail
-contienne une empreinte de la personnalité de l'adaptateur. Les
-juridictions de <!--<span class="c6 c40"> -->common law (tels que les États-Unis ou au Canada) ont tendance à avoir un seuil inférieur pour l'originalité,
-ne nécessitant qu'un niveau minimal de créativité et de «conception
-indépendante. » D’autres pays abordent l'originalité tout à fait
-différemment. Par exemple, la loi du Brésil sur le droit d'auteur protège
-toutes les œuvres de l'esprit qui ne sont pas listées expressément par
-la loi comme des « œuvres non protégées. » Consultez la loi sur le droit d'auteur de
-votre juridiction  pour
-plus d'informations.
+Pour qu’une adaptation soit protégée par le droit d'auteur, la plupart
+des législations nationales exigent que l’auteur apporte une
+expression originale à l'œuvre préexistante. Cependant, il n'y a pas
+de norme internationale pour l'originalité et la définition varie en
+fonction des lois.  Les juridictions de droit civil (tels que
+l'Allemagne et la France) exigent que le travail contienne une
+empreinte de la personnalité de l'adaptateur. Les juridictions de
+common law (tels que les États-Unis ou au Canada) ont tendance à avoir
+un seuil inférieur pour l'originalité, ne nécessitant qu'un niveau
+minimal de créativité et de «conception indépendante. » D’autres pays
+abordent l'originalité tout à fait différemment. Par exemple, la loi
+du Brésil sur le droit d'auteur protège toutes les œuvres de l'esprit
+qui ne sont pas listées expressément par la loi comme des « œuvres non
+protégées. » Consultez la loi sur le droit d'auteur de votre
+juridiction  pour plus d'informations.
 
 ### Quels sont les droits moraux?
 
-### Les lois sur le droit d’auteur dans de nombreuses
-juridictions octroient à l’auteur des "droits moraux" en plus du droit
-économique ou commercial d’exploiter leurs œuvres. Les droits moraux
-protègent la valeur personnelle et la réputation d'une œuvre pour son
-créateur. Les droits moraux diffèrent selon les pays, et peuvent inclure
-le droit d'attribution, le droit d'avoir un travail publié anonymement
-ou sous un pseudonyme, et/ou le droit à l'intégrité de l'œuvre. Le droit
-à l'intégrité permet aux créateurs d’interdire une adaptation qui
+Les lois sur le droit d’auteur dans de nombreuses juridictions
+octroient à l’auteur des "droits moraux" en plus du droit économique
+ou commercial d’exploiter leurs œuvres. Les droits moraux protègent la
+valeur personnelle et la réputation d'une œuvre pour son créateur. Les
+droits moraux diffèrent selon les pays, et peuvent inclure le droit
+d'attribution, le droit d'avoir un travail publié anonymement ou sous
+un pseudonyme, et/ou le droit à l'intégrité de l'œuvre. Le droit à
+l'intégrité permet aux créateurs d’interdire une adaptation qui
 constitue un dénigrement de leur œuvre, généralement défini comme la
 « déformation ou mutilation » de l'œuvre ou le traitement qui est «
 préjudiciable à l'honneur ou à la réputation de l'auteur. » Les droits
 moraux ne sont pas prévus dans toutes les juridictions.
 
-Les licences CC sont destinées à minimiser l'effet des
-droits moraux sur le pouvoir d'un titulaire de licence d'utiliser la
-substance sous licence; Toutefois, dans certaines juridictions, ces
-droits peuvent encore avoir un effet. CC propose quelques informations
-supplémentaires sur la façon dont les licences
-CC peuvent affecter vos droits moraux<!--<span
-class="c6  c7"> -->.
+Les licences CC sont destinées à minimiser l'effet des droits moraux
+sur le pouvoir d'un titulaire de licence d'utiliser la substance sous
+licence; Toutefois, dans certaines juridictions, ces droits peuvent
+encore avoir un effet. CC propose quelques informations
+supplémentaires sur la façon dont les licences CC peuvent affecter vos
+droits moraux.
 
 ### Quels sont les droits voisins?
 
