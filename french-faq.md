@@ -1679,65 +1679,57 @@ autres termes de la licence.
 FAQ, nous utilisons le terme « remix » de façon interchangeable
 avec « adapter ». Les deux sont conçus pour signifier faire quelque
 chose qui constitue une <!--<span class="c0 c40 c28"> -->adaptation en
-vertu du droit d’auteur.\
-\
-Puis-je combiner du matériel sous différentes
-licences Creative Commons dans mon œuvre?
+vertu du droit d’auteur.
 
-Ça dépend. La première question à se poser est de
-savoir si le faire constitue une
-adaptation. Si la combinaison ne crée pas une
-adaptation, alors vous pouvez combiner tout contenu sous licence CC tant
-que vous fournissez l’attribution et respecter la restriction
-Non-Commerciale si elle s’applique. Si vous voulez combiner du matériel
-d’une manière qui aboutit à la création d’une adaptation (soit un
-“remix”), alors vous devez faire attention à la licence particulière qui
-s’applique au contenu que vous souhaitez combiner.\
- Les licences Non-derivées ne permettent pas le remixage sauf à usage
-privé (les pré-4.0 licences ne permettent pas le remixage du tout, sauf
-dans les cas permis par les exceptions et limitations au droit
-d’auteur). Toutes les autres licences CC permettent les remixages, mais
-peuvent imposer des restrictions ou des conditions sur la façon dont le
-remix peut être utilisé. Par exemple, si vous créez un remix d’un
-matériel sous une licence ShareAlike, vous devez vous assurer que tout
-le matériel a contribué au remix est autorisé sous la même licence
-ou une qui a été nommée par CC comme
-compatible, et vous devez correctement
-créditer toutes les sources avec l’attribution
-requise et les informations de la licence. De
-même, si vous souhaitez utiliser un remix pour des fins commerciales, vous ne pouvez
-pas intégrer le matériel distribué sous l’une des licences non
-commerciales.\
- Le tableau ci-dessous indique quels documents sous licence CC peuvent
+### Puis-je combiner du matériel sous différentes licences Creative Commons dans mon œuvre?
+
+Ça dépend. La première question à se poser est de savoir si le faire
+constitue une adaptation. Si la combinaison ne crée pas une
+adaptation, alors vous pouvez combiner tout contenu sous licence CC
+tant que vous fournissez l’attribution et respecter la restriction
+Non-Commerciale si elle s’applique. Si vous voulez combiner du
+matériel d’une manière qui aboutit à la création d’une adaptation
+(soit un “remix”), alors vous devez faire attention à la licence
+particulière qui s’applique au contenu que vous souhaitez combiner.
+
+Les licences Non-derivées ne permettent pas le remixage sauf à usage
+privé (les pré-4.0 licences ne permettent pas le remixage du tout,
+sauf dans les cas permis par les exceptions et limitations au droit
+d’auteur). Toutes les autres licences CC permettent les remixages,
+mais peuvent imposer des restrictions ou des conditions sur la façon
+dont le remix peut être utilisé. Par exemple, si vous créez un remix
+d’un matériel sous une licence ShareAlike, vous devez vous assurer que
+tout le matériel a contribué au remix est autorisé sous la même
+licence ou une qui a été nommée par CC comme compatible, et vous devez
+correctement créditer toutes les sources avec l’attribution requise et
+les informations de la licence. De même, si vous souhaitez utiliser un
+remix pour des fins commerciales, vous ne pouvez pas intégrer le
+matériel distribué sous l’une des licences non commerciales.\
+
+Le tableau ci-dessous indique quels documents sous licence CC peuvent
 être remixés. Pour utiliser le tableau, trouver une licence sur la
-colonne de gauche et sur la ligne en haut à droite. Si il y a une croix
-dans la case où cette ligne et de la colonne se coupent, les œuvres
-peuvent être remixées. Si il ya un «X» dans la case, alors les travaux
-ne peuvent pas être remixés au moins qu’une exception ou limitation
-applique. Voir ci-dessous pour plus de
-détails sur la façon dont les remixes peuvent être autorisés.
+colonne de gauche et sur la ligne en haut à droite. Si il y a une
+croix dans la case où cette ligne et de la colonne se coupent, les
+œuvres peuvent être remixées. Si il ya un «X» dans la case, alors les
+travaux ne peuvent pas être remixés au moins qu’une exception ou
+limitation applique. Voir ci-dessous pour plus de détails sur la façon
+dont les remixes peuvent être autorisés.
 
-<!--<span
-style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 300.44px; height: 173.13px;"> -->
-![Creative Commons License Compatibility
-Chart](images/image00.png)
+# INSERT GRAPHIC HERE
 
-### Si je tire ou j’adapte du matériel proposé sous
-une licence Creative Commons, quelle(s) licence (s) CC puis-je
-utiliser?
+### Si je tire ou j’adapte du matériel proposé sous une licence Creative Commons, quelle(s) licence (s) CC puis-je utiliser?
 
-Si vous faites des adaptations  du matériel sous
-une licence CC (c.à.d. “remix”), la licence CC originale s’applique
-toujours au matériel que vous adaptez même après adaptation. La licence
-que vous pouvez choisir pour votre propre contribution (appelée
-« licence de l’adaptateur ») dépend de la licence qui s’applique au
-matériel d’origine. Les bénéficiaires de l’adaptation doivent respecter
-à la fois la licence CC sur l’original et la licence de
-l’adaptateur.
+Si vous faites des adaptations  du matériel sous une licence CC
+(c.à.d. “remix”), la licence CC originale s’applique toujours au
+matériel que vous adaptez même après adaptation. La licence que vous
+pouvez choisir pour votre propre contribution (appelée « licence de
+l’adaptateur ») dépend de la licence qui s’applique au matériel
+d’origine. Les bénéficiaires de l’adaptation doivent respecter à la
+fois la licence CC sur l’original et la licence de l’adaptateur.
 
-### ===== Matériel sous BY et BY-NC =====
+#### Matériel sous BY et BY-NC
 
-### Lorsque le matériel à remixer est sous une
+Lorsque le matériel à remixer est sous une
 licence Attribution (BY) ou Attribution-Pas d’Utilisation Commerciale
 (BY-NC), il est généralement recommandé que la licence de
 l’adaptateur comprenne au moins les mêmes éléments de licence que la
@@ -1748,8 +1740,7 @@ exemple, si vous adaptez le matériel sous licence BY-NC, la licence de
 l’adaptateur  devrait également contenir la restriction NC. Voir le
 tableau ci-dessous pour plus de détails.
 
-### ===== Matériel sous BY-SA et BY-NC-SA
-=====
+#### Matériel sous BY-SA et BY-NC-SA
 
 En général, lorsque le matériel à remixer est sous une
 licence Partage dans les Mêmes Conditions (SA), votre licence de
@@ -1766,23 +1757,20 @@ et de libérer vos contributions sous une licence non-CC, vous devriez
 visiter la page de Compatibilité<!--<span
 class="c6  c7"> --> pour voir quelles options sont permises.
 
-### ===== Matériel sous BY-ND et BY-NC-ND
-=====
+#### Matériel sous BY-ND et BY-NC-ND
 
-Les licences Attribution<!--<span
-class="c87"> -->  - Pas de Modification (BY-ND)
-et Attribution - Pas d’Utilisation Commerciale - Pas de Modification
-(BY-NC-ND) ne permettent pas la distribution des adaptations (également
-connus sous le nom des remixes ou des œuvres dérivés), et interdit la
-création d’adaptations sous des versions antérieures à 4.0 de ces
-licences. Puisque vous ne pouvez pas du tout partager des remixes de ces
-matériels, il n’y a pas de compatibilité avec d’autres licences. (Notez
-que les licences ND vous permettent de reproduire le matériel sous une
-forme non modifiée avec d’autres éléments dans une collection, comme
-indiqué dans la suivante FAQ).
+Les licences Attribution<!--<span class="c87"> -->  - Pas de
+Modification (BY-ND) et Attribution - Pas d’Utilisation Commerciale -
+Pas de Modification (BY-NC-ND) ne permettent pas la distribution des
+adaptations (également connus sous le nom des remixes ou des œuvres
+dérivés), et interdit la création d’adaptations sous des versions
+antérieures à 4.0 de ces licences. Puisque vous ne pouvez pas du tout
+partager des remixes de ces matériels, il n’y a pas de compatibilité
+avec d’autres licences. (Notez que les licences ND vous permettent de
+reproduire le matériel sous une forme non modifiée avec d’autres
+éléments dans une collection, comme indiqué dans la suivante FAQ).
 
-### ===== Tableau de licence de l’adaptateur
-=====
+# INSERT TABLE
 
 ### Le tableau ci-dessous détaille la licence (s) CC
 que vous pouvez utiliser comme une licence de l’adaptateur. Lors de la
@@ -1799,104 +1787,91 @@ conscients de leur obligation de se conformer aux licences de tous les
 titulaires de droits. Les cases gris foncé indiquent les licences que
 vous ne pouvez pas utiliser comme licence de l’adaptateur.
 
-### Si je crée une collection qui inclut une œuvre
-offerte en vertu d’une licence CC, quelle licence (s) puis-je choisir
-pour la collection?
+### Si je crée une collection qui inclut une œuvre offerte en vertu d’une licence CC, quelle licence (s) puis-je choisir pour la collection?
 
-### Toutes les licences Creative Commons (y compris
-la version 4.0 des licences) permettent que du matériel sous licence
-soit inclus dans des collections telles que des anthologies,
-encyclopédies, et des émissions. Vous pouvez choisir une licence pour la
-collection, mais cela ne change pas la licence applicable au matériel
-d’origine.
+Toutes les licences Creative Commons (y compris la version 4.0 des
+licences) permettent que du matériel sous licence soit inclus dans des
+collections telles que des anthologies, encyclopédies, et des
+émissions. Vous pouvez choisir une licence pour la collection, mais
+cela ne change pas la licence applicable au matériel d’origine.
 
-Lorsque vous incluez un contenu sous licence CC dans
-une collection, vous devez toujours respecter les conditions de licence
-régissant votre utilisation du matériel incorporé. Par exemple, un
-matériel sous l’une des licences Creative Commons Pas d’Utilisation
-Commerciale (NC) ne peut pas être utilisé commercialement . Le tableau
-ci-dessous indique quel type d’œuvres sous licence CC vous pouvez
-intégrer dans les collections sous licence pour des utilisations
-commerciales et non commerciales.
+Lorsque vous incluez un contenu sous licence CC dans une collection,
+vous devez toujours respecter les conditions de licence régissant
+votre utilisation du matériel incorporé. Par exemple, un matériel sous
+l’une des licences Creative Commons Pas d’Utilisation Commerciale (NC)
+ne peut pas être utilisé commercialement . Le tableau ci-dessous
+indique quel type d’œuvres sous licence CC vous pouvez intégrer dans
+les collections sous licence pour des utilisations commerciales et non
+commerciales.
 
-### La résiliation de la licence
+## La résiliation de la licence
 
-### Quand-est ce que les licences Creative Commons
-expirent-elles?
+### Quand-est ce que les licences Creative Commons expirent-elles?
 
-### Les licences Creative Commons expirent lorsque le
-droit d’auteur sous-jacent et les droits similaires expirent.
+Les licences Creative Commons expirent lorsque le droit d’auteur sous-jacent et les droits similaires expirent.
 
-Notez que les droits correspondants peuvent expirer à
-des moments différents. Par exemple, vous pouvez avoir une chanson sous
-licence CC où les droits de l’arrangement musical expirent avant
-l’expiration des droits sur les paroles. Dans ce cas, lorsque le droit
-d’auteur sur la musique expire, vous pouvez l’utiliser sans être tenus de se conformer aux conditions de la licence
-CC ; Cependant, vous devez toujours
+Notez que les droits correspondants peuvent expirer à des moments
+différents. Par exemple, vous pouvez avoir une chanson sous licence CC
+où les droits de l’arrangement musical expirent avant l’expiration des
+droits sur les paroles. Dans ce cas, lorsque le droit d’auteur sur la
+musique expire, vous pouvez l’utiliser sans être tenus de se conformer
+aux conditions de la licence CC ; Cependant, vous devez toujours
 respecter la licence si vous utilisez les paroles.
 
-### Qu’advient-il si l’auteur décide de révoquer la
-licence CC qui s’applique sur du matériel que j’utilise ?
+## Qu’advient-il si l’auteur décide de révoquer la licence CC qui s’applique sur du matériel que j’utilise ?
 
-### Les licences CC sont irrévocables. Cela signifie
-qu’une fois vous recevez du matériel sous une licence CC, vous aurez
-toujours le droit de l’utiliser sous les conditions de la licence, même
-si le concédant de licence change son avis et cesse de distribuer sous
-les termes de la licence CC. Bien sûr, vous pouvez choisir de respecter
-les souhaits du concédant de licence et de cesser d’utiliser
-l’œuvre.
+Les licences CC sont irrévocables. Cela signifie qu’une fois vous
+recevez du matériel sous une licence CC, vous aurez toujours le droit
+de l’utiliser sous les conditions de la licence, même si le concédant
+de licence change son avis et cesse de distribuer sous les termes de
+la licence CC. Bien sûr, vous pouvez choisir de respecter les souhaits
+du concédant de licence et de cesser d’utiliser l’œuvre.
 
-### Comment puis-je perdre mes droits sous une
-licence Creative Commons? Si cela se produit, comment puis-je les
-récupérer?
+### Comment puis-je perdre mes droits sous une licence Creative Commons? Si cela se produit, comment puis-je les récupérer?
 
-### Toutes les licences CC se résilient si vous ne
-respectez pas les conditions de la licence. Si cela se produit, vous ne
-disposez plus de licence pour utiliser le matériel.
+Toutes les licences CC se résilient si vous ne respectez pas les
+conditions de la licence. Si cela se produit, vous ne disposez plus de
+licence pour utiliser le matériel.
 
-### Dans les licences 4.0, vos droits en vertu de la
-licence sont automatiquement rétablis si vous corrigez ceci dans les 30
-jours après la découverte de la violation (soit par soi-même ou parce
-que le concédant de licence ou quelqu’un d’autre vous informe). Sous les
+Dans les licences 4.0, vos droits en vertu de la licence sont
+automatiquement rétablis si vous corrigez ceci dans les 30 jours après
+la découverte de la violation (soit par soi-même ou parce que le
+concédant de licence ou quelqu’un d’autre vous informe). Sous les
 licences 3.0 et celles antérieures, il n’y a pas le rétablissement
 automatique.
 
-### Si vous avez perdu vos droits en vertu d’une
-licence CC et vous ne bénéficiez pas du droit de rétablissement
-automatique, vous pouvez retrouver vos droits en vertu de la licence si
-le concédant de licence vous accorde expressément la permission. Vous ne
-pouvez pas simplement télécharger à nouveau le matériel pour obtenir une
-nouvelle licence.
+Si vous avez perdu vos droits en vertu d’une licence CC et vous ne
+bénéficiez pas du droit de rétablissement automatique, vous pouvez
+retrouver vos droits en vertu de la licence si le concédant de licence
+vous accorde expressément la permission. Vous ne pouvez pas simplement
+télécharger à nouveau le matériel pour obtenir une nouvelle licence.
 
-### Notez que vous pouvez toujours être responsable
-des dommages-intérêts pour violation de droit d’auteur pour la période
-où vous n’étiez pas en conformité avec les conditions de la
-licence.
+Notez que vous pouvez toujours être responsable des dommages-intérêts
+pour violation de droit d’auteur pour la période où vous n’étiez pas
+en conformité avec les conditions de la licence.
 
-<!--<span class=" c7 c20"> -->Questions techniques
+## Questions techniques
 
-### Comment les licences Creative Commons et les
-outils du domaine public fonctionnent techniquement?
+### Comment les licences Creative Commons et les outils du domaine public fonctionnent techniquement?
 
-Les licences Creative Commons ont trois couches, comme pour la
-licence CC0 Dédiée au Domaine Public: l’acte lisible par l’homme, le code légal lisible par
-l’avocat, et les métadonnées lisibles par la machine. Le Marquage Domaine Public  n’est
-pas efficient juridiquement, et a donc seulement deux couches: la marque
-lisible par l’homme et les métadonnées lisibles par la machine.
+Les licences Creative Commons ont trois couches, comme pour la licence
+CC0 Dédiée au Domaine Public: l’acte lisible par l’homme, le code
+légal lisible par l’avocat, et les métadonnées lisibles par la
+machine. Le Marquage Domaine Public  n’est pas efficient
+juridiquement, et a donc seulement deux couches: la marque lisible par
+l’homme et les métadonnées lisibles par la machine.
 
-Lorsque le matériel est autorisé en utilisant une des
-licences ou des outils CC, il est fortement recommandé qu’un
-bouton CC, texte ou autre
+Lorsque le matériel est autorisé en utilisant une des licences ou des
+outils CC, il est fortement recommandé qu’un bouton CC, texte ou autre
 marqueur en quelque sorte l’accompagne. Il existe de nombreux modes
 possibles pour le marquage. Pour nos licences, les gens utilisent
-généralement le sélecteur de licence
-CC pour générer le code HTML qui peut être collé
-dans la page web où le matériel est publié sous licence. CC0 et le
-Marquage Domaine Public ont un sélecteur séparé. Beaucoup de
-plateformes et des services Web tels que Flickr et Drupal  permettent de donner en
-licence CC directement, vous permettant de sélectionner une licence
-appropriée. Ensuite le service marque correctement l’œuvre pour
-vous.
+généralement le sélecteur de licence CC pour générer le code HTML qui
+peut être collé dans la page web où le matériel est publié sous
+licence. CC0 et le Marquage Domaine Public ont un
+sélecteur séparé. Beaucoup de plateformes et des services Web tels que
+Flickr et Drupal  permettent de donner en licence CC directement, vous
+permettant de sélectionner une licence appropriée. Ensuite le service
+marque correctement l’œuvre pour vous.
 
 CC a publié certaines des meilleures pratiques pour le marquage de
 votre matériel sous licence CC, et recommande:
