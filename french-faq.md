@@ -2010,19 +2010,15 @@ une double vérification pour veiller à ce que le travail que vous
 localiser à travers une recherche est sous le type de licence que vous
 cherchez.
 
-### Comment puis-je donner aux utilisateurs de mon
-site la possibilité d’utiliser les licences CC comme le fait
-Flickr?
+### Comment puis-je donner aux utilisateurs de mon site la possibilité d’utiliser les licences CC comme le fait Flickr?
 
-Creative Commons fournit des outils pour intégrer la
-sélection de licence avec votre site. Vous pouvez trouver un aperçu à la
-page web d’intégration sur le CC
-wiki. L’Interface
-Partenaire  est une bonne façon de
-commencer et elle aura toujours les dernières versions mises à jour des
-licences et des traductions. Cependant, il y a également une Interface
-de programmation d’application (API) disponible si vous voulez plus de
-contrôle.
+Creative Commons fournit des outils pour intégrer la sélection de
+licence avec votre site. Vous pouvez trouver un aperçu à la page web
+d’intégration sur le CC wiki. L’Interface Partenaire est une bonne
+façon de commencer et elle aura toujours les dernières versions mises
+à jour des licences et des traductions. Cependant, il y a également
+une Interface de programmation d’application (API) disponible si vous
+voulez plus de contrôle.
 
 ### Comment puis-je modifier ou supprimer l’option de
 recherche Creative Commons intégrée dans le navigateur Firefox?
@@ -2062,19 +2058,19 @@ différentes, ou appliquer des mesures techniques efficaces sur le
 matériel sous licence si cela restreint l’exercice par le bénéficiaire
 des droits concédés ».
 
-Bien que les concédants de licence peuvent appliquer
-des mesures techniques efficaces (MTE) à leurs propres matériaux, le
-concédant fournit une autorisation limitée pour
-contourner ces mesures : «Le Concédant
-renonce et/ou accepte de ne pas faire valoir un droit ou le pouvoir de
-vous interdire d’apporter des modifications techniques nécessaires pour
-exercer les droits licenciés, y compris les modifications techniques
-nécessaires pour contourner les mesures techniques efficaces ». Notez
-que cela ne concerne que des mesures techniques efficaces appliquées par
-les concédants de licence eux-mêmes: les tiers, tels que les
-plates-formes de distribution, peuvent toujours appliquer des MTEs si le
-concédant télécharge vers leurs serveurs, et la licence ne vous donne
-pas la permission de les contourner.
+Bien que les concédants de licence peuvent appliquer des mesures
+techniques efficaces (MTE) à leurs propres matériaux, le concédant
+fournit une autorisation limitée pour contourner ces mesures : «Le
+Concédant renonce et/ou accepte de ne pas faire valoir un droit ou le
+pouvoir de vous interdire d’apporter des modifications techniques
+nécessaires pour exercer les droits licenciés, y compris les
+modifications techniques nécessaires pour contourner les mesures
+techniques efficaces ». Notez que cela ne concerne que des mesures
+techniques efficaces appliquées par les concédants de licence
+eux-mêmes: les tiers, tels que les plates-formes de distribution,
+peuvent toujours appliquer des MTEs si le concédant télécharge vers
+leurs serveurs, et la licence ne vous donne pas la permission de les
+contourner.
 
 ## Contexte juridique
 
@@ -2183,75 +2179,72 @@ droits moraux.
 
 ### Quels sont les droits voisins?
 
-Le droit d'auteur prévoit une incitation à créer des
-œuvres en fournissant des droits exclusifs aux créateurs. Cependant, la
+Le droit d'auteur prévoit une incitation à créer des œuvres en
+fournissant des droits exclusifs aux créateurs. Cependant, la
 distribution ou l'exploitation d'une œuvre implique souvent d’autres
 personnes en plus du créateur. Par exemple, si quelqu'un écrit une
-chanson, quelqu'un d'autre peut interpréter la chanson, et un autre peut
-produire l'enregistrement de la chanson. Certaines juridictions étendent
-le droit d'auteur pour les contributions apportées par ces personnes;
-d'autres juridictions étendent ces droits exclusifs sous la forme de
-droits voisins. Les droits voisins peuvent inclure les droits des
-artistes interprètes ou les diffuseurs, entre autres. La Convention de Rome  énonce des
-lignes directrices sur la portée des droits voisins. Les droits voisins
-ne sont pas reconnus dans toutes les juridictions.
+chanson, quelqu'un d'autre peut interpréter la chanson, et un autre
+peut produire l'enregistrement de la chanson. Certaines juridictions
+étendent le droit d'auteur pour les contributions apportées par ces
+personnes; d'autres juridictions étendent ces droits exclusifs sous la
+forme de droits voisins. Les droits voisins peuvent inclure les droits
+des artistes interprètes ou les diffuseurs, entre autres. La
+Convention de Rome  énonce des lignes directrices sur la portée des
+droits voisins. Les droits voisins ne sont pas reconnus dans toutes
+les juridictions.
 
-Quels sont les droits <!--<span class="c6 c40"> -->sui
-generis  sur les bases de données?
+## Quels sont les droits sui generis  sur les bases de données?
 
-Les droits <!--<span class="c6 c40"> -->sui
-generis sur les bases de données octroient aux
-producteurs de base de données le droit d'interdire l'extraction et la
-réutilisation d'une partie substantielle d'une base de données. Les
-droits sont accordés aux producteurs de bases de données qui font un
-investissement substantiel de temps et de ressources pour créer la base
-de données. Les droits <!--<span class="c6 c40"> -->sui
-generis  sur les bases de données sont
-principalement adoptés au sein de l'Union européenne et dans certaines
-autres juridictions.
+Les droits <!--<span class="c6 c40"> -->sui generis sur les bases de
+données octroient aux producteurs de base de données le droit
+d'interdire l'extraction et la réutilisation d'une partie
+substantielle d'une base de données. Les droits sont accordés aux
+producteurs de bases de données qui font un investissement substantiel
+de temps et de ressources pour créer la base de données. Les
+droits <!--<span class="c6 c40"> -->sui generis  sur les bases de
+données sont principalement adoptés au sein de l'Union européenne et
+dans certaines autres juridictions.
 
 ### Quelles sont les sociétés de perception?
 
-Les sociétés de gestion
-collective  sont des organisations de
-gestion des droits d'auteur. Par exemple l'ASCAP et BMI (États-Unis),
-Buma / STEMRA (Pays-Bas), PRS (Royaume-Uni), et l'APRA (Australie). Ces
-sociétés donnent les œuvres en licence pour le compte des titulaires des
-droits et collecte les redevances des tiers qui utilisent ces œuvres
-protégées.
+Les sociétés de gestion collective  sont des organisations de gestion
+des droits d'auteur. Par exemple l'ASCAP et BMI (États-Unis), Buma /
+STEMRA (Pays-Bas), PRS (Royaume-Uni), et l'APRA (Australie). Ces
+sociétés donnent les œuvres en licence pour le compte des titulaires
+des droits et collecte les redevances des tiers qui utilisent ces
+œuvres protégées.
 
-CC propose des informations supplémentaires sur
-la façon dont les sociétés de gestion pourraient
-affecter vos droits et votre pouvoir à appliquer les licences CC à votre
-travail. CC dispose de plusieurs guides  en cours avec les
-sociétés de perception qui ont choisi de permettre à leurs membres
-d'utiliser les licences CC d’une façon limitée.
+CC propose des informations supplémentaires sur la façon dont les
+sociétés de gestion pourraient affecter vos droits et votre pouvoir à
+appliquer les licences CC à votre travail. CC dispose de plusieurs
+guides  en cours avec les sociétés de perception qui ont choisi de
+permettre à leurs membres d'utiliser les licences CC d’une façon
+limitée.
 
-### Quels sont les droits à la personnalité publique,
-les droits de la personnalité et à la vie privée?
+### Quels sont les droits à la personnalité publique, les droits de la personnalité et à la vie privée?
 
-### Ces termes sont utilisés différemment dans
-différentes juridictions. D’une manière générale, ces droits permettent
-aux individus de contrôler l'utilisation de leur voix, image, leur
+Ces termes sont utilisés différemment dans différentes
+juridictions. D’une manière générale, ces droits permettent aux
+individus de contrôler l'utilisation de leur voix, image, leur
 ressemblance, ou d’autres aspects identifiables de leur identité,
-notamment à des fins d'exploitation commerciale. De même, dans certaines
-juridictions, ces droits permettent à la personne d’empêcher les autres
-de publier des informations à son sujet sans sa permission. L’existence
-et la portée de ces droits, et leur désignation varie en fonction des
-juridictions.
+notamment à des fins d'exploitation commerciale. De même, dans
+certaines juridictions, ces droits permettent à la personne d’empêcher
+les autres de publier des informations à son sujet sans sa
+permission. L’existence et la portée de ces droits, et leur
+désignation varie en fonction des juridictions.
 
-Les licences Creative Commons
-ont un effet limité sur ces droits  lorsque
-le concédant de licence les détient. Lorsque le concédant détient les
-droits à la personnalité publique, les droits de la personnalité et à la
-vie privée qui peuvent affecter votre pouvoir d’utiliser le matériel
-selon les conditions de licence, le concédant accepte de renoncer ou de
-ne pas faire valoir ces droits. Toutefois, lorsque ces droits ne sont
-pas détenus par le concédant de licence ils ne sont pas concernés et
-peuvent heurter votre utilisation souhaitée d'une œuvre sous licence. Si
-vous avez créé une œuvre ou souhaitez utiliser une œuvre qui pourrait
-d'une certaine façon impliquer ces droits, vous devrez peut-être obtenir
-la permission des personnes dont ces droits peuvent être touchés.
+Les licences Creative Commons ont un effet limité sur ces droits
+ lorsque le concédant de licence les détient. Lorsque le concédant
+détient les droits à la personnalité publique, les droits de la
+personnalité et à la vie privée qui peuvent affecter votre pouvoir
+d’utiliser le matériel selon les conditions de licence, le concédant
+accepte de renoncer ou de ne pas faire valoir ces droits. Toutefois,
+lorsque ces droits ne sont pas détenus par le concédant de licence ils
+ne sont pas concernés et peuvent heurter votre utilisation souhaitée
+d'une œuvre sous licence. Si vous avez créé une œuvre ou souhaitez
+utiliser une œuvre qui pourrait d'une certaine façon impliquer ces
+droits, vous devrez peut-être obtenir la permission des personnes dont
+ces droits peuvent être touchés.
 
 ---
 
