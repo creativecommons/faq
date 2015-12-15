@@ -1,6 +1,4 @@
 
-# Foire Aux Questions
-
 Cette FAQ est conçue pour fournir une meilleure compréhension de
 Creative Commons, de nos licences, et nos outils juridiques et
 techniques. Elle fournit l’information de base, parfois quant à des
@@ -2313,219 +2311,197 @@ licence pour l’extraction. Du fait qu’il existe différentes méthodes
 pour mener une extraction de texte et de données, certaines méthodes
 pourraient impliquer les droits sous licence.
 
-###         
-
 Si et seulement si votre usage particulier exige
 une autorisation , vous devez noter ce qui
 suit :
 
--   <!--<span class="c6 c40"> -->Autorisation : Les
-    six licences 4.0 permettent l'extraction de texte et de données par
-    l'octroi d’une autorisation expresse de reproduire en privé,
-    d’extraire et de réutiliser le contenu de la base de données sous
-    licence et de créer des bases de données adaptées.
--   <!--<span class="c6 c40"> -->Des fins commerciales:
-    Si vous menez une extraction de texte et de données à des
-    fins commerciales ,
-    vous ne devriez pas extraire les bases de données ou autre matériel
-    sous licence Pas d'utilisation commerciale (NC).
--   <!--<span class="c6 c40"> -->Résultats : Si
-    vous partagez publiquement les résultats de votre activité
-    d’extraction ou les données extraites, vous devez respecter le droit
-    d’attribution du détenteur des droits. Si ce que vous partagez
-    publiquement est qualifié comme une adaptation du matériel sous
-    licence, vous ne devriez pas extraire du matériel licencié Pas de
-    modification (ND). Si vous partagez une adaptation du matériel
-    licencié Partage à l’identique (SA), vous devez appliquer la même
-    licence à l'adaptation qui en résulte.
+* **Autorisation**: Les six licences 4.0 permettent l'extraction de
+texte et de données par l'octroi d’une autorisation expresse de
+reproduire en privé, d’extraire et de réutiliser le contenu de la base
+de données sous licence et de créer des bases de données adaptées.
+
+* **Des fins commerciales**: Si vous menez une extraction de texte et
+de données à des fins commerciales , vous ne devriez pas extraire les
+bases de données ou autre matériel sous licence Pas d'utilisation
+commerciale (NC).
+
+* **Résultats**: Si vous partagez publiquement les résultats de votre
+activité d’extraction ou les données extraites, vous devez respecter
+le droit d’attribution du détenteur des droits. Si ce que vous
+partagez publiquement est qualifié comme une adaptation du matériel
+sous licence, vous ne devriez pas extraire du matériel licencié Pas de
+modification (ND). Si vous partagez une adaptation du matériel
+licencié Partage à l’identique (SA), vous devez appliquer la même
+licence à l'adaptation qui en résulte.
+
 -   Si votre utilisation ne nécessite pas une
     autorisation en vertu de la licence ,
     vous pouvez effectuer l’extraction de texte et de données sans égard
     aux considérations ci-dessus.
 
-### Comment le traitement des droits sui generis sur
-les bases de données varient dans les versions antérieures de licences
-CC?
+### Comment le traitement des droits sui generis sur les bases de données varient dans les versions antérieures de licences CC?
 
-Comme expliqué ci-dessus , la version actuelle
-de la licence CC (4.0) donne en licence les droits sui generis sur les
-bases de données en plus des droits d'auteur et autres droits
-étroitement liés. Les versions antérieures des licences CC fonctionnent
-différemment par rapport aux droits sui generis sur les bases de
-données.
+Comme expliqué ci-dessus , la version actuelle de la licence CC (4.0)
+donne en licence les droits sui generis sur les bases de données en
+plus des droits d'auteur et autres droits étroitement liés. Les
+versions antérieures des licences CC fonctionnent différemment par
+rapport aux droits sui generis sur les bases de données.
 
-### Dans la version de licence CC 3.0 le traitement
-juridique des droits sui generis sur les bases de données varie, mais
-pratiquement le résultat est toujours le même: la conformité avec les
-restrictions et conditions de la licence n’est pas nécessaire lorsque
-les droits sui generis sur les bases de données – mais pas le droit
-d'auteur – sont impliqués. Cela signifie que si quelqu'un extrait une
-partie substantielle d'une base de données sous licence CC et l'utilise
-d'une manière qui ne met pas en jeu le droit d'auteur (par exemple, en
+Dans la version de licence CC 3.0 le traitement juridique des droits
+sui generis sur les bases de données varie, mais pratiquement le
+résultat est toujours le même: la conformité avec les restrictions et
+conditions de la licence n’est pas nécessaire lorsque les droits sui
+generis sur les bases de données – mais pas le droit d'auteur – sont
+impliqués. Cela signifie que si quelqu'un extrait une partie
+substantielle d'une base de données sous licence CC et l'utilise d'une
+manière qui ne met pas en jeu le droit d'auteur (par exemple, en
 réarrangeant les données purement factuelles), la licence ne l'oblige
 pas à attribuer le concédant de licence ni se conformer à d’autres
-restrictions ou conditions, même si la base de données est protégée par
-des droits sui generis sur les bases de données.
+restrictions ou conditions, même si la base de données est protégée
+par des droits sui generis sur les bases de données.
 
-### Bien que ce résultat est le même dans toutes les
-versions des licences CC 3.0, la raison de ce résultat varie. Dans les
-licences 3.0 adaptées aux différentes lois de l'UE, la portée des
-licences couvre expressément les bases de données protégées par le droit
-d’auteur et/ou par les droits sui generis sur les bases de données.
-Cependant, les conditions de la licence sont expressément renoncées
-lorsque l'utilisation de l'œuvre sous licence ne concerne que l'exercice
-des droits sur la base de données.
+Bien que ce résultat est le même dans toutes les versions des licences
+CC 3.0, la raison de ce résultat varie. Dans les licences 3.0 adaptées
+aux différentes lois de l'UE, la portée des licences couvre
+expressément les bases de données protégées par le droit d’auteur
+et/ou par les droits sui generis sur les bases de données.  Cependant,
+les conditions de la licence sont expressément renoncées lorsque
+l'utilisation de l'œuvre sous licence ne concerne que l'exercice des
+droits sur la base de données.
 
-### En revanche, les licences 3.0 non-adaptées et
-toutes les autres licences adaptées ne donne pas expressément en licence
-les droits sui generis sur les bases de données. En conséquence, ces
-licences ne s’appliquent pas lorsque seuls des droits sui generis sur
-les bases de données sont impliqués. Cela signifie qu’un titulaire de
-licence peut avoir besoin d’une autorisation séparée pour utiliser la
-base de données d'une manière qui implique des droits sui generis sur
-les bases de données (bien que sans doute une licence implicite
-d'exercer ces droits peut être considérée comme accordée dans certaines
+En revanche, les licences 3.0 non-adaptées et toutes les autres
+licences adaptées ne donne pas expressément en licence les droits sui
+generis sur les bases de données. En conséquence, ces licences ne
+s’appliquent pas lorsque seuls des droits sui generis sur les bases de
+données sont impliqués. Cela signifie qu’un titulaire de licence peut
+avoir besoin d’une autorisation séparée pour utiliser la base de
+données d'une manière qui implique des droits sui generis sur les
+bases de données (bien que sans doute une licence implicite d'exercer
+ces droits peut être considérée comme accordée dans certaines
 juridictions).
 
-Plus d'informations sur la politique sous-jacente 3.0
-le traitement des droits sui generis sur les bases de données ces
-licences peuvent être trouvées sur notre wiki
-(.pdf) .
+Plus d'informations sur la politique sous-jacente 3.0 le traitement
+des droits sui generis sur les bases de données ces licences peuvent
+être trouvées sur notre wiki (.pdf) .
 
-### Quelle est la différence entre les licences Open
-Data Commons et les licences CC 4.0?
+### Quelle est la différence entre les licences Open Data Commons et les licences CC 4.0?
 
-La licence Open Database
-(ODbL) et la licence Open Data Commons Paternité (ODC-BY) sont des licences conçues spécifiquement pour une
+La licence Open Database (ODbL) et la licence Open Data Commons
+Paternité (ODC-BY) sont des licences conçues spécifiquement pour une
 utilisation sur des bases de données et non sur d'autres types de
 matériel. Il y a beaucoup de différences entre ces licences et les
 licences CC, mais le plus important ce sont la portée et le
 fonctionnement de la licence. Les licences ODC sont applicables
 seulement aux droits sui generis sur les bases de données et sur tout
-droit d'auteur sur la structure de la base de données, elles ne sont pas
-applicables au contenu de la base de données. La dernière version des
-licences CC s’applique d’autre part aux droits sui generis sur les bases
-de données et à tous les droits d'auteur et des droits voisins dans la
-structure de base de données ainsi que dans le contenu. (Voir
-plus haut  pour plus de
-détails sur la façon dont les versions antérieures des licences CC
-varient par rapport aux droits sui generis sur les bases de
-données.)
+droit d'auteur sur la structure de la base de données, elles ne sont
+pas applicables au contenu de la base de données. La dernière version
+des licences CC s’applique d’autre part aux droits sui generis sur les
+bases de données et à tous les droits d'auteur et des droits voisins
+dans la structure de base de données ainsi que dans le contenu. (Voir
+plus haut  pour plus de détails sur la façon dont les versions
+antérieures des licences CC varient par rapport aux droits sui generis
+sur les bases de données.)
 
-Une autre différence importante est que les licences
-ODC peuvent créer des obligations contractuelles, même dans les pays où
-les droits sur les bases de données n’auraient pas existé autrement et
-uniquement lorsque l'autorisation de licence pourrait ne pas être
-nécessaire. CC a conçu ses licences afin d'assurer qu'elles n’imposent pas des obligations lorsque l'autorisation n’est
-pas autrement requise  pour utiliser le
-matériel sous licence.
+Une autre différence importante est que les licences ODC peuvent créer
+des obligations contractuelles, même dans les pays où les droits sur
+les bases de données n’auraient pas existé autrement et uniquement
+lorsque l'autorisation de licence pourrait ne pas être nécessaire. CC
+a conçu ses licences afin d'assurer qu'elles n’imposent pas des
+obligations lorsque l'autorisation n’est pas autrement requise  pour
+utiliser le matériel sous licence.
 
-### Foire aux questions sur les données,
-généralement
+## Foire aux questions sur les données, généralement
 
-### Quelles composantes des bases de données sont
-protégées par le droit d'auteur?
+### Quelles composantes des bases de données sont protégées par le droit d'auteur?
 
-### En matière de bases de données quatre éléments
-seraient à considérer: (1) le modèle ou la structure de la base de
-données, (2) la saisie de données et la feuille de sortie, (3) les noms
-des champs, et (4) les données ou tout autre contenu.
+En matière de bases de données quatre éléments seraient à considérer:
+(1) le modèle ou la structure de la base de données, (2) la saisie de
+données et la feuille de sortie, (3) les noms des champs, et (4) les
+données ou tout autre contenu.
 
-Le modèle de base de
-données renvoi à la façon dont une base de
-données est structurée et organisée, y compris les tables de la base de
-données et la table des indexes. La sélection, la coordination, et la
-disposition de la base de données est soumise au droit d'auteur si elle
-est suffisamment originale. Le seuil d'originalité est assez faible dans
-de nombreuses juridictions. Par exemple, alors que les tribunaux aux
-États-Unis ont jugé qu'un annuaire téléphonique alphabétique n’était pas
-suffisamment original pour être protégé par le droit d'auteur, un
-répertoire organisé des entreprises sino-américaines dans un domaine
-particulier l’était <!--<span
-class="c64"> -->[[1]](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Frequently_Asked_Questions%23cite_note-1&sa=D&usg=AFQjCNE61PnV75j1BlIVRvB0G8vZ6zrBkQ)<!--<span
-class="c6  c7"> -->. Ces résolutions sont très factuelles (sans jeu de
-mots) et varient selon les juridictions.
+Le modèle de base de données renvoi à la façon dont une base de
+données est structurée et organisée, y compris les tables de la base
+de données et la table des indexes. La sélection, la coordination, et
+la disposition de la base de données est soumise au droit d'auteur si
+elle est suffisamment originale. Le seuil d'originalité est assez
+faible dans de nombreuses juridictions. Par exemple, alors que les
+tribunaux aux États-Unis ont jugé qu'un annuaire téléphonique
+alphabétique n’était pas suffisamment original pour être protégé par
+le droit d'auteur, un répertoire organisé des entreprises
+sino-américaines dans un domaine particulier l’était.
 
-Les feuilles de saisie de
-données et de sortie  contiennent des
+Ces résolutions sont très factuelles (sans jeu de mots) et varient
+selon les juridictions.
+
+Les feuilles de saisie de données et de sortie  contiennent des
 questions, et les réponses à ces questions sont stockées dans une base
 de données. Par exemple, une page web demandant à un scientifique
 d’entrer le nom d'un gène, les informations de son chemin, et son
 ontologie constitue une feuille de saisie des données. Le format et la
-disposition de ces feuilles sont protégés par le droit d'auteur selon le
-même critère d'originalité utilisé pour déterminer si le modèle de base
-de données est protégeable.
+disposition de ces feuilles sont protégés par le droit d'auteur selon
+le même critère d'originalité utilisé pour déterminer si le modèle de
+base de données est protégeable.
 
-Les noms des champs<!--<span
-class="c6  c7"> --> décrivent le contenu ou les données. Par exemple,
+Les noms des champs décrivent le contenu ou les données. Par exemple,
 "adresse" pourrait être le nom du champ pour obtenir des informations
 d'adresse postale. Ceux-ci sont moins susceptibles d'être protégés par
 le droit d'auteur parce qu'ils manquent souvent d'originalité
 suffisante.
 
-Les données<!--<span
-class="c6  c7"> --> ou autres éléments contenus dans la base de données
-sont soumis au droit d'auteur si elles sont suffisamment créatives. Des
-poèmes originaux contenus dans une base de données seraient protégés par
-le droit d'auteur, mais les données purement factuelles (tels que les
-noms des gènes ou la population d’une ville) ne le seraient pas. Les
-faits ne sont pas protégés par le droit d'auteur, ni les idées qui
-sous-tendent un contenu protégé par le droit d’auteur.
+Les données ou autres éléments contenus dans la base de données sont
+soumis au droit d'auteur si elles sont suffisamment créatives. Des
+poèmes originaux contenus dans une base de données seraient protégés
+par le droit d'auteur, mais les données purement factuelles (tels que
+les noms des gènes ou la population d’une ville) ne le seraient
+pas. Les faits ne sont pas protégés par le droit d'auteur, ni les
+idées qui sous-tendent un contenu protégé par le droit d’auteur.
 
-### Comment puis-je savoir si une utilisation
-particulière d'une base de données est restreinte par le droit
-d'auteur?
+### Comment puis-je savoir si une utilisation particulière d'une base de données est restreinte par le droit d'auteur?
 
-### Lorsque la structure de la base de données ou de
-son contenu sont soumis aux droits d'auteur, la reproduction, la
-distribution ou la modification de la base de données sera souvent
-restreinte par la loi du droit d'auteur. Cependant, il est important de
-noter que certaines utilisations d’une base de données protégée par le
-droit d’auteur ne seront pas restreintes par le droit d'auteur. Il
-serait possible, par exemple, de réorganiser ou de modifier les données
-qui ne sont pas objet de protection par le droit d’auteur sans impliquer
-le droit d'auteur dans la structure de la base de données. Par exemple,
-alors que (comme indiqué ci-dessus) un tribunal aux États-Unis a jugé
-qu'un répertoire des entreprises sino-américaines a été limité par le
-droit d'auteur, le même tribunal a ensuite jugé qu’un répertoire qui
+Lorsque la structure de la base de données ou de son contenu sont
+soumis aux droits d'auteur, la reproduction, la distribution ou la
+modification de la base de données sera souvent restreinte par la loi
+du droit d'auteur. Cependant, il est important de noter que certaines
+utilisations d’une base de données protégée par le droit d’auteur ne
+seront pas restreintes par le droit d'auteur. Il serait possible, par
+exemple, de réorganiser ou de modifier les données qui ne sont pas
+objet de protection par le droit d’auteur sans impliquer le droit
+d'auteur dans la structure de la base de données. Par exemple, alors
+que (comme indiqué ci-dessus) un tribunal aux États-Unis a jugé qu'un
+répertoire des entreprises sino-américaines a été limité par le droit
+d'auteur, le même tribunal a ensuite jugé qu’un répertoire qui
 reproduit des centaines de ses annonces n'a pas été contrevenant parce
 que le listes ont été classées et disposées d’une façon suffisamment
-différente. Dans ces situations, le respect des conditions de la licence
-n’est pas nécessaire sauf si le contenu de la base de données est
-restreint lui-même par le droit d’auteur.
+différente. Dans ces situations, le respect des conditions de la
+licence n’est pas nécessaire sauf si le contenu de la base de données
+est restreint lui-même par le droit d’auteur.
 
-Aussi, même si le contenu de la base de données est
-soumis au droit d'auteur et publié sous une licence CC, l'utilisation
-des faits et des idées intégrées dans ce contenu ne nécessite pas le
-respect du droit d'attribution (ni le respect d'autres conditions de la
-licence), à moins que cela n’implique le droit d'auteur dans la
-structure de la base de données comme expliqué ci-dessus. Cette
-importante limitation de toutes les licences
-CC  est surlignée dans les actes de la
-licence sous la section Avis, où nous soulignons que le respect de la
-licence n’est pas nécessaire pour les éléments qui sont dans le domaine
+Aussi, même si le contenu de la base de données est soumis au droit
+d'auteur et publié sous une licence CC, l'utilisation des faits et des
+idées intégrées dans ce contenu ne nécessite pas le respect du droit
+d'attribution (ni le respect d'autres conditions de la licence), à
+moins que cela n’implique le droit d'auteur dans la structure de la
+base de données comme expliqué ci-dessus. Cette importante limitation
+de toutes les licences CC  est surlignée dans les actes de la licence
+sous la section Avis, où nous soulignons que le respect de la licence
+n’est pas nécessaire pour les éléments qui sont dans le domaine
 public.
 
-### Si mon utilisation d'une base de données est
-restreinte par le droit d'auteur, comment puis-je me conformer à la
-licence?
+### Si mon utilisation d'une base de données est restreinte par le droit d'auteur, comment puis-je me conformer à la licence?
 
-Toutes les licences CC exigent que vous attribuiez le
-concédant de licence lorsque votre usage implique le partage public. Vos
-autres obligations dépendent de la particulière licence CC appliquée à
-la base de données. S’il s’agit d’une licence<!--<span> Pas d’Utilisation Commerciale (NC), tout usage réglementé
-doit être limité aux seules fins non
-commerciales. Si une licence Pas de Modification
-(ND) est appliquée, vous pouvez produire une base de données adaptée,
-sans que vous ne puissiez la partager publiquement. S’il s’agit d’une
-licence Partage dans les Mêmes Conditions (SA), vous devez appliquer la
-même licence ou une licence compatible
-### à toute adaptation de la base de données que vous
-partagez publiquement.
+Toutes les licences CC exigent que vous attribuiez le concédant de
+licence lorsque votre usage implique le partage public. Vos autres
+obligations dépendent de la particulière licence CC appliquée à la
+base de données. S’il s’agit d’une licence Pas d’Utilisation
+Commerciale (NC), tout usage réglementé doit être limité aux seules
+fins non commerciales. Si une licence Pas de Modification (ND) est
+appliquée, vous pouvez produire une base de données adaptée, sans que
+vous ne puissiez la partager publiquement. S’il s’agit d’une licence
+Partage dans les Mêmes Conditions (SA), vous devez appliquer la même
+licence ou une licence compatible à toute adaptation de la base de
+données que vous partagez publiquement.
 
-### Quels sont les composants d’une base de données
-qui sont protégés par des droits sui generis sur les bases de
-données?
+### Quels sont les composants d’une base de données qui sont protégés par des droits sui generis sur les bases de données?
 
 Contrairement aux droits d'auteur, les droits sui
 generis sur les bases de données sont conçus pour protéger
@@ -2534,9 +2510,7 @@ En particulier, ce droit empêche l'extraction et la réutilisation
 d'une partie substantielle<!--<span
 class="c6  c7"> --> du contenu.
 
-### Comment puis-je savoir si une utilisation
-particulière d'une base de données est restreinte par des droits sui
-generis sur les bases de données ?
+### Comment puis-je savoir si une utilisation particulière d'une base de données est restreinte par des droits sui generis sur les bases de données ?
 
 Lorsqu'une base de données est soumis à des droits sui
 generis sur les bases de données, l'extraction et la réutilisation
@@ -2553,7 +2527,7 @@ licence CC dans un endroit où il n'y a pas ces droits, vous n’avez pas à
 vous conformer aux restrictions ou conditions de la licence, à moins que
 le droit d'auteur (ou un autre droit sous licence) est impliqué.
 
-### Notez que si vous utilisez une base de données
+Notez que si vous utilisez une base de données
 dans une juridiction où vous devez respecter les droits sur les bases de
 données, et vous recevez une œuvre sous licence CC de quelqu'un situé
 dans un territoire sans droits sur les bases de données, vous devez
@@ -2568,46 +2542,38 @@ conserver ces informations lorsque dans la mesure du possible. Cela aide
 les utilisateurs en aval qui sont tenus de fournir cette information
 quand ils partagent davantage.
 
-### Qu’est ce qui constitue une "partie
-substantielle" d'une base de données?
+### Qu’est ce qui constitue une "partie substantielle" d'une base de données?
 
-### Il n'y a pas de critère clair pour savoir en quoi
+Il n'y a pas de critère clair pour savoir en quoi
 consiste une "partie substantielle". La réponse dépendra de la loi dans
 la juridiction concernée. Notez qu’une partie substantielle est
 déterminée à la fois quantitativement et qualitativement. Aussi,
 l’utilisation de plusieurs parties non substantielles peuvent s’ajouter
 pour constituer une partie substantielle.
 
-### Si mon utilisation d'une base de données est
-restreinte par des droits sui generis sur les bases de données, comment
-puis-je me conformer à la licence?
+### Si mon utilisation d'une base de données est restreinte par des droits sui generis sur les bases de données, comment puis-je me conformer à la licence?
 
-Si la base de données est publiée sous la version
-actuelle (4.0) des licences CC, vous devez attribuer le concédant de
-licence si vous partagez une partie
-substantielle du contenu de la base de données.
-Les autres exigences dépendent de la licence particulière appliquée à la
-base de données. Sous les licences Pas d’Utilisation Commerciale (NC),
-vous ne pouvez pas extraire et réutiliser une partie substantielle à
-des fins commerciales.
-Les licences Pas de Modification (ND) vous interdisent d'inclure une
-partie substantielle du contenu de la base de données dans une autre
-base de données partagée publiquement sur laquelle vous avez des droits
-sui generis. Et enfin, les licences Partage dans les Mêmes Conditions
-(SA) vous obligent à appliquer la même licence ou une licence compatible  à une base
-de données que vous partagez publiquement et dans laquelle vous incluez
-une partie substantielle du contenu des bases de données sous licence.
-Notez que cela ne vous oblige pas à un Partage dans les Mêmes Conditions
-de tout droit d'auteur ou d'autres droits que vous avez sur les
-différents contenus de la base de données.
+Si la base de données est publiée sous la version actuelle (4.0) des
+licences CC, vous devez attribuer le concédant de licence si vous
+partagez une partie substantielle du contenu de la base de données.
+Les autres exigences dépendent de la licence particulière appliquée à
+la base de données. Sous les licences Pas d’Utilisation Commerciale
+(NC), vous ne pouvez pas extraire et réutiliser une partie
+substantielle à des fins commerciales.  Les licences Pas de
+Modification (ND) vous interdisent d'inclure une partie substantielle
+du contenu de la base de données dans une autre base de données
+partagée publiquement sur laquelle vous avez des droits sui
+generis. Et enfin, les licences Partage dans les Mêmes Conditions (SA)
+vous obligent à appliquer la même licence ou une licence compatible  à
+une base de données que vous partagez publiquement et dans laquelle
+vous incluez une partie substantielle du contenu des bases de données
+sous licence.  Notez que cela ne vous oblige pas à un Partage dans les
+Mêmes Conditions de tout droit d'auteur ou d'autres droits que vous
+avez sur les différents contenus de la base de données.
 
-Remarques
+## Remarques
 
-### 1. Aller jusqu'à ↑ Publications, Inc. v.
-Chinatown Today Publishing Enterprises Inc., 945 F.2d 509 (2d Cir.
-1991
+* Aller jusqu'à ↑ Publications, Inc. v.  Chinatown Today Publishing
+Enterprises Inc., 945 F.2d 509 (2d Cir.  1991
 
-Catégorie :
-
--   FAQ
-
+---
