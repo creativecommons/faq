@@ -1910,12 +1910,10 @@ surtout si elle est présentée avec du de matériel non autorisé.
 * D’inclure un lien vers l’acte lisible (qui lui-même contient un lien
   vers le code juridique).
 
-* D’incorporer les métadonnées <!--<span class="c0"> -->lisibles par
-    la machine<!--<span class="c6 c7"> --> dans le code de
+* D’incorporer les métadonnées lisibles par la machine dans le code de
     l’indicateur de licence ou dans le code de la page sous licence.
 
-Pour plus de détails voir la page de <!--<span
-class="c0 c28"> -->marquage<!--<span class="c6 c49 c7 c28"> -->.
+Pour plus de détails voir la page de marquage.
 
 ### Qu’est-ce que cela signifie que les licences Creative Commons sont « lisibles par la machine »?
 
