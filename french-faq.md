@@ -2261,13 +2261,13 @@ vous avez créé une œuvre ou souhaitez utiliser une œuvre qui pourrait
 d'une certaine façon impliquer ces droits, vous devrez peut-être obtenir
 la permission des personnes dont ces droits peuvent être touchés.
 
-### Données
+---
 
-### Foire aux questions sur les données et les
-licences CC
+# Données
 
-### Est-ce que les bases de données peuvent être
-publiées sous licences CC?
+## Foire aux questions sur les données et les licences CC
+
+### Est-ce que les bases de données peuvent être publiées sous licences CC?
 
 Oui, les licences CC peuvent
 être utilisées pour publier des bases de données. La version la plus récente (4.0) peut être utilisée pour
@@ -2299,18 +2299,17 @@ la réutilisation et le partage maximal de l'information.
 
 ### Quand une licence CC est appliquée à une base de données, qu’est-ce qui serait sous licence?
 
-Les termes et les conditions de la licence s’appliquent
-à la structure de la base de données (son choix et la
-disposition, si protégé par le droit
-d’auteur), son contenu (si protégé par le droit
-d’auteur), et dans les cas où le producteur de base de données dispose
-du droit sui generis alors les droits qui sont accordés au producteur. Nonobstant
+Les termes et les conditions de la licence s’appliquent à la structure
+de la base de données (son choix et la disposition, si protégé par le
+droit d’auteur), son contenu (si protégé par le droit d’auteur), et
+dans les cas où le producteur de base de données dispose du droit sui
+generis alors les droits qui sont accordés au producteur. Nonobstant
 ceci, les concédants de licence peuvent choisir d'octroyer une licence
-pour certains droits plutôt que pour tous les droits qu'ils ont sur une
-base de données. Creative Commons recommande d'éviter ce genre de
+pour certains droits plutôt que pour tous les droits qu'ils ont sur
+une base de données. Creative Commons recommande d'éviter ce genre de
 pratique. Toutefois, si un concédant de licence choisit de le faire de
-toute façon, nous encourageons fortement de délimiter clairement ce qui
-est et ce qui n’est pas sous licence. Voir ci-dessous  pour plus
+toute façon, nous encourageons fortement de délimiter clairement ce
+qui est et ce qui n’est pas sous licence. Voir ci-dessous  pour plus
 d'informations sur la façon de fournir un avis clair de ce qui est
 autorisé.
 
@@ -2339,24 +2338,19 @@ comprendre. S'il vous plaît voir notre page de
 marquage  pour plus d'informations sur la
 façon de distinguer clairement le contenu sans licence.
 
-### Comment les différents éléments de licences CC
-fonctionnent pour une base de données sous licence CC?
+### Comment les différents éléments de licences CC fonctionnent pour une base de données sous licence CC?
 
-Sous la version 4.0, si une licence Pas d’utilisation
-commerciale (NC) a été appliquée, alors toute utilisation de la base de
-données sous licence ou de son contenu qui est
-protégé par la loi du droit d'auteur ou
-par les droits sui generis sur les bases de
-données exige le respect des conditions de la
-licence (NC), même si la
-base de données n’est pas partagée publiquement. Les autres éléments de
+Sous la version 4.0, si une licence Pas d’utilisation commerciale (NC)
+a été appliquée, alors toute utilisation de la base de données sous
+licence ou de son contenu qui est protégé par la loi du droit
+d'auteur ou par les droits sui generis sur les bases de données exige
+le respect des conditions de la licence (NC), même si la base de
+données n’est pas partagée publiquement. Les autres éléments de
 licence (BY, ND, et SA, le cas échéant) doivent être respectés
 uniquement si votre utilisation est si restreinte et le partage public
-est en jeu. En savoir plus sur la façon de se conformer lorsque
-votre utilisation implique le droit
-d'auteur et/ou des
-droits sui generis sur les bases de données<!--<span
-class="c6  c7"> -->.
+est en jeu. En savoir plus sur la façon de se conformer lorsque votre
+utilisation implique le droit d'auteur et/ou des droits sui generis
+sur les bases de données<!--<span class="c6 c7"> -->.
 
 Les versions antérieures de licence CC ne nécessitent
 pas le respect des restrictions ou des conditions de licence lorsque
@@ -2366,14 +2360,13 @@ détails sur la façon dont cela fonctionne dans
 les versions actuelles et antérieures  des
 licences.
 
-### Puis-je procéder à l'extraction de texte/données
-d’une base de données sous licence CC?
+### Puis-je procéder à l'extraction de texte/données d’une base de données sous licence CC?
 
-### Oui. Cependant, vous devez être conscient que le
-fait de se conformer aux termes et conditions de la licence CC dépendra
-de savoir si le type d'activité d’extraction que vous effectuez implique
-le droit d’auteur ou un autre droit sui generis applicable sur les bases
-de données. Si vous n'exercez pas un droit exclusif détenu par le
+Oui. Cependant, vous devez être conscient que le fait de se conformer
+aux termes et conditions de la licence CC dépendra de savoir si le
+type d'activité d’extraction que vous effectuez implique le droit
+d’auteur ou un autre droit sui generis applicable sur les bases de
+données. Si vous n'exercez pas un droit exclusif détenu par le
 producteur de la base de données, alors vous n’avez pas besoin de la
 licence pour l’extraction. Du fait qu’il existe différentes méthodes
 pour mener une extraction de texte et de données, certaines méthodes
