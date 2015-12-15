@@ -663,175 +663,158 @@ boutons de licence<!--<span class="c6 c7"> --> applicables avec la
 même déclaration et un lien URL.
 
 Pour les plates-formes des tiers: plusieurs plates-formes de
-media telles que Flickr, YouTube et SoundCloud ont intégré les capacités
-Creative Commons, permettant aux utilisateurs de marquer leur matériel
-avec une licence CC directement grâce à leurs paramètres de compte.
-L’avantage d’utiliser cette fonctionnalité est qu’elle permet à d’autres
-gens de trouver votre oeuvre lors de la
-recherche sur ces plates-formes de matériel sous licence CC.
-### Si la plate-forme où vous transférez votre
-contenu ne supporte pas les licences CC, vous pouvez toujours identifier
-votre contenu sous licence CC dans la description du texte de votre
-contenu.
+media telles que Flickr, YouTube et SoundCloud ont intégré les
+capacités Creative Commons, permettant aux utilisateurs de marquer
+leur matériel avec une licence CC directement grâce à leurs paramètres
+de compte.  L’avantage d’utiliser cette fonctionnalité est qu’elle
+permet à d’autres gens de trouver votre oeuvre lors de la recherche
+sur ces plates-formes de matériel sous licence CC. Si la plate-forme
+où vous transférez votre contenu ne supporte pas les licences CC, vous
+pouvez toujours identifier votre contenu sous licence CC dans la
+description du texte de votre contenu.
 
-### Légalement, ces trois options sont les mêmes. La
-seule différence entre l’application d’une licence CC offline et celle
-en ligne est que le marquage d’une œuvre en ligne avec métadonnées
-permettra de garantir que les utilisateurs seront en mesure de le
-trouver à travers les moteurs de recherche CC.
+Légalement, ces trois options sont les mêmes. La seule différence
+entre l’application d’une licence CC offline et celle en ligne est que
+le marquage d’une œuvre en ligne avec métadonnées permettra de
+garantir que les utilisateurs seront en mesure de le trouver à travers
+les moteurs de recherche CC.
 
-CC offre des données sur les
-meilleures pratiques pour le marquage de votre matériel et sur la façon de marquer les
-matériels dans différents médias<!--<span
-class="c6  c7"> --> (.pdf).
+> CC offre des données sur les meilleures pratiques pour le marquage
+> de votre matériel et sur la façon de marquer les matériels dans
+> différents médias.
 
-### Dois-je m’enregistrer avec Creative Commons avant
-d’obtenir une licence?
+### Dois-je m’enregistrer avec Creative Commons avant d’obtenir une licence?
 
-### Non. CC offre ses licences, code, et outils
-gratuitement pour le public, sans obligation. Vous pouvez ne pas vous
-inscrire auprès de Creative Commons pour appliquer une licence CC à
-votre matériel; La licence est juridiquement valable dès que vous
-l’appliquez à tout matériel dont vous avez le droit légal de
-licencier.
+Non. CC offre ses licences, code, et outils gratuitement pour le
+public, sans obligation. Vous pouvez ne pas vous inscrire auprès de
+Creative Commons pour appliquer une licence CC à votre matériel; La
+licence est juridiquement valable dès que vous l’appliquez à tout
+matériel dont vous avez le droit légal de licencier.
 
-CC ne nécessite et ne fournit aucun moyen pour les
-créateurs ou autres détenteurs de droits pour enregistrer l’utilisation
-d’une licence CC, ni CC ne maintient une base de
-données des œuvres  distribuées sous
+CC ne nécessite et ne fournit aucun moyen pour les créateurs ou autres
+détenteurs de droits pour enregistrer l’utilisation d’une licence CC,
+ni CC ne maintient une base de données des œuvres  distribuées sous
 licences Creative Commons. CC ne nécessite pas aussi l’inscription de
 l’œuvre auprès d’une agence nationale de droits d’auteurs.
 
-### A quoi s’appliquent les termes et conditions
-d’une licence CC?
+### A quoi s’appliquent les termes et conditions d’une licence CC?
 
-Bien que les licences CC s’appliquent aux œuvres
-tangibles (telles que des photos et les romans), les termes et
-conditions de la licence s’appliquent au droit
-d’auteur du titulaire de la licence du matériel
+Bien que les licences CC s’appliquent aux œuvres tangibles (telles que
+des photos et les romans), les termes et conditions de la licence
+s’appliquent au droit d’auteur du titulaire de la licence du matériel
 licencié. Le public est accordé “l’autorisation d’exercer” ces droits
-sur tout support ou format<!--<span
-class="c6  c7"> -->. C’est l’expression qui est protégée par le droit
-d’auteur et couverte par les licences, et non le support ou format dans
-lequel l’expression est manifestée. Cela signifie que, par exemple, une
-licence CC appliquée à une copie numérique d’un roman accorde la
-permission au public sous droit d’auteur d’utiliser une version imprimée
-de ce même roman sous les mêmes termes et conditions (bien que vous
-puissiez acheter la version imprimée de la librairie).
+sur tout support ou format<!--<span class="c6 c7"> -->. C’est
+l’expression qui est protégée par le droit d’auteur et couverte par
+les licences, et non le support ou format dans lequel l’expression est
+manifestée. Cela signifie que, par exemple, une licence CC appliquée à
+une copie numérique d’un roman accorde la permission au public sous
+droit d’auteur d’utiliser une version imprimée de ce même roman sous
+les mêmes termes et conditions (bien que vous puissiez acheter la
+version imprimée de la librairie).
 
-### Puis-je appliquer une licence Creative Commons à
-un logiciel?
+### Puis-je appliquer une licence Creative Commons à un logiciel?
 
-Nous vous recommandons de ne pas utiliser les licences
-Creative Commons pour les logiciels. Au lieu de cela, nous vous
-encourageons à utiliser l’une des très bonnes licences de logiciels qui
-sont déjà disponibles. Nous vous recommandons de considérer les
-licences mises à disposition par la Free Software
-Foundation ou mentionnées comme “open source” par
-l’Open Source Initiative.
+Nous vous recommandons de ne pas utiliser les licences Creative
+Commons pour les logiciels. Au lieu de cela, nous vous encourageons à
+utiliser l’une des très bonnes licences de logiciels qui sont déjà
+disponibles. Nous vous recommandons de considérer les licences mises à
+disposition par la [Free Software Foundation](http://fsf.org) ou
+mentionnées comme “open source” par l’Open Source Initiative.
 
-### Contrairement aux licences spécifiques au
-logiciel, les licences CC ne contiennent pas de termes spécifiques au
-sujet de la distribution du code source, ce qui est souvent important
-pour assurer la réutilisation libre et modificabilité de logiciels.
-Beaucoup de licences de logiciels traitent également des droits de
-brevet, qui sont importants pour le logiciel, mais peuvent ne pas être
-applicable à d’autres œuvres protégeables. En outre, nos licences ne
-sont actuellement pas compatibles avec les principales licences de
-logiciels, donc il serait difficile d’intégrer une œuvre sous licence CC
-dans un logiciel libre. Les licences de logiciels existants ont été
-conçues spécifiquement pour une utilisation avec le logiciel et offrent
-un ensemble de droits similaires aux licences Creative Commons.
+Contrairement aux licences spécifiques au logiciel, les licences CC ne
+contiennent pas de termes spécifiques au sujet de la distribution du
+code source, ce qui est souvent important pour assurer la
+réutilisation libre et modificabilité de logiciels.  Beaucoup de
+licences de logiciels traitent également des droits de brevet, qui
+sont importants pour le logiciel, mais peuvent ne pas être applicable
+à d’autres œuvres protégeables. En outre, nos licences ne sont
+actuellement pas compatibles avec les principales licences de
+logiciels, donc il serait difficile d’intégrer une œuvre sous licence
+CC dans un logiciel libre. Les licences de logiciels existants ont été
+conçues spécifiquement pour une utilisation avec le logiciel et
+offrent un ensemble de droits similaires aux licences Creative
+Commons.
 
-La version 4.0 de la licence Attribution-ShareAlike
-(BY-SA) est compatible d’une seule
-manière avec la version
-GNU General Public License 3.0 (GPLv3). Ce
-mécanisme de compatibilité est conçu pour les situations dans lesquelles
-le contenu est intégré dans le code de logiciel d’une manière qui rend
-difficile ou impossible de distinguer les deux. Il ya des considérations
-spéciales nécessaires avant d’utiliser ce mécanisme de compatibilité. En
-savoir plus à ce sujet ici.
+La version 4.0 de la licence Attribution-ShareAlike (BY-SA) est
+compatible d’une seule manière avec la version GNU General Public
+License 3.0 (GPLv3). Ce mécanisme de compatibilité est conçu pour les
+situations dans lesquelles le contenu est intégré dans le code de
+logiciel d’une manière qui rend difficile ou impossible de distinguer
+les deux. Il ya des considérations spéciales nécessaires avant
+d’utiliser ce mécanisme de compatibilité. En savoir plus à ce sujet
+ici.
 
-En plus, la CC0 Dédiée au
-Domaine Public est compatible avec la GPL et
-acceptable pour les logiciels. Pour plus de détails, consultez
-l’intro CC0 de la FAQ.
+En plus, la CC0 Dédiée au Domaine Public est compatible avec la GPL et
+acceptable pour les logiciels. Pour plus de détails, consultez l’intro
+CC0 de la FAQ.
 
-### Alors que nous vous recommandons de ne pas
-utiliser une licence CC sur le logiciel lui-même, les licences CC
-peuvent être utilisées pour la documentation du logiciel, ainsi que pour
-les éléments artistiques distincts tels que l’art du jeu ou de la
-musique.
+Alors que nous vous recommandons de ne pas utiliser une licence CC sur
+le logiciel lui-même, les licences CC peuvent être utilisées pour la
+documentation du logiciel, ainsi que pour les éléments artistiques
+distincts tels que l’art du jeu ou de la musique.
 
-### Puis-je demander une licence Creative Commons aux
-bases de données?
+### Puis-je demander une licence Creative Commons aux bases de données?
 
-Oui. Les licences CC peuvent
-être utilisées sur des bases de données. Dans la
-licence 4.0 suite, les droits de base de données
-applicables sui generis sont autorisés dans les
-mêmes conditions de licence que le droit d’auteur. De nombreux gouvernements et autres utilisent des licences
-CC  pour les données et bases de
-données.
+Oui. Les licences CC peuvent être utilisées sur des bases de
+données. Dans la licence 4.0 suite, les droits de base de données
+applicables sui generis sont autorisés dans les mêmes conditions de
+licence que le droit d’auteur. De nombreux gouvernements et autres
+utilisent des licences CC pour les données et bases de données.
 
-Pour plus d’informations sur la façon dont les licences
-CC sont applicables aux données et bases de données, visitez
-notre FAQ de données<!--<span
-class="c6  c7"> --> détaillée.
+Pour plus d’informations sur la façon dont les licences CC sont
+applicables aux données et bases de données, visitez notre FAQ de
+données<!--<span class="c6 c7"> --> détaillée.
 
-### Pourrais-je utiliser une licence CC pour partager
-mon logo ou une marque?
+### Pourrais-je utiliser une licence CC pour partager on logo ou une marque?
 
-Creative Commons ne recommande pas l’utilisation d’une
-licence CC sur un logo ou une marque. Alors qu’un logo ou une marque
-peut être couvert par les lois de droits d’auteur en plus de lois sur
-les marques, les fins particulières des marques font des licences CC un
+Creative Commons ne recommande pas l’utilisation d’une licence CC sur
+un logo ou une marque. Alors qu’un logo ou une marque peut être
+couvert par les lois de droits d’auteur en plus de lois sur les
+marques, les fins particulières des marques font des licences CC un
 mécanisme inadapté pour pouvoir les partager dans la plupart des cas.
 Généralement, les logos et les marques déposées sont utilisés pour
 identifier l’origine d’un produit ou d’un service, ou pour indiquer
 qu’il répond à une norme ou à une qualité spécifique. Permettre à
 quiconque de réutiliser ou modifier votre logo ou marque de commerce
-comme principe de droits d’auteur pourrait entraîner à votre incapacité
-de limiter l’utilisation de votre logo ou marque sélective pour
-atteindre ces fins. L’application d’une licence CC à vos marques et
-logos pourrait même entraîner une perte de tous vos droits de marque.
-Voir ci-dessous<!--<span
-class="c6  c7"> --> pour savoir plus sur les modalités de licence d’un
-matériel qui comprend une marque de commerce ou un logo.
+comme principe de droits d’auteur pourrait entraîner à votre
+incapacité de limiter l’utilisation de votre logo ou marque sélective
+pour atteindre ces fins. L’application d’une licence CC à vos marques
+et logos pourrait même entraîner une perte de tous vos droits de
+marque.  Voir ci-dessous<!--<span class="c6 c7"> --> pour savoir plus
+sur les modalités de licence d’un matériel qui comprend une marque de
+commerce ou un logo.
 
-Il y a d’autres façons de partager largement vos logos
-et vos marques tout en préservant vos droits de marque. L’établissement
-d’une politique de marque qui accorde des autorisations à l’avance pour
-des utilisations limitées est une alternative répandue. Mozilla, Wikimedia, et Creative Commons  ont chacun des
-politiques publiées qui accomplissent le double objectif d’encourager la
-réutilisation et la préservation des droits des marques.
+Il y a d’autres façons de partager largement vos logos et vos marques
+tout en préservant vos droits de marque. L’établissement d’une
+politique de marque qui accorde des autorisations à l’avance pour des
+utilisations limitées est une alternative répandue. Mozilla,
+Wikimedia, et Creative Commons ont chacun des politiques publiées qui
+accomplissent le double objectif d’encourager la réutilisation et la
+préservation des droits des marques.
 
-### Puis-je appliquer une licence Creative Commons à
-une œuvre dans le domaine public?
+### Puis-je appliquer une licence Creative Commons à une œuvre dans le domaine public?
 
-Les licences CC ne doivent pas s’appliquer à des œuvres
-dans le domaine public mondial. C’est clair que toutes les licences CC n’ont pas l’effet d’imposer des
-restrictions sur le matériel qui autrement seraient sans restriction, et
-vous ne pouvez pas supprimer une œuvre du domaine public par
-l’application d’une licence CC. Si vous voulez offrir votre propre œuvre
-au domaine public avant l’expiration de droits d’auteur ou droits
-voisins, utiliser la licence CC Dédiée au
-Domaine Public également robuste. Si une œuvre
-est déjà dans le domaine public mondial, vous devriez la marquer avec
-le CC Marquage Domaine Public<!--<span
-class="c6  c7"> -->.
+Les licences CC ne doivent pas s’appliquer à des œuvres dans le
+domaine public mondial. C’est clair que toutes les licences CC n’ont
+pas l’effet d’imposer des restrictions sur le matériel qui autrement
+seraient sans restriction, et vous ne pouvez pas supprimer une œuvre
+du domaine public par l’application d’une licence CC. Si vous voulez
+offrir votre propre œuvre au domaine public avant l’expiration de
+droits d’auteur ou droits voisins, utiliser la licence CC Dédiée au
+Domaine Public également robuste. Si une œuvre est déjà dans le
+domaine public mondial, vous devriez la marquer avec le CC Marquage
+Domaine Public<!--<span class="c6 c7"> -->.
 
-### Notez que, dans certains cas, une œuvre peut être
-dans le domaine public en vertu des lois de droits d’auteur dans
-certains pays mais pas d’autres. Par exemple, les œuvres du gouvernement
-américain sont dans le domaine public en vertu des lois de droit
-d’auteur des États-Unis, mais peuvent être protégées par des lois de
-droit d’auteur dans d’autres juridictions. Une licence CC appliquée à
-une telle œuvre serait efficace (et les restrictions de licence
-imposables) dans les territoires où la protection du droit d’auteur
-existe, mais ne serait pas applicable si le droit d’auteur des
-États-Unis est déterminé par la loi applicable.
+Notez que, dans certains cas, une œuvre peut être dans le domaine
+public en vertu des lois de droits d’auteur dans certains pays mais
+pas d’autres. Par exemple, les œuvres du gouvernement américain sont
+dans le domaine public en vertu des lois de droit d’auteur des
+États-Unis, mais peuvent être protégées par des lois de droit d’auteur
+dans d’autres juridictions. Une licence CC appliquée à une telle œuvre
+serait efficace (et les restrictions de licence imposables) dans les
+territoires où la protection du droit d’auteur existe, mais ne serait
+pas applicable si le droit d’auteur des États-Unis est déterminé par
+la loi applicable.
 
 Les Créateurs peuvent également appliquer des licences
 Creative Commons au matériel qu’ils créent et qui sont adaptés à partir
@@ -844,471 +827,431 @@ matériel du domaine public , afin que les
 autres sachent qu’ils sont également libres d’utiliser ce matériel sans
 restriction légale.
 
-### Si je prends une photo d’une autre œuvre qui est
-dans le domaine public, puis-je appliquer une licence CC à ma
-photo?
+### Si je prends une photo d’une autre œuvre qui est dans le domaine public, puis-je appliquer une licence CC à ma photo?
 
-Ça dépend. Vous pouvez appliquer une licence CC à votre
-photo si votre photo constitue une œuvre de l’original, une question qui
-varie selon la juridiction. D’une manière générale, votre photo doit
-impliquer des choix créatifs, tels que l’établissement de fond,
-l’éclairage, l’angle, ou une autre marque de la créativité. Aux
-États-Unis, une copie exacte photographiée d’une œuvre du domaine public
-n’est pas soumise au droit d’auteur parce qu’il n’y a aucune originalité
-(même s’il y a de l’effort ou une «sueur» exercée dans sa création).\
- En pratique, si votre photo est suffisamment créative pour attirer la
+Ça dépend. Vous pouvez appliquer une licence CC à votre photo si votre
+photo constitue une œuvre de l’original, une question qui varie selon
+la juridiction. D’une manière générale, votre photo doit impliquer des
+choix créatifs, tels que l’établissement de fond, l’éclairage,
+l’angle, ou une autre marque de la créativité. Aux États-Unis, une
+copie exacte photographiée d’une œuvre du domaine public n’est pas
+soumise au droit d’auteur parce qu’il n’y a aucune originalité (même
+s’il y a de l’effort ou une «sueur» exercée dans sa création).\ En
+pratique, si votre photo est suffisamment créative pour attirer la
 protection du droit d’auteur, les gens auront probablement à se
-conformer aux conditions de licence si elles reproduisent la totalité de
-votre photo sous forme textuelle, en l’absence de certaine exception
-applicable ou limitation comme l’usage équitable. Cependant,
-ils n’auraient pas à se conformer aux conditions de
-licence s’ils reproduisent uniquement les parties de l’œuvre dans le
-domaine public . Ceci est parce que votre
-droit d’auteur dans l’adaptation s’étend uniquement au matériel
-contribué, non pas à l’œuvre sous-jacente.
+conformer aux conditions de licence si elles reproduisent la totalité
+de votre photo sous forme textuelle, en l’absence de certaine
+exception applicable ou limitation comme l’usage équitable. Cependant,
+ils n’auraient pas à se conformer aux conditions de licence s’ils
+reproduisent uniquement les parties de l’œuvre dans le domaine
+public. Ceci est parce que votre droit d’auteur dans l’adaptation
+s’étend uniquement au matériel contribué, non pas à l’œuvre
+sous-jacente.
 
-### Puis-je appliquer une licence CC à mon œuvre s’il
-inclut de la matière utilisée sous l’usage équitable ou autre exception
-ou limitation au droit d’auteur?
+### Puis-je appliquer une licence CC à mon œuvre s’il inclut de la matière utilisée sous l’usage équitable ou autre exception ou limitation au droit d’auteur?
 
-Oui, mais il est important de marquer en évidence tout
-matériel de tiers intégré dans votre œuvre afin que les utilisateurs ne
-pensent pas que la licence CC s’applique à ce matériel. La licence CC ne
-concerne que les droits que vous avez sur l’œuvre. Par exemple, si votre
-jeu de diapositives sous licence CC comprend une image Flickr que vous
-utilisez en vertu de l’usage équitable, assurez-vous d’identifier que
-cette image n’est pas soumise à la licence CC. Pour plus d’informations
-sur l’incorporation d’une œuvre ppartenant à un tiers, consultez notre
-page sur le marquage des contenus
-tiers. Lire plus de considérations pour le
-concédant de licence ici.
+Oui, mais il est important de marquer en évidence tout matériel de
+tiers intégré dans votre œuvre afin que les utilisateurs ne pensent
+pas que la licence CC s’applique à ce matériel. La licence CC ne
+concerne que les droits que vous avez sur l’œuvre. Par exemple, si
+votre jeu de diapositives sous licence CC comprend une image Flickr
+que vous utilisez en vertu de l’usage équitable, assurez-vous
+d’identifier que cette image n’est pas soumise à la licence CC. Pour
+plus d’informations sur l’incorporation d’une œuvre ppartenant à un
+tiers, consultez notre page sur le marquage des contenus tiers. Lire
+plus de considérations pour le concédant de licence ici.
 
-### Droits autres que le droit d’auteur
+## Droits autres que le droit d’auteur
 
-### Puis-je utiliser les licences CC aux droits de
-licence autre que le droit d’auteur?
+### Puis-je utiliser les licences CC aux droits de licence autre que le droit d’auteur?
 
-Les licences CC sont des licences de droit d’auteur,
-mais la dernière version de licences CC couvre également certains autres
-droits similaires aux droits d’auteur, y compris les performances, la diffusion, et les droits
-d’enregistrement sonore, ainsi que les droits de base de données sui
-generis. Vous pouvez demander une licence 4.0 à
-un matériel soumis à un de ces droits, même si ce matériel est soumis ou
-non au droit d’auteur. Notez que le champ d’application de versions
-antérieures de licences CC était plus limité. Vous devriez vous référer
-à notre page versions de licence<!--<span
-class="c6  c7"> --> pour plus de détails.
+Les licences CC sont des licences de droit d’auteur, mais la dernière
+version de licences CC couvre également certains autres droits
+similaires aux droits d’auteur, y compris les performances, la
+diffusion, et les droits d’enregistrement sonore, ainsi que les droits
+de base de données sui generis. Vous pouvez demander une licence 4.0 à
+un matériel soumis à un de ces droits, même si ce matériel est soumis
+ou non au droit d’auteur. Notez que le champ d’application de versions
+antérieures de licences CC était plus limité. Vous devriez vous
+référer à notre page versions de licence<!--<span class="c6 c7">
+--> pour plus de détails.
 
-### Comment licences Creative  Commons affectent,
-voire pas du tout, mes droits moraux ?
+### Comment licences Creative  Commons affectent, voire pas du tout, mes droits moraux?
 
-D’une manière générale, toutes les licences CC
-préservent les droits moraux<!--<span
-class="c6  c7"> --> dans la mesure où elles existent (elles n’existent pas
-partout), mais permettent les utilisations de l’œuvre dans des moyens
-envisagés par la licence  et qui autrement, pourraient violer les droits
-moraux. Si vous appliquez une licence 4.0 à votre matériel, vous
-acceptez de renoncer ou de ne faire valoir aucun droit moral que vous
-avez, dans la mesure limitée et nécessaire pour permettre au public
-d’exercer les droits octroyés par la licence. Ceci est conçu pour
-minimiser l’effet des droits moraux sur la capacité des titulaires de
-licence d’utiliser l’œuvre, et de veiller à ce que la licence fonctionne
-internationalement comme prévu. L’exigence d’attribution figurant dans
-toutes nos licences est destinée à satisfaire le droit moral de
-l’attribution, mais doit adhérer à la juridiction applicable si elle
-reconnaît ou non les droits moraux.
+D’une manière générale, toutes les licences CC préservent les droits
+moraux<!--<span class="c6 c7"> --> dans la mesure où elles existent
+(elles n’existent pas partout), mais permettent les utilisations de
+l’œuvre dans des moyens envisagés par la licence  et qui autrement,
+pourraient violer les droits moraux. Si vous appliquez une licence 4.0
+à votre matériel, vous acceptez de renoncer ou de ne faire valoir
+aucun droit moral que vous avez, dans la mesure limitée et nécessaire
+pour permettre au public d’exercer les droits octroyés par la
+licence. Ceci est conçu pour minimiser l’effet des droits moraux sur
+la capacité des titulaires de licence d’utiliser l’œuvre, et de
+veiller à ce que la licence fonctionne internationalement comme
+prévu. L’exigence d’attribution figurant dans toutes nos licences est
+destinée à satisfaire le droit moral de l’attribution, mais doit
+adhérer à la juridiction applicable si elle reconnaît ou non les
+droits moraux.
 
-Les versions antérieures<!--<span
-class="c6  c7"> --> de la licence sont également destinées à minimiser les
-effets des droits moraux sur les utilisations autrement permises, mais
-le langage dans les licences diffère. En outre, les ports des versions
-antérieures de licences CC contiennent souvent des versions du langage
-des droits moraux conçues pour tenir compte de la législation sur les
-droits moraux dans une juridiction particulière. Si vous demandez une
-licence adaptée à votre œuvre, vous pouvez passer en revue le langage
-des droits moraux dans la licence particulière.
+Les versions antérieures<!--<span class="c6 c7"> --> de la licence
+sont également destinées à minimiser les effets des droits moraux sur
+les utilisations autrement permises, mais le langage dans les licences
+diffère. En outre, les ports des versions antérieures de licences CC
+contiennent souvent des versions du langage des droits moraux conçues
+pour tenir compte de la législation sur les droits moraux dans une
+juridiction particulière. Si vous demandez une licence adaptée à votre
+œuvre, vous pouvez passer en revue le langage des droits moraux dans
+la licence particulière.
 
-Vous pouvez également comparer
-comment les différents pays ont mis en œuvre cette disposition, ou
-parcourir la page des versions de licence<!--<span
-class="c6  c7"> --> pour comparer le traitement de cette question à
-travers les différentes versions des licences CC.
+Vous pouvez également comparer comment les différents pays ont mis en
+œuvre cette disposition, ou parcourir la page des versions de
+licence<!--<span class="c6 c7"> --> pour comparer le traitement de
+cette question à travers les différentes versions des licences CC.
 
-### Puis-je placer une marque sur une œuvre et offrir
-l’œuvre sous une licence CC sans également licencier ou affecter les
-droits de la marque ?
+### Puis-je placer une marque sur une œuvre et offrir l’œuvre sous une licence CC sans également licencier ou affecter les droits de la marque ?
 
-### Oui, vous pouvez offrir du matériel sous licence
-Creative Commons comprenant une marque indiquant la source de l’œuvre
-sans affecter les droits sur la marque, parce que les droits de marque
-ne sont pas autorisés par les licences CC. Cependant, l’application de
-la licence CC peut créer une licence implicite pour utiliser la marque
-en relation avec le matériel sous licence, mais pas d’une manière qui
+Oui, vous pouvez offrir du matériel sous licence Creative Commons
+comprenant une marque indiquant la source de l’œuvre sans affecter les
+droits sur la marque, parce que les droits de marque ne sont pas
+autorisés par les licences CC. Cependant, l’application de la licence
+CC peut créer une licence implicite pour utiliser la marque en
+relation avec le matériel sous licence, mais pas d’une manière qui
 nécessite une autorisation en vertu du droit des marques. Pour éviter
 toute incertitude, Creative Commons recommande que les concédants de
 licence qui souhaitent marquer les matériels avec des marques de
 commerce ou d’autres matériels de marque informent les concédants de
-licence d’exonérer l’application de la licence à ces éléments. Cela peut
-être fait dans la notice de droit d’auteur, mais pourrait être également
-noté sur le site où l’œuvre est publiée.
+licence d’exonérer l’application de la licence à ces éléments. Cela
+peut être fait dans la notice de droit d’auteur, mais pourrait être
+également noté sur le site où l’œuvre est publiée.
 
-### Ci-dessous un exemple de notice
+Ci-dessous un exemple de notice
 
-« Le texte et les illustrations de ce document sont
-autorisées par Red Hat sous une licence non-adaptée Creative Commons
-Attribution - Partage dans les Mêmes Conditions 3.0 (“ CC-BY-SA “). . .
-. Red Hat, Red Hat Enterprise Linux, le logo du Shadowman, JBoss,
-MetaMatrix, Fedora, le logo de Infinity, et RHCE sont des marques de Red
-Hat, Inc., déposées aux États-Unis et dans d’autres pays. Pour les
-lignes directrices sur les utilisations autorisées des marques de
-Fedora, consultez <!--<span
-class="c0 c40"> -->https://fedoraproject.org/wiki/Legal:Trademark\_guidelines<!--<span
-class="c6  c7"> --> »
+>« Le texte et les illustrations de ce document sont autorisées par
+>Red Hat sous une licence non-adaptée Creative Commons Attribution -
+>Partage dans les Mêmes Conditions 3.0 (“ CC-BY-SA “). . .  . Red Hat,
+>Red Hat Enterprise Linux, le logo du Shadowman, JBoss, MetaMatrix,
+>Fedora, le logo de Infinity, et RHCE sont des marques de Red Hat,
+>Inc., déposées aux États-Unis et dans d’autres pays. Pour les lignes
+>directrices sur les utilisations autorisées des marques de Fedora,
+>consultez <https://fedoraproject.org/wiki/Legal:Trademark_guidelines>
 
-### Comment les publicités, la vie privée et les
-droits de la personnalité sont touchées lorsque je demande une licence
-CC?
+### Comment les publicités, la vie privée et les droits de la personnalité sont touchées lorsque je demande une licence CC?
 
-### Lorsque vous appliquez la dernière version (4.0)
-d’une licence CC sur votre matériel, vous acceptez également de renoncer
-ou de faire valoir aucun droit de publicité, de vie privée, ou de
-personnalité que vous détenez sur le matériel objet de la licence, dans
-la mesure limitée et nécessaire pour les autres pour exercer les droits
-de licence. Par exemple, si vous avez autorisé une photo de vous-même,
-vous ne pouvez pas appliquer votre droit à la vie privée pour retirer la
-photo de la distribution. (En vertu des licences 3.0 et antérieures,
-cela est implicite, mais pas explicite.) Si vous ne souhaitez pas de
-cette façon une licence pour ces droits, vous ne devriez pas appliquer
-une licence CC au matériel où cela en est une préoccupation.
+Lorsque vous appliquez la dernière version (4.0) d’une licence CC sur
+votre matériel, vous acceptez également de renoncer ou de faire valoir
+aucun droit de publicité, de vie privée, ou de personnalité que vous
+détenez sur le matériel objet de la licence, dans la mesure limitée et
+nécessaire pour les autres pour exercer les droits de licence. Par
+exemple, si vous avez autorisé une photo de vous-même, vous ne pouvez
+pas appliquer votre droit à la vie privée pour retirer la photo de la
+distribution. (En vertu des licences 3.0 et antérieures, cela est
+implicite, mais pas explicite.) Si vous ne souhaitez pas de cette
+façon une licence pour ces droits, vous ne devriez pas appliquer une
+licence CC au matériel où cela en est une préoccupation.
 
-Si il y a des tiers qui peuvent avoir des droits de
-publicité, de vie privée, ou de personnalité applicables, ces droits ne
-sont pas affectés par l’application d’une licence CC ; et un
-réutilisateur doit demander la permission pour des utilisations
-pertinentes. Si vous êtes au courant de ces droits de tiers dans le
-matériel objet de la licence, nous vous recommandons de marquer le matériel  afin
+Si il y a des tiers qui peuvent avoir des droits de publicité, de vie
+privée, ou de personnalité applicables, ces droits ne sont pas
+affectés par l’application d’une licence CC ; et un réutilisateur doit
+demander la permission pour des utilisations pertinentes. Si vous êtes
+au courant de ces droits de tiers dans le matériel objet de la
+licence, nous vous recommandons de marquer le matériel  afin
 d’informer les réutilisateurs.
 
-### Business modèles
+## Business modèles
 
-### Puis-je demander une licence CC aux copies basse
-résolution d’une œuvre sous licence et réserver  plus de  droits pour
-les copies haute-résolution?
+### Puis-je demander une licence CC aux copies basse résolution d’une œuvre sous licence et réserver  plus de  droits pour les copies haute-résolution?
 
-### Vous pouvez licencier vos droits d’auteur ou
-distribuer votre œuvre sous plusieurs ensembles de termes. Par exemple,
-vous pouvez publier une photo sur votre site Web, mais distribuer des
-copies haute-résolution seulement aux personnes qui ont payées l’accès.
-Ceci est une pratique supportée par CC. Toutefois, si les copies
+Vous pouvez licencier vos droits d’auteur ou distribuer votre œuvre
+sous plusieurs ensembles de termes. Par exemple, vous pouvez publier
+une photo sur votre site Web, mais distribuer des copies
+haute-résolution seulement aux personnes qui ont payées l’accès.  Ceci
+est une pratique supportée par CC. Toutefois, si les copies
 basse-résolution et haute-résolution sont les mêmes en vertu du droit
 d’auteur applicable, l’autorisation en vertu d’une licence CC ne se
 limite pas à une copie particulière, et une personne qui reçoit une
-copie en haute résolution peut l’utiliser selon les termes de la licence
-CC appliquée à la copie basse-résolution.
+copie en haute résolution peut l’utiliser selon les termes de la
+licence CC appliquée à la copie basse-résolution.
 
-Notez que, bien que CC décourage fortement cette pratique, CC ne peut pas empêcher les concédants de tenter d’imposer
-des restrictions à travers des accords séparés sur des utilisations
-autrement permises par la licence. Dans ce cas, les titulaires de
-licence peuvent être contractuellement
-interdit  d’utiliser la copie
-haute-résolution, par exemple, même si le titulaire a appliqué une
-licence CC sur la copie basse-résolution.
+Notez que, bien que CC décourage fortement cette pratique, CC ne peut
+pas empêcher les concédants de tenter d’imposer des restrictions à
+travers des accords séparés sur des utilisations autrement permises
+par la licence. Dans ce cas, les titulaires de licence peuvent être
+contractuellement interdit d’utiliser la copie haute-résolution, par
+exemple, même si le titulaire a appliqué une licence CC sur la copie
+basse-résolution.
 
-### Puis-je utiliser une licence Creative Commons si
-je suis membre d’une société de gestion collective?
+### Puis-je utiliser une licence Creative Commons si je suis membre d’une société de gestion collective?
 
-### Les créateurs et les autres titulaires de droits
-peuvent vérifier auprès de leur société de gestion collective avant
-d’appliquer une licence CC sur leur matériel. De nombreux détenteurs de
-droits membres d’une société de gestion collective peuvent renoncer au
-droit de percevoir des redevances pour les utilisations autorisées en
-vertu de la licence, mais seulement dans la mesure où leurs sociétés le
+Les créateurs et les autres titulaires de droits peuvent vérifier
+auprès de leur société de gestion collective avant d’appliquer une
+licence CC sur leur matériel. De nombreux détenteurs de droits membres
+d’une société de gestion collective peuvent renoncer au droit de
+percevoir des redevances pour les utilisations autorisées en vertu de
+la licence, mais seulement dans la mesure où leurs sociétés le
 permettent.
 
-Les sociétés de gestion collective dans plusieurs pays
-comme l’Australie, la Finlande, la France, l’Allemagne, le Luxembourg,
-la Norvège, l’Espagne, le Taiwan, et les Pays-Bas imposent une cession
-de droits des créateurs sur les œuvres présentes et futures et les
-gèrent de sorte que ces sociétés deviennent effectivement elles-mêmes
-les propriétaires de ces droits. (En France, ceci est appelé un «mandat»
+Les sociétés de gestion collective dans plusieurs pays comme
+l’Australie, la Finlande, la France, l’Allemagne, le Luxembourg, la
+Norvège, l’Espagne, le Taiwan, et les Pays-Bas imposent une cession de
+droits des créateurs sur les œuvres présentes et futures et les gèrent
+de sorte que ces sociétés deviennent effectivement elles-mêmes les
+propriétaires de ces droits. (En France, ceci est appelé un «mandat»
 de droits mais a un effet similaire). Ainsi les Créateurs dans ces
 juridictions et qui appartiennent à des sociétés de gestion collective
 peuvent ne pas être en mesure d’appliquer une licence CC sur leur
 matériel parce que les sociétés de gestion collective possèdent
-elles-mêmes les droits nécessaires et pas le créateurs. CC travaille avec plusieurs sociétés de gestion
-collective  sur l’exécution de programmes
-pilotes qui permettraient aux créateurs d’utiliser les licences CC dans
-certaines circonstances.
+elles-mêmes les droits nécessaires et pas le créateurs. CC travaille
+avec plusieurs sociétés de gestion collective  sur l’exécution de
+programmes pilotes qui permettraient aux créateurs d’utiliser les
+licences CC dans certaines circonstances.
 
-### Si vous êtes déjà membre d’une société de gestion
-collective et vous voulez utiliser les licences CC, vous êtes encouragés
-à demander à votre société de gestion collective de vous donner l’option
-de la licence Creative Commons.
+Si vous êtes déjà membre d’une société de gestion collective et vous
+voulez utiliser les licences CC, vous êtes encouragés à demander à
+votre société de gestion collective de vous donner l’option de la
+licence Creative Commons.
 
-### Puis-je faire encore de l’argent d’une œuvre
-rendue disponible sous une licence Creative Commons?
+### Puis-je faire encore de l’argent d’une œuvre rendue disponible sous une licence Creative Commons?
 
-### Oui. Un de nos objectifs est d’encourager les
-créateurs et détenteurs de droits d’expérimenter de nouvelles façons de
-promouvoir et de commercialiser leur œuvre. Il ya plusieurs façons
-possibles de procéder.
+Oui. Un de nos objectifs est d’encourager les créateurs et détenteurs
+de droits d’expérimenter de nouvelles façons de promouvoir et de
+commercialiser leur œuvre. Il ya plusieurs façons possibles de
+procéder.
 
-Les licences CC Non-commerciales (NC)<!--<span
-class="c6  c7"> --> permettent aux titulaires des droits de maximiser la
-distribution tout en conservant le contrôle de la commercialisation de
-leurs œuvres. Si vous souhaitez réserver le droit de commercialiser
-votre œuvre, vous pouvez le faire en choisissant une licence avec la
+Les licences CC Non-commerciales (NC)<!--<span class="c6 c7">
+--> permettent aux titulaires des droits de maximiser la distribution
+tout en conservant le contrôle de la commercialisation de leurs
+œuvres. Si vous souhaitez réserver le droit de commercialiser votre
+œuvre, vous pouvez le faire en choisissant une licence avec la
 condition NC. Si quelqu’un d’autre veut utiliser votre œuvre dans le
-commerce et que vous avez déjà appliqué une licence NC à votre œuvre, il
-devra d’abord obtenir votre autorisation. Etant le titulaire des droits,
-vous pouvez toujours commercialiser votre propre œuvre.
+commerce et que vous avez déjà appliqué une licence NC à votre œuvre,
+il devra d’abord obtenir votre autorisation. Etant le titulaire des
+droits, vous pouvez toujours commercialiser votre propre œuvre.
 
-### Vous pouvez également utiliser des modèles de
-financement qui ne dépendent pas de l’utilisation d’une licence NC. Par
-exemple, de nombreux artistes et créateurs utilisent « crowdfunding »
-pour financer leur œuvre avant de la publier sous une licence moins
+Vous pouvez également utiliser des modèles de financement qui ne
+dépendent pas de l’utilisation d’une licence NC. Par exemple, de
+nombreux artistes et créateurs utilisent « crowdfunding » pour
+financer leur œuvre avant de la publier sous une licence moins
 restrictive. D’autres utilisent un modèle “freemium” où le contenu de
 base est gratuit mais les extras, comme la version imprimée ou l’accès
-privilégié à un site réservé aux membres, sont pour les clients payants
-uniquement
+privilégié à un site réservé aux membres, sont pour les clients
+payants uniquement
 
 Pour plus d’informations et d’idées, [The Power of
 Open](https://www.google.com/url?q=http://thepowerofopen.org/&sa=D&usg=AFQjCNFXsCBr8pHBR07sNU9mU98z28t1PA)<!--<span
 class="c6  c7"> --> présente des études de cas d’artistes, d’hommes
 d’affaires, et d’organisations qui utilisent CC.
 
-### Modifications et Ajouts à la licence
+## Modifications et Ajouts à la licence
 
-### Puis-je insister sur l’emplacement exact du
-crédit d’attribution?
+### Puis-je insister sur l’emplacement exact du crédit d’attribution?
 
-### Non. Les licences CC permettent une certaine
-souplesse dans la manière dont le crédit est fourni dépendamment du
-milieu, des moyens, et du contexte dans lequel un titulaire est entrain
-de redistribuer un matériel licencié. Par exemple, en fournissant les
-attributions au créateur lors de l’utilisation du matériel licencié dans
-un blog peut être différent que de le faire dans un remix vidéo. Cette
-flexibilité facilite le respect par les titulaires de Licence et réduit
+Non. Les licences CC permettent une certaine souplesse dans la manière
+dont le crédit est fourni dépendamment du milieu, des moyens, et du
+contexte dans lequel un titulaire est entrain de redistribuer un
+matériel licencié. Par exemple, en fournissant les attributions au
+créateur lors de l’utilisation du matériel licencié dans un blog peut
+être différent que de le faire dans un remix vidéo. Cette flexibilité
+facilite le respect par les titulaires de Licence et réduit
 l’incertitude sur les différents types de réutilisation minimisant le
-risque que les exigences d’attribution trop onéreuses et rigides soient
-tout simplement ignorées.
+risque que les exigences d’attribution trop onéreuses et rigides
+soient tout simplement ignorées.
 
-### Puis-je modifier les modalités ou conditions de
-la licence?
+### Puis-je modifier les modalités ou conditions de la licence?
 
-### Oui, mais si vous changez les termes et
-conditions de toute licence Creative Commons, vous ne devez plus appeler
-ou décrire la licence comme une licence “Creative Commons” ou “CC”, et
-vous ne pouvez plus utiliser les logos Creative Commons, les boutons ou
-autres marques dans le cadre de la licence modifiée ou vos documents.
-Gardez à l’esprit que la modification des termes et conditions est
-distincte de la renonciation des conditions existantes ou de l’accord
-des autorisations supplémentaires que celles dans les licences. Les
-concédants de licence peuvent toujours le faire, et beaucoup choisissent
-de le faire en utilisant le CC + protocole pour signaler facilement la
-renonciation ou l’autorisation supplémentaire sur l’acte de licence
-CC.
+Oui, mais si vous changez les termes et conditions de toute licence
+Creative Commons, vous ne devez plus appeler ou décrire la licence
+comme une licence “Creative Commons” ou “CC”, et vous ne pouvez plus
+utiliser les logos Creative Commons, les boutons ou autres marques
+dans le cadre de la licence modifiée ou vos documents.  Gardez à
+l’esprit que la modification des termes et conditions est distincte de
+la renonciation des conditions existantes ou de l’accord des
+autorisations supplémentaires que celles dans les licences. Les
+concédants de licence peuvent toujours le faire, et beaucoup
+choisissent de le faire en utilisant le CC + protocole pour signaler
+facilement la renonciation ou l’autorisation supplémentaire sur l’acte
+de licence CC.
 
-### CC ne fait pas valoir le droit d’auteur dans le
-texte de ses licences, ainsi vous êtes autorisé à modifier le texte tant
-que vous n’utilisez pas les marques CC pour le décrire. Cependant, nous
-ne le recommandons pas. Nous déconseillons également de modifier nos
-licences par des moyens indirects, comme dans vos conditions de service.
-Une licence modifiée ne sera très probablement pas compatible avec la
-même licence CC (non modifié) appliquée à d’autres matériels. Cela
-permettrait d’éviter aux titulaires de licence d’utiliser, combiner, ou
-remixer le contenu sous votre licence personnalisé avec un autre contenu
-sous les mêmes ou compatibles licences CC.
+CC ne fait pas valoir le droit d’auteur dans le texte de ses licences,
+ainsi vous êtes autorisé à modifier le texte tant que vous n’utilisez
+pas les marques CC pour le décrire. Cependant, nous ne le recommandons
+pas. Nous déconseillons également de modifier nos licences par des
+moyens indirects, comme dans vos conditions de service.  Une licence
+modifiée ne sera très probablement pas compatible avec la même licence
+CC (non modifié) appliquée à d’autres matériels. Cela permettrait
+d’éviter aux titulaires de licence d’utiliser, combiner, ou remixer le
+contenu sous votre licence personnalisé avec un autre contenu sous les
+mêmes ou compatibles licences CC.
 
-### La Modification de licences crée une friction qui
-confond les utilisateurs et sape les avantages clés des licences,
-publiques normalisées. Au centre de nos licences est l’octroi à l’avance
-d’un ensemble d’autorisations standards afin de ne pas obliger les
+La Modification de licences crée une friction qui confond les
+utilisateurs et sape les avantages clés des licences, publiques
+normalisées. Au centre de nos licences est l’octroi à l’avance d’un
+ensemble d’autorisations standards afin de ne pas obliger les
 utilisateurs à demander la permission ou demander des éclaircissements
 avant d’utiliser une œuvre. Cela encourage le partage et facilite la
 réutilisation, puisque tout le monde sait à quoi s’attendre et le
-fardeau de négociation des permissions au cas par cas est
-éliminé.
+fardeau de négociation des permissions au cas par cas est éliminé.
 
-### Puis-je renoncer aux termes ou conditions de la
-licence?
+### Puis-je renoncer aux termes ou conditions de la licence?
 
-Oui. Vous pouvez toujours choisir de renoncer à
-certains termes ou conditions de la licence. Le matériel sous une
-licence CC, mais avec des autorisations supplémentaires accordées ou des
-conditions supprimées peut être compatiblement licencié avec une autre
-œuvre sous la même licence. Notre protocole
-CC +  fournit un mécanisme pour faciliter
-cette adhésion ou suppression.
+Oui. Vous pouvez toujours choisir de renoncer à certains termes ou
+conditions de la licence. Le matériel sous une licence CC, mais avec
+des autorisations supplémentaires accordées ou des conditions
+supprimées peut être compatiblement licencié avec une autre œuvre sous
+la même licence. Notre protocole CC +  fournit un mécanisme pour
+faciliter cette adhésion ou suppression.
 
-### Puis-je conclure des accords distincts ou
-complémentaires avec les utilisateurs de mon œuvre?
+### Puis-je conclure des accords distincts ou complémentaires avec les utilisateurs de mon œuvre?
 
-### Oui. Les licences CC sont non exclusives. Les
-concédants ont toujours la possibilité de conclure des arrangements
-séparés pour le partage de leur matériel, en plus de l’application d’une
-licence CC. Cependant, ces différentes dispositions ne sont pas “CC” ou
-des licences “Creative Commons”.
+Oui. Les licences CC sont non exclusives. Les concédants ont toujours
+la possibilité de conclure des arrangements séparés pour le partage de
+leur matériel, en plus de l’application d’une licence CC. Cependant,
+ces différentes dispositions ne sont pas “CC” ou des licences
+“Creative Commons”.
 
-Des accords séparés: vous
-pouvez offrir le matériel licencié sous d’autres licences en plus de la
-licence CC (une pratique communément appelée “double licence”). Par
-exemple, vous pouvez autoriser une bande-son de jeu vidéo sous une
-licence CC et GPL, de sorte qu’elle peut être utilisée sous les termes
-d’une de ces licences. Un réutilisateur peut alors choisir l’ensemble de
-termes à respecter. Ou, par exemple, vous pouvez offrir votre matériel
-au public sous une licence « Non-commerciale », mais offrir des
-autorisations commerciales à des clients payants.\
-Des accords supplémentaires : Les problèmes surgissent lorsque les concédants désignent ces
-termes ou modifications pour servir, non pas comme des modifications de
-licences séparées et alternatives, mais comme des termes
-supplémentaires ayant pour effet de modifier les
-conditions générales de la licence CC.<!--<span
-class="c6  c7"> --> Bien que vous puissiez offrir des modalités et
-conditions différentes pour les tiers parties, vous ne devriez pas le
-faire d’une manière qui puisse neutraliser les termes de la licence
-CC.
+Des accords séparés: vous pouvez offrir le matériel licencié sous
+d’autres licences en plus de la licence CC (une pratique communément
+appelée “double licence”). Par exemple, vous pouvez autoriser une
+bande-son de jeu vidéo sous une licence CC et GPL, de sorte qu’elle
+peut être utilisée sous les termes d’une de ces licences. Un
+réutilisateur peut alors choisir l’ensemble de termes à respecter. Ou,
+par exemple, vous pouvez offrir votre matériel au public sous une
+licence « Non-commerciale », mais offrir des autorisations
+commerciales à des clients payants.\ Des accords supplémentaires : Les
+problèmes surgissent lorsque les concédants désignent ces termes ou
+modifications pour servir, non pas comme des modifications de licences
+séparées et alternatives, mais comme des termes supplémentaires ayant
+pour effet de modifier les conditions générales de la licence
+CC.<!--<span class="c6 c7"> --> Bien que vous puissiez offrir des
+modalités et conditions différentes pour les tiers parties, vous ne
+devriez pas le faire d’une manière qui puisse neutraliser les termes
+de la licence CC.
 
-Excepté la situation limitée où plus d’autorisations
-sont accordées ou les conditions de licence sont annulées, si
-l’arrangement supplémentaire modifie ou contredit avec les termes de la
-licence CC, alors l’accord de licence qui en résulte n’est plus un
-accord de licence CC. Pour éviter de confondre ceux qui peuvent croire à
-tort que l’œuvre est autorisée en vertu des termes standards de CC, nous
+Excepté la situation limitée où plus d’autorisations sont accordées ou
+les conditions de licence sont annulées, si l’arrangement
+supplémentaire modifie ou contredit avec les termes de la licence CC,
+alors l’accord de licence qui en résulte n’est plus un accord de
+licence CC. Pour éviter de confondre ceux qui peuvent croire à tort
+que l’œuvre est autorisée en vertu des termes standards de CC, nous
 devons insister pour que dans ces cas les concédants n’utilisent pas
-nos marques de commerce, noms et logos
-### dans le cadre de leur accord de licence
-personnalisé.
+nos marques de commerce, noms et logos dans le cadre de leur accord de
+licence personnalisé.
 
-### Il convient de noter que les accords que vous
-faites avec les autres parties ont seulement un effet sur ces autres
-parties, et ne sont pas applicables à quiconque recevant le matériel
-sous licence. Par exemple, s’il y a des conditions d’utilisation
-applicables aux visiteurs de votre site Web sur lequel vous hébergez des
-matériels sous licence CC, vos conditions d’utilisation s’appliquent aux
-visiteurs de ce site, mais pas à toute personne ailleurs qui reçoit des
-copies du matériel sous licence CC. Même pour les visiteurs de votre
-site web, toutes les modalités et conditions distinctes ne font pas
-partie de la licence, ils restent un accord contractuel séparé et toute
-violation de cet accord ne constitue pas une violation du droit
+Il convient de noter que les accords que vous faites avec les autres
+parties ont seulement un effet sur ces autres parties, et ne sont pas
+applicables à quiconque recevant le matériel sous licence. Par
+exemple, s’il y a des conditions d’utilisation applicables aux
+visiteurs de votre site Web sur lequel vous hébergez des matériels
+sous licence CC, vos conditions d’utilisation s’appliquent aux
+visiteurs de ce site, mais pas à toute personne ailleurs qui reçoit
+des copies du matériel sous licence CC. Même pour les visiteurs de
+votre site web, toutes les modalités et conditions distinctes ne font
+pas partie de la licence, ils restent un accord contractuel séparé et
+toute violation de cet accord ne constitue pas une violation du droit
 d’auteur.
 
-### Après licence
+## Après licence
 
-### Qu’advient-il si j’offre mon matériel sous une
-licence Creative Commons, et quelqu’un l’abuse?
+### Qu’advient-il si j’offre mon matériel sous une licence Creative Commons, et quelqu’un l’abuse?
 
-Une licence CC se termine
-automatiquement  lorsque ses conditions
-sont violées. Par exemple, si un reutilsateur de matériel sous licence
-CC ne prévoit pas l’attribution requise lors du partage de l’œuvre,
-alors l’utilisateur n’a plus le droit de continuer à utiliser le
-matériel et peut être responsable d’une violation du droit d’auteur. La
-licence est résiliée pour l’utilisateur qui a violé la licence.
-Cependant, tous les autres utilisateurs ont toujours une licence valide,
-tant qu’ils sont en conformité.
+Une licence CC se termine automatiquement  lorsque ses conditions sont
+violées. Par exemple, si un reutilsateur de matériel sous licence CC
+ne prévoit pas l’attribution requise lors du partage de l’œuvre, alors
+l’utilisateur n’a plus le droit de continuer à utiliser le matériel et
+peut être responsable d’une violation du droit d’auteur. La licence
+est résiliée pour l’utilisateur qui a violé la licence.  Cependant,
+tous les autres utilisateurs ont toujours une licence valide, tant
+qu’ils sont en conformité.
 
-### Sous les licences 4.0, le titulaire obtient de
-nouveau ces droits s’il corrige la violation dans les 30 jours après sa
-découverte.
+Sous les licences 4.0, le titulaire obtient de nouveau ces droits s’il
+corrige la violation dans les 30 jours après sa découverte.
 
-Si vous appliquez une licence Creative Commons et un
-utilisateur viole les conditions de la licence, vous pouvez choisir de
-communiquer avec lui directement pour lui demander de remédier à la
-situation ou consulter un avocat pour agir en votre nom. Creative
-Commons n’est pas un cabinet d’avocats et ne peut pas vous représenter
-ou vous donner des conseils juridiques, mais il y a des <!--<span
-class="c0 "> -->avocats qui se sont identifiés comme intéressé à
-représenter les gens dans les questions liées CC.
+Si vous appliquez une licence Creative Commons et un utilisateur viole
+les conditions de la licence, vous pouvez choisir de communiquer avec
+lui directement pour lui demander de remédier à la situation ou
+consulter un avocat pour agir en votre nom. Creative Commons n’est pas
+un cabinet d’avocats et ne peut pas vous représenter ou vous donner
+des conseils juridiques, mais il y a des <!--<span class="c0 ">
+-->avocats qui se sont identifiés comme intéressé à représenter les
+gens dans les questions liées CC.
 
-### Que puis-je faire si je vous offre mon matériel
-sous une licence Creative Commons, et je n’aime pas la façon dont
-quelqu’un l’utilise?
+### Que puis-je faire si je vous offre mon matériel sous une licence Creative Commons, et je n’aime pas la façon dont quelqu’un l’utilise?
 
-### Tant que les utilisateurs respectent les termes
-et conditions de licence, les concédants de licence ne peuvent pas
-contrôler la façon dont le matériel est utilisé. Toutefois, les licences
-CC fournissent plusieurs mécanismes qui permettent aux concédants de
-choisir de ne pas être associé à leur matériel ou à des usages de leur
-matériel avec lesquels ils sont en désaccord.
+Tant que les utilisateurs respectent les termes et conditions de
+licence, les concédants de licence ne peuvent pas contrôler la façon
+dont le matériel est utilisé. Toutefois, les licences CC fournissent
+plusieurs mécanismes qui permettent aux concédants de choisir de ne
+pas être associé à leur matériel ou à des usages de leur matériel avec
+lesquels ils sont en désaccord.
 
-Premièrement, toutes les licences CC interdisent d’utiliser l’exigence d’attribution pour suggérer
-que le donneur de licence endosse ou soutient un usage
-particulier. Deuxièmement, les concédants de
-licence peuvent renoncer à l’exigence d’attribution, choisissant de ne
-pas être identifié comme donneur de licence, s’ils le souhaitent.
+Premièrement, toutes les licences CC interdisent d’utiliser l’exigence
+d’attribution pour suggérer que le donneur de licence endosse ou
+soutient un usage particulier. Deuxièmement, les concédants de licence
+peuvent renoncer à l’exigence d’attribution, choisissant de ne pas
+être identifié comme donneur de licence, s’ils le souhaitent.
 Troisièmement, si le donneur n’aime pas comment le matériel a été
 modifié ou utilisé, les licences CC exigent que le titulaire supprime
-les informations d’attribution sur
-demande. (Dans la version 3.0 et les versions
-antérieures, cela est seulement une exigence pour les adaptations et les
-collections; pour le 4.0, cela vaut aussi pour l’œuvre non modifiée.)
-Enfin, toute modification de matériel sous licence doit indiquer que l’original a été modifié<!--<span
-class="c6  c7"> -->. Cela garantit que les modifications apportées au
-matériel original - acceptées ou non par le concédant- ne sont pas
-attribuées au donneur de licence.
+les informations d’attribution sur demande. (Dans la version 3.0 et
+les versions antérieures, cela est seulement une exigence pour les
+adaptations et les collections; pour le 4.0, cela vaut aussi pour
+l’œuvre non modifiée.)  Enfin, toute modification de matériel sous
+licence doit indiquer que l’original a été modifié<!--<span class="c6
+c7"> -->. Cela garantit que les modifications apportées au matériel
+original - acceptées ou non par le concédant- ne sont pas attribuées
+au donneur de licence.
 
-### Que dois-je faire si quelqu’un tente de placer
-des mesures techniques efficaces (tels que les DRM) sur mon matériel
-sous licence CC?
+### Que dois-je faire si quelqu’un tente de placer des mesures techniques efficaces (tels que les DRM) sur mon matériel sous licence CC?
 
-L’utilisation par les titulaires de licence de toutes
-les mesures techniques de protection efficaces
-(telles que la gestion des droits numériques ou «DRM»)<!--<span
-class="c6  c7"> --> pour empêcher les autres d’exercer les droits de
-licence est interdite.
+L’utilisation par les titulaires de licence de toutes les mesures
+techniques de protection efficaces (telles que la gestion des droits
+numériques ou «DRM»)<!--<span class="c6 c7"> --> pour empêcher les
+autres d’exercer les droits de licence est interdite.
 
-### Pas toutes sortes de chiffrement ou de
-limitations d’accès ne sont interdites par les licences. Par exemple,
-l’envoi de contenu par courrier électronique et cryptage avec la clé
-publique du destinataire ne restreint pas l’utilisation de l’ouvrage par
-le destinataire. De même, limiter les bénéficiaires à un ensemble
-particulier d’utilisateurs (par exemple, en exigeant un nom
-d’utilisateur et mot de passe pour accéder à un site) ne limite pas
-davantage l’utilisation du contenu par les bénéficiaires. Dans ces
-exemples, ces choses ne préviennent pas le destinataire de tous les
-droits accordés par la licence, y compris le droit de redistribuer
-davantage.
+Pas toutes sortes de chiffrement ou de limitations d’accès ne sont
+interdites par les licences. Par exemple, l’envoi de contenu par
+courrier électronique et cryptage avec la clé publique du destinataire
+ne restreint pas l’utilisation de l’ouvrage par le destinataire. De
+même, limiter les bénéficiaires à un ensemble particulier
+d’utilisateurs (par exemple, en exigeant un nom d’utilisateur et mot
+de passe pour accéder à un site) ne limite pas davantage l’utilisation
+du contenu par les bénéficiaires. Dans ces exemples, ces choses ne
+préviennent pas le destinataire de tous les droits accordés par la
+licence, y compris le droit de redistribuer davantage.
 
-### Si quelqu’un applique des mesures techniques
-efficaces à votre matériel sous licence CC et qui ne restreignent pas
-l’exercice des droits de licence (comme l’application de DRM qui limite
-la copie), cela constitue une violation des termes de la licence, sauf
-si vous avez choisi d’accorder cette autorisation séparément.
+Si quelqu’un applique des mesures techniques efficaces à votre
+matériel sous licence CC et qui ne restreignent pas l’exercice des
+droits de licence (comme l’application de DRM qui limite la copie),
+cela constitue une violation des termes de la licence, sauf si vous
+avez choisi d’accorder cette autorisation séparément.
 
-### Lorsque je publie mon œuvre sous une licence CC
-dans un format particulier (par exemple, .pdf), puis-je limiter les
-titulaires de la licence de la modifier ou de l’utiliser dans d’autres
-formats?
+### Lorsque je publie mon œuvre sous une licence CC dans un format particulier (par exemple, .pdf), puis-je limiter lestitulaires de la licence de la modifier ou de l’utiliser dans d’autres formats?
 
-### Non. Les licences CC accordent la permission
-d’utiliser le matériel sous licence dans tous les médias ou formats quel
-que soit le format sous lequel il a été mis à disposition. Cela est vrai
-même si vous avez appliqué une licence Pas de Modification (ND) à votre
-œuvre. Une fois une licence CC est appliquée à une œuvre en un format ou
-support, le titulaire peut utiliser la même œuvre dans tout autre format
-ou support sans violer le droit d’auteur du concédant.
+Non. Les licences CC accordent la permission d’utiliser le matériel
+sous licence dans tous les médias ou formats quel que soit le format
+sous lequel il a été mis à disposition. Cela est vrai même si vous
+avez appliqué une licence Pas de Modification (ND) à votre œuvre. Une
+fois une licence CC est appliquée à une œuvre en un format ou support,
+le titulaire peut utiliser la même œuvre dans tout autre format ou
+support sans violer le droit d’auteur du concédant.
 
-### Que faire si je change d’idée sur l’utilisation
-d’une licence CC?
+### Que faire si je change d’idée sur l’utilisation d’une licence CC?
 
-Les licences CC ne sont pas révocables. Une fois que
-quelque chose a été publiée sous une licence CC, les titulaires de
-licence peuvent continuer à l’utiliser selon les termes de la licence
-pour la durée du droit d’auteur et des droits similaires applicables. En
-tant que concédant, vous pouvez arrêter de distribuer sous la licence CC
-à tout moment, mais toute personne qui a accès à une copie de la matière
-peut continuer à le redistribuer sous les termes de la licence CC. Bien
-que vous ne pouviez pas révoquer la licence, les licences CC fournissent
-un mécanisme permettant
-aux concédants de demander à ce que les autres suppriment les
-informations d’attribution en utilisant leur matériel. Vous
-devriez bien réfléchir avant de choisir une
-licence Creative Commons.
+Les licences CC ne sont pas révocables. Une fois que quelque chose a
+été publiée sous une licence CC, les titulaires de licence peuvent
+continuer à l’utiliser selon les termes de la licence pour la durée du
+droit d’auteur et des droits similaires applicables. En tant que
+concédant, vous pouvez arrêter de distribuer sous la licence CC à tout
+moment, mais toute personne qui a accès à une copie de la matière peut
+continuer à le redistribuer sous les termes de la licence CC. Bien que
+vous ne pouviez pas révoquer la licence, les licences CC fournissent
+un mécanisme permettant aux concédants de demander à ce que les autres
+suppriment les informations d’attribution en utilisant leur
+matériel. Vous devriez bien réfléchir avant de choisir une licence
+Creative Commons.
 
-Pour les titulaires de licence
+# Pour les titulaires de licence
 
-Avant l’utilisation d’un matériel sous licence
+## Avant l’utilisation d’un matériel sous licence
 
 ### Que dois-je penser avant d’utiliser un matériel offert sous une licence Creative Commons?
 
@@ -1327,973 +1270,93 @@ est automatiquement résilié  et vous pouvez être responsable d’une
 violation du droit d’auteur, même si vous pouvez récupérer vos droits
 après.
 
-Avant d’utiliser un matériel offert sous une licence
-Creative Commons, vous devriez savoir que les licences CC accordent seulement des autorisations nécessaires en vertu de
-droits d’auteur et droits voisins , et il
-peut y avoir des droits supplémentaires que vous devez utiliser comme
-prévu. Vous devez aussi comprendre que les concédants ne proposent pas
-de garanties sur le matériel licencié, sauf indication contraire
-expresse. Tous les matériels sont licenciés “AS IS” (« tels quels ») et
-une exclusion de garantie s’applique sauf mention contraire indiquée
-explicitement. Si vous voulez demander une garantie ou engagement sur
-les droits d’utiliser le matériel, vous devriez en parler avec le
-concédant de licence avant de l’utiliser.
+Avant d’utiliser un matériel offert sous une licence Creative Commons,
+vous devriez savoir que les licences CC accordent seulement des
+autorisations nécessaires en vertu de droits d’auteur et droits
+voisins , et il peut y avoir des droits supplémentaires que vous devez
+utiliser comme prévu. Vous devez aussi comprendre que les concédants
+ne proposent pas de garanties sur le matériel licencié, sauf
+indication contraire expresse. Tous les matériels sont licenciés “AS
+IS” (« tels quels ») et une exclusion de garantie s’applique sauf
+mention contraire indiquée explicitement. Si vous voulez demander une
+garantie ou engagement sur les droits d’utiliser le matériel, vous
+devriez en parler avec le concédant de licence avant de l’utiliser.
 
 ### Est-ce qu’une licence Creative Commons me donne tous les droits nécessaires pour utiliser une œuvre?
 
-Ça dépend. Les licences CC ne concèdent pas de licence
-d’autres droits que le droit d’auteur et droits
-similaires (qui comprennent les droits
-sui generis des bases de données de la version 4.0). Par exemple, ils ne concèdent pas de
-licence ou les droits de brevet, de marque, de
+Ça dépend. Les licences CC ne concèdent pas de licence d’autres droits
+que le droit d’auteur et droits similaires (qui comprennent les droits
+sui generis des bases de données de la version 4.0). Par exemple, ils
+ne concèdent pas de licence ou les droits de brevet, de marque, de
  publicité, de personnalité, et les droits des tiers de la vie
-privée. Cependant, les concédants de licence
-acceptent de renoncer ou non valoir tous les droits moraux , les droits de
-publicité, droits de la personnalité, ou des droits à la vie privée, ils
-se tiennent, dans la mesure nécessaire et limitée pour permettre
-l’exercice des droits concédés. Tous les droits en dehors de la portée
-de la licence peuvent exiger une autorisation afin d’utiliser l’œuvre
-comme vous le souhaitez.
+privée. Cependant, les concédants de licence acceptent de renoncer ou
+non valoir tous les droits moraux , les droits de publicité, droits de
+la personnalité, ou des droits à la vie privée, ils se tiennent, dans
+la mesure nécessaire et limitée pour permettre l’exercice des droits
+concédés. Tous les droits en dehors de la portée de la licence peuvent
+exiger une autorisation afin d’utiliser l’œuvre comme vous le
+souhaitez.
 
-### En outre, les œuvres de création intègrent
-parfois des œuvres appartenant à autrui (connus comme «contenu de
-tiers”), souvent utilisés en vertu d’une licence CC ou en vertu d’une
-exception ou une limitation au droit d’auteur, tels que l’usage
-équitable aux États-Unis. Vous devez vous assurer que vous avez la
-permission d’utiliser tout contenu de tiers inclus dans l’œuvre que vous
-souhaitez utiliser, ou que votre utilisation est autrement autorisée par
-les lois de votre juridiction, en particulier dans des cas tels que
-l’usage équitable où votre droit d’utiliser le contenu dépend du
+En outre, les œuvres de création intègrent parfois des œuvres
+appartenant à autrui (connus comme «contenu de tiers”), souvent
+utilisés en vertu d’une licence CC ou en vertu d’une exception ou une
+limitation au droit d’auteur, tels que l’usage équitable aux
+États-Unis. Vous devez vous assurer que vous avez la permission
+d’utiliser tout contenu de tiers inclus dans l’œuvre que vous
+souhaitez utiliser, ou que votre utilisation est autrement autorisée
+par les lois de votre juridiction, en particulier dans des cas tels
+que l’usage équitable où votre droit d’utiliser le contenu dépend du
 contexte particulier dans lequel vous prévoyez de l’utiliser.
 
-Toutes les licences CC contiennent une exclusion de
-garantie, ce qui signifie que le concédant ne garantit rien sur l’œuvre,
-même s’il détient le droit d’auteur, a reçu l’autorisation d’inclure des
+Toutes les licences CC contiennent une exclusion de garantie, ce qui
+signifie que le concédant ne garantit rien sur l’œuvre, même s’il
+détient le droit d’auteur, a reçu l’autorisation d’inclure des
 contenus de tiers au sein de son œuvre, ou garanti autres droits tels
-que par le biais de l’utilisation des modèle de relaxe si l’image d’une
-personne est utilisée dans l’œuvre. Vous pouvez
-obtenir des conseils juridiques  avant
-d’utiliser un matériel sous licence CC si vous n’êtes pas sûr que vous
-ayez tous les droits dont vous avez besoin.
+que par le biais de l’utilisation des modèle de relaxe si l’image
+d’une personne est utilisée dans l’œuvre. Vous pouvez obtenir des
+conseils juridiques  avant d’utiliser un matériel sous licence CC si
+vous n’êtes pas sûr que vous ayez tous les droits dont vous avez
+besoin.
 
-### Que faire s’il existe des droits de base de
-données sui generis applicables à mon utilisation de la base de données
-sous licence CC?
+### Que faire s’il existe des droits de base de données sui generis applicables à mon utilisation de la base de données sous licence CC?
 
-Dans des circonstances limitées où les droits de base
-de données sui generis s’appliquent à votre utilisation, des conditions
-particulières s’appliquent en plus de considérations spécifiques dont
-vous devriez être au courant. Sous 4.0, les droits de base de données
-sui generis sont autorisés en plus des droits d’auteur, mais le
-traitement dans les versions antérieures de la licence varie. Une
-explication plus complète de ces variations et des considérations
-connexes sont disponibles dans la FAQ de
-données.
+Dans des circonstances limitées où les droits de base de données sui
+generis s’appliquent à votre utilisation, des conditions particulières
+s’appliquent en plus de considérations spécifiques dont vous devriez
+être au courant. Sous 4.0, les droits de base de données sui generis
+sont autorisés en plus des droits d’auteur, mais le traitement dans
+les versions antérieures de la licence varie. Une explication plus
+complète de ces variations et des considérations connexes sont
+disponibles dans la FAQ de données.
 
-### Où puis-je trouver du matériel offert sous une
-licence CC?
+### Où puis-je trouver du matériel offert sous une licence CC?
 
-Si vous êtes à la recherche d’un matériel offert sous
-une licence Creative Commons, CC
-Search est un bon point de départ. Il ya aussi
-un répertoire des
-organisations et des individus qui utilisent les licences CC. Certains
-sites de médias, tels que Flickr,<!--<span
-class="c6  c7"> --> ont des filtres de recherche pour les œuvres sous
-licence utilisant les licences de CC.
+Si vous êtes à la recherche d’un matériel offert sous une licence
+Creative Commons, CC Search est un bon point de départ. Il ya aussi un
+répertoire des organisations et des individus qui utilisent les
+licences CC. Certains sites de médias, tels que Flickr, ont des
+filtres de recherche pour les œuvres sous licence utilisant les
+licences de CC.
 
-### Assurez-vous de confirmer que le matériel que
-vous voulez utiliser est en fait sous une licence CC, les résultats de
-recherche peuvent parfois être trompeuses.
+Assurez-vous de confirmer que le matériel que vous voulez utiliser est
+en fait sous une licence CC, les résultats de recherche peuvent
+parfois être trompeuses.
 
-### Les œuvres sous CC sont-ils vraiment offerts
-gratuitement pour être utilisées?
+### Les œuvres sous CC sont-ils vraiment offerts gratuitement pour être utilisées?
 
-### Oui. Alors que beaucoup, ou même la plupart des
-œuvres sous licence CC sont disponibles gratuitement, des concédants
-peuvent imposer des frais pour l’accès initial aux œuvres sous licence
-CC - par exemple, en publiant des œuvres sous licence CC uniquement aux
-abonnés, ou en imposant des coûts pour les téléchargements. Cependant,
-même si vous avez payé des frais d’accès, une fois que vous avez une
-copie du matériel sous licence CC, vous pouvez faire d’autres
-utilisations autorisées par la licence sans avoir à payer les frais de
-licence.
+Oui. Alors que beaucoup, ou même la plupart des œuvres sous licence CC
+sont disponibles gratuitement, des concédants peuvent imposer des
+frais pour l’accès initial aux œuvres sous licence CC - par exemple,
+en publiant des œuvres sous licence CC uniquement aux abonnés, ou en
+imposant des coûts pour les téléchargements. Cependant, même si vous
+avez payé des frais d’accès, une fois que vous avez une copie du
+matériel sous licence CC, vous pouvez faire d’autres utilisations
+autorisées par la licence sans avoir à payer les frais de licence.
 
 (Si vous souhaitez faire des usages qui ne sont pas
 autorisés par la licence - par exemple faire un usage commercial  d’une photo
 licenciée, le concédant peut facturer pour ces droits
 supplémentaires.)
-
-<!--<span class="7"> -->What should I know about differences between the
-international licenses and the ported licenses?
-
-As a licensee, you should always read and understand
-the relevant license’s legal code before using CC-licensed material,
-particularly if you are using material that is licensed using
-a [ported
-license](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Frequently_Asked_Questions%23What_are_the_international_.28.E2.80.9Cunported.E2.80.9D.29_Creative_Commons_licenses.2C_and_why_does_CC_offer_.E2.80.9Cported.E2.80.9D_licenses.3F&sa=D&usg=AFQjCNE-fWlfgySxqfeQZ5DSivXQnAB_9w) with which you are unfamiliar. Our porting process involved
-adapting the international licenses to the legal framework of different
-jurisdictions, and in that process slight adjustments may have been made
-that you should make yourself aware of in advance of using the material.
-You can find more information about the ported licenses in
-the[Jurisdiction
-Database](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Jurisdiction_Database&sa=D&usg=AFQjCNE4CtK4yHJ91i_hZ9BYyS8nhpYJ-g)<!--<span
-class="c6  c7"> -->.
-
-### There are currently no ported versions of 4.0,
-and we expect there will be few, if any, in the future. All official
-translations of the 4.0 international licenses are equivalent: you may
-substitute one for another depending on your preferred language.
-
-### However, the ported versions of 3.0 and earlier
-sometimes contain small differences from the international license
-depending on the ways in which they have been adapted to their
-jurisdictions. For example, a handful of the ported licenses contain
-provisions specifying which laws will apply in the event the licensor
-chooses to enforce the license, and a few of the ported licenses contain
-forum selection clauses.
-
-<!--<span class="c21"> -->General license compliance
-
-<!--<span class="7"> -->What happens if I want to use the material in a way
-that is not permitted by the license?
-
-Contact the rights holders to ask for permission.
-Otherwise, [unless an exception or limitation to
-copyright
-applies](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Frequently_Asked_Questions%23Do_I_always_have_to_comply_with_the_license_terms.3F_If_not.2C_what_are_the_exceptions.3F&sa=D&usg=AFQjCNEfsFLkMGaYQ_P7bvlOG_OO1nsBYw), your use of the material may violate the Creative Commons
-license. If you violate the terms of the license, your rights to use the
-material will be [automatically
-terminated](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Frequently_Asked_Questions%23How_can_I_lose_my_rights_under_a_Creative_Commons_license.3F_If_that_happens.2C_how_do_I_get_them_back.3F&sa=D&usg=AFQjCNEyG5UYhHgASsdl21952EqpudhqlQ)<!--<span
-class="c6  c7"> -->, and you may be liable for copyright
-infringement.
-
-<!--<span class="7"> -->Do I always have to comply with the license terms? If
-not, what are the exceptions?
-
-### You need to comply with the license terms if what
-you are doing would otherwise require permission from the rights holder.
-If your use would not require permission from the rights holder because
-it falls under an exception or limitation, such as fair use, or because
-the material has come into the public domain, the license does not
-apply, and you do not need to comply with its terms and conditions.
-Additionally, if you are using an excerpt small enough to be
-uncopyrightable, the license does not apply to your use, and you do not
-need to comply with its terms.
-
-### However, if you are using excerpts of CC-licensed
-material which individually are minimal and do not require license
-compliance, but together make up a significant copyrightable chunk, you
-must comply with the license terms. For example, if you quote many
-individual lines from a poem across several sections of a blog post, and
-your use is not a fair use, you must comply with the license even though
-no individual line would have been a substantial enough portion of the
-work to require this.
-
-<!--<span class="c21"> -->Attribution
-
-<!--<span class="7"> -->How do I properly attribute material offered under a
-Creative Commons license?
-
-All CC licenses require users to attribute the creator
-of licensed material, unless the creator has [waived that
-requirement](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Frequently_Asked_Questions%23Can_I_waive_license_terms_or_conditions.3F&sa=D&usg=AFQjCNGVUVyCJBZMd4xOhHYZY4lalhVcng), not supplied a name, or [asked that
-her name be
-removed](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Frequently_Asked_Questions%23What_can_I_do_if_I_offer_my_material_under_a_Creative_Commons_license_and_I_do_not_like_the_way_someone_uses_it.3F&sa=D&usg=AFQjCNHbRwJ1idL7PGNmAW3jftYUhL6t0w)<!--<span
-class="c6  c7"> -->. Additionally, you must retain a copyright notice, a
-link to the license (or to the deed), a license notice, a notice about
-the disclaimer of warranties, and a URI if reasonable. For versions
-prior to 4.0, you must also provide the title of the work. (Though it is
-not a requirement in 4.0, it is still recommended if one is
-supplied.)
-
-You must also indicate if you have [modified the
-work](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/License_Versions%23Modifications_and_adaptations_must_be_marked_as_such&sa=D&usg=AFQjCNHbVPFbOA1guHDRCDXejdcgfCNtww)<!--<span
-class="c6  c7"> -->—for example, if you have taken an excerpt, or cropped
-a photo. (For versions prior to 4.0, this is only required if you have
-created an adaptation by contributing your own creative material, but it
-is recommended even when not required.) It is not necessary to note
-trivial alterations, such as correcting a typo or changing a font size.
-Finally, you must retain an indication of previous modifications to the
-work.
-
-### CC licenses have a flexible attribution
-requirement, so there is not necessarily one correct way to provide
-attribution. The proper method for giving credit will depend on the
-medium and means you are using, and may be implemented in any reasonable
-manner. Additionally, you may satisfy the attribution requirement by
-providing a link to a place where the attribution information may be
-found.
-
-While the attribution requirements in the license are
-the minimum requirement, we always recommend that you [follow the best
-practices](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Marking/Users&sa=D&usg=AFQjCNEE6Fl-r6SOlkQDBqcSKKWskvr4uQ)<!--<span
-class="c6  c7"> --> for the kind of use you are making. For example, if
-you are using scientific data marked with CC0, you are not required to
-give attribution at all, but we recommend that you give the same credit
-you would give to any other source—not because the license requires it,
-but because that is the standard for letting others know the source of
-the data.
-
-The CC website offers some [best
-practices](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Marking/Users&sa=D&usg=AFQjCNEE6Fl-r6SOlkQDBqcSKKWskvr4uQ) to help you attribute properly, and the [CC
-Australia](https://www.google.com/url?q=http://www.creativecommons.org.au/&sa=D&usg=AFQjCNE013KP-wYpuFaygHR_Dx6CfD6HcQ) team has developed a [helpful guide
-to attributing CC-licensed material
-(.pdf)](https://www.google.com/url?q=http://creativecommons.org.au/content/attributingccmaterials.pdf&sa=D&usg=AFQjCNFsu6GNMFBqBX3o0rDOoSrakdRY0A) in different formats. Note that the attribution and marking
-requirements vary slightly among license versions. See [here for a chart comparing the specific
-requirements](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/License_Versions%23Detailed_attribution_comparison_chart&sa=D&usg=AFQjCNF5dddg_cFglemyYP1Bh3SL6AVS6g)<!--<span
-class="c6  c7"> -->.
-
-<!--<span class="7"> -->Do I need to be aware of anything else when providing
-attribution?
-
-Yes. You need to be careful not to imply any
-sponsorship, endorsement, or connection with the licensor or attribution
-party without their permission. Wrongfully implying that a creator,
-publisher, or anyone else endorses you or your use of a work may be
-unlawful. Creative Commons makes the obligation not to imply endorsement
-explicit in its licenses. In addition, if the licensor of a
-work [requests that you remove the identifying
-credit](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Frequently_Asked_Questions%23What_can_I_do_if_I_offer_my_material_under_a_Creative_Commons_license_and_I_do_not_like_the_way_someone_uses_it.3F&sa=D&usg=AFQjCNHbRwJ1idL7PGNmAW3jftYUhL6t0w)<!--<span
-class="c6  c7"> -->, you must do so to the extent practical.
-
-Additionally, when you are using a work that is an
-adaptation of one or more pre-existing works, you may need
-to [give credit to the creator(s) of the
-pre-existing
-work(s)](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Marking/Creators/Marking_third_party_content&sa=D&usg=AFQjCNHEkIgctYKs1HzcwBbRCX_xH4bPUw)<!--<span
-class="c6  c7"> -->, in addition to giving credit to the creator of the
-adaptation.
-
-<!--<span class="7"> -->Do I always have to attribute the creator of the
-licensed material?
-
-You must attribute the creator when you provide
-material to the public by any means that is restricted by copyright or
-similar rights. If you are using the material personally but are not
-making it or any adaptations of it available to others, you do not have
-to attribute the licensor. Similarly, if you are only distributing the
-material or adaptations of it within your company or organization, you
-do not have to comply with the attribution requirement.
-Learn [more](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Frequently_Asked_Questions%23Do_I_always_have_to_comply_with_the_license_terms.3F_If_not.2C_what_are_the_exceptions.3F&sa=D&usg=AFQjCNEfsFLkMGaYQ_P7bvlOG_OO1nsBYw)<!--<span
-class="c6  c7"> --> about when compliance with the license is not
-required.
-
-<!--<span class="c21"> -->Using licensed material
-
-<!--<span class="7"> -->Does my use violate the NonCommercial clause of the
-licenses?
-
-### CC’s NonCommercial (NC) licenses prohibit uses
-that are “primarily intended for or directed toward commercial advantage
-or monetary compensation.” This is intended to capture the intention of
-the NC-using community without placing detailed restrictions that are
-either too broad or too narrow. Please note that CC’s definition does
-not turn on the type of user: if you are a nonprofit or charitable
-organization, your use of an NC-licensed work could still run afoul of
-the NC restriction, and if you are a for-profit entity, your use of an
-NC-licensed work does not necessarily mean you have violated the term.
-Whether a use is commercial will depend on the specifics of the
-situation and the intentions of the user.
-
-### In CC’s experience, it is usually relatively easy
-to determine whether a use is permitted, and known conflicts are
-relatively few considering the popularity of the NC licenses. However,
-there will always be uses that are challenging to categorize as
-commercial or noncommercial. CC cannot advise you on what is and is not
-commercial use. If you are unsure, you should either contact the rights
-holder for clarification, or search for works that permit commercial
-uses.
-
-CC has a [brief
-guide](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/NonCommercial_interpretation&sa=D&usg=AFQjCNEH6WAO_2dGPs2fL6euRae5hQ3PZw) to interpretation of the NC license that goes into more
-detail about the meaning of the NC license and some key points to pay
-attention to. Additionally, in 2008,[Creative
-Commons published
-results](https://www.google.com/url?q=http://noncommercial&sa=D&usg=AFQjCNHFbJgZziLtFe6poQByXwnqdTC7GA)<!--<span
-class="c6  c7"> --> from a survey on meanings of commercial and
-noncommercial use generally. Note that the results of the study are not
-intended to serve as CC’s official interpretation of what is and is not
-commercial use under our licenses, and the results should not be relied
-upon as such.
-
-<!--<span class="7"> -->Can I take a CC-licensed work and use it in a
-different format?
-
-### Yes. When any of the six CC licenses is applied
-to material, licensees are granted permission to use the material as the
-license allows, whatever the media or format chosen by the user when it
-is used or distributed further. This is true even in our NoDerivatives
-licenses. This is one of a very few default rules established in our
-licenses, to harmonize what may be different outcomes depending on where
-CC-licensed material is reused and what jurisdiction’s copyright law
-applies.
-
-### This means, for example, that even if a creator
-distributes a work in digital format, you have permission to print and
-share a hard copy of the same work.
-
-<!--<span class="7"> -->How do I know if a low-resolution photo and a
-high-resolution photo are the same work?
-
-### As with most copyright questions, it will depend
-on applicable law. Generally, to be different works under copyright law,
-there must be expressive or original choices made that make one work a
-separate and distinct work from another. The determination depends on
-the standards for copyright in the relevant jurisdiction.
-
-Under U.S. copyright law, for example, mechanical
-reproduction of a work into a different format [is unlikely to create a separate, new
-work](https://www.google.com/url?q=http://en.wikipedia.org/wiki/Bridgeman_Art_Library_v._Corel_Corp.&sa=D&usg=AFQjCNH6Yuss32vb5ZyRF6Pwc7rBC0h6Rw). Consequently, digitally enhancing or changing the format of
-a work <!--<span class="c6 c40"> -->absent some originality<!--<span
-class="c6  c7"> -->, such as expressive choices made in the enhancement or
-encoding, will not likely create a separate work for copyright purposes.
-The creative bar is low, but it is not non-existent. Accordingly, in
-some jurisdictions releasing a photograph under a CC license will give
-the public permission to reuse the photograph in a different
-resolution.
-
-<!--<span class="7"> -->Can I use effective technological measures (such as
-DRM) when I share CC-licensed material?
-
-### No. When you receive material under a Creative
-Commons license, you may not place additional terms and conditions on
-the reuse of the work. This includes using effective technological
-measures (ETMs) that would restrict a licensee’s ability to exercise the
-licensed rights.
-
-### A technological measure is considered an ETM if
-circumventing it carries penalties under laws fulfilling obligations
-under Article 11 of the WIPO Copyright Treaty adopted on December 20,
-1996, or similar international agreements. Generally, this means that
-the anti-circumvention laws of various jurisdictions would cover
-attempts to break it.
-
-### For example, if you remix a CC-licensed song, and
-you wish to share it on a music site that places digital
-copy-restriction on all uploaded files, you may not do this without
-express permission from the licensor. However, if you upload that same
-file to your own site or any other site that does not apply DRM to the
-file, and a listener chooses to stream it through an app that applies
-DRM, you have not violated the license.
-
-### Note that merely converting material into a
-different format that is difficult to access or is only available for
-certain platforms does not violate the restriction; you may do this
-without violating the license terms.
-
-<!--<span class="7"> -->Can I share CC-licensed material on password-protected
-sites?
-
-Yes. This is not considered to be a prohibited measure,
-so long as the protection is merely limiting who may access the content,
-and does not restrict the authorized recipients from exercising the
-licensed rights. For example, you may post material under any CC license
-on a site restricted to members of a certain school, or to paying
-customers, but [you may not place effective
-technological measures (including DRM) on the
-files](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Frequently_Asked_Questions%23Can_I_use_effective_technological_measures_.28such_as_DRM.29_when_I_share_CC-licensed_material.3F&sa=D&usg=AFQjCNFyeTaMlLqyGwG_erS34q3obBulcg)<!--<span
-class="c6  c7"> --> that prevents them from sharing the material
-elsewhere.
-
-### (Note that charging for access may not be
-permitted with NC-licensed material; however, it is not disallowed by
-the restriction on ETMs.)
-
-<!--<span class="7"> -->Can I share CC-licensed material on file-sharing
-networks?
-
-### Yes. All CC licenses allow redistribution of the
-unmodified material by any means, including distribution via
-file-sharing networks. Note that file-trading is expressly considered to
-be noncommercial for purposes of compliance with the NC licenses. Barter
-of NC-licensed material for other items of value is not
-permitted.
-
-<!--<span class="c21"> -->Additional restrictions on licensed material
-
-<!--<span class="7"> -->What if I received CC-licensed material encumbered
-with effective technological measures (such as DRM)?
-
-### If you have received material under a CC license
-that is encumbered with effective technological measures (such as
-digital rights management or DRM), you may or may not be permitted to
-break it, depending on the circumstances. By releasing material under a
-CC license, the licensor agrees not to assert any rights she may have to
-prevent the circumvention of effective technological measures. (Under
-the 3.0 and earlier licenses, this is implied but not explicit.)
-However, if she has uploaded it to a site or other distribution channel
-that itself applies such measures, that site may have the right to
-prevent you from breaking them, even though the licensor herself cannot
-do so.
-
-### Note that anti-circumvention laws can impose
-criminal liability in some jurisdictions.
-
-<!--<span class="7"> -->What if I have received CC-licensed material with
-additional restrictions?
-
-It is possible that CC-licensed material will appear on
-platforms that impose terms in addition to the copyright license
-(though [Creative Commons strongly discourages
-restrictions that interfere with exercise of the licensed
-rights](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Frequently_Asked_Questions%23Can_I_enter_into_separate_or_supplemental_agreements_with_users_of_my_work.3F&sa=D&usg=AFQjCNEXaqJw8AMrhPL1KwtYqEUENJ3Mug)). These additional terms do not form part of the license for
-the work. For example, if you download CC-licensed material from a site
-that does not permit downloading, you may be breaking the terms of use
-of the site, but you are not infringing the CC license. See our guide
-to [Modifying the CC
-licenses](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Modifying_the_CC_licenses&sa=D&usg=AFQjCNFLF-GaUDeABVHJtAgpoF494U0GAQ)<!--<span
-class="c6  c7"> --> for more guidance and information.
-
-<!--<span class="c21"> -->Combining and adapting CC material
-
-<!--<span class="7"> -->When is my use considered an adaptation?
-
-Whether a modification of licensed material is
-considered an [adaptation](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Frequently_Asked_Questions%23What_is_an_adaptation.3F&sa=D&usg=AFQjCNEj_mc-YL--dUPJZmwqHpkmZoNtZw)<!--<span
-class="c6  c7"> --> for the purpose of CC licenses depends primarily on
-the applicable copyright law. Copyright law reserves to an original
-creator the right to create adaptations of the original work. CC
-licenses that allow for adaptations to be shared—all except BY-ND and
-BY-NC-ND—grant permission to others to create and redistribute
-adaptations when doing so would otherwise constitute a violation of
-applicable copyright law. Generally, a modification rises to the level
-of an adaptation under copyright law when the modified work is based on
-the prior work but manifests sufficient new creativity to be
-copyrightable, such as a translation of a novel from one language to
-another, or the creation of a screenplay based on a novel.
-
-Under CC licenses, synching music in timed relation
-with a moving image is always considered an adaptation, whether or not
-it would be considered so under applicable law. Also, under version 4.0,
-certain uses of databases restricted by sui generis database rights also
-constitute adaptations (called “Adapted Material” in the 4.0 licenses),
-whether or not they would be considered adaptations under copyright law.
-For more details about adaptations in the database context, see
-the [Data
-FAQ](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Data&sa=D&usg=AFQjCNElgJws-0jS7O_pfutQ2fb5WE0sHw)<!--<span
-class="c6  c7"> -->.
-
-Note that all CC licenses allow the user to exercise
-the rights permitted under the license [in any
-format or
-medium](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Frequently_Asked_Questions%23Can_I_take_a_CC-licensed_work_and_use_it_in_a_different_format.3F&sa=D&usg=AFQjCNECYJuoI4zSFD6-PIpI_smsjoL7gw). Those changes are not considered adaptations even if
-applicable law would suggest otherwise. For example, you may
-redistribute a book that uses the CC [BY-NC-ND](https://www.google.com/url?q=http://creativecommons.org/licenses/by-nc-nd/4.0/&sa=D&usg=AFQjCNGJx3_t5D3ZS_usXLwOmD4c0Dx_QA)<!--<span
-class="c6  c7"> --> license in print form when it was originally
-distributed online, even if you have had to make formatting changes to
-do so, as long as you do so in compliance with the other terms of the
-license.
-
-<!--<span class="c6 c40 c28"> -->Note on terminology: throughout these FAQs, we
-use the term “remix” interchangeably with “adapt.” Both are designed to
-mean doing something that constitutes an<!--<span
-class="c0 c40 c28"> -->[adaptation under copyright
-law](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/FAQ%23What_is_an_adaptation.3F&sa=D&usg=AFQjCNFRzLeK-WNJcO8h5UJIC9dk_E-yIA)<!--<span
-class="c6 c40 c28"> -->.
-
-<!--<span class="7"> -->Can I combine material under different Creative
-Commons licenses in my work?
-
-It depends. The first question to ask is whether doing
-so constitutes an [adaptation.](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/FAQ%23When_is_my_use_considered_an_adaptation.3F&sa=D&usg=AFQjCNHqr16zdYV7oRoGRM4B-uLdfPFXLw) If the combination does <!--<span
-class="c6 c40 c28"> -->not  create an
-adaptation, then you may combine any CC-licensed content so long as you
-provide attribution and comply with the NonCommercial restriction if it
-applies. If you want to combine material in a way that results in the
-creation of an adaptation (i.e. a “remix”), then you must pay attention
-to the particular license that applies to the content you want to
-combine.
-
-The NoDerivatives licenses do not permit remixing
-except for private use (the pre-4.0 licenses do not permit remixing at
-all, except as allowed by exceptions and limitations to copyright). All
-the other CC licenses allow remixes, but may impose limitations or
-conditions on how the remix may be used. For example, if you create a
-remix with material licensed under a ShareAlike license, you need to
-make sure that all of the material contributed to the remix is licensed
-under the same license or [one that CC has named
-as
-compatible](https://www.google.com/url?q=http://creativecommons.org/compatiblelicenses&sa=D&usg=AFQjCNHgi7Y1jgviKBDgxrPXwqAuK3hRAw), and you must [properly credit all
-of the
-sources](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Marking/Users&sa=D&usg=AFQjCNEE6Fl-r6SOlkQDBqcSKKWskvr4uQ) with the [required
-attribution](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Frequently_Asked_Questions%23How_do_I_properly_attribute_material_offered_under_a_Creative_Commons_license.3F&sa=D&usg=AFQjCNEHsM9Q7PGJmm2tzyMUzMin6Jw8Gg) and license information. Similarly, if you want to use a
-remix for [commercial
-purposes](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Frequently_Asked_Questions%23Does_my_use_violate_the_NonCommercial_clause_of_the_licenses.3F&sa=D&usg=AFQjCNG8H6kd5uej4QsTX3LGJOxDAfG0MA)<!--<span
-class="c6  c7"> -->, you cannot incorporate material released under one of
-the NonCommercial licenses.
-
-The chart below shows which CC-licensed material can be
-remixed. To use the chart, find a license on the left column and on the
-top right row. If there is a check mark in the box where that row and
-column intersect, then the works can be remixed. If there is an “X” in
-the box, then the works may not be remixed unless an exception or
-limitation applies. See[below for details on how
-remixes may be
-licensed](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Frequently_Asked_Questions%23If_I_derive_or_adapt_material_offered_under_a_Creative_Commons_license.2C_which_CC_license.28s.29_can_I_use.3F&sa=D&usg=AFQjCNF6mHblbrrMt2bACgzCGg68Mk37tg)<!--<span
-class="c6  c7"> -->.
-
-<!--<span
-style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 300.44px; height: 173.13px;"> -->
-![Creative Commons License Compatibility
-Chart](images/image00.png)
-
-<!--<span class="7  c7"> -->If I derive or adapt material offered under a
-Creative Commons license, which CC license(s) can I use?
-
-If you make [adaptations](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Frequently_Asked_Questions%23When_is_my_use_considered_an_adaptation.3F&sa=D&usg=AFQjCNEegOgvVR3zUb4aaUDM-1mGkNFSgA)<!--<span
-class="c6  c7"> --> of material under a CC license (i.e. “remix”), the
-original CC license always applies to the material you are adapting even
-once adapted. The license you may choose for your own contribution
-(called your “adapter’s license”) depends on which license applies to
-the original material. Recipients of the adaptation must comply with
-both the CC license on the original and your adapter’s license.
-
-### =====BY and BY-NC material=====
-
-### When remixing BY or BY-NC material, it is
-generally recommended that your adapter’s license include at least the
-same license elements as the license applied to the original material.
-This eases reuse for downstream users because they are able to satisfy
-both licenses by complying with the adapter’s license. For example, if
-you adapt material licensed under BY-NC, your adapter’s license should
-also contain the NC restriction. See the chart below for more
-details.
-
-### =====BY-SA and BY-NC-SA material=====
-
-In general, when remixing ShareAlike content, your
-adapter’s license must be the same license as the license on the
-material you are adapting. All licenses after version 1.0 also allow you
-to license your contributions under a later version of the same license,
-and some also allow ported licenses. (See the [license versions
-page](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/License_Versions%23Compatibility_mechanism_in_BY-SA_licenses&sa=D&usg=AFQjCNFvpuDhsRinULTdAwYja8C4SYiQ) for details.) If you wish to adapt material under BY-SA or
-BY-NC-SA and release your contributions under a non-CC license, you
-should visit the [Compatibility
-page](https://www.google.com/url?q=http://creativecommons.org/compatiblelicenses&sa=D&usg=AFQjCNHgi7Y1jgviKBDgxrPXwqAuK3hRAw)<!--<span
-class="c6  c7"> --> to see which options are allowed.
-
-### =====BY-ND and BY-NC-ND material=====
-
-### The BY-ND and BY-NC-ND licenses do not permit
-distribution of adaptations (also known as remixes or derivative works),
-and prohibits the creation of adaptations under the pre-4.0 versions of
-those licenses. Since you may not share remixes of these materials at
-all, there is no compatibility with other licenses. (Note that the ND
-licenses do allow you to reproduce the material in unmodified form
-together with other material in a collection, as indicated in the next
-FAQ.)
-
-### =====Adapter’s license chart=====
-
-### The chart below details the CC license(s) you may
-use as your adapter’s license. When creating an adaptation of material
-under the license identified in the lefthand column, you may license
-your contributions to the adaptation under one of the licenses indicated
-on the top row if the corresponding box is green. CC does not recommend
-using a license if the corresponding box is yellow, although doing so is
-technically permitted by the terms of the license. If you do, you should
-take additional care to mark the adaptation as involving multiple
-copyrights under different terms so that downstream users are aware of
-their obligations to comply with the licenses from all rights holders.
-Dark gray boxes indicate those licenses that you may not use as your
-adapter’s license.
-
-[](#)[](#)
-
-<!--<span class="c22"> -->Adapter’s license chart
-
-<!--<span class=" 3 c7"> -->Adapter’s license
-
-<!--<span class=" 3 c7"> -->BY
-
-<!--<span class=" 3 c7"> -->BY-NC
-
-<!--<span class=" 3 c7"> -->BY-NC-ND
-
-<!--<span class=" 3 c7"> -->BY-NC-SA
-
-<!--<span class=" 3 c7"> -->BY-ND
-
-<!--<span class=" 3 c7"> -->BY-SA
-
-<!--<span class=" 3 c7"> -->PD
-
-<!--<span class=" 3 c7"> -->Status of original work
-
-<!--<span class=" 3 c7"> -->PD
-
-<!--<span class=" 3 c7"> --> 
-
-<!--<span class=" 3 c7"> --> 
-
-<!--<span class=" 3 c7"> --> 
-
-<!--<span class=" 3 c7"> --> 
-
-<!--<span class=" 3 c7"> --> 
-
-<!--<span class=" 3 c7"> --> 
-
-<!--<span class=" 3 c7"> --> 
-
-<!--<span class=" 3 c7"> -->BY
-
-<!--<span class=" 3 c7"> --> 
-
-<!--<span class=" 3 c7"> --> 
-
-<!--<span class=" 3 c7"> --> 
-
-<!--<span class=" 3 c7"> --> 
-
-<!--<span class=" 3 c7"> --> 
-
-<!--<span class=" 3 c7"> --> 
-
-<!--<span class=" 3 c7"> --> 
-
-<!--<span class=" 3 c7"> -->BY-NC
-
-<!--<span class=" 3 c7"> --> 
-
-<!--<span class=" 3 c7"> --> 
-
-<!--<span class=" 3 c7"> --> 
-
-<!--<span class=" 3 c7"> --> 
-
-<!--<span class=" 3 c7"> --> 
-
-<!--<span class=" 3 c7"> --> 
-
-<!--<span class=" 3 c7"> --> 
-
-<!--<span class=" 3 c7"> -->BY-NC-ND
-
-<!--<span class=" 3 c7"> --> 
-
-<!--<span class=" 3 c7"> --> 
-
-<!--<span class=" 3 c7"> --> 
-
-<!--<span class=" 3 c7"> --> 
-
-<!--<span class=" 3 c7"> --> 
-
-<!--<span class=" 3 c7"> --> 
-
-<!--<span class=" 3 c7"> --> 
-
-<!--<span class=" 3 c7"> -->BY-NC-SA
-
-<!--<span class=" 3 c7"> --> 
-
-<!--<span class=" 3 c7"> --> 
-
-<!--<span class=" 3 c7"> --> 
-
-<!--<span class=" 3 c7"> --> 
-
-<!--<span class=" 3 c7"> --> 
-
-<!--<span class=" 3 c7"> --> 
-
-<!--<span class=" 3 c7"> --> 
-
-<!--<span class=" 3 c7"> -->BY-ND
-
-<!--<span class=" 3 c7"> --> 
-
-<!--<span class=" 3 c7"> --> 
-
-<!--<span class=" 3 c7"> --> 
-
-<!--<span class=" 3 c7"> --> 
-
-<!--<span class=" 3 c7"> --> 
-
-<!--<span class=" 3 c7"> --> 
-
-<!--<span class=" 3 c7"> --> 
-
-<!--<span class=" 3 c7"> -->BY-SA
-
-<!--<span class=" 3 c7"> --> 
-
-<!--<span class=" 3 c7"> --> 
-
-<!--<span class=" 3 c7"> --> 
-
-<!--<span class=" 3 c7"> --> 
-
-<!--<span class=" 3 c7"> --> 
-
-<!--<span class=" 3 c7"> --> 
-
-<!--<span class=" c7 3"> --> 
-
-[](#)[](#)
-
-+--------------------------------------------------------------------------+
-| <!--<span class=" 3 c7"> -->Abbreviation Key                          |
-|                                                                          |
-| -   <!--<span class="c59"> -->BY = <!--<span class="c53"> -->[Attribution         |
-|     only](https://www.google.com/url?q=http://creativecommons.org/licens |
-| es/by/4.0/&sa=D&usg=AFQjCNFILAB_YMzjFTGojqPGOeSjCxXO5g)           |
-| -   <!--<span class="c59"> -->BY-ND = <!--<span                               |
-|     class="c53"> -->[Attribution-NoDerivatives](https://www.google.com/url?q |
-| =http://creativecommons.org/licenses/by-nd/4.0/&sa=D&usg=AFQjCNGa8jJR-oh |
-| kpfOCssF2JAPxtGh5Ew)                                              |
-| -   <!--<span class="c59"> -->BY-NC-ND = <!--<span                            |
-|     class="c53"> -->[Attribution-NonCommercial-                              |
-|     NoDerivatives](https://www.google.com/url?q=http://creativecommons.o |
-| rg/licenses/by-nc-nd/4.0/&sa=D&usg=AFQjCNGJx3_t5D3ZS_usXLwOmD4c0Dx_QA)</ |
-| span>                                                                    |
-| -   <!--<span class="c59"> -->BY-NC = <!--<span                               |
-|     class="c53"> -->[Attribution-NonCommercial](https://www.google.com/url?q |
-| =http://creativecommons.org/licenses/by-nc/4.0/&sa=D&usg=AFQjCNH4wNrqQP4 |
-| kMbKnnK5f_l0NZL7IhQ)                                              |
-| -   <!--<span class="c59"> -->BY-NC-SA = <!--<span                            |
-|     class="c53"> -->[Attribution-NonCommercial-                              |
-|     ShareAlike](https://www.google.com/url?q=http://creativecommons.org/ |
-| licenses/by-nc-sa/4.0/&sa=D&usg=AFQjCNE8riZhLd4mA2TeE1COt_Bfjzb2Vg)</spa |
-| n>                                                                       |
-| -   <!--<span class="c59"> -->BY-SA = <!--<span                               |
-|     class="c53"> -->[Attribution-ShareAlike](https://www.google.com/url?q=ht |
-| tp://creativecommons.org/licenses/by-sa/4.0/&sa=D&usg=AFQjCNE-SB6VRcCOF8 |
-| FXtM_eYlLxp6z_0Q)                                                 |
-| -   <!--<span class="c59"> -->PD = Dedicated to or marked as being in the public |
-|     domain via one of our <!--<span class="c53"> -->[public domain        |
-|     tools](https://www.google.com/url?q=http://creativecommons.org/publi |
-| cdomain&sa=D&usg=AFQjCNEl7_RqfeGQw_aT-6AFH638z8ycyg)<!--<span         |
-|     class=" 3 c7"> -->, or other public domain material; adaptations of  |
-|     materials in the public domain may be built upon and licensed by the |
-|     creator under any license terms desired.                      |
-+--------------------------------------------------------------------------+
-
-<!--<span class="7"> -->If I create a collection that includes a work offered
-under a CC license, which license(s) may I choose for the
-collection?
-
-### All Creative Commons licenses (including the
-version 4.0 licenses) allow licensed material to be included in
-collections such as anthologies, encyclopedias, and broadcasts. You may
-choose a license for the collection, however this does not change the
-license applicable to the original material.
-
-When you include CC-licensed content in a collection,
-you still must adhere to the license conditions governing your use of
-the material incorporated. For example, material under any of the
-Creative Commons NonCommercial licenses cannot be used [commercially](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Frequently_Asked_Questions%23Does_my_use_violate_the_NonCommercial_clause_of_the_licenses.3F&sa=D&usg=AFQjCNG8H6kd5uej4QsTX3LGJOxDAfG0MA)<!--<span
-class="c6  c7"> -->. The table below indicates what type of CC-licensed
-works you may incorporate into collections licensed for commercial and
-noncommercial uses.
-
-<!--<span id="b71c8b5f588ff2167f1bf034335205c0499fcdfa"> -->[](#)[](#)
-
-+--------------------------+--------------------------+--------------------------+
-| <!--<span                    | <!--<span                    | <!--<span                    |
-| class=" 3 c7"> -->Origin | class=" 3 c7"> -->Commer | class=" 3 c7"> -->NonCom |
-| al                       | cial                     | mercial                  |
-| Work              | Collection (BY, BY-SA,   | Collection (BY-NC,       |
-|                          | BY-ND)            | BY-NC-SA,                |
-|                          |                          | BY-NC-ND)         |
-+--------------------------+--------------------------+--------------------------+
-| <!--<span                    | <!--<span                    | <!--<span                    |
-| class=" 3 c7"> -->PD</sp | class=" 3 c7"> --> </spa | class=" 3 c7"> --> </spa |
-| an>                      | n>                       | n>                       |
-+--------------------------+--------------------------+--------------------------+
-| <!--<span                    | <!--<span                    | <!--<span                    |
-| class=" 3 c7"> -->BY</sp | class=" 3 c7"> --> </spa | class=" 3 c7"> --> </spa |
-| an>                      | n>                       | n>                       |
-+--------------------------+--------------------------+--------------------------+
-| <!--<span                    | <!--<span                    | <!--<span                    |
-| class=" 3 c7"> -->BY-NC< | class=" 3 c7"> --> </spa | class=" 3 c7"> --> </spa |
-| /span>                   | n>                       | n>                       |
-+--------------------------+--------------------------+--------------------------+
-| <!--<span                    | <!--<span                    | <!--<span                    |
-| class=" 3 c7"> -->BY-NC- | class=" 3 c7"> --> </spa | class=" 3 c7"> --> </spa |
-| ND                | n>                       | n>                       |
-+--------------------------+--------------------------+--------------------------+
-| <!--<span                    | <!--<span                    | <!--<span                    |
-| class=" 3 c7"> -->BY-NC- | class=" 3 c7"> --> </spa | class=" 3 c7"> --> </spa |
-| SA                | n>                       | n>                       |
-+--------------------------+--------------------------+--------------------------+
-| <!--<span                    | <!--<span                    | <!--<span                    |
-| class=" 3 c7"> -->BY-ND< | class=" 3 c7"> --> </spa | class=" 3 c7"> --> </spa |
-| /span>                   | n>                       | n>                       |
-+--------------------------+--------------------------+--------------------------+
-| <!--<span                    | <!--<span                    | <!--<span                    |
-| class=" 3 c7"> -->BY-SA< | class=" 3 c7"> --> </spa | class=" 3 c7"> --> </spa |
-| /span>                   | n>                       | n>                       |
-+--------------------------+--------------------------+--------------------------+
-
-<!--<span class="c21"> -->License termination
-
-<!--<span class="7  c7"> -->When do Creative Commons licenses expire?
-
-### Creative Commons licenses expire when the
-underlying copyright and similar rights expire.
-
-Note that the relevant rights may expire at different
-times. For example, you may have a CC-licensed song where the rights in
-the musical arrangement expire before the rights in the lyrics. In this
-case, when the copyright in the music expires, you may use
-it [without being required to comply with the
-conditions of the CC
-license](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Frequently_Asked_Questions%23Do_I_always_have_to_comply_with_the_license_terms.3F_If_not.2C_what_are_the_exceptions.3F&sa=D&usg=AFQjCNEfsFLkMGaYQ_P7bvlOG_OO1nsBYw)<!--<span
-class="c6  c7"> -->; however, you must still comply with the license if
-you use the lyrics.
-
-<!--<span class="7"> -->What happens if the author decides to revoke the CC
-license to material I am using?
-
-### The CC licenses are irrevocable. This means that
-once you receive material under a CC license, you will always have the
-right to use it under those license terms, even if the licensor changes
-his or her mind and stops distributing under the CC license terms. Of
-course, you may choose to respect the licensor’s wishes and stop using
-the work.
-
-<!--<span class="7"> -->How can I lose my rights under a Creative Commons
-license? If that happens, how do I get them back?
-
-### All of the CC licenses terminate if you fail to
-follow the license conditions. If this happens, you no longer have a
-license to use the material.
-
-### In the 4.0 licenses, your rights under the
-license are automatically reinstated if you correct this failure within
-30 days of discovering the violation (either on your own or because the
-licensor or someone else has told you). Under the 3.0 and earlier
-licenses, there is no automatic reinstatement.
-
-### If you have lost your rights under a CC license
-and are not entitled to automatic reinstatement, you may regain your
-rights under the license if the licensor expressly grants you
-permission. You cannot simply re-download the material to get a new
-license.
-
-### Note that you may still be liable for damages for
-copyright infringement for the period where you were not in compliance
-with the license.
-
-Technical Questions
-
-<!--<span class="7"> -->How do Creative Commons licenses and public domain
-tools work technically?
-
-The Creative Commons licenses have [three
-layers](https://www.google.com/url?q=http://creativecommons.org/licenses/&sa=D&usg=AFQjCNEjdRau3SyfgaM5H3Uhe0h81ZSH3w), as does the [CC0 public domain
-dedication](https://www.google.com/url?q=http://creativecommons.org/about/cc0&sa=D&usg=AFQjCNGmHKtsXNC7ei3sAxo86pnepTpDlA): the human-readable deed, the lawyer-readable legal code,
-and the machine-readable metadata. The [Public
-Domain
-Mark](https://www.google.com/url?q=http://creativecommons.org/publicdomain/mark/1.0/&sa=D&usg=AFQjCNFSQg9m0kzI_KCzaE7hBTuyo65OTA)<!--<span
-class="c6  c7"> --> is not legally operative, and so has only two layers:
-the human-readable mark and machine-readable metadata.
-
-When material is licensed using any of the CC licenses
-or tools, it is highly recommended that a [CC
-button](https://www.google.com/url?q=http://creativecommons.org/about/downloads&sa=D&usg=AFQjCNGq2Q5kG7W9LKkAT9f_58NVl4Befw), text, or other marker somehow accompany it. There are many
-possible modes for marking. For our licenses, people generally use
-the [CC license
-chooser](https://www.google.com/url?q=http://creativecommons.org/choose&sa=D&usg=AFQjCNHALeX4BHAI3gOzdW_y34ty5mDZGg) to generate HTML code that can be pasted into the webpage
-where the licensed material is published. CC0 and the Public Domain Mark
-have a separate [chooser](https://www.google.com/url?q=http://creativecommons.org/publicdomain/&sa=D&usg=AFQjCNFYBk6EZA7EW2g7nDQRqPmNaUeO3w). Many platforms and web services such as [Flickr](https://www.google.com/url?q=http://www.flickr.com/&sa=D&usg=AFQjCNEBXGtJFDB5cKciQepp0xghMGlg_A) and [Drupal](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Drupal&sa=D&usg=AFQjCNEx4uaqC5CtwR9Jpw3Q9tFvueeHCg)<!--<span
-class="c6  c7"> --> support CC licensing directly, allowing you to select
-an appropriate license. The service then properly marks the work for
-you.
-
-CC has published some best practices for [marking](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Marking/Creators&sa=D&usg=AFQjCNFWlZIhGIK3GlpaDpovzDsY_8WeSw)<!--<span
-class="c6  c7"> --> your CC-licensed material, and recommends:
-
--    Including a visual indicator (some
-    combination of text and images) that the work is licensed with one
-    of the CC licenses.
--    Clearly indicating what material is covered
-    under the CC license, especially if it’s presented alongside
-    non-licensed materials.
--    Including a link to the human-readable deed
-    (which itself contains a link to the legal code).
--   Embedding <!--<span
-    class="c0"> -->[machine-readable](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Frequently_Asked_Questions%23What_does_it_mean_that_Creative_Commons_licenses_are_.22machine_readable.22.3F&sa=D&usg=AFQjCNGDDOGvOrwHR6Y7j63aFlWhyUPkyA)<!--<span
-    class="c6  c7"> --> metadata in the code of the license indicator or
-    code of the licensed page.
-
-See the <!--<span
-class="c0 c28"> -->[marking](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Marking/Creators&sa=D&usg=AFQjCNFWlZIhGIK3GlpaDpovzDsY_8WeSw)<!--<span
-class="c6 c28"> --> page for more details.
-
-<!--<span class="7"> -->What does it mean that Creative Commons licenses are
-“machine-readable”?
-
-Creative Commons has [specified
-CC
-REL](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/CC_REL&sa=D&usg=AFQjCNGwvMQ_Xg9-hwB2R33ixoZzxmBZvw)<!--<span
-class="c6  c7"> --> as a way to associate machine-readable licensing
-metadata with objects offered under CC licenses.
-
-### Before Creative Commons developed this
-vocabulary, it was difficult for a machine to ascertain whether an
-object was marked with a CC license. There was also no standard,
-predictable place to house metadata about that license (for example, the
-source URL of the work or the required mode of attribution).
-
-Machine-readable metadata based on well-accepted
-metadata standards creates a platform upon which new services and
-applications can be built. Software and services can detect CC licenses
-and the details of that license, as described by the metadata. For
-example, on many websites and search engines such as Google and Flickr,
-you can run filtered searches for works offered under specific CC
-licenses. In addition, CC license deeds can automatically create
-copy-and-paste attribution code so users may easily comply with the BY
-condition of the licenses. When you click on a CC license
-or [button](https://www.google.com/url?q=http://creativecommons.org/about/downloads&sa=D&usg=AFQjCNGq2Q5kG7W9LKkAT9f_58NVl4Befw)<!--<span
-class="c6  c7"> --> from a page with license metadata, you get
-copy-and-paste attribution HTML within that license deed page. That HTML
-is based on available RDFa metadata in the original material.
-
-All HTML provided by the [CC
-license
-chooser](https://www.google.com/url?q=http://creativecommons.org/choose&sa=D&usg=AFQjCNHALeX4BHAI3gOzdW_y34ty5mDZGg) is automatically annotated with [metadata](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Metadata&sa=D&usg=AFQjCNGcz6nqqstojkYVZT0k0e7LgXS-3Q) in [RDFa](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/RDFa&sa=D&usg=AFQjCNEe1NvqefbnOM1hAQIOqiA-A-Ga9A)<!--<span
-class="c6  c7"> --> format.
-
-<!--<span class="7"> -->What is RDFa?
-
-[RDFa](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/RDFa&sa=D&usg=AFQjCNEe1NvqefbnOM1hAQIOqiA-A-Ga9A)<!--<span
-class="c6  c7"> --> is a method for embedding structured data in a web
-page. For more information about RDFa, see the following
-resources:
-
--   [RDFa
-    Primer](https://www.google.com/url?q=http://www.w3.org/TR/xhtml-rdfa-primer/&sa=D&usg=AFQjCNFP6rjAU-FkXtqewcO7HJzZUVcpmg)<!--<span
-    class="c6  c7"> -->: Bridging the Human and Data Webs
--   <!--<span
-    class="c0"> -->[RDFa.info](https://www.google.com/url?q=http://rdfa.info/&sa=D&usg=AFQjCNHhmIes-kcMRaswHXPHtPiQF-05hQ)
--   [RDFa
-    Wiki](https://www.google.com/url?q=http://rdfa.info/wiki&sa=D&usg=AFQjCNGhGS4voAWUGc5wDz1dItmw4oCDaw)
-
-<!--<span class="7"> -->What is CC REL and why does Creative Commons recommend
-it?
-
-[Creative Commons Rights Expression
-Language](https://www.google.com/url?q=http://wiki.creativecommons.org/CC_REL&sa=D&usg=AFQjCNFfAQCUWCCuXHZRmJ09-bN2EWBvgA)<!--<span
-class="c6  c7"> --> (CC REL) renders information about licenses and works
-machine-readable through standards that define the semantic web.
-Creative Commons wants to make it easy for creators and scientists to
-build upon the works of others when they choose; licensing your work for
-reuse and ﬁnding properly licensed works to reuse should be easy. CC
-recommends that you mark your licensed works with CC REL. The Creative
-Commons license chooser provides HTML annotated with CC REL, while the
-Creative Commons deeds recognize CC REL on web pages with works offered
-under a CC license, and use this metadata to enhance the deed for
-properly marked-up works, e.g., by providing copy and paste HTML that
-includes work attribution.
-
-For more background information on CC REL, please refer
-to this [paper](https://www.google.com/url?q=http://wiki.creativecommons.org/images/d/d6/Ccrel-1.0.pdf&sa=D&usg=AFQjCNFEa3rjKPWMSwiCndlHIBNwfBGiNg)<!--<span
-class="c6  c7"> -->.
 
 ### Que devrais-je savoir sur les différences entre
 les licences internationales et les licences adaptées?
