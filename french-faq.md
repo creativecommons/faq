@@ -1953,62 +1953,54 @@ d’origine.
 Tous HTML fourni par le sélecteur de licence CC est
 automatiquement annoté avec des métadonnées en format RDFa .
 
-Qu’est-ce que le RDFa ?
+### Qu’est-ce que le RDFa ?
 
 RDFa  est une méthode pour
 incorporer des données structurées dans une page Web. Pour plus
 d’informations sur le RDFa, consultez les ressources suivantes:
 
--   RDFa Primer:
-    Connecter l’humain<!--<span
-    class="c6  c7"> --> et les sites Web de données
--   RDFa.info
--   RDFa Wiki
+* RDFa Primer: Connecter l’humain et les sites Web de données
+* RDFa.info
+* RDFa Wiki
 
-### Qu’est-ce que le CC REL et pourquoi il conseillé
-par Creative Commons ?
+### Qu’est-ce que le CC REL et pourquoi il conseillé par Creative Commons ?
 
-Le Langage d’Expression des Droits de Creative
-Commons<!--<span class="c86"> -->  (CC REL)
-rend l’information sur les licences et les œuvres lisible par la machine
+Le Langage d’Expression des Droits de Creative Commons (CC REL) rend
+l’information sur les licences et les œuvres lisible par la machine
 par le biais de normes qui définissent le web sémantique. Creative
-Commons veut faciliter aux créateurs et scientifiques la tâche de bâtir
-sur les œuvres des autres quand ils choisissent; donner votre œuvre en
-licence pour réutilisation et trouver convenablement des œuvres sous
-licence pour réutilisation devraient être facile. CC conseille que vous
-marquez vos œuvres sous licence CC REL. Le sélecteur de licence Creative
-Commons fournit un HTML annoté avec CC REL, tandis que les actes
-Creative Commons reconnaissent le CC REL sur les pages web qui offrent
-des œuvres sous licence CC, et utilise ces métadonnées pour améliorer
-l’acte pour les travaux correctement balisés, par exemple, en
-fournissant un HTML en copier-coller qui inclut l’attribution de
-l’œuvre.
+Commons veut faciliter aux créateurs et scientifiques la tâche de
+bâtir sur les œuvres des autres quand ils choisissent; donner votre
+œuvre en licence pour réutilisation et trouver convenablement des
+œuvres sous licence pour réutilisation devraient être facile. CC
+conseille que vous marquez vos œuvres sous licence CC REL. Le
+sélecteur de licence Creative Commons fournit un HTML annoté avec CC
+REL, tandis que les actes Creative Commons reconnaissent le CC REL sur
+les pages web qui offrent des œuvres sous licence CC, et utilise ces
+métadonnées pour améliorer l’acte pour les travaux correctement
+balisés, par exemple, en fournissant un HTML en copier-coller qui
+inclut l’attribution de l’œuvre.
 
 Pour plus d’informations contextuelles sur CC REL, s’il
-vous plaît se référer à ce document<!--<span
-class="c6  c7"> -->.
+vous plaît se référer à ce document.
 
-### Qu’est-ce que cela signifie pour un moteur de
-recherche d’être CC-autorisé?
+### Qu’est-ce que cela signifie pour un moteur de recherche d’être CC-autorisé?
 
 Certains moteurs de recherche (comme Google) permettent aux gens de
 filtrer leurs résultats de recherche par les droits d’utilisation de
 sorte que vous pouvez limiter vos résultats de recherche
 particulièrement en fonction de la licence CC que vous recherchez. Par
-exemple, si vous cherchez une photo pour adaptation, vous pouvez filtrer
-votre recherche pour retrouver les photos qui ont une licence CC qui
-permet les adaptations. Vous pouvez généralement trouver cette
+exemple, si vous cherchez une photo pour adaptation, vous pouvez
+filtrer votre recherche pour retrouver les photos qui ont une licence
+CC qui permet les adaptations. Vous pouvez généralement trouver cette
 fonctionnalité de recherche sur la page de recherche avancée de votre
-moteur de recherche sélectionné. Vous pouvez également utiliser
-CC Search , qui offre une
-interface de recherche pratique et une liste des fournisseurs de contenu
-qui permettent les recherches de contenu basé sur les droits
-d’utilisation.
+moteur de recherche sélectionné. Vous pouvez également utiliser CC
+Search , qui offre une interface de recherche pratique et une liste
+des fournisseurs de contenu qui permettent les recherches de contenu
+basé sur les droits d’utilisation.
 
-### Cependant notez que vous devez effectuer toujours
-une double vérification pour veiller à ce que le travail que vous
-localiser à travers une recherche est sous le type de licence que vous
-cherchez.
+Cependant notez que vous devez effectuer toujours une double
+vérification pour veiller à ce que le travail que vous localiser à
+travers une recherche est sous le type de licence que vous cherchez.
 
 ### Comment puis-je donner aux utilisateurs de mon site la possibilité d’utiliser les licences CC comme le fait Flickr?
 
