@@ -123,10 +123,10 @@
       <h1>$pagetitle$</h1>
       
       $if(toc)$
-      <a class="btn btn-primary" role="button" data-toggle="collapse" href="#collapse$idprefix$TOC" aria-expanded="false" aria-controls="collapseExample">
+      <a class="btn btn-primary" role="button" data-toggle="collapse" href="#$idprefix$TOC" aria-expanded="false" aria-controls="collapseExample">
 Toggle TOC
       </a>
-      <nav class="collapse" id="$idprefix$TOC">
+      <nav class="collapse.in" id="$idprefix$TOC">
       $toc$
     </nav>
     $endif$
