@@ -2342,7 +2342,7 @@ work. If you have created a work or wish to use a work that might in
 some way implicate these rights, you may need to obtain permission from
 the individuals whose rights may be affected.
 
-### Data
+## Data
 
 <noinclude> *This page supersedes [Databases and Creative
 Commons](Databases and Creative Commons "wikilink").*
