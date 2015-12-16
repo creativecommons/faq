@@ -129,7 +129,7 @@
 
       <h2> Foire Aux Questions</h2>
 
-      <p><small> Tue Dec 15 21:59:24 CST 2015</small></p>
+      <p><small> Tue Dec 15 22:39:54 CST 2015</small></p>
       
             <a class="btn btn-primary" role="button" data-toggle="collapse" href="#TOC" aria-expanded="false" aria-controls="collapseExample">
 Toggle TOC
@@ -168,7 +168,8 @@ Toggle TOC
       </ul></li>
       </ul>
     </nav>
-        <p>Cette FAQ est conçue pour fournir une meilleure compréhension de Creative Commons, de nos licences, et nos outils juridiques et techniques. Elle fournit l’information de base, parfois quant à des sujets assez complexes, et fera souvent le lien vers des informations plus détaillées.</p>
+            <div id="main">
+	<p>Cette FAQ est conçue pour fournir une meilleure compréhension de Creative Commons, de nos licences, et nos outils juridiques et techniques. Elle fournit l’information de base, parfois quant à des sujets assez complexes, et fera souvent le lien vers des informations plus détaillées.</p>
 <ul>
 <li><p>Autre CC FAQ : CC0 Dédiée au Domaine Public et Marquage Domaine Public.</p></li>
 <li><p>« Concédant de licence », « titulaire de droits », « propriétaire » et « créateur » peuvent être utilisés indifféremment pour désigner la personne ou l’entité qui applique une licence CC.</p></li>
@@ -628,6 +629,7 @@ class="c6  c7"> --> du contenu de la base de données est interdite en l’abse
 <li>Aller jusqu'à ↑ Publications, Inc. v. Chinatown Today Publishing Enterprises Inc., 945 F.2d 509 (2d Cir. 1991</li>
 </ul>
 <hr />
+      </div>
 
     </div>
   </div>

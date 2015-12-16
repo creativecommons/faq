@@ -129,7 +129,7 @@
 
       <h2> Frequently Asked Questions</h2>
 
-      <p><small> Tue Dec 15 21:59:25 CST 2015</small></p>
+      <p><small> Tue Dec 15 22:39:55 CST 2015</small></p>
       
             <a class="btn btn-primary" role="button" data-toggle="collapse" href="#TOC" aria-expanded="false" aria-controls="collapseExample">
 Toggle TOC
@@ -147,7 +147,8 @@ Toggle TOC
       <li><a href="#notes">Notes</a></li>
       </ul>
     </nav>
-        <p>These FAQs are designed to provide a better understanding of Creative Commons, our licenses, and our other legal and technical tools. They provide basic information, sometimes about fairly complex topics, and will often link to more detailed information.</p>
+            <div id="main">
+	<p>These FAQs are designed to provide a better understanding of Creative Commons, our licenses, and our other legal and technical tools. They provide basic information, sometimes about fairly complex topics, and will often link to more detailed information.</p>
 <ul>
 <li>Other CC FAQs: <a href="//wiki.creativecommons.org/CC0_FAQ" title="wikilink">CC0 Public Domain Dedication</a> and <a href="//wiki.creativecommons.org/PDM_FAQ" title="wikilink">Public Domain Mark</a>.</li>
 <li>&quot;Licensor&quot;, &quot;rights holder&quot;, &quot;owner&quot;, and &quot;creator&quot; may be used interchangeably to refer to the person or entity applying a CC license.</li>
@@ -812,6 +813,7 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\
 <li id="fn1"><p>Key Publications, Inc. v. Chinatown Today Publishing Enterprises Inc., 945 F.2d 509 (2d Cir. 1991).<a href="#fnref1">↩</a></p></li>
 </ol>
 </section>
+      </div>
 
     </div>
   </div>
