@@ -130,20 +130,135 @@
 
       <h2> Frequently Asked Questions</h2>
 
-      <p><small> Wed Dec 16 00:43:13 CST 2015</small></p>
+      <p><small> Wed Dec 16 17:35:22 CST 2015</small></p>
       
             <a class="btn btn-primary" role="button" data-toggle="collapse" href="#TOC" aria-expanded="false" aria-controls="collapseExample">
 Toggle TOC
       </a>
       <nav class="collapse" id="TOC">
       <ul>
-      <li><a href="#about-cc">About CC</a></li>
-      <li><a href="#general-license-information">General License Information</a></li>
-      <li><a href="#for-licensors">For Licensors</a></li>
-      <li><a href="#for-licensees">For Licensees</a></li>
-      <li><a href="#technical-questions">Technical Questions</a></li>
+      <li><a href="#about-cc">About CC</a><ul>
+      <li><a href="#what-is-creative-commons-and-what-do-you-do">What is Creative Commons and what do you do?</a></li>
+      <li><a href="#is-creative-commons-against-copyright">Is Creative Commons against copyright?</a></li>
+      <li><a href="#what-does-some-rights-reserved-mean">What does &quot;Some Rights Reserved&quot; mean?</a></li>
+      <li><a href="#can-creative-commons-give-legal-advice-about-its-licenses-or-other-tools-or-help-with-cc-license-enforcement">Can Creative Commons give legal advice about its licenses or other tools, or help with CC license enforcement?</a></li>
+      <li><a href="#does-creative-commons-collect-or-track-material-licensed-under-a-cc-license">Does Creative Commons collect or track material licensed under a CC license?</a></li>
+      <li><a href="#what-do-the-creative-commons-buttons-do">What do the Creative Commons buttons do?</a></li>
+      <li><a href="#may-i-use-the-creative-commons-logo-and-buttons">May I use the Creative Commons logo and buttons?</a></li>
+      <li><a href="#i-love-creative-commons.-how-can-i-help">I love Creative Commons. How can I help?</a></li>
+      <li><a href="#why-does-creative-commons-run-an-annual-fundraising-campaign-what-is-the-money-used-for-and-where-does-it-go">Why does Creative Commons run an annual fundraising campaign? What is the money used for and where does it go?</a></li>
+      </ul></li>
+      <li><a href="#general-license-information">General License Information</a><ul>
+      <li><a href="#what-are-creative-commons-licenses">What are Creative Commons licenses?</a></li>
+      <li><a href="#how-do-cc-licenses-operate">How do CC licenses operate?</a></li>
+      <li><a href="#which-is-the-latest-version-of-the-licenses-offered-by-creative-commons">Which is the latest version of the licenses offered by Creative Commons?</a></li>
+      <li><a href="#do-creative-commons-licenses-affect-exceptions-and-limitations-to-copyright-such-as-fair-dealing-and-fair-use">Do Creative Commons licenses affect exceptions and limitations to copyright, such as fair dealing and fair use?</a></li>
+      <li><a href="#who-gives-permission-to-use-material-offered-under-creative-commons-licenses">Who gives permission to use material offered under Creative Commons licenses?</a></li>
+      <li><a href="#are-creative-commons-licenses-enforceable-in-a-court-of-law">Are Creative Commons licenses enforceable in a court of law?</a></li>
+      <li><a href="#what-happens-if-someone-applies-a-creative-commons-license-to-my-work-without-my-knowledge-or-authorization">What happens if someone applies a Creative Commons license to my work without my knowledge or authorization?</a></li>
+      <li><a href="#what-are-the-international-unported-creative-commons-licenses-and-why-does-cc-offer-ported-licenses">What are the international (“unported”) Creative Commons licenses, and why does CC offer “ported” licenses?</a></li>
+      <li><a href="#can-i-include-a-work-licensed-with-cc-by-in-a-wikipedia-article-even-though-they-use-a-cc-by-sa-license">Can I include a work licensed with CC BY in a Wikipedia article even though they use a CC BY-SA license?</a></li>
+      <li><a href="#can-governments-and-intergovernmental-organizations-igos-use-cc-licenses">Can governments and intergovernmental organizations (&quot;IGOs&quot;) use CC licenses?</a></li>
+      <li><a href="#what-are-the-official-translations-of-the-cc-licenses-and-cc0">What are the official translations of the CC licenses and CC0?</a></li>
+      <li><a href="#what-is-a-by-sa-compatible-license">What is a BY-SA Compatible License?</a></li>
+      </ul></li>
+      <li><a href="#for-licensors">For Licensors</a><ul>
+      <li><a href="#choosing-a-license">Choosing a license</a></li>
+      <li><a href="#what-things-should-i-think-about-before-i-apply-a-creative-commons-license">What things should I think about before I apply a Creative Commons license?</a></li>
+      <li><a href="#how-should-i-decide-which-license-to-choose">How should I decide which license to choose?</a></li>
+      <li><a href="#why-should-i-use-the-latest-version-of-the-creative-commons-licenses">Why should I use the latest version of the Creative Commons licenses?</a></li>
+      <li><a href="#what-if-cc-licenses-have-not-been-ported-to-my-jurisdiction">What if CC licenses have not been ported to my jurisdiction?</a></li>
+      <li><a href="#should-i-choose-an-international-license-or-a-ported-license">Should I choose an international license or a ported license?</a></li>
+      <li><a href="#why-should-i-use-the-license-chooser-what-if-i-dont">Why should I use the license chooser? What if I don’t?</a></li>
+      <li><a href="#how-do-i-apply-a-creative-commons-license-to-my-material">How do I apply a Creative Commons license to my material?</a></li>
+      <li><a href="#do-i-need-to-register-with-creative-commons-before-i-obtain-a-license">Do I need to register with Creative Commons before I obtain a license?</a></li>
+      <li><a href="#what-do-the-terms-and-conditions-of-a-cc-license-apply-to">What do the terms and conditions of a CC license apply to?</a></li>
+      <li><a href="#can-i-apply-a-creative-commons-license-to-software">Can I apply a Creative Commons license to software?</a></li>
+      <li><a href="#can-i-apply-a-creative-commons-license-to-databases">Can I apply a Creative Commons license to databases?</a></li>
+      <li><a href="#could-i-use-a-cc-license-to-share-my-logo-or-trademark">Could I use a CC license to share my logo or trademark?</a></li>
+      <li><a href="#may-i-apply-a-creative-commons-license-to-a-work-in-the-public-domain">May I apply a Creative Commons license to a work in the public domain?</a></li>
+      <li><a href="#if-i-take-a-photograph-of-another-work-that-is-in-the-public-domain-can-i-apply-a-cc-license-to-my-photo">If I take a photograph of another work that is in the public domain, can I apply a CC license to my photo?</a></li>
+      <li><a href="#may-i-apply-a-cc-license-to-my-work-if-it-incorporates-material-used-under-fair-use-or-another-exception-or-limitation-to-copyright">May I apply a CC license to my work if it incorporates material used under fair use or another exception or limitation to copyright?</a></li>
+      <li><a href="#rights-other-than-copyright">Rights other than copyright</a></li>
+      <li><a href="#can-i-use-cc-licenses-to-license-rights-other-than-copyright">Can I use CC licenses to license rights other than copyright?</a></li>
+      <li><a href="#how-do-creative-commons-licenses-affect-my-moral-rights-if-at-all">How do Creative Commons licenses affect my moral rights, if at all?</a></li>
+      <li><a href="#can-i-offer-material-under-a-cc-license-that-has-my-trademark-on-it-without-also-licensing-or-affecting-rights-in-the-trademark">Can I offer material under a CC license that has my trademark on it without also licensing or affecting rights in the trademark?</a></li>
+      <li><a href="#how-are-publicity-privacy-and-personality-rights-affected-when-i-apply-a-cc-license">How are publicity, privacy, and personality rights affected when I apply a CC license?</a></li>
+      <li><a href="#business-models">Business models</a></li>
+      <li><a href="#can-i-apply-a-cc-license-to-low-resolution-copies-of-a-licensed-work-and-reserve-more-rights-in-high-resolution-copies">Can I apply a CC license to low-resolution copies of a licensed work and reserve more rights in high-resolution copies?</a></li>
+      <li><a href="#can-i-use-a-creative-commons-license-if-i-am-a-member-of-a-collecting-society">Can I use a Creative Commons license if I am a member of a collecting society?</a></li>
+      <li><a href="#can-i-still-make-money-from-a-work-i-make-available-under-a-creative-commons-license">Can I still make money from a work I make available under a Creative Commons license?</a></li>
+      <li><a href="#alterations-and-additions-to-the-license">Alterations and additions to the license</a></li>
+      <li><a href="#can-i-insist-on-the-exact-placement-of-the-attribution-credit">Can I insist on the exact placement of the attribution credit?</a></li>
+      <li><a href="#can-i-change-the-license-terms-or-conditions">Can I change the license terms or conditions?</a></li>
+      <li><a href="#can-i-waive-license-terms-or-conditions">Can I waive license terms or conditions?</a></li>
+      <li><a href="#can-i-enter-into-separate-or-supplemental-agreements-with-users-of-my-work">Can I enter into separate or supplemental agreements with users of my work?</a></li>
+      <li><a href="#after-licensing">After licensing</a></li>
+      <li><a href="#what-happens-if-i-offer-my-material-under-a-creative-commons-license-and-someone-misuses-them">What happens if I offer my material under a Creative Commons license and someone misuses them?</a></li>
+      <li><a href="#what-can-i-do-if-i-offer-my-material-under-a-creative-commons-license-and-i-do-not-like-the-way-someone-uses-it">What can I do if I offer my material under a Creative Commons license and I do not like the way someone uses it?</a></li>
+      <li><a href="#what-do-i-do-if-someone-tries-to-place-effective-technological-measures-such-as-drm-on-my-cc-licensed-material">What do I do if someone tries to place effective technological measures (such as DRM) on my CC-licensed material?</a></li>
+      <li><a href="#when-i-release-my-work-under-a-cc-license-in-one-format-e.g.-.pdf-can-i-restrict-licensees-from-changing-it-to-or-using-it-in-other-formats">When I release my work under a CC license in one format (e.g., .pdf), can I restrict licensees from changing it to or using it in other formats?</a></li>
+      <li><a href="#what-if-i-change-my-mind-about-using-a-cc-license">What if I change my mind about using a CC license?</a></li>
+      </ul></li>
+      <li><a href="#for-licensees">For Licensees</a><ul>
+      <li><a href="#before-using-cc-licensed-material">Before using CC-licensed material</a></li>
+      <li><a href="#what-should-i-think-about-before-using-material-offered-under-a-creative-commons-license">What should I think about before using material offered under a Creative Commons license?</a></li>
+      <li><a href="#does-a-creative-commons-license-give-me-all-the-rights-i-need-to-use-the-work">Does a Creative Commons license give me all the rights I need to use the work?</a></li>
+      <li><a href="#what-if-there-are-sui-generis-database-rights-that-apply-to-my-use-of-a-cc-licensed-database">What if there are sui generis database rights that apply to my use of a CC-licensed database?</a></li>
+      <li><a href="#where-can-i-find-material-offered-under-a-cc-license">Where can I find material offered under a CC license?</a></li>
+      <li><a href="#are-creative-commons-works-really-free-to-use">Are Creative Commons works really free to use?</a></li>
+      <li><a href="#what-should-i-know-about-differences-between-the-international-licenses-and-the-ported-licenses">What should I know about differences between the international licenses and the ported licenses?</a></li>
+      <li><a href="#general-license-compliance">General license compliance</a></li>
+      <li><a href="#what-happens-if-i-want-to-use-the-material-in-a-way-that-is-not-permitted-by-the-license">What happens if I want to use the material in a way that is not permitted by the license?</a></li>
+      <li><a href="#do-i-always-have-to-comply-with-the-license-terms-if-not-what-are-the-exceptions">Do I always have to comply with the license terms? If not, what are the exceptions?</a></li>
+      <li><a href="#attribution">Attribution</a></li>
+      <li><a href="#how-do-i-properly-attribute-material-offered-under-a-creative-commons-license">How do I properly attribute material offered under a Creative Commons license?</a></li>
+      <li><a href="#do-i-need-to-be-aware-of-anything-else-when-providing-attribution">Do I need to be aware of anything else when providing attribution?</a></li>
+      <li><a href="#do-i-always-have-to-attribute-the-creator-of-the-licensed-material">Do I always have to attribute the creator of the licensed material?</a></li>
+      <li><a href="#using-licensed-material">Using licensed material</a></li>
+      <li><a href="#does-my-use-violate-the-noncommercial-clause-of-the-licenses">Does my use violate the NonCommercial clause of the licenses?</a></li>
+      <li><a href="#can-i-take-a-cc-licensed-work-and-use-it-in-a-different-format">Can I take a CC-licensed work and use it in a different format?</a></li>
+      <li><a href="#how-do-i-know-if-a-low-resolution-photo-and-a-high-resolution-photo-are-the-same-work">How do I know if a low-resolution photo and a high-resolution photo are the same work?</a></li>
+      <li><a href="#can-i-use-effective-technological-measures-such-as-drm-when-i-share-cc-licensed-material">Can I use effective technological measures (such as DRM) when I share CC-licensed material?</a></li>
+      <li><a href="#can-i-share-cc-licensed-material-on-password-protected-sites">Can I share CC-licensed material on password-protected sites?</a></li>
+      <li><a href="#can-i-share-cc-licensed-material-on-file-sharing-networks">Can I share CC-licensed material on file-sharing networks?</a></li>
+      <li><a href="#additional-restrictions-on-licensed-material">Additional restrictions on licensed material</a></li>
+      <li><a href="#what-if-i-received-cc-licensed-material-encumbered-with-effective-technological-measures-such-as-drm">What if I received CC-licensed material encumbered with effective technological measures (such as DRM)?</a></li>
+      <li><a href="#what-if-i-have-received-cc-licensed-material-with-additional-restrictions">What if I have received CC-licensed material with additional restrictions?</a></li>
+      <li><a href="#combining-and-adapting-cc-material">Combining and adapting CC material</a></li>
+      <li><a href="#when-is-my-use-considered-an-adaptation">When is my use considered an adaptation?</a></li>
+      <li><a href="#can-i-combine-material-under-different-creative-commons-licenses-in-my-work">Can I combine material under different Creative Commons licenses in my work?</a></li>
+      <li><a href="#if-i-derive-or-adapt-material-offered-under-a-creative-commons-license-which-cc-licenses-can-i-use">If I derive or adapt material offered under a Creative Commons license, which CC license(s) can I use?</a></li>
+      <li><a href="#if-i-create-a-collection-that-includes-a-work-offered-under-a-cc-license-which-licenses-may-i-choose-for-the-collection">If I create a collection that includes a work offered under a CC license, which license(s) may I choose for the collection?</a></li>
+      <li><a href="#license-termination">License termination</a></li>
+      <li><a href="#when-do-creative-commons-licenses-expire">When do Creative Commons licenses expire?</a></li>
+      <li><a href="#what-happens-if-the-author-decides-to-revoke-the-cc-license-to-material-i-am-using">What happens if the author decides to revoke the CC license to material I am using?</a></li>
+      <li><a href="#how-can-i-lose-my-rights-under-a-creative-commons-license-if-that-happens-how-do-i-get-them-back">How can I lose my rights under a Creative Commons license? If that happens, how do I get them back?</a></li>
+      </ul></li>
+      <li><a href="#technical-questions">Technical Questions</a><ul>
+      <li><a href="#how-do-creative-commons-licenses-and-public-domain-tools-work-technically">How do Creative Commons licenses and public domain tools work technically?</a></li>
+      <li><a href="#what-does-it-mean-that-creative-commons-licenses-are-machine-readable">What does it mean that Creative Commons licenses are &quot;machine-readable&quot;?</a></li>
+      <li><a href="#what-is-rdfa">What is RDFa?</a></li>
+      <li><a href="#what-is-cc-rel-and-why-does-creative-commons-recommend-it">What is CC REL and why does Creative Commons recommend it?</a></li>
+      <li><a href="#what-does-it-mean-for-a-search-engine-to-be-cc-enabled">What does it mean for a search engine to be CC-enabled?</a></li>
+      <li><a href="#how-do-i-give-users-of-my-site-the-option-to-use-cc-licensing-like-flickr-does">How do I give users of my site the option to use CC licensing like Flickr does?</a></li>
+      <li><a href="#how-can-i-change-or-remove-the-creative-commons-search-option-built-into-the-firefox-browser">How can I change or remove the Creative Commons search option built into the Firefox browser?</a></li>
+      <li><a href="#is-creative-commons-involved-in-digital-rights-management-drm">Is Creative Commons involved in digital rights management (DRM)?</a></li>
+      </ul></li>
       <li><a href="#legal-background">Legal Background</a><ul>
-      <li><a href="#data">Data</a></li>
+      <li><a href="#what-is-copyright-and-why-does-it-matter">What is copyright and why does it matter?</a></li>
+      <li><a href="#what-is-the-public-domain">What is the public domain?</a></li>
+      <li><a href="#what-do-i-need-to-do-to-get-a-copyright">What do I need to do to get a copyright?</a></li>
+      <li><a href="#what-is-an-adaptation">What is an adaptation?</a></li>
+      <li><a href="#what-are-moral-rights">What are moral rights?</a></li>
+      <li><a href="#what-are-neighboring-rights">What are neighboring rights?</a></li>
+      <li><a href="#what-are-sui-generis-database-rights">What are sui generis database rights?</a></li>
+      <li><a href="#what-are-collecting-societies">What are collecting societies?</a></li>
+      <li><a href="#what-are-publicity-personality-and-privacy-rights">What are publicity, personality, and privacy rights?</a></li>
+      <li><a href="#data">Data</a><ul>
+      <li><a href="#frequently-asked-questions-about-data-and-cc-licenses">Frequently asked questions about data and CC licenses</a></li>
+      <li><a href="#frequently-asked-questions-about-data-generally">Frequently asked questions about data, generally</a></li>
+      </ul></li>
       </ul></li>
       <li><a href="#notes">Notes</a></li>
       </ul>

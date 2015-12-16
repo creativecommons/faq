@@ -130,41 +130,170 @@
 
       <h2> Foire Aux Questions</h2>
 
-      <p><small> Wed Dec 16 00:43:12 CST 2015</small></p>
+      <p><small> Wed Dec 16 17:35:21 CST 2015</small></p>
       
             <a class="btn btn-primary" role="button" data-toggle="collapse" href="#TOC" aria-expanded="false" aria-controls="collapseExample">
 Toggle TOC
       </a>
       <nav class="collapse" id="TOC">
       <ul>
-      <li><a href="#a-propos-de-cc">A propos de CC</a></li>
-      <li><a href="#informations-générales-sur-la-licence">Informations Générales sur la licence</a></li>
+      <li><a href="#a-propos-de-cc">A propos de CC</a><ul>
+      <li><a href="#quest-ce-que-cc-et-que-faites-vous">Qu’est-ce que CC et que faites-vous?</a></li>
+      <li><a href="#est-ce-que-creative-commons-est-contre-le-droit-dauteur">Est-ce que Creative Commons est contre le droit d’auteur?</a></li>
+      <li><a href="#quest-ce-que-certains-droits-réservés-signifie">Qu’est-ce que «certains droits réservés» signifie?</a></li>
+      <li><a href="#est-ce-que-creative-commons-peut-donner-des-conseils-juridiques-au-sujet-de-ses-licences-ou-dautres-outils-ou-aider-à-lapplication-de-la-licence-cc">Est-ce que Creative Commons peut donner des conseils juridiques au sujet de ses licences ou d’autres outils, ou aider à l’application de la licence CC?</a></li>
+      <li><a href="#est-ce-que-creative-commons-recueille-ou-suit-les-œuvres-sous-licence-cc">Est-ce que Creative Commons recueille ou suit les œuvres sous licence CC?</a></li>
+      <li><a href="#que-font-les-boutons-creative-commons">Que font les boutons Creative Commons?</a></li>
+      <li><a href="#puis-je-utiliser-le-logo-et-les-boutons-creative-commons">Puis-je utiliser le logo et les boutons Creative Commons?</a></li>
+      <li><a href="#jaime-creative-commons.-comment-puis-je-aider">J’aime Creative Commons. Comment puis-je aider?</a></li>
+      <li><a href="#pourquoi-creative-commons-mène-une-campagne-annuelle-de-collecte-de-fonds-pourquoi-largent-est-utilisé-et-il-sert-à-quoi">Pourquoi Creative Commons mène une campagne annuelle de collecte de fonds? Pourquoi l’argent est utilisé et il sert à quoi?</a></li>
+      </ul></li>
+      <li><a href="#informations-générales-sur-la-licence">Informations Générales sur la licence</a><ul>
+      <li><a href="#quest-ce-que-les-licences-creative-commons">Qu’est-ce que les licences Creative Commons?</a></li>
+      <li><a href="#comment-les-licences-cc-fonctionnent">Comment les licences CC fonctionnent?</a></li>
+      <li><a href="#quelle-est-la-dernière-version-des-licences-proposée-par-creative-commons">Quelle est la dernière version des licences proposée par Creative Commons?</a></li>
+      <li><a href="#est-ce-que-les-licences-creative-commons-affectent-les-exceptions-et-limitations-au-droit-dauteur-comme-lutilisation-équitable-et-lusage-équitable">Est-ce que les licences Creative Commons affectent les exceptions et limitations au droit d’auteur, comme l’utilisation équitable et l’usage équitable?</a></li>
+      <li><a href="#qui-donne-lautorisation-dutiliser-le-matériel-offert-sous-licence-creative-commons">Qui donne l’autorisation d’utiliser le matériel offert sous licence Creative Commons?</a></li>
+      <li><a href="#les-licences-creative-commons-sont-elles-exécutoires-dans-un-tribunal-de-droit">Les licences Creative Commons sont-elles exécutoires dans un tribunal de droit?</a></li>
+      <li><a href="#quadvient-il-si-quelquun-applique-une-licence-creative-commons-à-mon-œuvre-sans-ma-connaissance-ou-autorisation">Qu’advient-il si quelqu’un applique une licence Creative Commons à mon œuvre sans ma connaissance ou autorisation?</a></li>
+      <li><a href="#quelles-sont-les-licences-creative-commons-internationales-non-adaptées-et-pourquoi-cc-offre-des-licences-adaptées">Quelles sont les licences Creative Commons internationales (non-adaptées), et pourquoi CC offre des licences “adaptées” ?</a></li>
+      <li><a href="#puis-je-inclure-une-œuvre-sous-licence-cc-by-dans-un-article-de-wikipedia-même-si-ils-utilisent-une-licence-cc-by-sa">Puis-je inclure une œuvre sous licence CC BY dans un article de Wikipedia même si ils utilisent une licence CC BY-SA ?</a></li>
+      <li><a href="#les-organisations-gouvernementales-et-inter-gouvernementales-peuvent-elles-utiliser-des-licences-cc">les organisations gouvernementales et inter-gouvernementales peuvent-elles utiliser des licences CC ?</a></li>
+      <li><a href="#quelles-sont-les-traductions-officielles-des-licences-cc-et-cc0">Quelles sont les traductions officielles des licences CC et CC0?</a></li>
+      <li><a href="#quest-ce-quune-licence-compatible-by-sa">Qu’est-ce qu’une licence compatible BY-SA?</a></li>
+      </ul></li>
       <li><a href="#pour-les-concédants-de-licence">Pour les concédants de licence</a><ul>
-      <li><a href="#choisir-une-licence">Choisir une licence</a></li>
-      <li><a href="#droits-autres-que-le-droit-dauteur">Droits autres que le droit d’auteur</a></li>
-      <li><a href="#business-modèles">Business modèles</a></li>
-      <li><a href="#modifications-et-ajouts-à-la-licence">Modifications et Ajouts à la licence</a></li>
-      <li><a href="#après-licence">Après licence</a></li>
+      <li><a href="#choisir-une-licence">Choisir une licence</a><ul>
+      <li><a href="#a-quoi-penser-avant-de-demander-une-licence-creative-commons">A quoi penser avant de demander une licence Creative Commons</a></li>
+      <li><a href="#comment-savoir-quelle-licence-choisir">Comment savoir quelle licence choisir?</a></li>
+      <li><a href="#pourquoi-devrais-je-utiliser-la-dernière-version-des-licences-creative-commons">Pourquoi devrais-je utiliser la dernière version des licences Creative Commons?<br /></a></li>
+      <li><a href="#que-faire-si-les-licences-cc-nont-pas-été-adaptées-à-ma-juridiction">Que faire si les licences CC n’ont pas été adaptées à ma juridiction?</a></li>
+      <li><a href="#dois-je-choisir-une-licence-internationale-ou-une-licence-adaptée">Dois-je choisir une licence internationale ou une licence adaptée?</a></li>
+      <li><a href="#pourquoi-devrais-je-utiliser-le-sélecteur-de-licence-que-faire-si-je-ne-le-fais-pas">Pourquoi devrais-je utiliser le sélecteur de licence? Que faire si je ne le fais pas?</a></li>
+      <li><a href="#comment-puis-je-demander-une-licence-creative-commons-pour-mon-matériel">Comment puis-je demander une licence Creative Commons pour mon matériel?</a></li>
+      <li><a href="#dois-je-menregistrer-avec-creative-commons-avant-dobtenir-une-licence">Dois-je m’enregistrer avec Creative Commons avant d’obtenir une licence?</a></li>
+      <li><a href="#a-quoi-sappliquent-les-termes-et-conditions-dune-licence-cc">A quoi s’appliquent les termes et conditions d’une licence CC?</a></li>
+      <li><a href="#puis-je-appliquer-une-licence-creative-commons-à-un-logiciel">Puis-je appliquer une licence Creative Commons à un logiciel?</a></li>
+      <li><a href="#puis-je-demander-une-licence-creative-commons-aux-bases-de-données">Puis-je demander une licence Creative Commons aux bases de données?</a></li>
+      <li><a href="#pourrais-je-utiliser-une-licence-cc-pour-partager-on-logo-ou-une-marque">Pourrais-je utiliser une licence CC pour partager on logo ou une marque?</a></li>
+      <li><a href="#puis-je-appliquer-une-licence-creative-commons-à-une-œuvre-dans-le-domaine-public">Puis-je appliquer une licence Creative Commons à une œuvre dans le domaine public?</a></li>
+      <li><a href="#si-je-prends-une-photo-dune-autre-œuvre-qui-est-dans-le-domaine-public-puis-je-appliquer-une-licence-cc-à-ma-photo">Si je prends une photo d’une autre œuvre qui est dans le domaine public, puis-je appliquer une licence CC à ma photo?</a></li>
+      <li><a href="#puis-je-appliquer-une-licence-cc-à-mon-œuvre-sil-inclut-de-la-matière-utilisée-sous-lusage-équitable-ou-autre-exception-ou-limitation-au-droit-dauteur">Puis-je appliquer une licence CC à mon œuvre s’il inclut de la matière utilisée sous l’usage équitable ou autre exception ou limitation au droit d’auteur?</a></li>
+      </ul></li>
+      <li><a href="#droits-autres-que-le-droit-dauteur">Droits autres que le droit d’auteur</a><ul>
+      <li><a href="#puis-je-utiliser-les-licences-cc-aux-droits-de-licence-autre-que-le-droit-dauteur">Puis-je utiliser les licences CC aux droits de licence autre que le droit d’auteur?</a></li>
+      <li><a href="#comment-licences-creative-commons-affectent-voire-pas-du-tout-mes-droits-moraux">Comment licences Creative  Commons affectent, voire pas du tout, mes droits moraux?</a></li>
+      <li><a href="#puis-je-placer-une-marque-sur-une-œuvre-et-offrir-lœuvre-sous-une-licence-cc-sans-également-licencier-ou-affecter-les-droits-de-la-marque">Puis-je placer une marque sur une œuvre et offrir l’œuvre sous une licence CC sans également licencier ou affecter les droits de la marque ?</a></li>
+      <li><a href="#comment-les-publicités-la-vie-privée-et-les-droits-de-la-personnalité-sont-touchées-lorsque-je-demande-une-licence-cc">Comment les publicités, la vie privée et les droits de la personnalité sont touchées lorsque je demande une licence CC?</a></li>
+      </ul></li>
+      <li><a href="#business-modèles">Business modèles</a><ul>
+      <li><a href="#puis-je-demander-une-licence-cc-aux-copies-basse-résolution-dune-œuvre-sous-licence-et-réserver-plus-de-droits-pour-les-copies-haute-résolution">Puis-je demander une licence CC aux copies basse résolution d’une œuvre sous licence et réserver  plus de  droits pour les copies haute-résolution?</a></li>
+      <li><a href="#puis-je-utiliser-une-licence-creative-commons-si-je-suis-membre-dune-société-de-gestion-collective">Puis-je utiliser une licence Creative Commons si je suis membre d’une société de gestion collective?</a></li>
+      <li><a href="#puis-je-faire-encore-de-largent-dune-œuvre-rendue-disponible-sous-une-licence-creative-commons">Puis-je faire encore de l’argent d’une œuvre rendue disponible sous une licence Creative Commons?</a></li>
+      </ul></li>
+      <li><a href="#modifications-et-ajouts-à-la-licence">Modifications et Ajouts à la licence</a><ul>
+      <li><a href="#puis-je-insister-sur-lemplacement-exact-du-crédit-dattribution">Puis-je insister sur l’emplacement exact du crédit d’attribution?</a></li>
+      <li><a href="#puis-je-modifier-les-modalités-ou-conditions-de-la-licence">Puis-je modifier les modalités ou conditions de la licence?</a></li>
+      <li><a href="#puis-je-renoncer-aux-termes-ou-conditions-de-la-licence">Puis-je renoncer aux termes ou conditions de la licence?</a></li>
+      <li><a href="#puis-je-conclure-des-accords-distincts-ou-complémentaires-avec-les-utilisateurs-de-mon-œuvre">Puis-je conclure des accords distincts ou complémentaires avec les utilisateurs de mon œuvre?</a></li>
+      </ul></li>
+      <li><a href="#après-licence">Après licence</a><ul>
+      <li><a href="#quadvient-il-si-joffre-mon-matériel-sous-une-licence-creative-commons-et-quelquun-labuse">Qu’advient-il si j’offre mon matériel sous une licence Creative Commons, et quelqu’un l’abuse?</a></li>
+      <li><a href="#que-puis-je-faire-si-je-vous-offre-mon-matériel-sous-une-licence-creative-commons-et-je-naime-pas-la-façon-dont-quelquun-lutilise">Que puis-je faire si je vous offre mon matériel sous une licence Creative Commons, et je n’aime pas la façon dont quelqu’un l’utilise?</a></li>
+      <li><a href="#que-dois-je-faire-si-quelquun-tente-de-placer-des-mesures-techniques-efficaces-tels-que-les-drm-sur-mon-matériel-sous-licence-cc">Que dois-je faire si quelqu’un tente de placer des mesures techniques efficaces (tels que les DRM) sur mon matériel sous licence CC?</a></li>
+      <li><a href="#lorsque-je-publie-mon-œuvre-sous-une-licence-cc-dans-un-format-particulier-par-exemple-.pdf-puis-je-limiter-lestitulaires-de-la-licence-de-la-modifier-ou-de-lutiliser-dans-dautres-formats">Lorsque je publie mon œuvre sous une licence CC dans un format particulier (par exemple, .pdf), puis-je limiter lestitulaires de la licence de la modifier ou de l’utiliser dans d’autres formats?</a></li>
+      <li><a href="#que-faire-si-je-change-didée-sur-lutilisation-dune-licence-cc">Que faire si je change d’idée sur l’utilisation d’une licence CC?</a></li>
+      </ul></li>
       </ul></li>
       <li><a href="#pour-les-titulaires-de-licence">Pour les titulaires de licence</a><ul>
-      <li><a href="#avant-lutilisation-dun-matériel-sous-licence">Avant l’utilisation d’un matériel sous licence</a></li>
-      <li><a href="#le-respect-général-dela-licence">Le respect général de la licence</a></li>
-      <li><a href="#attribution">Attribution</a></li>
-      <li><a href="#utilisation-du-materiel-sous-licence">Utilisation du materiel sous licence</a></li>
-      <li><a href="#des-restrictions-supplémentaires-sur-le-matériel-licencié">Des restrictions supplémentaires sur le matériel Licencié</a></li>
-      <li><a href="#combiner-et-adapter-le-materiel-cc">Combiner et adapter le materiel CC</a></li>
+      <li><a href="#avant-lutilisation-dun-matériel-sous-licence">Avant l’utilisation d’un matériel sous licence</a><ul>
+      <li><a href="#que-dois-je-penser-avant-dutiliser-un-matériel-offert-sous-une-licence-creative-commons">Que dois-je penser avant d’utiliser un matériel offert sous une licence Creative Commons?</a></li>
+      <li><a href="#est-ce-quune-licence-creative-commons-me-donne-tous-les-droits-nécessaires-pour-utiliser-une-œuvre">Est-ce qu’une licence Creative Commons me donne tous les droits nécessaires pour utiliser une œuvre?</a></li>
+      <li><a href="#que-faire-sil-existe-des-droits-de-base-de-données-sui-generis-applicables-à-mon-utilisation-de-la-base-de-données-sous-licence-cc">Que faire s’il existe des droits de base de données sui generis applicables à mon utilisation de la base de données sous licence CC?</a></li>
+      <li><a href="#où-puis-je-trouver-du-matériel-offert-sous-une-licence-cc">Où puis-je trouver du matériel offert sous une licence CC?</a></li>
+      <li><a href="#les-œuvres-sous-cc-sont-ils-vraiment-offerts-gratuitement-pour-être-utilisées">Les œuvres sous CC sont-ils vraiment offerts gratuitement pour être utilisées?</a></li>
+      <li><a href="#que-devrais-je-savoir-sur-les-différences-entre-les-licences-internationales-et-les-licences-adaptées">Que devrais-je savoir sur les différences entre les licences internationales et les licences adaptées?</a></li>
       </ul></li>
-      <li><a href="#insert-graphic-here">INSERT GRAPHIC HERE</a></li>
+      <li><a href="#le-respect-général-dela-licence">Le respect général de la licence</a><ul>
+      <li><a href="#quadvient-il-si-je-veux-utiliser-le-matériel-dune-manière-non-autorisée-par-la-licence">Qu’advient-il si je veux utiliser le matériel d’une manière non autorisée par la licence?</a></li>
+      <li><a href="#dois-je-toujours-respecter-les-termes-de-la-licence-si-non-quelles-sont-les-exceptions">Dois-je toujours respecter les termes de la licence? Si non, quelles-sont les exceptions?</a></li>
+      </ul></li>
+      <li><a href="#attribution">Attribution</a><ul>
+      <li><a href="#comment-puis-je-attribuer-correctement-un-matériel-offert-sous-une-licence-creative-commons">Comment puis-je attribuer correctement un matériel offert sous une licence Creative Commons?</a></li>
+      <li><a href="#vous-devez-également-indiquer-si-vous-avez">Vous devez également indiquer si vous avez</a></li>
+      <li><a href="#dois-je-être-au-courant-de-quoi-que-ce-soit-dautre-lors-lattribution">Dois-je être au courant de quoi que ce soit d’autre lors l’attribution?</a></li>
+      <li><a href="#dois-je-toujours-dattribuer-le-créateur-du-matériel-sous-licence">Dois-je toujours d’attribuer le créateur du matériel sous licence?</a></li>
+      </ul></li>
+      <li><a href="#utilisation-du-materiel-sous-licence">Utilisation du materiel sous licence</a><ul>
+      <li><a href="#est-ce-que-mon-utilisation-viole-la-clausenon-commercial-des-licences">Est-ce que mon utilisation viole la clauseNon-Commercial des licences?</a></li>
+      <li><a href="#puis-je-prendre-une-œuvre-sous-licence-cc-et-lutiliser-dans-un-format-différent">Puis-je prendre une œuvre sous licence CC et l’utiliser dans un format différent?</a></li>
+      <li><a href="#comment-puis-je-savoir-si-une-photo-basse-résolution-et-une-photo-haute-résolution-sont-la-même-œuvre">Comment puis-je savoir si une photo basse résolution et une photo haute résolution sont la même œuvre?</a></li>
+      <li><a href="#puis-je-utiliser-des-mesures-techniques-efficaces-tels-que-les-drm-quand-je-partage-le-matériel-sous-licence-cc">Puis-je utiliser des mesures techniques efficaces (tels que les DRM) quand je partage le matériel sous licence CC?</a></li>
+      <li><a href="#puis-je-partager-le-matériel-sous-licence-cc-sur-les-réseaux-de-partage-de-fichiers">Puis-je partager le matériel sous licence CC sur les réseaux de partage de fichiers?</a></li>
+      </ul></li>
+      <li><a href="#des-restrictions-supplémentaires-sur-le-matériel-licencié">Des restrictions supplémentaires sur le matériel Licencié</a><ul>
+      <li><a href="#que-faire-si-jai-reçu-du-matériel-sous-licence-cc-avec-des-restrictions-supplémentaires">Que faire si j’ai reçu du matériel sous licence CC avec des restrictions supplémentaires?</a></li>
+      </ul></li>
+      <li><a href="#combiner-et-adapter-le-materiel-cc">Combiner et adapter le materiel CC</a><ul>
+      <li><a href="#quand-mon-usage-est-considéré-comme-une-adaptation">Quand mon usage est considéré comme une adaptation?</a></li>
+      <li><a href="#puis-je-combiner-du-matériel-sous-différentes-licences-creative-commons-dans-mon-œuvre">Puis-je combiner du matériel sous différentes licences Creative Commons dans mon œuvre?</a></li>
+      </ul></li>
+      </ul></li>
+      <li><a href="#insert-graphic-here">INSERT GRAPHIC HERE</a><ul>
+      <li><a href="#si-je-tire-ou-jadapte-du-matériel-proposé-sous-une-licence-creative-commons-quelles-licence-s-cc-puis-je-utiliser">Si je tire ou j’adapte du matériel proposé sous une licence Creative Commons, quelle(s) licence (s) CC puis-je utiliser?</a></li>
+      </ul></li>
       <li><a href="#insert-table">INSERT TABLE</a><ul>
-      <li><a href="#la-résiliation-de-la-licence">La résiliation de la licence</a></li>
-      <li><a href="#quadvient-il-si-lauteur-décide-de-révoquer-la-licence-cc-qui-sapplique-sur-du-matériel-que-jutilise">Qu’advient-il si l’auteur décide de révoquer la licence CC qui s’applique sur du matériel que j’utilise ?</a></li>
-      <li><a href="#questions-techniques">Questions techniques</a></li>
-      <li><a href="#contexte-juridique">Contexte juridique</a></li>
-      <li><a href="#quels-sont-les-droits-sui-generis-sur-les-bases-de-données">Quels sont les droits sui generis  sur les bases de données?</a></li>
+      <li><a href="#le-tableau-ci-dessous-détaille-la-licence-s-cc">Le tableau ci-dessous détaille la licence (s) CC</a></li>
+      <li><a href="#si-je-crée-une-collection-qui-inclut-une-œuvre-offerte-en-vertu-dune-licence-cc-quelle-licence-s-puis-je-choisir-pour-la-collection">Si je crée une collection qui inclut une œuvre offerte en vertu d’une licence CC, quelle licence (s) puis-je choisir pour la collection?</a></li>
+      <li><a href="#la-résiliation-de-la-licence">La résiliation de la licence</a><ul>
+      <li><a href="#quand-est-ce-que-les-licences-creative-commons-expirent-elles">Quand-est ce que les licences Creative Commons expirent-elles?</a></li>
+      </ul></li>
+      <li><a href="#quadvient-il-si-lauteur-décide-de-révoquer-la-licence-cc-qui-sapplique-sur-du-matériel-que-jutilise">Qu’advient-il si l’auteur décide de révoquer la licence CC qui s’applique sur du matériel que j’utilise ?</a><ul>
+      <li><a href="#comment-puis-je-perdre-mes-droits-sous-une-licence-creative-commons-si-cela-se-produit-comment-puis-je-les-récupérer">Comment puis-je perdre mes droits sous une licence Creative Commons? Si cela se produit, comment puis-je les récupérer?</a></li>
+      </ul></li>
+      <li><a href="#questions-techniques">Questions techniques</a><ul>
+      <li><a href="#comment-les-licences-creative-commons-et-les-outils-du-domaine-public-fonctionnent-techniquement">Comment les licences Creative Commons et les outils du domaine public fonctionnent techniquement?</a></li>
+      <li><a href="#quest-ce-que-cela-signifie-que-les-licences-creative-commons-sont-lisibles-par-la-machine">Qu’est-ce que cela signifie que les licences Creative Commons sont « lisibles par la machine »?</a></li>
+      <li><a href="#quest-ce-que-le-rdfa">Qu’est-ce que le RDFa ?</a></li>
+      <li><a href="#quest-ce-que-le-cc-rel-et-pourquoi-il-conseillé-par-creative-commons">Qu’est-ce que le CC REL et pourquoi il conseillé par Creative Commons ?</a></li>
+      <li><a href="#quest-ce-que-cela-signifie-pour-un-moteur-de-recherche-dêtre-cc-autorisé">Qu’est-ce que cela signifie pour un moteur de recherche d’être CC-autorisé?</a></li>
+      <li><a href="#comment-puis-je-donner-aux-utilisateurs-de-mon-site-la-possibilité-dutiliser-les-licences-cc-comme-le-fait-flickr">Comment puis-je donner aux utilisateurs de mon site la possibilité d’utiliser les licences CC comme le fait Flickr?</a></li>
+      <li><a href="#comment-puis-je-modifier-ou-supprimer-loption-de-recherche-creative-commons-intégrée-dans-le-navigateur-firefox">Comment puis-je modifier ou supprimer l’option de recherche Creative Commons intégrée dans le navigateur Firefox?</a></li>
+      <li><a href="#est-ce-que-creative-commons-est-impliqué-dans-la-gestion-des-droits-numériques-drm">Est-ce que Creative Commons est impliqué dans la gestion des droits numériques (DRM)?</a></li>
+      </ul></li>
+      <li><a href="#contexte-juridique">Contexte juridique</a><ul>
+      <li><a href="#quest-ce-que-le-droit-dauteur-et-pourquoi-est-il-important">Qu’est-ce que le droit d’auteur et pourquoi est-il important?</a></li>
+      <li><a href="#quel-est-le-domaine-public">Quel est le domaine public?</a></li>
+      <li><a href="#que-dois-je-faire-pour-obtenir-un-droit-dauteur">Que dois-je faire pour obtenir un droit d'auteur?</a></li>
+      <li><a href="#quest-ce-quune-adaptation">Qu'est-ce qu'une adaptation?</a></li>
+      <li><a href="#quels-sont-les-droits-moraux">Quels sont les droits moraux?</a></li>
+      <li><a href="#quels-sont-les-droits-voisins">Quels sont les droits voisins?</a></li>
+      </ul></li>
+      <li><a href="#quels-sont-les-droits-sui-generis-sur-les-bases-de-données">Quels sont les droits sui generis  sur les bases de données?</a><ul>
+      <li><a href="#quelles-sont-les-sociétés-de-perception">Quelles sont les sociétés de perception?</a></li>
+      <li><a href="#quels-sont-les-droits-à-la-personnalité-publique-les-droits-de-la-personnalité-et-à-la-vie-privée">Quels sont les droits à la personnalité publique, les droits de la personnalité et à la vie privée?</a></li>
+      </ul></li>
       </ul></li>
       <li><a href="#données">Données</a><ul>
-      <li><a href="#foire-aux-questions-sur-les-données-et-les-licences-cc">Foire aux questions sur les données et les licences CC</a></li>
-      <li><a href="#foire-aux-questions-sur-les-données-généralement">Foire aux questions sur les données, généralement</a></li>
+      <li><a href="#foire-aux-questions-sur-les-données-et-les-licences-cc">Foire aux questions sur les données et les licences CC</a><ul>
+      <li><a href="#est-ce-que-les-bases-de-données-peuvent-être-publiées-sous-licences-cc">Est-ce que les bases de données peuvent être publiées sous licences CC?</a></li>
+      <li><a href="#cc-ne-recommande-pas-lutilisation-de-ses">CC ne recommande pas l'utilisation de ses</a></li>
+      <li><a href="#quand-une-licence-cc-est-appliquée-à-une-base-de-données-quest-ce-qui-serait-sous-licence">Quand une licence CC est appliquée à une base de données, qu’est-ce qui serait sous licence?</a></li>
+      <li><a href="#comment-puis-je-appliquer-un-outil-juridique-de-cc-à-une-base-de-données">Comment puis-je appliquer un outil juridique de CC à une base de données?</a></li>
+      <li><a href="#comment-les-différents-éléments-de-licences-cc-fonctionnent-pour-une-base-de-données-sous-licence-cc">Comment les différents éléments de licences CC fonctionnent pour une base de données sous licence CC?</a></li>
+      <li><a href="#puis-je-procéder-à-lextraction-de-textedonnées-dune-base-de-données-sous-licence-cc">Puis-je procéder à l'extraction de texte/données d’une base de données sous licence CC?</a></li>
+      <li><a href="#comment-le-traitement-des-droits-sui-generis-sur-les-bases-de-données-varient-dans-les-versions-antérieures-de-licences-cc">Comment le traitement des droits sui generis sur les bases de données varient dans les versions antérieures de licences CC?</a></li>
+      <li><a href="#quelle-est-la-différence-entre-les-licences-open-data-commons-et-les-licences-cc-4.0">Quelle est la différence entre les licences Open Data Commons et les licences CC 4.0?</a></li>
+      </ul></li>
+      <li><a href="#foire-aux-questions-sur-les-données-généralement">Foire aux questions sur les données, généralement</a><ul>
+      <li><a href="#quelles-composantes-des-bases-de-données-sont-protégées-par-le-droit-dauteur">Quelles composantes des bases de données sont protégées par le droit d'auteur?</a></li>
+      <li><a href="#comment-puis-je-savoir-si-une-utilisation-particulière-dune-base-de-données-est-restreinte-par-le-droit-dauteur">Comment puis-je savoir si une utilisation particulière d'une base de données est restreinte par le droit d'auteur?</a></li>
+      <li><a href="#si-mon-utilisation-dune-base-de-données-est-restreinte-par-le-droit-dauteur-comment-puis-je-me-conformer-à-la-licence">Si mon utilisation d'une base de données est restreinte par le droit d'auteur, comment puis-je me conformer à la licence?</a></li>
+      <li><a href="#quels-sont-les-composants-dune-base-de-données-qui-sont-protégés-par-des-droits-sui-generis-sur-les-bases-de-données">Quels sont les composants d’une base de données qui sont protégés par des droits sui generis sur les bases de données?</a></li>
+      <li><a href="#comment-puis-je-savoir-si-une-utilisation-particulière-dune-base-de-données-est-restreinte-par-des-droits-sui-generis-sur-les-bases-de-données">Comment puis-je savoir si une utilisation particulière d'une base de données est restreinte par des droits sui generis sur les bases de données ?</a></li>
+      <li><a href="#quest-ce-qui-constitue-une-partie-substantielle-dune-base-de-données">Qu’est ce qui constitue une &quot;partie substantielle&quot; d'une base de données?</a></li>
+      <li><a href="#si-mon-utilisation-dune-base-de-données-est-restreinte-par-des-droits-sui-generis-sur-les-bases-de-données-comment-puis-je-me-conformer-à-la-licence">Si mon utilisation d'une base de données est restreinte par des droits sui generis sur les bases de données, comment puis-je me conformer à la licence?</a></li>
+      </ul></li>
       <li><a href="#remarques">Remarques</a></li>
       </ul></li>
       </ul>
