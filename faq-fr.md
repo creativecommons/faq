@@ -421,7 +421,7 @@ tout en gardant toutes les mentions de droit d’auteur intactes,
 fournir une attribution appropriée, et en se conformant aux termes de
 CC BY. En savoir plus sur les licences.
 
-#### les organisations gouvernementales et inter-gouvernementales peuvent-elles utiliser des licences CC ?
+#### Les organisations gouvernementales et inter-gouvernementales peuvent-elles utiliser des licences CC ?
 
 Oui, tout le monde y compris les gouvernements et les organisations
 intergouvernementales peuvent utiliser les licences CC pour le
