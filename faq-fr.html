@@ -130,7 +130,7 @@
 
       <h2> Foire Aux Questions</h2>
 
-      <p><small> Wed Dec 16 17:35:21 CST 2015</small></p>
+      <p><small> Wed Dec 16 17:39:21 CST 2015</small></p>
       
             <a class="btn btn-primary" role="button" data-toggle="collapse" href="#TOC" aria-expanded="false" aria-controls="collapseExample">
 Toggle TOC
@@ -756,7 +756,8 @@ class="c6  c7"> --> du contenu de la base de données est interdite en l’abse
 <p>Si la base de données est publiée sous la version actuelle (4.0) des licences CC, vous devez attribuer le concédant de licence si vous partagez une partie substantielle du contenu de la base de données. Les autres exigences dépendent de la licence particulière appliquée à la base de données. Sous les licences Pas d’Utilisation Commerciale (NC), vous ne pouvez pas extraire et réutiliser une partie substantielle à des fins commerciales. Les licences Pas de Modification (ND) vous interdisent d'inclure une partie substantielle du contenu de la base de données dans une autre base de données partagée publiquement sur laquelle vous avez des droits sui generis. Et enfin, les licences Partage dans les Mêmes Conditions (SA) vous obligent à appliquer la même licence ou une licence compatible  à une base de données que vous partagez publiquement et dans laquelle vous incluez une partie substantielle du contenu des bases de données sous licence. Notez que cela ne vous oblige pas à un Partage dans les Mêmes Conditions de tout droit d'auteur ou d'autres droits que vous avez sur les différents contenus de la base de données.</p>
 <h3 id="remarques">Remarques</h3>
 <ul>
-<li>Aller jusqu'à ↑ Publications, Inc. v. Chinatown Today Publishing Enterprises Inc., 945 F.2d 509 (2d Cir. 1991</li>
+<li><p>Aller jusqu'à ↑ Publications, Inc. v. Chinatown Today Publishing Enterprises Inc., 945 F.2d 509 (2d Cir. 1991</p></li>
+<li><p>Support for this French translation was provided by Open Data Institute as part of the OD4D program. Translation by Dr Pierre El Khoury (CC Lebanon Legal Lead).</p></li>
 </ul>
 <hr />
       </div>

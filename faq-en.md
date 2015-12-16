@@ -1829,7 +1829,7 @@ license") depends on which license applies to the original material.
 Recipients of the adaptation must comply with both the CC license on the
 original and your adapter’s license.
 
-:   ##### BY and BY-NC material
+:   #### BY and BY-NC material
 
 When remixing BY or BY-NC material, it is generally recommended that
 your adapter's license include at least the same license elements as the
@@ -1839,7 +1839,7 @@ complying with the adapter's license. For example, if you adapt material
 licensed under BY-NC, your adapter's license should also contain the NC
 restriction. See the chart below for more details.
 
-:   ##### BY-SA and BY-NC-SA material
+:   #### BY-SA and BY-NC-SA material
 
 In general, when remixing ShareAlike content, your adapter's license
 must be the same license as the license on the material you are
@@ -1852,7 +1852,7 @@ release your contributions under a non-CC license, you should visit the
 [Compatibility page](https://creativecommons.org/compatiblelicenses) to
 see which options are allowed.
 
-:   ##### BY-ND and BY-NC-ND material
+:   #### BY-ND and BY-NC-ND material
 
 The BY-ND and BY-NC-ND licenses do not permit distribution of
 adaptations (also known as remixes or derivative works), and prohibits
@@ -1863,7 +1863,7 @@ licenses do allow you to reproduce the material in unmodified form
 together with other material in a collection, as indicated in the next
 FAQ.)
 
-:   ##### Adapter's license chart
+:   #### Adapter's license chart
 
 The chart below details the CC license(s) you may use as your adapter's
 license. When creating an adaptation of material under the license
@@ -2371,7 +2371,7 @@ data. For case studies about how these tools are applied, see:
 
 #### Frequently asked questions about data and CC licenses
 
-##### Can databases be released under CC licenses?
+#### Can databases be released under CC licenses?
 
 Yes, [CC licenses can be used to license
 databases](#Can_I_apply_a_Creative_Commons_license_to_databases "wikilink").
@@ -2395,7 +2395,7 @@ as science and government, there are important reasons to consider using
 CC0. Waiving copyright and related rights eliminates all uncertainty for
 potential users, encouraging maximal reuse and sharing of information.
 
-##### When a CC license is applied to a database, what is being licensed?
+#### When a CC license is applied to a database, what is being licensed?
 
 The license terms and conditions apply to the database structure (its
 selection and arrangement, [to the extent
@@ -2412,7 +2412,7 @@ licensors to clearly demarcate what is and is not licensed. See
 for more information regarding how to provide clear notice of what is
 licensed.
 
-##### How do I apply a CC legal tool to a database?
+#### How do I apply a CC legal tool to a database?
 
 Before making a database available under a CC license, a database
 provider should first make sure she has all rights necessary to do so.
@@ -2434,7 +2434,7 @@ elements in a manner that reusers will see and understand. Please see
 our [marking page](Marking_your_work_with_a_CC_license "wikilink") for
 more information on how to clearly distinguish unlicensed content.
 
-##### How do the different CC license elements operate for a CC-licensed database?
+#### How do the different CC license elements operate for a CC-licensed database?
 
 Under version 4.0, if an NC license has been applied then any use of the
 licensed database or its contents [that is restricted by copyright
@@ -2460,7 +2460,7 @@ and [prior
 versions](#How_does_the_treatment_of_sui_generis_database_rights_vary_in_prior_versions_of_CC_licenses "wikilink")
 of the licenses.
 
-##### Can I conduct text/data mining on a CC-licensed database?
+#### Can I conduct text/data mining on a CC-licensed database?
 
 Yes. However, you should be aware that whether you have to comply with
 the CC license terms and conditions will depend on whether the type of
@@ -2494,7 +2494,7 @@ license](#Do_I_always_have_to_comply_with_the_license_terms_If_not.2C_what_are_t
 you may conduct text and data mining activity without regard to the
 above considerations.
 
-##### How does the treatment of sui generis database rights vary in prior versions of CC licenses?
+#### How does the treatment of sui generis database rights vary in prior versions of CC licenses?
 
 As explained
 [above](#Can_databases_be_released_under_CC_licenses "wikilink"),
@@ -2533,7 +2533,7 @@ More information on the underlying 3.0 policy decision the treatment of
 sui generis database rights those licenses can be found [on our wiki
 (.pdf)](Media:V3_Database_Rights.pdf "wikilink").
 
-##### What is the difference between the Open Data Commons licenses and the CC 4.0 licenses?
+#### What is the difference between the Open Data Commons licenses and the CC 4.0 licenses?
 
 The [Open Database License
 (ODbL)](http://opendatacommons.org/licenses/odbl/1.0/) and the [Open
@@ -2560,9 +2560,9 @@ obligations where permission is not otherwise
 required](#How_do_CC_licenses_operate "wikilink")
 to use the licensed material.
 
-#### Frequently asked questions about data, generally
+### Frequently asked questions about data, generally
 
-##### Which components of databases are protected by copyright?
+#### Which components of databases are protected by copyright?
 
 With databases, there are likely four components to consider: (1) the
 database model or structure, (2) the data entry and output sheet, (3)
@@ -2598,7 +2598,7 @@ a database would be protected by copyright, but purely factual data
 (such as gene names or city populations) would not. Facts are not
 subject to copyright, nor are the ideas underlying copyrighted content.
 
-##### How do I know whether a particular use of a database is restricted by copyright?
+#### How do I know whether a particular use of a database is restricted by copyright?
 
 When the database structure or its contents is subject to copyright,
 reproducing, distributing, or modifying the database will often be
@@ -2626,7 +2626,7 @@ is highlighted on the license deeds in the Notice section, where we
 emphasize that compliance with the license is not required for elements
 of the material in the public domain.
 
-##### If my use of a database is restricted by copyright, how do I comply with the license?
+#### If my use of a database is restricted by copyright, how do I comply with the license?
 
 All CC licenses require that you attribute the licensor when your use
 involves public sharing. Your other obligations depend on the particular
@@ -2641,7 +2641,7 @@ to any adaptation of the database you share publicly.
 
 <span id="What_are_sui_generis_database_rights"></span>
 
-##### Which components of a database are protected by sui generis database rights?
+#### Which components of a database are protected by sui generis database rights?
 
 In contrast to copyright, sui generis database rights are designed to
 protect a maker's substantial investment in a database. In particular,
@@ -2650,7 +2650,7 @@ the right prevents the unauthorized extraction and reuse of a
 portion](#What_constitutes_a_.E2.80.9Csubstantial_portion.E2.80.9D_of_a_database "wikilink")
 of the contents.
 
-##### How do I know whether a particular use of a database is restricted by sui generis database rights?
+#### How do I know whether a particular use of a database is restricted by sui generis database rights?
 
 When a database is subject to sui generis database rights, extracting
 and reusing a [substantial
@@ -2677,7 +2677,7 @@ in your jurisdiction, we recommend that you retain this information
 where possible. Doing so assists downstream reusers who are required to
 provide it when they share further.
 
-##### What constitutes a “substantial portion” of a database?
+#### What constitutes a “substantial portion” of a database?
 
 There is no bright line test for what constitutes a “substantial
 portion”. The answer will depend on the law in the relevant
@@ -2687,7 +2687,7 @@ insubstantial portions can add up to a substantial portion.
 
 <span id="How_(if_at_all)_are_sui_generis_database_rights_addressed_in_CC_licenses'"></span>
 
-##### If my use of a database is restricted by sui generis database rights, how do I comply with the license?
+#### If my use of a database is restricted by sui generis database rights, how do I comply with the license?
 
 If the database is released under the current version (4.0) of CC
 licenses, you must attribute the licensor if you share a [substantial
