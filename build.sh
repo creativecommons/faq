@@ -3,5 +3,5 @@ pandoc faq-en.md -o faq-en.html --toc --toc-depth=3 -w html5 --template template
 
 git add .
 git commit -m "Updates"
-rsync *.html mattl@labs.creativecommons.org:~/public_html/
+rsync --progress *.html mattl@labs.creativecommons.org:~/public_html/
 git push origin master
