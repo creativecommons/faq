@@ -1,4 +1,4 @@
-pandoc french-faq.md -o faq-fr.html --toc --toc-depth=3 --template template.html -V "pagetitle: Foire Aux Questions" -V "title: Foire Aux Questions"
+pandoc french-faq.md -o faq-fr.html --toc --toc-depth=3 --number-sections --from markdown+implicit_header_references -html5 --template template.html -V "pagetitle: Foire Aux Questions" -V "title: Foire Aux Questions"
 pandoc faq.md -o faq-en.html --toc --toc-depth=3 --template template.html -V "pagetitle: Frequently Asked Questions" -V "title: Frequently Asked Questions"
 
 git add .
