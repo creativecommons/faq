@@ -121,6 +121,8 @@
     <div class="col-md-12">
 
       <h1> Frequently Asked Questions</h1>
+
+      <p><small> Tue Dec 15 20:37:01 CST 2015</small></p>
       
             <a class="btn btn-primary" role="button" data-toggle="collapse" href="#TOC" aria-expanded="false" aria-controls="collapseExample">
 Toggle TOC
