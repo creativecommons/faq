@@ -9,6 +9,7 @@
 <link rel="stylesheet" href="https://creativecommons.org/wp-content/themes/creativecommons.org/css/style.css"/>
 <link rel="stylesheet" href="https://creativecommons.org/wp-content/themes/creativecommons.org/engine.css"/>
 <script src="https://creativecommons.org/wp-content/themes/creativecommons.org/js/libs/modernizr-2.0.6.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0"/>
 </head>
 <body>
 <div id="container">
@@ -129,7 +130,7 @@
 
       <h2> Frequently Asked Questions</h2>
 
-      <p><small> Tue Dec 15 22:39:55 CST 2015</small></p>
+      <p><small> Wed Dec 16 00:43:13 CST 2015</small></p>
       
             <a class="btn btn-primary" role="button" data-toggle="collapse" href="#TOC" aria-expanded="false" aria-controls="collapseExample">
 Toggle TOC
