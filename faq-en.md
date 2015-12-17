@@ -1815,7 +1815,7 @@ works may not be remixed unless an exception or limitation applies. See
 [below for details on how remixes may be
 licensed](#If_I_derive_or_adapt_material_offered_under_a_Creative_Commons_license.2C_which_CC_license.28s.29_can_I_use "wikilink").
 
-![](https://raw.githubusercontent.com/creativecommons/faq/master/CC_License_Compatibility_Chart.png)
+<img src="https://raw.githubusercontent.com/creativecommons/faq/master/CC_License_Compatibility_Chart.png" class="img-responsive" />
 
 <span id="If_I_use_a_Creative_Commons-licensed_work_to_create_a_new_work_.28ie_a_derivative_work_or_adaptation.29.2C_which_Creative_Commons_license_can_I_use_for_my_new_work"></span>
 <span id="If_I_derive_or_adapt_a_work_offered_under_a_Creative_Commons_license.2C_which_CC_license.28s.29_can_I_apply_to_the_resulting_work"></span>
