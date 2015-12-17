@@ -2797,7 +2797,7 @@ substantial portion of the licensed database contents. Note that this
 does **not** require you to ShareAlike any copyright or other rights you
 have in the individual contents of the database.
 
-### Notes
+## Notes
 
 [^1]: Key Publications, Inc. v. Chinatown Today Publishing Enterprises
     Inc., 945 F.2d 509 (2d Cir. 1991).

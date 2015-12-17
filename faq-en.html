@@ -166,7 +166,7 @@ _  _ ____ ____ _  _ ___  ____ _ _ _ _  _    ____ _ _    ____
 
       <h2> Frequently Asked Questions</h2>
 
-      <p><small> Wed Dec 16 19:31:38 CST 2015</small></p>
+      <p><small> Wed Dec 16 19:32:29 CST 2015</small></p>
       
             <a class="btn btn-primary" role="button" data-toggle="collapse" href="#TOC" aria-expanded="false" aria-controls="collapseExample">
 Toggle TOC
@@ -310,8 +310,8 @@ Toggle TOC
       <li><a href="#what-constitutes-a-substantial-portion-of-a-database">What constitutes a “substantial portion” of a database?</a></li>
       <li><a href="#if-my-use-of-a-database-is-restricted-by-sui-generis-database-rights-how-do-i-comply-with-the-license">If my use of a database is restricted by sui generis database rights, how do I comply with the license?</a></li>
       </ul></li>
-      <li><a href="#notes">Notes</a></li>
       </ul></li>
+      <li><a href="#notes">Notes</a></li>
       </ul>
     </nav>
             <div id="main">
@@ -1077,7 +1077,7 @@ BY-SA
 <p><span id="How_(if_at_all)_are_sui_generis_database_rights_addressed_in_CC_licenses&#39;"></span></p>
 <h4 id="if-my-use-of-a-database-is-restricted-by-sui-generis-database-rights-how-do-i-comply-with-the-license">If my use of a database is restricted by sui generis database rights, how do I comply with the license?</h4>
 <p>If the database is released under the current version (4.0) of CC licenses, you must attribute the licensor if you share a <a href="#What_constitutes_a_.E2.80.9Csubstantial_portion.E2.80.9D_of_a_database" title="wikilink">substantial portion</a> of the database contents. The other requirements depend on the particular license applied to the database. Under the NC licenses, you may not extract and reuse a substantial portion of the database contents for <a href="#Does_my_use_violate_the_NonCommercial_clause_of_the_licenses" title="wikilink">commercial purposes</a>. The ND licenses prohibit you from including a substantial portion of the database contents in another publicly shared database in which you have sui generis database rights of your own. And finally, the SA licenses require you to apply the same or a <a href="#If_I_derive_or_adapt_material_offered_under_a_Creative_Commons_license.2C_which_CC_license.28s.29_can_I_use" title="wikilink">compatible license</a> to any database you share publicly and in which you include a substantial portion of the licensed database contents. Note that this does <strong>not</strong> require you to ShareAlike any copyright or other rights you have in the individual contents of the database.</p>
-<h3 id="notes">Notes</h3>
+<h2 id="notes">Notes</h2>
 <section class="footnotes">
 <hr />
 <ol>
