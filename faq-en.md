@@ -529,9 +529,9 @@ list of BY-SA Compatible Licenses, click
 ShareAlike compatibility
 [here](https://wiki.creativecommons.org/ShareAlike_compatibility).
 
-### For Licensors
+## For Licensors
 
-#### Choosing a license
+### Choosing a license
 
 <span id="What_things_should_I_think_about_before_I_apply_a_Creative_Commons_license_to_my_work"></span>
 
@@ -930,7 +930,7 @@ content](Marking/Creators/Marking_third_party_content "wikilink"). Read
 more considerations for licensors
 [here](Before_Licensing#Considerations_for_licensors "wikilink").
 
-#### Rights other than copyright
+### Rights other than copyright
 
 #### Can I use CC licenses to license rights other than copyright?
 
@@ -1023,7 +1023,7 @@ material you are licensing, we recommend [marking the
 material](Marking/Creators/Marking_third_party_content "wikilink") to
 give notice to reusers.
 
-#### Business models
+### Business models
 
 <span id="I_am_a_member_of_a_collecting_society.2C_can_I_use_Creative_Commons_licenses"></span>
 
@@ -1101,7 +1101,7 @@ For more information and ideas, [The Power of
 Open](http://thepowerofopen.org/) presents case studies of artists,
 businesspeople, and organizations who use CC.
 
-#### Alterations and additions to the license
+### Alterations and additions to the license
 
 <span id="Can_I_insist_on_the_exact_placement_of_the_attribution_credit_for_my_work"></span>
 
@@ -1208,7 +1208,7 @@ terms and conditions do not become part of the license—they remain a
 separate contractual agreement, and violation of this agreement does not
 constitute copyright infringement.
 
-#### After licensing
+### After licensing
 
 <span id="What_happens_if_someone_misuses_my_Creative_Commons-licensed_work"></span>
 <span id="What_happens_if_I_offer_my_work_under_a_Creative_Commons_license_and_someone_misuses_my_work"></span>
@@ -1316,9 +1316,9 @@ attribution information. You should [think carefully before choosing a
 Creative Commons
 license](Considerations for licensors and licensees "wikilink").
 
-### For Licensees
+## For Licensees
 
-#### Before using CC-licensed material
+### Before using CC-licensed material
 
 <span id="How_do_I_use_a_Creative_Commons-licensed_work"></span>
 <span id="What_should_I_think_about_before_using_a_work_offered_under_a_Creative_Commons_license"></span>
@@ -1456,7 +1456,7 @@ handful of the ported licenses contain provisions specifying which laws
 will apply in the event the licensor chooses to enforce the license, and
 a few of the ported licenses contain forum selection clauses.
 
-#### General license compliance
+### General license compliance
 
 <span id="What_happens_if_I_want_to_make_a_different_use_of_the_work"></span>
 <span id="What_happens_if_I_want_to_use_the_work_in_a_way_that_is_not_permitted_by_the_license"></span>
@@ -1492,7 +1492,7 @@ fair use, you must comply with the license even though no individual
 line would have been a substantial enough portion of the work to require
 this.
 
-#### Attribution
+### Attribution
 
 <span id="How_do_I_properly_attribute_a_Creative_Commons_licensed_work"></span>
 <span id="How_do_I_properly_attribute_a_work_offered_under_a_Creative_Commons_license"></span>

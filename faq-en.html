@@ -166,7 +166,7 @@ _  _ ____ ____ _  _ ___  ____ _ _ _ _  _    ____ _ _    ____
 
       <h2> Frequently Asked Questions</h2>
 
-      <p><small> Wed Dec 16 20:27:13 CST 2015</small></p>
+      <p><small> Wed Dec 16 20:34:37 CST 2015</small></p>
 
       
             <div class="well">
@@ -204,7 +204,7 @@ Table of Contents
       <li><a href="#what-is-a-by-sa-compatible-license">What is a BY-SA Compatible License?</a></li>
       </ul></li>
       <li><a href="#for-licensors">For Licensors</a><ul>
-      <li><a href="#choosing-a-license">Choosing a license</a></li>
+      <li><a href="#choosing-a-license">Choosing a license</a><ul>
       <li><a href="#what-things-should-i-think-about-before-i-apply-a-creative-commons-license">What things should I think about before I apply a Creative Commons license?</a></li>
       <li><a href="#how-should-i-decide-which-license-to-choose">How should I decide which license to choose?</a></li>
       <li><a href="#why-should-i-use-the-latest-version-of-the-creative-commons-licenses">Why should I use the latest version of the Creative Commons licenses?</a></li>
@@ -220,39 +220,46 @@ Table of Contents
       <li><a href="#may-i-apply-a-creative-commons-license-to-a-work-in-the-public-domain">May I apply a Creative Commons license to a work in the public domain?</a></li>
       <li><a href="#if-i-take-a-photograph-of-another-work-that-is-in-the-public-domain-can-i-apply-a-cc-license-to-my-photo">If I take a photograph of another work that is in the public domain, can I apply a CC license to my photo?</a></li>
       <li><a href="#may-i-apply-a-cc-license-to-my-work-if-it-incorporates-material-used-under-fair-use-or-another-exception-or-limitation-to-copyright">May I apply a CC license to my work if it incorporates material used under fair use or another exception or limitation to copyright?</a></li>
-      <li><a href="#rights-other-than-copyright">Rights other than copyright</a></li>
+      </ul></li>
+      <li><a href="#rights-other-than-copyright">Rights other than copyright</a><ul>
       <li><a href="#can-i-use-cc-licenses-to-license-rights-other-than-copyright">Can I use CC licenses to license rights other than copyright?</a></li>
       <li><a href="#how-do-creative-commons-licenses-affect-my-moral-rights-if-at-all">How do Creative Commons licenses affect my moral rights, if at all?</a></li>
       <li><a href="#can-i-offer-material-under-a-cc-license-that-has-my-trademark-on-it-without-also-licensing-or-affecting-rights-in-the-trademark">Can I offer material under a CC license that has my trademark on it without also licensing or affecting rights in the trademark?</a></li>
       <li><a href="#how-are-publicity-privacy-and-personality-rights-affected-when-i-apply-a-cc-license">How are publicity, privacy, and personality rights affected when I apply a CC license?</a></li>
-      <li><a href="#business-models">Business models</a></li>
+      </ul></li>
+      <li><a href="#business-models">Business models</a><ul>
       <li><a href="#can-i-apply-a-cc-license-to-low-resolution-copies-of-a-licensed-work-and-reserve-more-rights-in-high-resolution-copies">Can I apply a CC license to low-resolution copies of a licensed work and reserve more rights in high-resolution copies?</a></li>
       <li><a href="#can-i-use-a-creative-commons-license-if-i-am-a-member-of-a-collecting-society">Can I use a Creative Commons license if I am a member of a collecting society?</a></li>
       <li><a href="#can-i-still-make-money-from-a-work-i-make-available-under-a-creative-commons-license">Can I still make money from a work I make available under a Creative Commons license?</a></li>
-      <li><a href="#alterations-and-additions-to-the-license">Alterations and additions to the license</a></li>
+      </ul></li>
+      <li><a href="#alterations-and-additions-to-the-license">Alterations and additions to the license</a><ul>
       <li><a href="#can-i-insist-on-the-exact-placement-of-the-attribution-credit">Can I insist on the exact placement of the attribution credit?</a></li>
       <li><a href="#can-i-change-the-license-terms-or-conditions">Can I change the license terms or conditions?</a></li>
       <li><a href="#can-i-waive-license-terms-or-conditions">Can I waive license terms or conditions?</a></li>
       <li><a href="#can-i-enter-into-separate-or-supplemental-agreements-with-users-of-my-work">Can I enter into separate or supplemental agreements with users of my work?</a></li>
-      <li><a href="#after-licensing">After licensing</a></li>
+      </ul></li>
+      <li><a href="#after-licensing">After licensing</a><ul>
       <li><a href="#what-happens-if-i-offer-my-material-under-a-creative-commons-license-and-someone-misuses-them">What happens if I offer my material under a Creative Commons license and someone misuses them?</a></li>
       <li><a href="#what-can-i-do-if-i-offer-my-material-under-a-creative-commons-license-and-i-do-not-like-the-way-someone-uses-it">What can I do if I offer my material under a Creative Commons license and I do not like the way someone uses it?</a></li>
       <li><a href="#what-do-i-do-if-someone-tries-to-place-effective-technological-measures-such-as-drm-on-my-cc-licensed-material">What do I do if someone tries to place effective technological measures (such as DRM) on my CC-licensed material?</a></li>
       <li><a href="#when-i-release-my-work-under-a-cc-license-in-one-format-e.g.-.pdf-can-i-restrict-licensees-from-changing-it-to-or-using-it-in-other-formats">When I release my work under a CC license in one format (e.g., .pdf), can I restrict licensees from changing it to or using it in other formats?</a></li>
       <li><a href="#what-if-i-change-my-mind-about-using-a-cc-license">What if I change my mind about using a CC license?</a></li>
       </ul></li>
+      </ul></li>
       <li><a href="#for-licensees">For Licensees</a><ul>
-      <li><a href="#before-using-cc-licensed-material">Before using CC-licensed material</a></li>
+      <li><a href="#before-using-cc-licensed-material">Before using CC-licensed material</a><ul>
       <li><a href="#what-should-i-think-about-before-using-material-offered-under-a-creative-commons-license">What should I think about before using material offered under a Creative Commons license?</a></li>
       <li><a href="#does-a-creative-commons-license-give-me-all-the-rights-i-need-to-use-the-work">Does a Creative Commons license give me all the rights I need to use the work?</a></li>
       <li><a href="#what-if-there-are-sui-generis-database-rights-that-apply-to-my-use-of-a-cc-licensed-database">What if there are sui generis database rights that apply to my use of a CC-licensed database?</a></li>
       <li><a href="#where-can-i-find-material-offered-under-a-cc-license">Where can I find material offered under a CC license?</a></li>
       <li><a href="#are-creative-commons-works-really-free-to-use">Are Creative Commons works really free to use?</a></li>
       <li><a href="#what-should-i-know-about-differences-between-the-international-licenses-and-the-ported-licenses">What should I know about differences between the international licenses and the ported licenses?</a></li>
-      <li><a href="#general-license-compliance">General license compliance</a></li>
+      </ul></li>
+      <li><a href="#general-license-compliance">General license compliance</a><ul>
       <li><a href="#what-happens-if-i-want-to-use-the-material-in-a-way-that-is-not-permitted-by-the-license">What happens if I want to use the material in a way that is not permitted by the license?</a></li>
       <li><a href="#do-i-always-have-to-comply-with-the-license-terms-if-not-what-are-the-exceptions">Do I always have to comply with the license terms? If not, what are the exceptions?</a></li>
-      <li><a href="#attribution">Attribution</a></li>
+      </ul></li>
+      <li><a href="#attribution">Attribution</a><ul>
       <li><a href="#how-do-i-properly-attribute-material-offered-under-a-creative-commons-license">How do I properly attribute material offered under a Creative Commons license?</a></li>
       <li><a href="#do-i-need-to-be-aware-of-anything-else-when-providing-attribution">Do I need to be aware of anything else when providing attribution?</a></li>
       <li><a href="#do-i-always-have-to-attribute-the-creator-of-the-licensed-material">Do I always have to attribute the creator of the licensed material?</a></li>
@@ -296,6 +303,7 @@ Table of Contents
       <li><a href="#what-are-sui-generis-database-rights">What are sui generis database rights?</a></li>
       <li><a href="#what-are-collecting-societies">What are collecting societies?</a></li>
       <li><a href="#what-are-publicity-personality-and-privacy-rights">What are publicity, personality, and privacy rights?</a></li>
+      </ul></li>
       </ul></li>
       <li><a href="#data">Data</a><ul>
       <li><a href="#frequently-asked-questions-about-data-and-cc-licenses">Frequently asked questions about data and CC licenses</a></li>
@@ -432,8 +440,8 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\
 <p>For versions 3.0 and earlier, official translations are not available. Some unofficial translations were made for informational purposes only. (Jurisdiction ported versions of version 3.0 and earlier were generally published in the official language(s) of the appropriate jurisdiction. However, the ported licenses are <a href="#What_should_I_know_about_differences_between_the_international_licenses_and_the_ported_licenses" title="wikilink">not equivalent</a> to the international licenses, and do not serve as substitutable references for purposes of complying with the terms and conditions of the licenses.)</p>
 <h4 id="what-is-a-by-sa-compatible-license">What is a BY-SA Compatible License?</h4>
 <p>A BY-SA Compatible License is a license officially designated by Creative Commons pursuant to the <a href="https://wiki.creativecommons.org/ShareAlike_compatibility_criteria">ShareAlike compatibility process</a>. Once deemed a BY-SA Compatible License, you may use the license to publish your contributions to an adaptation of a BY-SA work. To see the list of BY-SA Compatible Licenses, click <a href="https://creativecommons.org/compatiblelicenses">here</a>. Learn more about ShareAlike compatibility <a href="https://wiki.creativecommons.org/ShareAlike_compatibility">here</a>.</p>
-<h3 id="for-licensors">For Licensors</h3>
-<h4 id="choosing-a-license">Choosing a license</h4>
+<h2 id="for-licensors">For Licensors</h2>
+<h3 id="choosing-a-license">Choosing a license</h3>
 <p><span id="What_things_should_I_think_about_before_I_apply_a_Creative_Commons_license_to_my_work"></span></p>
 <h4 id="what-things-should-i-think-about-before-i-apply-a-creative-commons-license">What things should I think about before I apply a Creative Commons license?</h4>
 <p>Applying a Creative Commons license to your material is a serious decision. When you apply a CC license, you give permission to anyone to use your material for the full duration of applicable copyright and similar rights.</p>
@@ -501,7 +509,7 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\
 <p>In practice, if your photograph is sufficiently creative to attract copyright protection, people will likely have to comply with the license conditions if they reproduce your entire photograph in verbatim form, absent some applicable exception or limitation such as fair use. However, <a href="#Do_I_always_have_to_comply_with_the_license_terms_If_not.2C_what_are_the_exceptions" title="wikilink">they would not have to comply with the license conditions if they reproduce only those parts of the work in the public domain</a>. This is because your copyright in the adaptation only extends to the material you contributed, not to the underlying work.</p>
 <h4 id="may-i-apply-a-cc-license-to-my-work-if-it-incorporates-material-used-under-fair-use-or-another-exception-or-limitation-to-copyright">May I apply a CC license to my work if it incorporates material used under fair use or another exception or limitation to copyright?</h4>
 <p>Yes, but it is important to prominently mark any third party material you incorporate into your work so reusers do not think the CC license applies to that material. The CC license only applies to the rights you have in the work. For example, if your CC-licensed slide deck includes a Flickr image you are using pursuant to fair use, make sure to identify that image as not being subject to the CC license. For more information about incorporating work owned by others, see our page about <a href="Marking/Creators/Marking_third_party_content" title="wikilink">marking third party content</a>. Read more considerations for licensors <a href="Before_Licensing#Considerations_for_licensors" title="wikilink">here</a>.</p>
-<h4 id="rights-other-than-copyright">Rights other than copyright</h4>
+<h3 id="rights-other-than-copyright">Rights other than copyright</h3>
 <h4 id="can-i-use-cc-licenses-to-license-rights-other-than-copyright">Can I use CC licenses to license rights other than copyright?</h4>
 <p>CC licenses are copyright licenses, but the latest version of CC licenses also cover certain other rights similar to copyright, including <a href="#What_are_neighboring_rights" title="wikilink">performance, broadcast, and sound recording rights</a>, as well as <a href="#What_are_sui_generis_database_rights" title="wikilink">sui generis database rights</a>. You may apply a 4.0 license to material subject to any of those rights, whether or not the material is also subject to copyright. Note that the scope of prior versions of CC licenses was more limited. You should refer to our <a href="License%20Versions" title="wikilink">license versions page</a> for details.</p>
 <h4 id="how-do-creative-commons-licenses-affect-my-moral-rights-if-at-all">How do Creative Commons licenses affect my moral rights, if at all?</h4>
@@ -516,7 +524,7 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\
 <h4 id="how-are-publicity-privacy-and-personality-rights-affected-when-i-apply-a-cc-license">How are publicity, privacy, and personality rights affected when I apply a CC license?</h4>
 <p>When you apply the latest version (4.0) of a CC license to your material, you also agree to waive or not assert any <a href="#What_are_publicity.2C_personality.2C_and_privacy_rights" title="wikilink">publicity, privacy, or personality rights</a> that you hold in the material you are licensing, to the limited extent necessary for others to exercise the licensed rights. For example, if you have licensed a photograph of yourself, you may not assert your right of privacy to have the photo removed from further distribution. (Under the 3.0 and earlier licenses, this is implied but not explicit.) If you do not wish to license these rights in this way, you should not apply a CC license to the material where this is a concern.</p>
 <p>If there are any third parties who may have publicity, privacy, or personality rights that apply, those rights are not affected by your application of a CC license, and a reuser must seek permission for relevant uses. If you are aware of any such third party rights in the material you are licensing, we recommend <a href="Marking/Creators/Marking_third_party_content" title="wikilink">marking the material</a> to give notice to reusers.</p>
-<h4 id="business-models">Business models</h4>
+<h3 id="business-models">Business models</h3>
 <p><span id="I_am_a_member_of_a_collecting_society.2C_can_I_use_Creative_Commons_licenses"></span></p>
 <h4 id="can-i-apply-a-cc-license-to-low-resolution-copies-of-a-licensed-work-and-reserve-more-rights-in-high-resolution-copies">Can I apply a CC license to low-resolution copies of a licensed work and reserve more rights in high-resolution copies?</h4>
 <p>You may license your copyright or distribute your work under more than one set of terms. For example, you may publish a photograph on your website, but only distribute high-resolution copies to people who have paid for access. This is a practice CC supports. However, if the low-resolution and high-resolution copies are the <a href="#How_do_I_know_if_a_low-resolution_photo_and_a_high-resolution_photo_are_the_same_work" title="wikilink">same work under applicable copyright law</a>, permission under a CC license is not limited to a particular copy, and someone who receives a copy in high resolution may use it under the terms of the CC license applied to the low-resolution copy.</p>
@@ -530,7 +538,7 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\
 <p>CC's <a href="#Does_my_use_violate_the_NonCommercial_clause_of_the_licenses" title="wikilink">NonCommercial (NC)</a> licenses allow rights holders to maximize distribution while maintaining control of the commercialization of their works. If you want to reserve the right to commercialize your work, you may do this by choosing a license with the NC condition. If someone else wants to use your work commercially and you have applied an NC license to your work, they must first get your permission. As the rights holder, you may still sell your own work commercially.</p>
 <p>You may also use funding models that do not depend on using an NC license. For example, many artists and creators use crowdfunding to fund their work before releasing it under a less restrictive license. Others use a “freemium” model where the basic content is free, but extras such as a physical printed version or special access to a members-only website are for paying customers only.</p>
 <p>For more information and ideas, <a href="http://thepowerofopen.org/">The Power of Open</a> presents case studies of artists, businesspeople, and organizations who use CC.</p>
-<h4 id="alterations-and-additions-to-the-license">Alterations and additions to the license</h4>
+<h3 id="alterations-and-additions-to-the-license">Alterations and additions to the license</h3>
 <p><span id="Can_I_insist_on_the_exact_placement_of_the_attribution_credit_for_my_work"></span></p>
 <h4 id="can-i-insist-on-the-exact-placement-of-the-attribution-credit">Can I insist on the exact placement of the attribution credit?</h4>
 <p>No. CC licenses allow for flexibility in the way credit is provided depending on the medium, means, and context in which a licensee is redistributing licensed material. For example, providing attribution to the creator when using licensed material in a blog post may be different than doing so in a video remix. This flexibility facilitates compliance by licensees and reduces uncertainty about different types of reuse—minimizing the risk that overly onerous and inflexible attribution requirements are simply disregarded.</p>
@@ -548,7 +556,7 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\
 <p><strong>Supplemental agreements:</strong> Problems arise when licensors design those terms or arrangements to serve not as separate, alternative licensing arrangements but as supplemental terms <a href="#Can_I_change_the_license_terms_or_conditions" title="wikilink">having the effect of changing the standard terms within the CC license</a>. While you may offer separate terms and conditions to other parties, you should not do so in such a way that would neutralize terms of the CC license.</p>
 <p>Except in the limited situation where <a href="#Can_I_waive_license_terms_or_conditions" title="wikilink">more permissions are being granted or license conditions are waived</a>, if the additional arrangement modifies or conflicts with the CC license terms, then the resulting licensing arrangement is no longer a CC licensing arrangement. To avoid confusing those who may mistakenly believe the work is licensed under standard CC terms, we must insist that in these instances licensors not use our <a href="https://creativecommons.org/policies">trademarks, names, and logos</a> in connection with their custom licensing arrangement.</p>
 <p>It should be noted that any agreements you make with other parties only have an effect on the other parties to that agreement, and do not apply to anyone else receiving the licensed material. For example, if there are terms of use that apply to visitors to your website on which you host CC-licensed material, your terms of use may apply to visitors to that website, but not to anyone who receives copies of the CC-licensed material elsewhere. Even for the visitors to your website, any separate terms and conditions do not become part of the license—they remain a separate contractual agreement, and violation of this agreement does not constitute copyright infringement.</p>
-<h4 id="after-licensing">After licensing</h4>
+<h3 id="after-licensing">After licensing</h3>
 <p><span id="What_happens_if_someone_misuses_my_Creative_Commons-licensed_work"></span> <span id="What_happens_if_I_offer_my_work_under_a_Creative_Commons_license_and_someone_misuses_my_work"></span></p>
 <h4 id="what-happens-if-i-offer-my-material-under-a-creative-commons-license-and-someone-misuses-them">What happens if I offer my material under a Creative Commons license and someone misuses them?</h4>
 <p>A CC license <a href="#How_can_I_lose_my_rights_under_a_Creative_Commons_license_If_that_happens.2C_how_do_I_get_them_back" title="wikilink">terminates automatically</a> when its conditions are violated. For example, if a reuser of CC-licensed material does not provide the attribution required when sharing the work, then the user no longer has the right to continue using the material and may be liable for copyright infringement. The license is terminated for the user who violated the license. However, all other users still have a valid license, so long as they are in compliance.</p>
@@ -568,8 +576,8 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\
 <p><span id="What_if_I_change_my_mind"></span></p>
 <h4 id="what-if-i-change-my-mind-about-using-a-cc-license">What if I change my mind about using a CC license?</h4>
 <p>CC licenses are not revocable. Once something has been published under a CC license, licensees may continue using it according to the license terms for the duration of applicable copyright and similar rights. As a licensor, you may stop distributing under the CC license at any time, but anyone who has access to a copy of the material may continue to redistribute it under the CC license terms. While you cannot revoke the license, CC licenses do provide a <a href="#What_can_I_do_if_I_offer_my_work_under_a_Creative_Commons_license_and_I_do_not_like_the_way_someone_uses_my_work" title="wikilink">mechanism</a> for licensors to ask that others using their material remove the attribution information. You should <a href="Considerations%20for%20licensors%20and%20licensees" title="wikilink">think carefully before choosing a Creative Commons license</a>.</p>
-<h3 id="for-licensees">For Licensees</h3>
-<h4 id="before-using-cc-licensed-material">Before using CC-licensed material</h4>
+<h2 id="for-licensees">For Licensees</h2>
+<h3 id="before-using-cc-licensed-material">Before using CC-licensed material</h3>
 <p><span id="How_do_I_use_a_Creative_Commons-licensed_work"></span> <span id="What_should_I_think_about_before_using_a_work_offered_under_a_Creative_Commons_license"></span></p>
 <h4 id="what-should-i-think-about-before-using-material-offered-under-a-creative-commons-license">What should I think about before using material offered under a Creative Commons license?</h4>
 <p>CC offers <a href="https://creativecommons.org/licenses/">six core licenses</a>, each of which grants a different set of permissions. Before you use CC-licensed material, <a href="https://creativecommons.org/about/licenses/">you should review the terms of the particular license</a> to be sure your anticipated use is permitted. If you wish to use the work in a manner that is not permitted by the license, you should contact the rights holder (often the creator) to get permission first, or look for an alternative work that is licensed in a way that permits your anticipated use. Note that if you use material in a way that is not permitted by the applicable license and your use is not otherwise permitted by an applicable copyright exception or limitation, the license is <a href="#How_can_I_lose_my_rights_under_a_Creative_Commons_license_If_that_happens.2C_how_do_I_get_them_back" title="wikilink">automatically terminated</a> and you may be liable for copyright infringement, even if you are eligible to have your rights reinstated later.</p>
@@ -592,14 +600,14 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\
 <p>As a licensee, you should always read and understand the relevant license's legal code before using CC-licensed material, particularly if you are using material that is licensed using a <a href="#What_are_the_international_.28.E2.80.9Cunported.E2.80.9D.29_Creative_Commons_licenses.2C_and_why_does_CC_offer_.E2.80.9Cported.E2.80.9D_licenses" title="wikilink">ported license</a> with which you are unfamiliar. Our porting process involved adapting the international licenses to the legal framework of different jurisdictions, and in that process slight adjustments may have been made that you should make yourself aware of in advance of using the material. You can find more information about the ported licenses in the <a href="Jurisdiction%20Database" title="wikilink">Jurisdiction Database</a>.</p>
 <p>There are currently no ported versions of 4.0, and we expect there will be few, if any, in the future. All official translations of the 4.0 international licenses are equivalent: you may substitute one for another depending on your preferred language.</p>
 <p>However, the ported versions of 3.0 and earlier sometimes contain small differences from the international license depending on the ways in which they have been adapted to their jurisdictions. For example, a handful of the ported licenses contain provisions specifying which laws will apply in the event the licensor chooses to enforce the license, and a few of the ported licenses contain forum selection clauses.</p>
-<h4 id="general-license-compliance">General license compliance</h4>
+<h3 id="general-license-compliance">General license compliance</h3>
 <p><span id="What_happens_if_I_want_to_make_a_different_use_of_the_work"></span> <span id="What_happens_if_I_want_to_use_the_work_in_a_way_that_is_not_permitted_by_the_license"></span></p>
 <h4 id="what-happens-if-i-want-to-use-the-material-in-a-way-that-is-not-permitted-by-the-license">What happens if I want to use the material in a way that is not permitted by the license?</h4>
 <p>Contact the rights holders to ask for permission. Otherwise, <a href="#Do_I_always_have_to_comply_with_the_license_terms_If_not.2C_what_are_the_exceptions" title="wikilink">unless an exception or limitation to copyright applies</a>, your use of the material may violate the Creative Commons license. If you violate the terms of the license, your rights to use the material will be <a href="#How_can_I_lose_my_rights_under_a_Creative_Commons_license_If_that_happens.2C_how_do_I_get_them_back" title="wikilink">automatically terminated</a>, and you may be liable for copyright infringement.</p>
 <h4 id="do-i-always-have-to-comply-with-the-license-terms-if-not-what-are-the-exceptions">Do I always have to comply with the license terms? If not, what are the exceptions?</h4>
 <p>You need to comply with the license terms if what you are doing would otherwise require permission from the rights holder. If your use would not require permission from the rights holder because it falls under an exception or limitation, such as fair use, or because the material has come into the public domain, the license does not apply, and you do not need to comply with its terms and conditions. Additionally, if you are using an excerpt small enough to be uncopyrightable, the license does not apply to your use, and you do not need to comply with its terms.</p>
 <p>However, if you are using excerpts of CC-licensed material which individually are minimal and do not require license compliance, but together make up a significant copyrightable chunk, you must comply with the license terms. For example, if you quote many individual lines from a poem across several sections of a blog post, and your use is not a fair use, you must comply with the license even though no individual line would have been a substantial enough portion of the work to require this.</p>
-<h4 id="attribution">Attribution</h4>
+<h3 id="attribution">Attribution</h3>
 <p><span id="How_do_I_properly_attribute_a_Creative_Commons_licensed_work"></span> <span id="How_do_I_properly_attribute_a_work_offered_under_a_Creative_Commons_license"></span></p>
 <h4 id="how-do-i-properly-attribute-material-offered-under-a-creative-commons-license">How do I properly attribute material offered under a Creative Commons license?</h4>
 <p>All CC licenses require users to attribute the creator of licensed material, unless the creator has <a href="#Can_I_waive_license_terms_or_conditions" title="wikilink">waived that requirement</a>, not supplied a name, or <a href="#What_can_I_do_if_I_offer_my_material_under_a_Creative_Commons_license_and_I_do_not_like_the_way_someone_uses_it" title="wikilink">asked that her name be removed</a>. Additionally, you must retain a copyright notice, a link to the license (or to the deed), a license notice, a notice about the disclaimer of warranties, and a URI if reasonable. For versions prior to 4.0, you must also provide the title of the work. (Though it is not a requirement in 4.0, it is still recommended if one is supplied.)</p>
