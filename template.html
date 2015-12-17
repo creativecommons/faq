@@ -167,8 +167,10 @@ _  _ ____ ____ _  _ ___  ____ _ _ _ _  _    ____ _ _    ____
       <h2>$pagetitle$</h2>
 
       <p><small>$lastmodified$</small></p>
+
       
       $if(toc)$
+      <div class="well">
       <a class="btn btn-primary" role="button" data-toggle="collapse" href="#$idprefix$TOC" aria-expanded="false" aria-controls="collapseExample">
 $if(toctitle)$$toctitle$$else$Table of Contents$endif$
       </a>
@@ -176,6 +178,7 @@ $if(toctitle)$$toctitle$$else$Table of Contents$endif$
       $toc$
     </nav>
       $endif$
+      </div>
       <div id="main">
 	$body$
       </div>

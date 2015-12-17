@@ -166,9 +166,11 @@ _  _ ____ ____ _  _ ___  ____ _ _ _ _  _    ____ _ _    ____
 
       <h2> Foire Aux Questions</h2>
 
-      <p><small> Wed Dec 16 20:23:30 CST 2015</small></p>
+      <p><small> Wed Dec 16 20:26:20 CST 2015</small></p>
+
       
-            <a class="btn btn-primary" role="button" data-toggle="collapse" href="#TOC" aria-expanded="false" aria-controls="collapseExample">
+            <div class="well">
+      <a class="btn btn-primary" role="button" data-toggle="collapse" href="#TOC" aria-expanded="false" aria-controls="collapseExample">
 Table des matières
       </a>
       <nav class="collapse" id="TOC">
@@ -328,7 +330,8 @@ Table des matières
       <li><a href="#remarques">Remarques</a></li>
       </ul>
     </nav>
-            <div id="main">
+            </div>
+      <div id="main">
 	<p>Cette FAQ est conçue pour fournir une meilleure compréhension de Creative Commons, de nos licences, et nos outils juridiques et techniques. Elle fournit l’information de base, parfois quant à des sujets assez complexes, et fera souvent le lien vers des informations plus détaillées.</p>
 <ul>
 <li><p>Autre CC FAQ : CC0 Dédiée au Domaine Public et Marquage Domaine Public.</p></li>

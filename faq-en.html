@@ -166,9 +166,11 @@ _  _ ____ ____ _  _ ___  ____ _ _ _ _  _    ____ _ _    ____
 
       <h2> Frequently Asked Questions</h2>
 
-      <p><small> Wed Dec 16 20:23:30 CST 2015</small></p>
+      <p><small> Wed Dec 16 20:26:21 CST 2015</small></p>
+
       
-            <a class="btn btn-primary" role="button" data-toggle="collapse" href="#TOC" aria-expanded="false" aria-controls="collapseExample">
+            <div class="well">
+      <a class="btn btn-primary" role="button" data-toggle="collapse" href="#TOC" aria-expanded="false" aria-controls="collapseExample">
 Table of Contents
       </a>
       <nav class="collapse" id="TOC">
@@ -314,7 +316,8 @@ Table of Contents
       <li><a href="#notes">Notes</a></li>
       </ul>
     </nav>
-            <div id="main">
+            </div>
+      <div id="main">
 	<p>These FAQs are designed to provide a better understanding of Creative Commons, our licenses, and our other legal and technical tools. They provide basic information, sometimes about fairly complex topics, and will often link to more detailed information.</p>
 <ul>
 <li>Other CC FAQs: <a href="//wiki.creativecommons.org/CC0_FAQ" title="wikilink">CC0 Public Domain Dedication</a> and <a href="//wiki.creativecommons.org/PDM_FAQ" title="wikilink">Public Domain Mark</a>.</li>
