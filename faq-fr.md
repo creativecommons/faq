@@ -2230,7 +2230,7 @@ Toutefois, et contrairement aux droits d'auteur, les droits sur les
 bases de données protègent l’investissement du producteur et non pas
 l'originalité.
 
-#### CC ne recommande pas l'utilisation de ses
+CC ne recommande pas l'utilisation de ses
 licences Pas d'Utilisation Commerciale (NC) ou Pas de Modification (ND)
 sur les bases de données destinées à une utilisation éducative ou
 scientifique.
