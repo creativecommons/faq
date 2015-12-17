@@ -1730,7 +1730,7 @@ travaux ne peuvent pas être remixés au moins qu’une exception ou
 limitation applique. Voir ci-dessous pour plus de détails sur la façon
 dont les remixes peuvent être autorisés.
 
-![](CC_License_Compatibility_Chart.png)
+<img src="https://raw.githubusercontent.com/creativecommons/faq/master/CC_License_Compatibility_Chart.png" class="img-responsive" />
 
 #### Si je tire ou j’adapte du matériel proposé sous une licence Creative Commons, quelle(s) licence (s) CC puis-je utiliser?
 
@@ -1785,7 +1785,102 @@ avec d’autres licences. (Notez que les licences ND vous permettent de
 reproduire le matériel sous une forme non modifiée avec d’autres
 éléments dans une collection, comme indiqué dans la suivante FAQ).
 
-## INSERT TABLE
+<table class="wiki_table table table-striped table-bordered">
+<tbody><tr>
+<td colspan="2" rowspan="2"><b>Adapter's license chart</b></td>
+<td colspan="7" align="center">Adapter's license</td>
+</tr>
+<tr>
+<td>BY</td>
+<td>BY-NC</td>
+<td>BY-NC-ND</td>
+<td>BY-NC-SA</td>
+<td>BY-ND</td>
+<td>BY-SA</td>
+<td>PD</td>
+</tr>
+<tr>
+<td rowspan="7" style="width:12ex;">Status of original work</td>
+<td>PD</td>
+<td style="background-color:green;">&nbsp;</td>
+<td style="background-color:green;">&nbsp;</td>
+<td style="background-color:green;">&nbsp;</td>
+<td style="background-color:green;">&nbsp;</td>
+<td style="background-color:green;">&nbsp;</td>
+<td style="background-color:green;">&nbsp;</td>
+<td style="background-color:green;">&nbsp;</td>
+</tr>
+<tr>
+<td>BY</td>
+<td style="background-color:green;">&nbsp;</td>
+<td style="background-color:green;">&nbsp;</td>
+<td style="background-color:green;">&nbsp;</td>
+<td style="background-color:green;">&nbsp;</td>
+<td style="background-color:green;">&nbsp;</td>
+<td style="background-color:green;">&nbsp;</td>
+<td style="background-color:yellow;">&nbsp;</td>
+</tr>
+<tr>
+<td>BY-NC</td>
+<td style="background-color:yellow;">&nbsp;</td>
+<td style="background-color:green;">&nbsp;</td>
+<td style="background-color:green;">&nbsp;</td>
+<td style="background-color:green;">&nbsp;</td>
+<td style="background-color:yellow;">&nbsp;</td>
+<td style="background-color:yellow;">&nbsp;</td>
+<td style="background-color:yellow;">&nbsp;</td>
+</tr>
+<tr>
+<td>BY-NC-ND</td>
+<td style="background-color:darkgray;">&nbsp;</td>
+<td style="background-color:darkgray;">&nbsp;</td>
+<td style="background-color:darkgray;">&nbsp;</td>
+<td style="background-color:darkgray;">&nbsp;</td>
+<td style="background-color:darkgray;">&nbsp;</td>
+<td style="background-color:darkgray;">&nbsp;</td>
+<td style="background-color:darkgray;">&nbsp;</td>
+</tr>
+<tr>
+<td>BY-NC-SA</td>
+<td style="background-color:darkgray;">&nbsp;</td>
+<td style="background-color:darkgray;">&nbsp;</td>
+<td style="background-color:darkgray;">&nbsp;</td>
+<td style="background-color:green;">&nbsp;</td>
+<td style="background-color:darkgray;">&nbsp;</td>
+<td style="background-color:darkgray;">&nbsp;</td>
+<td style="background-color:darkgray;">&nbsp;</td>
+</tr>
+<tr>
+<td>BY-ND</td>
+<td style="background-color:darkgray;">&nbsp;</td>
+<td style="background-color:darkgray;">&nbsp;</td>
+<td style="background-color:darkgray;">&nbsp;</td>
+<td style="background-color:darkgray;">&nbsp;</td>
+<td style="background-color:darkgray;">&nbsp;</td>
+<td style="background-color:darkgray;">&nbsp;</td>
+<td style="background-color:darkgray;">&nbsp;</td>
+</tr>
+<tr>
+<td>BY-SA</td>
+<td style="background-color:darkgray;">&nbsp;</td>
+<td style="background-color:darkgray;">&nbsp;</td>
+<td style="background-color:darkgray;">&nbsp;</td>
+<td style="background-color:darkgray;">&nbsp;</td>
+<td style="background-color:darkgray;">&nbsp;</td>
+<td style="background-color:green;">&nbsp;</td>
+<td style="background-color:darkgray;">&nbsp;</td>
+</tr>
+</tbody></table>
+
+##### Abbreviation Key
+
+-   BY = [Attribution only](https://creativecommons.org/licenses/by/4.0/)
+-   BY-ND = [Attribution-NoDerivatives](https://creativecommons.org/licenses/by-nd/4.0/)
+-   BY-NC-ND = [Attribution-NonCommercial- NoDerivatives](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+-   BY-NC = [Attribution-NonCommercial](https://creativecommons.org/licenses/by-nc/4.0/)
+-   BY-NC-SA = [Attribution-NonCommercial- ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+-   BY-SA = [Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/4.0/)
+-   PD = Dedicated to or marked as being in the public domain via one of our [public domain tools](https://creativecommons.org/publicdomain), or other public domain material; adaptations of materials in the public domain may be built upon and licensed by the creator under any license terms desired.
 
 #### Le tableau ci-dessous détaille la licence (s) CC
 que vous pouvez utiliser comme une licence de l’adaptateur. Lors de la
@@ -1818,6 +1913,49 @@ ne peut pas être utilisé commercialement . Le tableau ci-dessous
 indique quel type d’œuvres sous licence CC vous pouvez intégrer dans
 les collections sous licence pour des utilisations commerciales et non
 commerciales.
+
+<table class="wiki_table table table-striped table-bordered">
+<tbody><tr>
+<td>Original Work</td>
+<td>Commercial Collection (BY, BY-SA, BY-ND)</td>
+<td>NonCommercial Collection (BY-NC, BY-NC-SA, BY-NC-ND)</td>
+</tr>
+<tr>
+<td>PD</td>
+<td style="background-color:green;">&nbsp;</td>
+<td style="background-color:green;">&nbsp;</td>
+</tr>
+<tr>
+<td>BY</td>
+<td style="background-color:green;">&nbsp;</td>
+<td style="background-color:green;">&nbsp;</td>
+</tr>
+<tr>
+<td>BY-NC</td>
+<td>&nbsp;</td>
+<td style="background-color:green;">&nbsp;</td>
+</tr>
+<tr>
+<td>BY-NC-ND</td>
+<td>&nbsp;</td>
+<td style="background-color:green;">&nbsp;</td>
+</tr>
+<tr>
+<td>BY-NC-SA</td>
+<td>&nbsp;</td>
+<td style="background-color:green;">&nbsp;</td>
+</tr>
+<tr>
+<td>BY-ND</td>
+<td style="background-color:green;">&nbsp;</td>
+<td style="background-color:green;">&nbsp;</td>
+</tr>
+<tr>
+<td>BY-SA</td>
+<td style="background-color:green;">&nbsp;</td>
+<td style="background-color:green;">&nbsp;</td>
+</tr>
+</tbody></table>
 
 ### La résiliation de la licence
 
