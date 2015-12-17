@@ -1730,7 +1730,7 @@ travaux ne peuvent pas être remixés au moins qu’une exception ou
 limitation applique. Voir ci-dessous pour plus de détails sur la façon
 dont les remixes peuvent être autorisés.
 
-## INSERT GRAPHIC HERE
+![](CC_License_Compatibility_Chart.png)
 
 #### Si je tire ou j’adapte du matériel proposé sous une licence Creative Commons, quelle(s) licence (s) CC puis-je utiliser?
 
