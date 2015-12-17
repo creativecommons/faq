@@ -166,7 +166,7 @@ _  _ ____ ____ _  _ ___  ____ _ _ _ _  _    ____ _ _    ____
 
       <h2> Frequently Asked Questions</h2>
 
-      <p><small> Wed Dec 16 20:26:21 CST 2015</small></p>
+      <p><small> Wed Dec 16 20:27:13 CST 2015</small></p>
 
       
             <div class="well">
@@ -174,6 +174,9 @@ _  _ ____ ____ _  _ ___  ____ _ _ _ _  _    ____ _ _    ____
 Table of Contents
       </a>
       <nav class="collapse" id="TOC">
+
+	<h1>Table of Contents</h1>
+	
       <ul>
       <li><a href="#about-cc">About CC</a><ul>
       <li><a href="#what-is-creative-commons-and-what-do-you-do">What is Creative Commons and what do you do?</a></li>

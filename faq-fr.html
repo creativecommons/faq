@@ -166,7 +166,7 @@ _  _ ____ ____ _  _ ___  ____ _ _ _ _  _    ____ _ _    ____
 
       <h2> Foire Aux Questions</h2>
 
-      <p><small> Wed Dec 16 20:26:20 CST 2015</small></p>
+      <p><small> Wed Dec 16 20:27:12 CST 2015</small></p>
 
       
             <div class="well">
@@ -174,6 +174,9 @@ _  _ ____ ____ _  _ ___  ____ _ _ _ _  _    ____ _ _    ____
 Table des matières
       </a>
       <nav class="collapse" id="TOC">
+
+	<h1>Table des matières</h1>
+	
       <ul>
       <li><a href="#a-propos-de-cc">A propos de CC</a><ul>
       <li><a href="#quest-ce-que-cc-et-que-faites-vous">Qu’est-ce que CC et que faites-vous?</a></li>
