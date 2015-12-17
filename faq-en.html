@@ -166,7 +166,7 @@ _  _ ____ ____ _  _ ___  ____ _ _ _ _  _    ____ _ _    ____
 
       <h2> Frequently Asked Questions</h2>
 
-      <p><small> Wed Dec 16 20:34:37 CST 2015</small></p>
+      <p><small> Wed Dec 16 20:37:28 CST 2015</small></p>
 
       
             <div class="well">
@@ -263,22 +263,26 @@ Table of Contents
       <li><a href="#how-do-i-properly-attribute-material-offered-under-a-creative-commons-license">How do I properly attribute material offered under a Creative Commons license?</a></li>
       <li><a href="#do-i-need-to-be-aware-of-anything-else-when-providing-attribution">Do I need to be aware of anything else when providing attribution?</a></li>
       <li><a href="#do-i-always-have-to-attribute-the-creator-of-the-licensed-material">Do I always have to attribute the creator of the licensed material?</a></li>
-      <li><a href="#using-licensed-material">Using licensed material</a></li>
+      </ul></li>
+      <li><a href="#using-licensed-material">Using licensed material</a><ul>
       <li><a href="#does-my-use-violate-the-noncommercial-clause-of-the-licenses">Does my use violate the NonCommercial clause of the licenses?</a></li>
       <li><a href="#can-i-take-a-cc-licensed-work-and-use-it-in-a-different-format">Can I take a CC-licensed work and use it in a different format?</a></li>
       <li><a href="#how-do-i-know-if-a-low-resolution-photo-and-a-high-resolution-photo-are-the-same-work">How do I know if a low-resolution photo and a high-resolution photo are the same work?</a></li>
       <li><a href="#can-i-use-effective-technological-measures-such-as-drm-when-i-share-cc-licensed-material">Can I use effective technological measures (such as DRM) when I share CC-licensed material?</a></li>
       <li><a href="#can-i-share-cc-licensed-material-on-password-protected-sites">Can I share CC-licensed material on password-protected sites?</a></li>
       <li><a href="#can-i-share-cc-licensed-material-on-file-sharing-networks">Can I share CC-licensed material on file-sharing networks?</a></li>
-      <li><a href="#additional-restrictions-on-licensed-material">Additional restrictions on licensed material</a></li>
+      </ul></li>
+      <li><a href="#additional-restrictions-on-licensed-material">Additional restrictions on licensed material</a><ul>
       <li><a href="#what-if-i-received-cc-licensed-material-encumbered-with-effective-technological-measures-such-as-drm">What if I received CC-licensed material encumbered with effective technological measures (such as DRM)?</a></li>
       <li><a href="#what-if-i-have-received-cc-licensed-material-with-additional-restrictions">What if I have received CC-licensed material with additional restrictions?</a></li>
-      <li><a href="#combining-and-adapting-cc-material">Combining and adapting CC material</a></li>
+      </ul></li>
+      <li><a href="#combining-and-adapting-cc-material">Combining and adapting CC material</a><ul>
       <li><a href="#when-is-my-use-considered-an-adaptation">When is my use considered an adaptation?</a></li>
       <li><a href="#can-i-combine-material-under-different-creative-commons-licenses-in-my-work">Can I combine material under different Creative Commons licenses in my work?</a></li>
       <li><a href="#if-i-derive-or-adapt-material-offered-under-a-creative-commons-license-which-cc-licenses-can-i-use">If I derive or adapt material offered under a Creative Commons license, which CC license(s) can I use?</a></li>
       <li><a href="#if-i-create-a-collection-that-includes-a-work-offered-under-a-cc-license-which-licenses-may-i-choose-for-the-collection">If I create a collection that includes a work offered under a CC license, which license(s) may I choose for the collection?</a></li>
-      <li><a href="#license-termination">License termination</a></li>
+      </ul></li>
+      <li><a href="#license-termination">License termination</a><ul>
       <li><a href="#when-do-creative-commons-licenses-expire">When do Creative Commons licenses expire?</a></li>
       <li><a href="#what-happens-if-the-author-decides-to-revoke-the-cc-license-to-material-i-am-using">What happens if the author decides to revoke the CC license to material I am using?</a></li>
       <li><a href="#how-can-i-lose-my-rights-under-a-creative-commons-license-if-that-happens-how-do-i-get-them-back">How can I lose my rights under a Creative Commons license? If that happens, how do I get them back?</a></li>
@@ -306,7 +310,7 @@ Table of Contents
       </ul></li>
       </ul></li>
       <li><a href="#data">Data</a><ul>
-      <li><a href="#frequently-asked-questions-about-data-and-cc-licenses">Frequently asked questions about data and CC licenses</a></li>
+      <li><a href="#frequently-asked-questions-about-data-and-cc-licenses">Frequently asked questions about data and CC licenses</a><ul>
       <li><a href="#can-databases-be-released-under-cc-licenses">Can databases be released under CC licenses?</a></li>
       <li><a href="#when-a-cc-license-is-applied-to-a-database-what-is-being-licensed">When a CC license is applied to a database, what is being licensed?</a></li>
       <li><a href="#how-do-i-apply-a-cc-legal-tool-to-a-database">How do I apply a CC legal tool to a database?</a></li>
@@ -314,6 +318,7 @@ Table of Contents
       <li><a href="#can-i-conduct-textdata-mining-on-a-cc-licensed-database">Can I conduct text/data mining on a CC-licensed database?</a></li>
       <li><a href="#how-does-the-treatment-of-sui-generis-database-rights-vary-in-prior-versions-of-cc-licenses">How does the treatment of sui generis database rights vary in prior versions of CC licenses?</a></li>
       <li><a href="#what-is-the-difference-between-the-open-data-commons-licenses-and-the-cc-4.0-licenses">What is the difference between the Open Data Commons licenses and the CC 4.0 licenses?</a></li>
+      </ul></li>
       <li><a href="#frequently-asked-questions-about-data-generally">Frequently asked questions about data, generally</a><ul>
       <li><a href="#which-components-of-databases-are-protected-by-copyright">Which components of databases are protected by copyright?</a></li>
       <li><a href="#how-do-i-know-whether-a-particular-use-of-a-database-is-restricted-by-copyright">How do I know whether a particular use of a database is restricted by copyright?</a></li>
@@ -621,7 +626,7 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\
 <p>Additionally, when you are using a work that is an adaptation of one or more pre-existing works, you may need to <a href="Marking/Creators/Marking_third_party_content" title="wikilink">give credit to the creator(s) of the pre-existing work(s)</a>, in addition to giving credit to the creator of the adaptation.</p>
 <h4 id="do-i-always-have-to-attribute-the-creator-of-the-licensed-material">Do I always have to attribute the creator of the licensed material?</h4>
 <p>You must attribute the creator when you provide material to the public by any means that is restricted by copyright or similar rights. If you are using the material personally but are not making it or any adaptations of it available to others, you do not have to attribute the licensor. Similarly, if you are only distributing the material or adaptations of it within your company or organization, you do not have to comply with the attribution requirement. Learn <a href="#Do_I_always_have_to_comply_with_the_license_terms_If_not.2C_what_are_the_exceptions" title="wikilink">more</a> about when compliance with the license is not required.</p>
-<h4 id="using-licensed-material">Using licensed material</h4>
+<h3 id="using-licensed-material">Using licensed material</h3>
 <p><span id="So_.E2.80.9CNonCommercial.E2.80.9D_means_that_the_work_cannot_be_used_commercially "></span> <span id="Is_use_X_a_violation_of_the_NonCommercial_clause_of_the_licenses"></span></p>
 <h4 id="does-my-use-violate-the-noncommercial-clause-of-the-licenses">Does my use violate the NonCommercial clause of the licenses?</h4>
 <p>CC's NonCommercial (NC) licenses prohibit uses that are &quot;primarily intended for or directed toward commercial advantage or monetary compensation.&quot; This is intended to capture the intention of the NC-using community without placing detailed restrictions that are either too broad or too narrow. Please note that CC's definition does not turn on the type of user: if you are a nonprofit or charitable organization, your use of an NC-licensed work could still run afoul of the NC restriction, and if you are a for-profit entity, your use of an NC-licensed work does not necessarily mean you have violated the term. Whether a use is commercial will depend on the specifics of the situation and the intentions of the user.</p>
@@ -644,13 +649,13 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\
 <p>(Note that charging for access may not be permitted with NC-licensed material; however, it is not disallowed by the restriction on ETMs.)</p>
 <h4 id="can-i-share-cc-licensed-material-on-file-sharing-networks">Can I share CC-licensed material on file-sharing networks?</h4>
 <p>Yes. All CC licenses allow redistribution of the unmodified material by any means, including distribution via file-sharing networks. Note that file-trading is expressly considered to be noncommercial for purposes of compliance with the NC licenses. Barter of NC-licensed material for other items of value is not permitted.</p>
-<h4 id="additional-restrictions-on-licensed-material">Additional restrictions on licensed material</h4>
+<h3 id="additional-restrictions-on-licensed-material">Additional restrictions on licensed material</h3>
 <h4 id="what-if-i-received-cc-licensed-material-encumbered-with-effective-technological-measures-such-as-drm">What if I received CC-licensed material encumbered with effective technological measures (such as DRM)?</h4>
 <p>If you have received material under a CC license that is encumbered with effective technological measures (such as digital rights management or DRM), you may or may not be permitted to break it, depending on the circumstances. By releasing material under a CC license, the licensor agrees not to assert any rights she may have to prevent the circumvention of effective technological measures. (Under the 3.0 and earlier licenses, this is implied but not explicit.) However, if she has uploaded it to a site or other distribution channel that itself applies such measures, that site may have the right to prevent you from breaking them, even though the licensor herself cannot do so.</p>
 <p>Note that anti-circumvention laws can impose criminal liability in some jurisdictions.</p>
 <h4 id="what-if-i-have-received-cc-licensed-material-with-additional-restrictions">What if I have received CC-licensed material with additional restrictions?</h4>
 <p>It is possible that CC-licensed material will appear on platforms that impose terms in addition to the copyright license (though <a href="#Can_I_enter_into_separate_or_supplemental_agreements_with_users_of_my_work" title="wikilink">Creative Commons strongly discourages restrictions that interfere with exercise of the licensed rights</a>). These additional terms do not form part of the license for the work. For example, if you download CC-licensed material from a site that does not permit downloading, you may be breaking the terms of use of the site, but you are not infringing the CC license. See our guide to <a href="Modifying%20the%20CC%20licenses" title="wikilink">Modifying the CC licenses</a> for more guidance and information.</p>
-<h4 id="combining-and-adapting-cc-material">Combining and adapting CC material</h4>
+<h3 id="combining-and-adapting-cc-material">Combining and adapting CC material</h3>
 <p><span id="Does_my_use_constitute_an_adaptation"></span></p>
 <h4 id="when-is-my-use-considered-an-adaptation">When is my use considered an adaptation?</h4>
 <p>Whether a modification of licensed material is considered an <a href="#What_is_an_adaptation" title="wikilink">adaptation</a> for the purpose of CC licenses depends primarily on the applicable copyright law. Copyright law reserves to an original creator the right to create adaptations of the original work. CC licenses that allow for adaptations to be shared—all except BY-ND and BY-NC-ND—grant permission to others to create and redistribute adaptations when doing so would otherwise constitute a violation of applicable copyright law. Generally, a modification rises to the level of an adaptation under copyright law when the modified work is based on the prior work but manifests sufficient new creativity to be copyrightable, such as a translation of a novel from one language to another, or the creation of a screenplay based on a novel.</p>
@@ -1008,7 +1013,7 @@ BY-SA
 </tr>
 </tbody>
 </table>
-<h4 id="license-termination">License termination</h4>
+<h3 id="license-termination">License termination</h3>
 <h4 id="when-do-creative-commons-licenses-expire">When do Creative Commons licenses expire?</h4>
 <p>Creative Commons licenses expire when the underlying copyright and similar rights expire.</p>
 <p>Note that the relevant rights may expire at different times. For example, you may have a CC-licensed song where the rights in the musical arrangement expire before the rights in the lyrics. In this case, when the copyright in the music expires, you may use it <a href="#Do_I_always_have_to_comply_with_the_license_terms_If_not.2C_what_are_the_exceptions" title="wikilink">without being required to comply with the conditions of the CC license</a>; however, you must still comply with the license if you use the lyrics.</p>
@@ -1100,7 +1105,7 @@ BY-SA
 <p>A big part of the potential value of data, in particular its society-wide value, is realized by use across organizational boundaries. How does this occur legally? Many sites give narrow permission to use data via terms of service. Much ad hoc data sharing also occurs among researchers. And increasingly, sharing of data is facilitated by distribution under standard, public legal tools used to manage copyright and similar restrictions that might otherwise limit dissemination or reuse of data, e.g. <a href="https://creativecommons.org/licenses/">CC licenses</a> or the <a href="CC0" class="uri" title="wikilink">CC0</a> public domain dedication.</p>
 <p>Many organizations, institutions, and governments are using CC tools for data. For case studies about how these tools are applied, see:</p>
 <p>: <a href="Data_and_CC_licenses" title="wikilink">Uses of CC Licenses with Data and Databases</a> : <a href="CC0_use_for_data" title="wikilink">Uses of CC0 with Data and Databases</a></p>
-<h4 id="frequently-asked-questions-about-data-and-cc-licenses">Frequently asked questions about data and CC licenses</h4>
+<h3 id="frequently-asked-questions-about-data-and-cc-licenses">Frequently asked questions about data and CC licenses</h3>
 <h4 id="can-databases-be-released-under-cc-licenses">Can databases be released under CC licenses?</h4>
 <p>Yes, <a href="#Can_I_apply_a_Creative_Commons_license_to_databases" title="wikilink">CC licenses can be used to license databases</a>. The most recent version (4.0) may be used to license databases subject to copyright and, where applicable, sui generis database rights. Sui generis database rights prevent copying and reusing of <a href="#What_constitutes_a_.E2.80.9Csubstantial_portion.E2.80.9D_of_a_database" title="wikilink">substantial parts</a> of a database (including frequent extraction of insubstantial parts). However unlike copyright, database rights protect the maker's investment, not originality.</p>
 <p>CC does not recommend use of its NonCommercial (NC) or NoDerivatives (ND) licenses on databases intended for scholarly or scientific use.</p>

@@ -1577,7 +1577,7 @@ to comply with the attribution requirement. Learn
 [more](#Do_I_always_have_to_comply_with_the_license_terms_If_not.2C_what_are_the_exceptions "wikilink")
 about when compliance with the license is not required.
 
-#### Using licensed material
+### Using licensed material
 
 <span id="So_.E2.80.9CNonCommercial.E2.80.9D_means_that_the_work_cannot_be_used_commercially "></span>
 <span id="Is_use_X_a_violation_of_the_NonCommercial_clause_of_the_licenses"></span>
@@ -1697,7 +1697,7 @@ file-trading is expressly considered to be noncommercial for purposes of
 compliance with the NC licenses. Barter of NC-licensed material for
 other items of value is not permitted.
 
-#### Additional restrictions on licensed material
+### Additional restrictions on licensed material
 
 #### What if I received CC-licensed material encumbered with effective technological measures (such as DRM)?
 
@@ -1729,7 +1729,7 @@ but you are not infringing the CC license. See our guide to [Modifying
 the CC licenses](Modifying the CC licenses "wikilink") for more guidance
 and information.
 
-#### Combining and adapting CC material
+### Combining and adapting CC material
 
 <span id="Does_my_use_constitute_an_adaptation"></span>
 
@@ -2039,7 +2039,7 @@ uses.
 </tbody></table>
 
 
-#### License termination
+### License termination
 
 #### When do Creative Commons licenses expire?
 
@@ -2475,7 +2475,7 @@ data. For case studies about how these tools are applied, see:
     Databases](Data_and_CC_licenses "wikilink")
 :   [Uses of CC0 with Data and Databases](CC0_use_for_data "wikilink")
 
-#### Frequently asked questions about data and CC licenses
+### Frequently asked questions about data and CC licenses
 
 #### Can databases be released under CC licenses?
 
