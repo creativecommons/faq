@@ -2204,6 +2204,16 @@ ces droits peuvent être touchés.
 
 ## Données
 
+Cette page remplace les Bases de Données et Creative Commons.
+
+Une grande partie de la valeur potentielle des données profite à la société au sens large - plus de données a le potentiel de faciliter une meilleure collaboration scientifique et la reproductibilité, des marchés plus efficaces, l'augmentation de la transparence du gouvernement et des entreprises, et globalement à accélérer la découverte et la compréhension des solutions des besoins sociaux planétaires.
+
+Une grande partie de la valeur potentielle de données, en particulier sa large valeur à l’échelle de la société, est réalisée par l'utilisation à travers les frontières organisationnelles. Comment cela se produit légalement? De nombreux sites donnent la permission stricte d'utiliser des données selon des conditions de service. Beaucoup de partage de données ad hoc se produit également entre les chercheurs. Et de plus en plus le partage des données est facilité par la distribution, en vertu de certaines normes, d’outils juridiques publics utilisés pour gérer les droits d'auteur et des restrictions similaires qui pourraient autrement limiter la diffusion ou la réutilisation des données, par exemple les licences CC ou CC0 dédiées au domaine public.
+
+De nombreuses organisations, institutions et gouvernements utilisent des outils de CC pour les données. Pour les études de cas sur la façon dont ces outils sont appliqués, voir:
+
+Utilisations des licences CC avec des données et des bases de données: Utilisations de CC0 avec des données et des bases de données.
+
 ### Foire aux questions sur les données et les licences CC
 
 #### Est-ce que les bases de données peuvent être publiées sous licences CC?
