@@ -1920,9 +1920,9 @@ commerciales.
 
 <table class="wiki_table table table-striped table-bordered">
 <tbody><tr>
-<td>Original Work</td>
-<td>Commercial Collection (BY, BY-SA, BY-ND)</td>
-<td>NonCommercial Collection (BY-NC, BY-NC-SA, BY-NC-ND)</td>
+<td>Oeuvre Originale</td>
+<td>Collection Commerciale (BY, BY-SA, BY-ND)</td>
+<td>Collection Non-Commerciale (BY-NC, BY-NC-SA, BY-NC-ND)</td>
 </tr>
 <tr>
 <td>PD</td>
