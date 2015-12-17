@@ -2739,7 +2739,7 @@ sous licence.  Notez que cela ne vous oblige pas à un Partage dans les
 Mêmes Conditions de tout droit d'auteur ou d'autres droits que vous
 avez sur les différents contenus de la base de données.
 
-### Remarques
+## Remarques
 
 * Aller jusqu'à ↑ Publications, Inc. v.  Chinatown Today Publishing
 Enterprises Inc., 945 F.2d 509 (2d Cir.  1991
