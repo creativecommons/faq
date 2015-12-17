@@ -1787,8 +1787,10 @@ reproduire le matériel sous une forme non modifiée avec d’autres
 
 <table class="wiki_table table table-striped table-bordered">
 <tbody><tr>
-<td colspan="2" rowspan="2"><b>Adapter's license chart</b></td>
-<td colspan="7" align="center">Adapter's license</td>
+<td colspan="2" rowspan="2"><b>Tableau de
+licence du
+concédant</b></td>
+<td colspan="7" align="center">Licence du concédant</td>
 </tr>
 <tr>
 <td>BY</td>
@@ -1800,7 +1802,9 @@ reproduire le matériel sous une forme non modifiée avec d’autres
 <td>PD</td>
 </tr>
 <tr>
-<td rowspan="7" style="width:12ex;">Status of original work</td>
+<td rowspan="7" style="width:12ex;">Statut de
+l’oeuvre
+originale</td>
 <td>PD</td>
 <td style="background-color:green;">&nbsp;</td>
 <td style="background-color:green;">&nbsp;</td>

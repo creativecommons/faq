@@ -166,7 +166,7 @@ _  _ ____ ____ _  _ ___  ____ _ _ _ _  _    ____ _ _    ____
 
       <h2> Foire Aux Questions</h2>
 
-      <p><small> Wed Dec 16 19:50:55 CST 2015</small></p>
+      <p><small> Wed Dec 16 19:52:20 CST 2015</small></p>
       
             <a class="btn btn-primary" role="button" data-toggle="collapse" href="#TOC" aria-expanded="false" aria-controls="collapseExample">
 Toggle TOC
@@ -640,10 +640,10 @@ class="c6  c7"> --> pour voir quelles options sont permises.</p>
 <tbody>
 <tr>
 <td colspan="2" rowspan="2">
-<b>Adapter's license chart</b>
+<b>Tableau de licence du concédant</b>
 </td>
 <td colspan="7" align="center">
-Adapter's license
+Licence du concédant
 </td>
 </tr>
 <tr>
@@ -671,7 +671,7 @@ PD
 </tr>
 <tr>
 <td rowspan="7" style="width:12ex;">
-Status of original work
+Statut de l’oeuvre originale
 </td>
 <td>
 PD
