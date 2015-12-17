@@ -15,6 +15,11 @@ will often link to more detailed information.
 -   Have a question that isn't answered here? Contact
     info@creativecommons.org.
 
+Creative Commons does not provide legal advice. This FAQ is for
+informational purposes and is not a substitute for legal advice. It
+may not cover important issues that affect you. You should consult
+with your own lawyer if you have questions.
+
 ### About CC
 
 <span id="What_is_Creative_Commons"></span>
