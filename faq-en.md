@@ -1879,109 +1879,92 @@ terms so that downstream users are aware of their obligations to comply
 with the licenses from all rights holders. Dark gray boxes indicate
 those licenses that you may not use as your adapter's license.
 
-<table class="table table-bordered table-striped">
-<tbody>
-<tr class="odd">
-<td style="text-align: left;"><strong>Adapter's license chart</strong></td>
-<td style="text-align: center;">Adapter's license</td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
+<table class="wiki_table table table-striped table-bordered">
+<tbody><tr>
+<td colspan="2" rowspan="2"><b>Adapter's license chart</b></td>
+<td colspan="7" align="center">Adapter's license</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">BY</td>
-<td style="text-align: center;">BY-NC</td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
+<tr>
+<td>BY</td>
+<td>BY-NC</td>
+<td>BY-NC-ND</td>
+<td>BY-NC-SA</td>
+<td>BY-ND</td>
+<td>BY-SA</td>
+<td>PD</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">Status of original work</td>
-<td style="text-align: center;">PD</td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
+<tr>
+<td rowspan="7" style="width:12ex;">Status of original work</td>
+<td>PD</td>
+<td style="background-color:green;">&nbsp;</td>
+<td style="background-color:green;">&nbsp;</td>
+<td style="background-color:green;">&nbsp;</td>
+<td style="background-color:green;">&nbsp;</td>
+<td style="background-color:green;">&nbsp;</td>
+<td style="background-color:green;">&nbsp;</td>
+<td style="background-color:green;">&nbsp;</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">BY</td>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
+<tr>
+<td>BY</td>
+<td style="background-color:green;">&nbsp;</td>
+<td style="background-color:green;">&nbsp;</td>
+<td style="background-color:green;">&nbsp;</td>
+<td style="background-color:green;">&nbsp;</td>
+<td style="background-color:green;">&nbsp;</td>
+<td style="background-color:green;">&nbsp;</td>
+<td style="background-color:yellow;">&nbsp;</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">BY-NC</td>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
+<tr>
+<td>BY-NC</td>
+<td style="background-color:yellow;">&nbsp;</td>
+<td style="background-color:green;">&nbsp;</td>
+<td style="background-color:green;">&nbsp;</td>
+<td style="background-color:green;">&nbsp;</td>
+<td style="background-color:yellow;">&nbsp;</td>
+<td style="background-color:yellow;">&nbsp;</td>
+<td style="background-color:yellow;">&nbsp;</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">BY-NC-ND</td>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
+<tr>
+<td>BY-NC-ND</td>
+<td style="background-color:darkgray;">&nbsp;</td>
+<td style="background-color:darkgray;">&nbsp;</td>
+<td style="background-color:darkgray;">&nbsp;</td>
+<td style="background-color:darkgray;">&nbsp;</td>
+<td style="background-color:darkgray;">&nbsp;</td>
+<td style="background-color:darkgray;">&nbsp;</td>
+<td style="background-color:darkgray;">&nbsp;</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">BY-NC-SA</td>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
+<tr>
+<td>BY-NC-SA</td>
+<td style="background-color:darkgray;">&nbsp;</td>
+<td style="background-color:darkgray;">&nbsp;</td>
+<td style="background-color:darkgray;">&nbsp;</td>
+<td style="background-color:green;">&nbsp;</td>
+<td style="background-color:darkgray;">&nbsp;</td>
+<td style="background-color:darkgray;">&nbsp;</td>
+<td style="background-color:darkgray;">&nbsp;</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">BY-ND</td>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
+<tr>
+<td>BY-ND</td>
+<td style="background-color:darkgray;">&nbsp;</td>
+<td style="background-color:darkgray;">&nbsp;</td>
+<td style="background-color:darkgray;">&nbsp;</td>
+<td style="background-color:darkgray;">&nbsp;</td>
+<td style="background-color:darkgray;">&nbsp;</td>
+<td style="background-color:darkgray;">&nbsp;</td>
+<td style="background-color:darkgray;">&nbsp;</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">BY-SA</td>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
+<tr>
+<td>BY-SA</td>
+<td style="background-color:darkgray;">&nbsp;</td>
+<td style="background-color:darkgray;">&nbsp;</td>
+<td style="background-color:darkgray;">&nbsp;</td>
+<td style="background-color:darkgray;">&nbsp;</td>
+<td style="background-color:darkgray;">&nbsp;</td>
+<td style="background-color:green;">&nbsp;</td>
+<td style="background-color:darkgray;">&nbsp;</td>
 </tr>
-</tbody>
-</table>
+</tbody></table>
 
 ##### Abbreviation Key
 
@@ -2012,16 +1995,49 @@ The table below indicates what type of CC-licensed works you may
 incorporate into collections licensed for commercial and noncommercial
 uses.
 
-  --------------- ------------------------------------------ ------------------------------------------------------
-  Original Work   Commercial Collection (BY, BY-SA, BY-ND)   NonCommercial Collection (BY-NC, BY-NC-SA, BY-NC-ND)
-  PD                                                          
-  BY                                                          
-  BY-NC                                                       
-  BY-NC-ND                                                    
-  BY-NC-SA                                                    
-  BY-ND                                                       
-  BY-SA                                                       
-  --------------- ------------------------------------------ ------------------------------------------------------
+<table class="wiki_table table table-striped table-bordered">
+<tbody><tr>
+<td>Original Work</td>
+<td>Commercial Collection (BY, BY-SA, BY-ND)</td>
+<td>NonCommercial Collection (BY-NC, BY-NC-SA, BY-NC-ND)</td>
+</tr>
+<tr>
+<td>PD</td>
+<td style="background-color:green;">&nbsp;</td>
+<td style="background-color:green;">&nbsp;</td>
+</tr>
+<tr>
+<td>BY</td>
+<td style="background-color:green;">&nbsp;</td>
+<td style="background-color:green;">&nbsp;</td>
+</tr>
+<tr>
+<td>BY-NC</td>
+<td>&nbsp;</td>
+<td style="background-color:green;">&nbsp;</td>
+</tr>
+<tr>
+<td>BY-NC-ND</td>
+<td>&nbsp;</td>
+<td style="background-color:green;">&nbsp;</td>
+</tr>
+<tr>
+<td>BY-NC-SA</td>
+<td>&nbsp;</td>
+<td style="background-color:green;">&nbsp;</td>
+</tr>
+<tr>
+<td>BY-ND</td>
+<td style="background-color:green;">&nbsp;</td>
+<td style="background-color:green;">&nbsp;</td>
+</tr>
+<tr>
+<td>BY-SA</td>
+<td style="background-color:green;">&nbsp;</td>
+<td style="background-color:green;">&nbsp;</td>
+</tr>
+</tbody></table>
+
 
 #### License termination
 
