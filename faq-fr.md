@@ -21,11 +21,11 @@ plus détaillées.
 -   Pour toute question non traitée ci-dessous,
     veuillez contacter <info@creativecommons.org>
 
->Creative Commons ne fournit pas de conseils juridiques. Cette FAQ est
->à titre informatif et ne constitue pas un substitut à des conseils
->juridiques. Elle peut ne pas porter sur des questions importantes qui
->vous touchent. Vous devriez consulter votre propre avocat si vous
->avez des questions.
+Creative Commons ne fournit pas de conseils juridiques. Cette FAQ est
+à titre informatif et ne constitue pas un substitut à des conseils
+juridiques. Elle peut ne pas porter sur des questions importantes qui
+vous touchent. Vous devriez consulter votre propre avocat si vous
+avez des questions.
 
 ### A propos de CC
 
