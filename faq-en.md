@@ -1829,7 +1829,7 @@ license") depends on which license applies to the original material.
 Recipients of the adaptation must comply with both the CC license on the
 original and your adapter’s license.
 
-:   #### BY and BY-NC material
+* **BY and BY-NC material**
 
 When remixing BY or BY-NC material, it is generally recommended that
 your adapter's license include at least the same license elements as the
@@ -1839,7 +1839,7 @@ complying with the adapter's license. For example, if you adapt material
 licensed under BY-NC, your adapter's license should also contain the NC
 restriction. See the chart below for more details.
 
-:   #### BY-SA and BY-NC-SA material
+* **BY-SA and BY-NC-SA material**
 
 In general, when remixing ShareAlike content, your adapter's license
 must be the same license as the license on the material you are
@@ -1852,7 +1852,7 @@ release your contributions under a non-CC license, you should visit the
 [Compatibility page](https://creativecommons.org/compatiblelicenses) to
 see which options are allowed.
 
-:   #### BY-ND and BY-NC-ND material
+* **BY-ND and BY-NC-ND material**
 
 The BY-ND and BY-NC-ND licenses do not permit distribution of
 adaptations (also known as remixes or derivative works), and prohibits
@@ -1863,7 +1863,7 @@ licenses do allow you to reproduce the material in unmodified form
 together with other material in a collection, as indicated in the next
 FAQ.)
 
-:   #### Adapter's license chart
+* **Adapter's license chart**
 
 The chart below details the CC license(s) you may use as your adapter's
 license. When creating an adaptation of material under the license
@@ -1877,29 +1877,119 @@ terms so that downstream users are aware of their obligations to comply
 with the licenses from all rights holders. Dark gray boxes indicate
 those licenses that you may not use as your adapter's license.
 
-  ----------------------------- ------------------- ---------- ---------- ------- ------- ---- --- ---
-  **Adapter's license chart**    Adapter's license
-  BY                                   BY-NC
-  Status of original work               PD
-  BY                                      
-  BY-NC                                   
-  BY-NC-ND                                
-  BY-NC-SA                                
-  BY-ND                                   
-  BY-SA                                   
-  ----------------------------- ------------------- ---------- ---------- ------- ------- ---- --- ---
+<table class="table table-bordered table-striped">
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>Adapter's license chart</strong></td>
+<td style="text-align: center;">Adapter's license</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">BY</td>
+<td style="text-align: center;">BY-NC</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Status of original work</td>
+<td style="text-align: center;">PD</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">BY</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">BY-NC</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">BY-NC-ND</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">BY-NC-SA</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">BY-ND</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">BY-SA</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+</tbody>
+</table>
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Abbreviation Key
+##### Abbreviation Key
 
-  -   BY = [Attribution only](https://creativecommons.org/licenses/by/4.0/)
-  -   BY-ND = [Attribution-NoDerivatives](https://creativecommons.org/licenses/by-nd/4.0/)
-  -   BY-NC-ND = [Attribution-NonCommercial- NoDerivatives](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-  -   BY-NC = [Attribution-NonCommercial](https://creativecommons.org/licenses/by-nc/4.0/)
-  -   BY-NC-SA = [Attribution-NonCommercial- ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-  -   BY-SA = [Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/4.0/)
-  -   PD = Dedicated to or marked as being in the public domain via one of our [public domain tools](https://creativecommons.org/publicdomain), or other public domain material; adaptations of materials in the public domain may be built upon and licensed by the creator under any license terms desired.
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-   BY = [Attribution only](https://creativecommons.org/licenses/by/4.0/)
+-   BY-ND = [Attribution-NoDerivatives](https://creativecommons.org/licenses/by-nd/4.0/)
+-   BY-NC-ND = [Attribution-NonCommercial- NoDerivatives](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+-   BY-NC = [Attribution-NonCommercial](https://creativecommons.org/licenses/by-nc/4.0/)
+-   BY-NC-SA = [Attribution-NonCommercial- ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+-   BY-SA = [Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/4.0/)
+-   PD = Dedicated to or marked as being in the public domain via one of our [public domain tools](https://creativecommons.org/publicdomain), or other public domain material; adaptations of materials in the public domain may be built upon and licensed by the creator under any license terms desired.
 
 <span id="#If_I_create_a_collective_work_that_includes_a_work_offered_under_a_CC_license.2C_which_license.28s.29_may_I_choose_for_the_collection"></span>
 
