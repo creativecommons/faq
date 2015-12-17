@@ -677,9 +677,9 @@ le marquage d’une œuvre en ligne avec métadonnées permettra de
 garantir que les utilisateurs seront en mesure de le trouver à travers
 les moteurs de recherche CC.
 
-> CC offre des données sur les meilleures pratiques pour le marquage
-> de votre matériel et sur la façon de marquer les matériels dans
-> différents médias.
+CC offre des données sur les meilleures pratiques pour le marquage de
+votre matériel et sur la façon de marquer les matériels dans
+différents médias.
 
 #### Dois-je m’enregistrer avec Creative Commons avant d’obtenir une licence?
 
@@ -923,16 +923,16 @@ licence d’exonérer l’application de la licence à ces éléments. Cela
 peut être fait dans la notice de droit d’auteur, mais pourrait être
 également noté sur le site où l’œuvre est publiée.
 
-Ci-dessous un exemple de notice
+##### Ci-dessous un exemple de notice
 
->« Le texte et les illustrations de ce document sont autorisées par
->Red Hat sous une licence non-adaptée Creative Commons Attribution -
->Partage dans les Mêmes Conditions 3.0 (“ CC-BY-SA “). . .  . Red Hat,
->Red Hat Enterprise Linux, le logo du Shadowman, JBoss, MetaMatrix,
->Fedora, le logo de Infinity, et RHCE sont des marques de Red Hat,
->Inc., déposées aux États-Unis et dans d’autres pays. Pour les lignes
->directrices sur les utilisations autorisées des marques de Fedora,
->consultez <https://fedoraproject.org/wiki/Legal:Trademark_guidelines>
+« Le texte et les illustrations de ce document sont autorisées par Red
+Hat sous une licence non-adaptée Creative Commons Attribution -
+Partage dans les Mêmes Conditions 3.0 (“ CC-BY-SA “). . .  . Red Hat,
+Red Hat Enterprise Linux, le logo du Shadowman, JBoss, MetaMatrix,
+Fedora, le logo de Infinity, et RHCE sont des marques de Red Hat,
+Inc., déposées aux États-Unis et dans d’autres pays. Pour les lignes
+directrices sur les utilisations autorisées des marques de Fedora,
+consultez <https://fedoraproject.org/wiki/Legal:Trademark_guidelines>
 
 #### Comment les publicités, la vie privée et les droits de la personnalité sont touchées lorsque je demande une licence CC?
 
@@ -1431,15 +1431,15 @@ versions antérieures à 4.0, vous devez également fournir le titre de
 l’œuvre. (Bien qu’il ne soit pas une exigence en 4.0, il est toujours
 recommandé si l’on est fourni.)
 
-#### Vous devez également indiquer si vous avez
-modifié l’œuvre, si vous avez pris un extrait ou une photo recadrée.
-(Pour les versions antérieures à 4.0, cela est nécessaire uniquement si
-vous avez créé une adaptation en contribuant votre propre matériel
-créatif, mais il est recommandé, même lorsqu’ils ne sont pas
-nécessaires.) Il n’est pas nécessaire de noter les modifications
-triviales, comme la correction d’une faute de frappe ou le changement
-d’une taille de police. Enfin, vous devez conserver une indication de
-modifications antérieures à l’œuvre.
+Vous devez également indiquer si vous avez modifié l’œuvre, si vous
+avez pris un extrait ou une photo recadrée.  (Pour les versions
+antérieures à 4.0, cela est nécessaire uniquement si vous avez créé
+une adaptation en contribuant votre propre matériel créatif, mais il
+est recommandé, même lorsqu’ils ne sont pas nécessaires.) Il n’est pas
+nécessaire de noter les modifications triviales, comme la correction
+d’une faute de frappe ou le changement d’une taille de police. Enfin,
+vous devez conserver une indication de modifications antérieures à
+l’œuvre.
 
 Les licences CC ont une exigence d’attribution flexible, donc il n’y a
 pas nécessairement une façon correcte de fournir une attribution. La
@@ -1595,7 +1595,7 @@ applique DRM, vous n’aurez pas violé la licence.
 Notez qu’un matériel converti simplement dans un autre format auquel
 il est difficile d’accéder ou est uniquement disponible pour certaines
 plates-formes ne viole pas la restriction; vous pouvez le faire sans
-violer les termes de la licence.\
+violer les termes de la licence.
 
 #### Puis-je partager le matériel sous licence CC sur les sites protégés par mot de passe?
 
@@ -1621,6 +1621,23 @@ d’autres objets de valeur est interdit.
 
 ### Des restrictions supplémentaires sur le matériel Licencié
 
+#### Que faire si je reçois du matériel sous licence CC alourdit par des mesures techniques efficaces (tels que les DRM)?
+
+Si vous avez reçu du matériel sous licence CC qui est alourdit par de
+mesures techniques efficaces (comme les DRM), vous pouvez être
+autorisés ou non, selon les circonstances, à le briser. En publiant le
+matériel sous une licence CC, le concédant de licence accepte de ne
+pas faire valoir les droits qu'il pourrait avoir pour empêcher le
+contournement des mesures techniques efficaces. (ceci est implicite en
+vertu des licences 3.0 et non pas explicite.) Toutefois, s’il l’a
+téléchargé vers un site ou un autre canal de distribution qui applique
+lui-même ces mesures, ce site peut avoir le droit de vous empêcher de
+les contourner, même si le concédant de licence ne peut pas le faire
+lui-même.
+
+Notez que les lois anti-contournement ne peuvent pas engager la
+responsabilité pénale dans certaines juridictions.
+
 #### Que faire si j’ai reçu du matériel sous licence CC avec des restrictions supplémentaires?
 
 Il est possible que le matériel sous licence CC apparaisse sur les
@@ -1638,11 +1655,11 @@ plus d’orientation et d’information.
 
 #### Quand mon usage est considéré comme une adaptation?
 
-si une modification des éléments sous licence est considérée comme une
-adaptation dans le but de licences CC dépend principalement du droit
-d’auteur applicable. Le droit d’auteur réserve au créateur original le
-droit de créer des adaptations de l’œuvre originale. Les licences CC
-qui permettent aux adaptations d’être partagées - tous sauf-BY-ND et
+Une modification des éléments sous licence serait considérée comme une
+adaptation selon les licences CC dépendemment du droit d’auteur
+applicable. Le droit d’auteur réserve au créateur original le droit de
+créer des adaptations de l’œuvre originale. Les licences CC qui
+permettent aux adaptations d’être partagées - tous sauf-BY-ND et
 BY-NC-ND- donnent permission aux autres pour créer et redistribuer les
 adaptations quand cela constituerait par ailleurs une violation du
 droit d’auteur applicable. Généralement, une modification s’élève au
@@ -1816,7 +1833,7 @@ musique expire, vous pouvez l’utiliser sans être tenus de se conformer
 aux conditions de la licence CC ; Cependant, vous devez toujours
 respecter la licence si vous utilisez les paroles.
 
-### Qu’advient-il si l’auteur décide de révoquer la licence CC qui s’applique sur du matériel que j’utilise ?
+#### Qu’advient-il si l’auteur décide de révoquer la licence CC qui s’applique sur du matériel que j’utilise ?
 
 Les licences CC sont irrévocables. Cela signifie qu’une fois vous
 recevez du matériel sous une licence CC, vous aurez toujours le droit
@@ -2147,7 +2164,7 @@ Convention de Rome  énonce des lignes directrices sur la portée des
 droits voisins. Les droits voisins ne sont pas reconnus dans toutes
 les juridictions.
 
-### Quels sont les droits sui generis  sur les bases de données?
+#### Quels sont les droits sui generis  sur les bases de données?
 
 Les droits <!--<span class="c6 c40"> -->sui generis sur les bases de
 données octroient aux producteurs de base de données le droit
@@ -2230,10 +2247,9 @@ Toutefois, et contrairement aux droits d'auteur, les droits sur les
 bases de données protègent l’investissement du producteur et non pas
 l'originalité.
 
-CC ne recommande pas l'utilisation de ses
-licences Pas d'Utilisation Commerciale (NC) ou Pas de Modification (ND)
-sur les bases de données destinées à une utilisation éducative ou
-scientifique.
+CC ne recommande pas l'utilisation de ses licences Pas d'Utilisation
+Commerciale (NC) ou Pas de Modification (ND) sur les bases de données
+destinées à une utilisation éducative ou scientifique.
 
 En plus de nos licences, la licence CC0 Dédiée au Domaine Public<!--<span
 class="c6  c7"> --> peut être utilisée sur des bases de données afin de
