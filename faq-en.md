@@ -249,8 +249,7 @@ can continue to provide our tools and services for free, as a nonprofit
 organization. The more people who [donate](https://creativecommons.net/)
 to CC, the more independent it will remain.
 
-General License Information
----------------------------
+### General License Information
 
 <span id="How_does_a_Creative_Commons_license_operate"></span>
 <span id="What_are_the_terms_of_a_Creative_Commons_license"></span>
@@ -525,8 +524,7 @@ list of BY-SA Compatible Licenses, click
 ShareAlike compatibility
 [here](https://wiki.creativecommons.org/ShareAlike_compatibility).
 
-For Licensors
--------------
+### For Licensors
 
 #### Choosing a license
 
@@ -1313,8 +1311,7 @@ attribution information. You should [think carefully before choosing a
 Creative Commons
 license](Considerations for licensors and licensees "wikilink").
 
-For Licensees
--------------
+### For Licensees
 
 #### Before using CC-licensed material
 
@@ -2064,8 +2061,7 @@ re-download the material to get a new license.
 Note that you may still be liable for damages for copyright infringement
 for the period where you were not in compliance with the license.
 
-Technical Questions
--------------------
+### Technical Questions
 
 <span id="What_is_the_Commons_Deed_What_is_the_legal_code_What_does_the_html.2Fmetadata_do"></span>
 
@@ -2249,8 +2245,7 @@ themselves: third parties such as distribution platforms may still apply
 ETMs if the licensor uploads there, and the license is not able to grant
 you permission to circumvent it.
 
-Legal Background
-----------------
+### Legal Background
 
 #### What is copyright and why does it matter?
 
@@ -2431,7 +2426,7 @@ work. If you have created a work or wish to use a work that might in
 some way implicate these rights, you may need to obtain permission from
 the individuals whose rights may be affected.
 
-### Data
+## Data
 
 *This page supersedes [Databases and Creative
 Commons](Databases and Creative Commons "wikilink").*
@@ -2797,10 +2792,7 @@ substantial portion of the licensed database contents. Note that this
 does **not** require you to ShareAlike any copyright or other rights you
 have in the individual contents of the database.
 
-Notes
------
-
-<references/>
+### Notes
 
 [^1]: Key Publications, Inc. v. Chinatown Today Publishing Enterprises
     Inc., 945 F.2d 509 (2d Cir. 1991).
