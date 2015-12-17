@@ -166,7 +166,7 @@ _  _ ____ ____ _  _ ___  ____ _ _ _ _  _    ____ _ _    ____
 
       <h2> Foire Aux Questions</h2>
 
-      <p><small> Wed Dec 16 19:49:31 CST 2015</small></p>
+      <p><small> Wed Dec 16 19:50:55 CST 2015</small></p>
       
             <a class="btn btn-primary" role="button" data-toggle="collapse" href="#TOC" aria-expanded="false" aria-controls="collapseExample">
 Toggle TOC
@@ -856,15 +856,15 @@ BY-SA
 </tr>
 </tbody>
 </table>
-<h5 id="abbreviation-key">Abbreviation Key</h5>
+<h5 id="abréviations">Abréviations</h5>
 <ul>
-<li>BY = <a href="https://creativecommons.org/licenses/by/4.0/">Attribution only</a></li>
-<li>BY-ND = <a href="https://creativecommons.org/licenses/by-nd/4.0/">Attribution-NoDerivatives</a></li>
-<li>BY-NC-ND = <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Attribution-NonCommercial- NoDerivatives</a></li>
-<li>BY-NC = <a href="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial</a></li>
-<li>BY-NC-SA = <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial- ShareAlike</a></li>
-<li>BY-SA = <a href="https://creativecommons.org/licenses/by-sa/4.0/">Attribution-ShareAlike</a></li>
-<li>PD = Dedicated to or marked as being in the public domain via one of our <a href="https://creativecommons.org/publicdomain">public domain tools</a>, or other public domain material; adaptations of materials in the public domain may be built upon and licensed by the creator under any license terms desired.</li>
+<li>BY = Attribution seulement</li>
+<li>BY-ND = Attribution - Pas de Modification -Pas de travaux dérivés</li>
+<li>BY-NC-ND = Pas de travaux dérivés de Paternité-NonCommercial-</li>
+<li>BY-NC = Attribution-NonCommercial</li>
+<li>BY-NC-SA = Attribution-ShareAlike NonCommercial-</li>
+<li>BY-SA = Attribution-ShareAlike</li>
+<li>PD = Dédié à ou marqué comme étant dans le domaine public par l'intermédiaire de l'un de nos outils de domaine public ou autres documents du domaine public; des adaptations de matériaux dans le domaine public peuvent être construits sur et autorisés par le créateur dans les conditions de licence souhaités.</li>
 </ul>
 <h4 id="le-tableau-ci-dessous-détaille-la-licence-s-cc">Le tableau ci-dessous détaille la licence (s) CC</h4>
 <p>que vous pouvez utiliser comme une licence de l’adaptateur. Lors de la création d’une adaptation du matériel sous la licence identifié dans la colonne de gauche, vous pouvez donner en licence vos contributions à l’adaptation sous une des licences indiquées dans la ligne du haut si la case correspondante est verte. CC ne recommande pas l’utilisation d’une licence si la case correspondante est jaune, même si cela est techniquement autorisé par les termes de la licence. Si vous le faites, vous devez prendre des précautions supplémentaires pour marquer l’adaptation comme impliquant de multiples droits d’auteur à des conditions différentes de sorte que les utilisateurs en aval sont conscients de leur obligation de se conformer aux licences de tous les titulaires de droits. Les cases gris foncé indiquent les licences que vous ne pouvez pas utiliser comme licence de l’adaptateur.</p>

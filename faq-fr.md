@@ -1872,15 +1872,15 @@ reproduire le matériel sous une forme non modifiée avec d’autres
 </tr>
 </tbody></table>
 
-##### Abbreviation Key
+##### Abréviations
 
--   BY = [Attribution only](https://creativecommons.org/licenses/by/4.0/)
--   BY-ND = [Attribution-NoDerivatives](https://creativecommons.org/licenses/by-nd/4.0/)
--   BY-NC-ND = [Attribution-NonCommercial- NoDerivatives](https://creativecommons.org/licenses/by-nc-nd/4.0/)
--   BY-NC = [Attribution-NonCommercial](https://creativecommons.org/licenses/by-nc/4.0/)
--   BY-NC-SA = [Attribution-NonCommercial- ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/)
--   BY-SA = [Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/4.0/)
--   PD = Dedicated to or marked as being in the public domain via one of our [public domain tools](https://creativecommons.org/publicdomain), or other public domain material; adaptations of materials in the public domain may be built upon and licensed by the creator under any license terms desired.
+* BY = Attribution seulement
+* BY-ND = Attribution - Pas de Modification -Pas de travaux dérivés
+* BY-NC-ND = Pas de travaux dérivés de Paternité-NonCommercial-
+* BY-NC = Attribution-NonCommercial
+* BY-NC-SA = Attribution-ShareAlike NonCommercial-
+* BY-SA = Attribution-ShareAlike
+* PD = Dédié à ou marqué comme étant dans le domaine public par l'intermédiaire de l'un de nos outils de domaine public ou autres documents du domaine public; des adaptations de matériaux dans le domaine public peuvent être construits sur et autorisés par le créateur dans les conditions de licence souhaités.
 
 #### Le tableau ci-dessous détaille la licence (s) CC
 que vous pouvez utiliser comme une licence de l’adaptateur. Lors de la
