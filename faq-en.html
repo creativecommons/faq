@@ -166,7 +166,7 @@ _  _ ____ ____ _  _ ___  ____ _ _ _ _  _    ____ _ _    ____
 
       <h2> Frequently Asked Questions</h2>
 
-      <p><small> Wed Dec 16 19:44:57 CST 2015</small></p>
+      <p><small> Wed Dec 16 19:46:45 CST 2015</small></p>
       
             <a class="btn btn-primary" role="button" data-toggle="collapse" href="#TOC" aria-expanded="false" aria-controls="collapseExample">
 Toggle TOC
@@ -649,7 +649,7 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\
 <p>The NoDerivatives licenses do not permit remixing except for private use (the pre-4.0 licenses do not permit remixing at all, except as allowed by exceptions and limitations to copyright). All the other CC licenses allow remixes, but may impose limitations or conditions on how the remix may be used. For example, if you create a remix with material licensed under a ShareAlike license, you need to make sure that all of the material contributed to the remix is licensed under the same license or <a href="https://creativecommons.org/compatiblelicenses">one that CC has named as compatible</a>, and you must <a href="Marking/Users" title="wikilink">properly credit all of the sources</a> with the <a href="#How_do_I_properly_attribute_material_offered_under_a_Creative_Commons_license" title="wikilink">required attribution</a> and license information. Similarly, if you want to use a remix for <a href="#Does_my_use_violate_the_NonCommercial_clause_of_the_licenses" title="wikilink">commercial purposes</a>, you cannot incorporate material released under one of the NonCommercial licenses.</p>
 <p>The chart below shows which CC-licensed material can be remixed. To use the chart, find a license on the left column and on the top right row. If there is a check mark in the box where that row and column intersect, then the works can be remixed. If there is an “X” in the box, then the works may not be remixed unless an exception or limitation applies. See <a href="#If_I_derive_or_adapt_material_offered_under_a_Creative_Commons_license.2C_which_CC_license.28s.29_can_I_use" title="wikilink">below for details on how remixes may be licensed</a>.</p>
 <figure>
-<img src="CC_License_Compatibility_Chart.png" />
+<img src="https://raw.githubusercontent.com/creativecommons/faq/master/CC_License_Compatibility_Chart.png" />
 </figure>
 <p><span id="If_I_use_a_Creative_Commons-licensed_work_to_create_a_new_work_.28ie_a_derivative_work_or_adaptation.29.2C_which_Creative_Commons_license_can_I_use_for_my_new_work"></span> <span id="If_I_derive_or_adapt_a_work_offered_under_a_Creative_Commons_license.2C_which_CC_license.28s.29_can_I_apply_to_the_resulting_work"></span></p>
 <h4 id="if-i-derive-or-adapt-material-offered-under-a-creative-commons-license-which-cc-licenses-can-i-use">If I derive or adapt material offered under a Creative Commons license, which CC license(s) can I use?</h4>
