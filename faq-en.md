@@ -109,8 +109,8 @@ free, form-based legal documents for others to use. These FAQ answers
 many of the most common questions. There is also specialized information
 available on the following pages:
 
--   [Marking practices for creators](Marking/Creators "wikilink")
--   [Marking practices for reusers](Marking/Users "wikilink")
+-   [Marking practices for creators](wiki/Marking_your_work_with_a_CC_license "wikilink")
+-   [Marking practices for reusers](wiki/Best_practices_for_attribution "wikilink")
 -   [Data FAQ](Data FAQ "wikilink")
 -   [Differences between CC license
     versions](License versions "wikilink")
@@ -694,7 +694,7 @@ to include the HTML code. The code will automatically generate a
 and a statement that your material is licensed under a CC license. If
 you are only licensing part of a work (for example, if you have created
 a video under a CC license but are using a song under a different
-license), be sure to clearly [mark](Marking/Creators "wikilink") which
+license), be sure to clearly [mark](wiki/Marking_your_work_with_a_CC_license "wikilink") which
 parts are under the CC license and which parts are not. The HTML code
 will also include metadata, which allows the material to be discovered
 via [Creative Commons-enabled search
