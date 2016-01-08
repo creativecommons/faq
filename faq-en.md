@@ -109,8 +109,8 @@ free, form-based legal documents for others to use. These FAQ answers
 many of the most common questions. There is also specialized information
 available on the following pages:
 
--   [Marking practices for creators](wiki/Marking_your_work_with_a_CC_license "wikilink")
--   [Marking practices for reusers](wiki/Best_practices_for_attribution "wikilink")
+-   [Marking practices for creators](https://wiki.creativecommons.org/wiki/Marking_your_work_with_a_CC_license "wikilink")
+-   [Marking practices for reusers](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution "wikilink")
 -   [Data FAQ](Data FAQ "wikilink")
 -   [Differences between CC license
     versions](License versions "wikilink")
@@ -1604,7 +1604,7 @@ advise you on what is and is not commercial use. If you are unsure, you
 should either contact the rights holder for clarification, or search for
 works that permit commercial uses.
 
-CC has a [brief guide](wiki/NonCommercial_interpretation "wikilink") to
+CC has a [brief guide](https://wiki.creativecommons.org/wiki/NonCommercial_interpretation "wikilink") to
 interpretation of the NC license that goes into more detail about the
 meaning of the NC license and some key points to pay attention to.
 Additionally, in 2008, [Creative Commons published
