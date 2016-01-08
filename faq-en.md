@@ -1604,7 +1604,7 @@ advise you on what is and is not commercial use. If you are unsure, you
 should either contact the rights holder for clarification, or search for
 works that permit commercial uses.
 
-CC has a [brief guide](NonCommercial interpretation "wikilink") to
+CC has a [brief guide](wiki/NonCommercial_interpretation "wikilink") to
 interpretation of the NC license that goes into more detail about the
 meaning of the NC license and some key points to pay attention to.
 Additionally, in 2008, [Creative Commons published
