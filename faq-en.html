@@ -166,7 +166,7 @@ _  _ ____ ____ _  _ ___  ____ _ _ _ _  _    ____ _ _    ____
 
       <h2> Frequently Asked Questions</h2>
 
-      <p><small> Mon Jan  4 15:26:25 CST 2016</small></p>
+      <p><small> Tue Jan 12 11:07:54 CST 2016</small></p>
 
       
             <div class="well">
@@ -357,8 +357,8 @@ Table of Contents
 <h4 id="can-creative-commons-give-legal-advice-about-its-licenses-or-other-tools-or-help-with-cc-license-enforcement">Can Creative Commons give legal advice about its licenses or other tools, or help with CC license enforcement?</h4>
 <p>No. Creative Commons is not a law firm and does not provide legal advice or legal services. CC is similar to a self-help service that offers free, form-based legal documents for others to use. These FAQ answers many of the most common questions. There is also specialized information available on the following pages:</p>
 <ul>
-<li><a href="wiki/Marking_your_work_with_a_CC_license" title="wikilink">Marking practices for creators</a></li>
-<li><a href="wiki/Best_practices_for_attribution" title="wikilink">Marking practices for reusers</a></li>
+<li><a href="https://wiki.creativecommons.org/wiki/Marking_your_work_with_a_CC_license" title="wikilink">Marking practices for creators</a></li>
+<li><a href="https://wiki.creativecommons.org/wiki/Best_practices_for_attribution" title="wikilink">Marking practices for reusers</a></li>
 <li><a href="Data%20FAQ" title="wikilink">Data FAQ</a></li>
 <li><a href="License%20versions" title="wikilink">Differences between CC license versions</a></li>
 <li><a href="Jurisdiction%20Database" title="wikilink">Differences between jurisdiction ports of earlier license versions</a></li>
@@ -631,7 +631,7 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\
 <h4 id="does-my-use-violate-the-noncommercial-clause-of-the-licenses">Does my use violate the NonCommercial clause of the licenses?</h4>
 <p>CC's NonCommercial (NC) licenses prohibit uses that are &quot;primarily intended for or directed toward commercial advantage or monetary compensation.&quot; This is intended to capture the intention of the NC-using community without placing detailed restrictions that are either too broad or too narrow. Please note that CC's definition does not turn on the type of user: if you are a nonprofit or charitable organization, your use of an NC-licensed work could still run afoul of the NC restriction, and if you are a for-profit entity, your use of an NC-licensed work does not necessarily mean you have violated the term. Whether a use is commercial will depend on the specifics of the situation and the intentions of the user.</p>
 <p>In CC's experience, it is usually relatively easy to determine whether a use is permitted, and known conflicts are relatively few considering the popularity of the NC licenses. However, there will always be uses that are challenging to categorize as commercial or noncommercial. CC cannot advise you on what is and is not commercial use. If you are unsure, you should either contact the rights holder for clarification, or search for works that permit commercial uses.</p>
-<p>CC has a <a href="NonCommercial%20interpretation" title="wikilink">brief guide</a> to interpretation of the NC license that goes into more detail about the meaning of the NC license and some key points to pay attention to. Additionally, in 2008, <a href="Defining_Noncommercial" title="wikilink">Creative Commons published results</a> from a survey on meanings of commercial and noncommercial use generally. Note that the results of the study are not intended to serve as CC's official interpretation of what is and is not commercial use under our licenses, and the results should not be relied upon as such.</p>
+<p>CC has a <a href="https://wiki.creativecommons.org/wiki/NonCommercial_interpretation" title="wikilink">brief guide</a> to interpretation of the NC license that goes into more detail about the meaning of the NC license and some key points to pay attention to. Additionally, in 2008, <a href="Defining_Noncommercial" title="wikilink">Creative Commons published results</a> from a survey on meanings of commercial and noncommercial use generally. Note that the results of the study are not intended to serve as CC's official interpretation of what is and is not commercial use under our licenses, and the results should not be relied upon as such.</p>
 <h4 id="can-i-take-a-cc-licensed-work-and-use-it-in-a-different-format">Can I take a CC-licensed work and use it in a different format?</h4>
 <p>Yes. When any of the six CC licenses is applied to material, licensees are granted permission to use the material as the license allows, whatever the media or format chosen by the user when it is used or distributed further. This is true even in our NoDerivatives licenses. This is one of a very few default rules established in our licenses, to harmonize what may be different outcomes depending on where CC-licensed material is reused and what jurisdiction’s copyright law applies.</p>
 <p>This means, for example, that even if a creator distributes a work in digital format, you have permission to print and share a hard copy of the same work.</p>
