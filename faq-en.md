@@ -3,14 +3,14 @@ Commons, our licenses, and our other legal and technical tools. They
 provide basic information, sometimes about fairly complex topics, and
 will often link to more detailed information.
 
--   Other CC FAQs: [CC0 Public Domain Dedication](//wiki.creativecommons.org/CC0_FAQ "wikilink")
-    and [Public Domain Mark](//wiki.creativecommons.org/PDM_FAQ "wikilink").
+-   Other CC FAQs: [CC0 Public Domain Dedication](https://wiki.creativecommons.org/wiki/CC0_FAQ "wikilink")
+    and [Public Domain Mark](https://wiki.creativecommons.org/wiki/PDM_FAQ "wikilink").
 -   "Licensor", "rights holder", "owner", and "creator" may be used
     interchangeably to refer to the person or entity applying a CC
     license.
 -   Information about the licenses is primarily made with reference to
     the 4.0 suite, but earlier [license
-    versions](//wiki.creativecommons.org/License_Versions "wikilink") are mentioned where they
+    versions](https://wiki.creativecommons.org/wiki/License%20Versions "wikilink") are mentioned where they
     differ.
 -   Have a question that isn't answered here? Contact
     info@creativecommons.org.
@@ -47,9 +47,9 @@ a public domain dedication for rights holders who wish to put their work
 into the public domain before the expiration of copyright, and the
 [Public Domain Mark](https://creativecommons.org/publicdomain/mark/1.0),
 a tool for marking a work that is in the worldwide public domain.
-[Creative Commons licenses and tools were designed specifically to work
-with the web](#Technical_Questions_2 "wikilink"), which makes content
-that is offered under their terms easy to search for, discover, and use.
+Creative Commons licenses and tools were designed specifically to work
+with the web, which makes content that is offered under their terms easy 
+to search for, discover, and use.
 
 For more information about CC, our [main
 website](https://creativecommons.org) contains in-depth information about
@@ -84,14 +84,14 @@ reform](https://creativecommons.org/about/reform).
 
 #### What does "Some Rights Reserved" mean?
 
-[Copyright](#What_is_copyright_and_why_does_it_matter "wikilink")
+[Copyright](http://creativecommons.org/faq/#What_is_copyright_and_why_does_it_matter )
 grants to creators a bundle of exclusive rights over their creative
 works, which generally include, at a minimum, the right to reproduce,
 distribute, display, and make adaptations. The phrase "All Rights
 Reserved" is often used by owners to indicate that they reserve all of
 the rights granted to them under the law. When copyright expires, the
 work enters the [ public
-domain](#What_is_the_public_domain "wikilink"), and the rights holder
+domain](https://en.wikipedia.org/wiki/Public_domain), and the rights holder
 can no longer stop others from engaging in those activities under
 copyright, with the exception of moral rights reserved to creators in
 some jurisdictions. Creative Commons licenses offer creators a spectrum
@@ -111,13 +111,13 @@ available on the following pages:
 
 -   [Marking practices for creators](https://wiki.creativecommons.org/wiki/Marking_your_work_with_a_CC_license "wikilink")
 -   [Marking practices for reusers](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution "wikilink")
--   [Data FAQ](Data FAQ "wikilink")
+-   [Data FAQ](https://en.wikipedia.org/wiki/Public_domain "wikilink")
 -   [Differences between CC license
-    versions](License versions "wikilink")
+    versions](https://wiki.creativecommons.org/wiki/License%20Versions "wikilink")
 -   [Differences between jurisdiction ports of earlier license
-    versions](Jurisdiction Database "wikilink")
--   [Public domain mark FAQ](PDM_FAQ "wikilink")
--   [CC0 FAQ](CC0_FAQ "wikilink")
+    versions](https://wiki.creativecommons.org/wiki/Jurisdiction%20Database "wikilink")
+-   [Public domain mark FAQ](https://wiki.creativecommons.org/wiki/PDM_FAQ "wikilink")
+-   [CC0 FAQ](https://wiki.creativecommons.org/wiki/CC0_FAQ "wikilink")
 
 While CC does provide this informational guidance about its licenses and
 other tools, this information may not apply to your particular
@@ -125,10 +125,10 @@ situation, and should never be taken as legal advice.
 
 If you're looking for legal advice about using CC licenses and other
 tools, we recommend contacting the [Creative Commons affiliate in your
-jurisdiction](CC Affiliate Network "wikilink"). CC affiliates are highly
+jurisdiction](https://wiki.creativecommons.org/wiki/CC_Affiliate_Network "wikilink"). CC affiliates are highly
 connected to the communities of copyright lawyers in their countries. We
 also offer a [list of lawyers and
-organizations](CC_Friendly_Lawyers "wikilink") who have identified
+organizations](https://wiki.creativecommons.org/wiki/CC_Friendly_Lawyers "wikilink") who have identified
 themselves as willing to provide information to others about CC
 licensing issues. However, please note that CC does not provide referral
 services, and does not endorse or recommend any person on that list.
@@ -251,7 +251,7 @@ Jazeera](http://www.aljazeera.com/‎), and
 [YouTube](http://youtube.com)—just to name a few. Many of these people
 donate \$10, \$25, or \$50 to CC, to help keep it up and running so we
 can continue to provide our tools and services for free, as a nonprofit
-organization. The more people who [donate](https://creativecommons.net/)
+organization. The more people who [donate](https://donate.creativecommons.org/)
 to CC, the more independent it will remain.
 
 ### General License Information
@@ -264,7 +264,7 @@ to CC, the more independent it will remain.
 [Creative Commons licenses](https://creativecommons.org/licenses) provide
 an easy way to manage the copyright terms that attach automatically to
 all creative material under
-[copyright](#What_is_copyright_and_why_does_it_matter "wikilink").
+[copyright](#What_is_copyright_and_why_does_it_matter ).
 Our licenses allow that material to be shared and reused under terms
 that are flexible and legally sound. Creative Commons offers a core
 suite of six copyright licenses. Because there is no single "Creative
@@ -284,17 +284,17 @@ ShareAlike (SA), which requires adaptations of the material be released
 under the same license.
 
 CC licenses may be applied to any type of work, including [educational
-resources](OER "wikilink"), [music](Musician "wikilink"),
-[photographs](Photographer "wikilink"), [databases](Data "wikilink"),
+resources](https://creativecommons.org/education/ "wikilink"), [music]https://wiki.creativecommons.org/wiki/Musician "wikilink"),
+[photographs](https://wiki.creativecommons.org/wiki/Photography "wikilink"), [databases](https://wiki.creativecommons.org/wiki/Data "wikilink"),
 [government and public sector
-information](Government_use_of_Creative_Commons "wikilink"), and [many
-other types of material](Case_Studies "wikilink"). The only categories
+information](https://wiki.creativecommons.org/wiki/Government_use_of_Creative_Commons "wikilink"), and [many
+other types of material](https://wiki.creativecommons.org/wiki/Case_Studies "wikilink"). The only categories
 of works for which CC does not recommend its licenses are [ computer
-software](#Can_I_apply_a_Creative_Commons_license_to_software "wikilink")
+software](#Can_I_apply_a_Creative_Commons_license_to_software )
 and hardware. You should also not apply Creative Commons licenses to
 works that are [no longer protected by copyright or are otherwise in the
 public
-domain](#May_I_apply_a_Creative_Commons_license_to_a_work_in_the_public_domain "wikilink").
+domain](#May_I_apply_a_Creative_Commons_license_to_a_work_in_the_public_domain ).
 Instead, for those works in the worldwide public domain, we recommend
 that you mark them with the [Public Domain
 Mark](https://creativecommons.org/about/pdm).
