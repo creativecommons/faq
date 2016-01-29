@@ -302,23 +302,23 @@ Mark](https://creativecommons.org/about/pdm).
 #### How do CC licenses operate?
 
 CC licenses are operative only when applied to material in which a
-[copyright](#What_is_copyright_and_why_does_it_matter "wikilink")
+[copyright]( http://creativecommons.org/faq/#what-is-copyright-and-why-does-it-matter)
 exists, and even then only when a particular use would otherwise not be
 permitted by copyright. Note that the latest version of CC licenses also
 applies to rights similar to copyright, such as [neighboring
-rights](#What_are_neighboring_rights "wikilink") and [sui generis
-database rights](#What_are_sui_generis_database_rights "wikilink").
+rights](http://creativecommons.org/faq/#what-are-neighboring-rights) and [sui generis
+database rights](http://creativecommons.org/faq/#what-are-sui-generis-database-rights).
 [Learn more about the scope of the
-licenses.](#Can_I_use_CC_licenses_to_license_rights_other_than_copyright "wikilink")
+licenses.](http://creativecommons.org/faq/#can-i-use-cc-licenses-to-license-rights-other-than-copyright)
 This means that CC license terms and conditions are **not** triggered by
 [uses permitted under any applicable exceptions and limitations to
-copyright](#Do_Creative_Commons_licenses_affect_fair_use.2C_fair_dealing.2C_or_other_exceptions_to_copyright "wikilink"),
+copyright](http://creativecommons.org/faq/#do-creative-commons-licenses-affect-exceptions-and-limitations-to-copyright-such-as-fair-dealing-and-fair-use),
 nor do license terms and conditions apply to elements of a licensed work
 that are in the public domain. This also means that CC licenses do not
 contractually impose restrictions on uses of a work where there is no
 underlying copyright. This feature (and others) [distinguish CC licenses
 from some other open
-licenses](#What_is_the_difference_between_the_Open_Data_Commons_licenses_and_the_CC_4.0_licenses "wikilink")
+licenses](http://creativecommons.org/faq/#what-is-the-difference-between-the-open-data-commons-licenses-and-the-cc-4.0-licenses)
 like the [ODbL](http://opendatacommons.org/licenses/odbl/) and
 [ODC-BY](http://opendatacommons.org/licenses/by/), both of which are
 intended to [impose contractual conditions and
@@ -328,10 +328,10 @@ copyright or sui generis database right.
 
 All CC licenses are non-exclusive: [creators and owners can enter into
 additional, different licensing
-arrangements](#Can_I_enter_into_separate_or_supplemental_agreements_with_users_of_my_work "wikilink")
+arrangements](http://creativecommons.org/faq/#can-i-enter-into-separate-or-supplemental-agreements-with-users-of-my-work)
 for the same material at any time (often referred to as “dual-licensing”
 or “multi-licensing”). However, [CC licenses are not
-revocable](#What_if_I_change_my_mind_about_using_a_CC_license "wikilink")
+revocable](http://creativecommons.org/faq/#what-if-i-change-my-mind-about-using-a-cc-license)
 once granted unless there has been a breach, and even then the license
 is terminated only for the breaching licensee.
 
@@ -360,7 +360,7 @@ CC-licensed material would otherwise be allowed because of an applicable
 exception or limitation, you do not need to rely on the CC license or
 comply with its terms and conditions. [This is a fundamental principle
 of CC
-licensing.](#How_do_CC_licenses_operate "wikilink")
+licensing.](http://creativecommons.org/faq/#how-do-cc-licenses-operate)
 
 #### Who gives permission to use material offered under Creative Commons licenses?
 
@@ -371,7 +371,7 @@ Creative Commons offers licenses and tools to the public free of charge
 and does not require that creators or other rights holders register with
 CC in order to apply a CC license to a work. This means that [CC does
 not have special knowledge of who uses the
-licenses](#Does_Creative_Commons_collect_or_track_materials_licensed_under_a_CC_license "wikilink")
+licenses](http://creativecommons.org/faq/#does-creative-commons-collect-or-track-material-licensed-under-a-cc-license)
 and for what purposes, nor does CC have a way to contact creators beyond
 means generally available to the public. CC has no authority to grant
 permission on behalf of those persons, nor does CC manage those rights
@@ -381,7 +381,7 @@ If you would like to obtain additional permissions to use the work
 beyond those granted by the license that has been applied, or if you’re
 not sure if your intended use is permitted by the license, you should [
 contact the rights
-holder](#What_happens_if_I_want_to_do_something_with_the_work_that_is_not_permitted_by_the_license "wikilink").
+holder](http://creativecommons.org/faq/#what-happens-if-i-want-to-use-the-material-in-a-way-that-is-not-permitted-by-the-license).
 
 <span id="Does_Creative_Commons_host_or_own_any_content"></span>
 <span id="Is_Creative_Commons_building_a_database_of_licensed_content"></span>
@@ -410,7 +410,7 @@ to remove the license from your work. You may also wish to contact a
 lawyer. Creative Commons is not a law firm and cannot represent you or
 give you legal advice, but there are [ lawyers who have identified
 themselves as interested in representing people in CC-related
-matters](#Can_Creative_Commons_give_legal_advice_about_its_licenses_or_help_with_CC_license_enforcement "wikilink").
+matters](http://creativecommons.org/faq/#can-creative-commons-give-legal-advice-about-its-licenses-or-other-tools-or-help-with-cc-license-enforcement).
 
 <span id="What_are_the_international_.28.22unported.22.29_CC_licenses.2C_and_why_does_CC_offer_.E2.80.9Cported.E2.80.9D_licenses"></span>
 
@@ -438,9 +438,9 @@ everywhere. CC expects that few, if any, ports will be necessary for
 
 CC recommends that you take advantage of the improvements in the 4.0
 suite explained on the [license versions
-page](License_versions "wikilink") unless there are [particular
+page](https://wiki.creativecommons.org/wiki/License_Versions) unless there are [particular
 considerations you are aware
-of](#Should_I_choose_an_international_license_or_a_ported_license "wikilink")
+of](http://creativecommons.org/faq/#should-i-choose-an-international-license-or-a-ported-license)
 that would require a ported license.
 
 #### Can I include a work licensed with CC BY in a Wikipedia article even though they use a CC BY-SA license?
@@ -472,7 +472,7 @@ preferred choice over custom licenses. CC licenses are standard and
 interoperable, which means material published by different creators
 using the same type of CC license can be translated, modified, compiled,
 and remixed without legal barriers depending on the [particular license
-applied](#Can_I_combine_works_that_use_different_Creative_Commons_licenses_into_my_work? "wikilink").
+applied](http://creativecommons.org/faq/#can-i-combine-material-under-different-creative-commons-licenses-in-my-work).
 Creative Commons licenses are also machine-readable, allowing
 CC-licensed works to be easily discovered via search engines such as
 Google. These features maximize distribution, reuse, and impact of works
@@ -481,10 +481,10 @@ published by governments and IGOs.
 Though we encourage anyone to use version 4.0, which is internationally
 valid and may be used by individuals as well as organizations, there is
 an IGO ported version of 3.0 that IGOs may also use. Read more about how
-[governments](government "wikilink") and [IGOs](IGO "wikilink") use and
+[governments](https://wiki.creativecommons.org/wiki/Government_use_of_Creative_Commons) and [IGOs](https://wiki.creativecommons.org/wiki/Intergovernmental_Organizations) use and
 leverage CC licenses and legal tools, considerations for using our
 licenses, and [how they operate in the IGO
-context.](Intergovernmental_Organizations#FAQ:_CC_Licenses_and_IGOs "wikilink")
+context.](https://wiki.creativecommons.org/wiki/Intergovernmental_Organizations)
 
 <span id="What_are_the_official_translations_of_the_CC_licenses"></span>
 <span id="officialtranslations"></span>
@@ -499,20 +499,20 @@ available official translation of the license. These translations are
 linguistic translations of the English version which adhere as closely
 as possible to the original text. These translations have been done by
 our affiliates in accordance with the [Legal Code Translation
-Policy](Legal Code Translation Policy "wikilink") and with the oversight
+Policy](https://wiki.creativecommons.org/wiki/Legal%20Code%20Translation%20Policy) and with the oversight
 and detailed review of the CC legal team. Note that these are
 equivalents of the original English; these translations are *not*
 [jurisdiction ported
-versions](#What_are_the_international_.28.E2.80.9Cunported.E2.80.9D.29_Creative_Commons_licenses.2C_and_why_does_CC_offer_.E2.80.9Cported.E2.80.9D_licenses "wikilink").
+versions](http://creativecommons.org/faq/#what-are-the-international-unported-creative-commons-licenses-and-why-does-cc-offer-ported-licenses).
 You may find a list of all available translations
-[here](Legal_Tools_Translation#Published_translations "wikilink").
+[here](https://wiki.creativecommons.org/wiki/Legal_Tools_Translation#Published_translations).
 
 For versions 3.0 and earlier, official translations are not available.
 Some unofficial translations were made for informational purposes only.
 (Jurisdiction ported versions of version 3.0 and earlier were generally
 published in the official language(s) of the appropriate jurisdiction.
 However, the ported licenses are [not
-equivalent](#What_should_I_know_about_differences_between_the_international_licenses_and_the_ported_licenses "wikilink")
+equivalent](http://creativecommons.org/faq/#what-should-i-know-about-differences-between-the-international-licenses-and-the-ported-licenses)
 to the international licenses, and do not serve as substitutable
 references for purposes of complying with the terms and conditions of
 the licenses.)
@@ -548,33 +548,33 @@ you apply a CC license, some of which relate to your ability to apply a
 CC license at all. Here are some highlights:
 
 -   Is the material copyrightable? If not, is it subject to [neighboring
-    rights](#What_are_neighboring_rights "wikilink") or [sui generis
+    rights](http://creativecommons.org/faq/#what-are-neighboring-rights) or [sui generis
     database
-    rights](#What_are_sui_generis_database_rights "wikilink")? CC
+    rights](http://creativecommons.org/faq/#what-are-sui-generis-database-rights)? CC
     licenses do not apply to material in the [public
-    domain](#What_is_the_public_domain "wikilink"). Different
+    domain](http://creativecommons.org/faq/#what-is-the-public-domain). Different
     countries have different standards for what is in the public domain.
 -   Do you own the material you want to license? If not, are you
     otherwise authorized to license it under the specific CC license you
     are interested in using? You should not apply a license to material
     that you do not own or that you are not authorized to license.
 -   Are you aware that CC licenses [are not
-    revocable](#What_if_I_change_my_mind_about_using_a_CC_license "wikilink")?
+    revocable](http://creativecommons.org/faq/#what-if-i-change-my-mind-about-using-a-cc-license)?
     You are free to stop offering material under a CC license at any
     time, but this will not affect the rights associated with any copies
     of your work already in circulation. (Any particular licensee may
     lose his or her rights after violating the license, but this does
     not affect continual use of the work by other licensees.)
 -   Are you a member of a [collecting
-    society](#What_are_collecting_societies "wikilink")? If you are,
+    society](http://creativecommons.org/faq/#what-are-collecting-societies)? If you are,
     you should [make sure that you are able to use CC licenses for your
-    materials](#Can_I_use_a_Creative_Commons_license_if_I_am_a_member_of_a_collecting_society "wikilink").
+    materials](http://creativecommons.org/faq/#can-i-use-a-creative-commons-license-if-i-am-a-member-of-a-collecting-society).
 -   Always read the terms and conditions of the specific license you
     plan to apply. Additionally, there are several [terms that may
     differ in the earlier versions of the
-    license](License versions "wikilink"), both unported and ported. [If
+    license](https://wiki.creativecommons.org/wiki/License%20Versions), both unported and ported. [If
     you choose to use a pre-4.0 version or any ported
-    version](#Should_I_choose_an_international_license_or_a_ported_license "wikilink"),
+    version](http://creativecommons.org/faq/#should-i-choose-an-international-license-or-a-ported-license),
     clauses such as choice of law may affect your desired choice of
     license.
 
@@ -597,7 +597,7 @@ discussion lists](https://creativecommons.org/discuss) and discussion
 archives may be useful resources.
 
 Finally, you may also want to [consult with a
-lawyer](#Can_Creative_Commons_give_legal_advice_about_its_licenses_or_help_with_CC_license_enforcement "wikilink")
+lawyer](http://creativecommons.org/faq/#can-creative-commons-give-legal-advice-about-its-licenses-or-other-tools-or-help-with-cc-license-enforcement)
 to obtain advice on the best license for your needs.
 
 <span id="Why_should_I_use_the_latest_version_.28currently_3.0.29_of_the_Creative_Commons_licenses"></span>
@@ -607,9 +607,9 @@ to obtain advice on the best license for your needs.
 The latest version of the Creative Commons licenses is version 4.0. You
 should always use the latest version of the Creative Commons licenses in
 order to take advantage of the many improvements described on the
-[license versions page](License versions "wikilink"). In particular, 4.0
+[license versions page](https://wiki.creativecommons.org/wiki/License%20Versions). In particular, 4.0
 is meant to be better suited to international use, and use in many
-different contexts, including [sharing data](Data "wikilink").
+different contexts, including [sharing data](https://wiki.creativecommons.org/wiki/Data%20FAQ).
 
 <span id="What_if_CC_licenses_have_not_been_ported_to_my_jurisdiction_.28country.29"></span>
 
@@ -617,7 +617,7 @@ different contexts, including [sharing data](Data "wikilink").
 
 All CC licenses are intended to work worldwide. Unless you have a
 specific reason to use a [ported
-license](#Should_I_choose_an_international_license_or_a_ported_license "wikilink"),
+license](http://creativecommons.org/faq/#should-i-choose-an-international-license-or-a-ported-license),
 we suggest you consider using one of the international licenses. 4.0
 will support official translations of the international license for
 those who wish to use the licenses in another language.
@@ -633,7 +633,7 @@ We recommend that you use a version 4.0 international license. This is
 the most up-to-date version of our licenses, drafted after broad
 consultation with our global network of affiliates, and it has been
 written to be internationally valid. There are currently no
-[ports](#What_are_the_international_.28.E2.80.9Cunported.E2.80.9D.29_Creative_Commons_licenses.2C_and_why_does_CC_offer_.E2.80.9Cported.E2.80.9D_licenses "wikilink")
+[ports](http://creativecommons.org/faq/#what-are-the-international-unported-creative-commons-licenses-and-why-does-cc-offer-ported-licenses)
 of 4.0, and it is planned that few, if any, will be created.
 
 All of the ported licenses are at version 3.0 or earlier, which means
@@ -661,7 +661,7 @@ for some aspect of local legislation, then you may wish to consider a
 ported license.
 
 You can [use our jurisdiction
-database](Jurisdiction_Database "wikilink") to compare international
+database](https://wiki.creativecommons.org/wiki/Jurisdiction%20Database) to compare international
 licenses and ports on these issues and others, such as whether a ported
 license contains a choice of law or forum selection clause.
 
@@ -672,7 +672,7 @@ chooser](https://creativecommons.org/choose/) or provide any information
 about themselves or their material when applying a CC license to their
 material. However, using the license chooser enables licensors to take
 advantage of the "machine readable" layer of CC licenses. Our
-[machine-readable](ccrel "wikilink") code enhances the discoverability
+[machine-readable](https://wiki.creativecommons.org/wiki/CC_REL) code enhances the discoverability
 of your work because that code allows software, search engines, and
 other tools to recognize when something is licensed under a CC license.
 The code also facilitates attribution: when users click on the CC button
@@ -688,13 +688,13 @@ can cut and paste to provide attribution.
 **For online material**: Select the license that is appropriate for your
 material [from the CC license
 chooser](https://creativecommons.org/choose/) and then follow the
-[instructions](Marking_your_work_with_a_CC_license#How_to_use_the_CC_License_Chooser "wikilink")
+[instructions](https://wiki.creativecommons.org/wiki/Marking_your_work_with_a_CC_license#How_to_use_the_CC_License_Chooser)
 to include the HTML code. The code will automatically generate a
-[license button](#What_do_the_Creative_Commons_buttons_do "wikilink")
+[license button](http://creativecommons.org/faq/#what-do-the-creative-commons-buttons-do)
 and a statement that your material is licensed under a CC license. If
 you are only licensing part of a work (for example, if you have created
 a video under a CC license but are using a song under a different
-license), be sure to clearly [mark](wiki/Marking_your_work_with_a_CC_license "wikilink") which
+license), be sure to clearly [mark](https://wiki.creativecommons.org/wiki/Marking_your_work_with_a_CC_license) which
 parts are under the CC license and which parts are not. The HTML code
 will also include metadata, which allows the material to be discovered
 via [Creative Commons-enabled search
@@ -702,15 +702,15 @@ engines](http://search.creativecommons.org/).
 
 **For offline material**: Identify which license you wish to apply to
 your work and either (a) [mark your
-work](Marking_your_work_with_a_CC_license#Example:_Offline_document "wikilink")
+work](https://wiki.creativecommons.org/wiki/Marking_your_work_with_a_CC_license#Example:_Offline_document)
 with a statement such as, “This work is licensed under the Creative
 Commons [insert description] License. To view a copy of the license,
 visit [insert url]"; or (b) insert the applicable [license
-buttons](#What_do_the_Creative_Commons_buttons_do "wikilink") with
+buttons](http://creativecommons.org/faq/#what-do-the-creative-commons-buttons-do) with
 the same statement and URL link.
 
 **For third-party platforms**: Many [media
-platforms](Marking_your_work_with_a_CC_license#Content-sharing_platforms "wikilink")
+platforms](https://wiki.creativecommons.org/wiki/Marking_your_work_with_a_CC_license#Content-sharing_platforms)
 like [Flickr](http://www.flickr.com/),
 [YouTube](http://www.youtube.com/), and
 [SoundCloud](https://soundcloud.com/) have built-in Creative Commons
@@ -729,7 +729,7 @@ online with metadata will ensure that users will be able to find it
 through CC-enabled search engines.
 
 CC offers resources on the [best practices for marking your
-material](Marking/Creators "wikilink") and on [how to mark material in
+material](https://wiki.creativecommons.org/wiki/Marking_your_work_with_a_CC_license) and on [how to mark material in
 different media
 (.pdf)](Media:Creativecommons-licensing-and-marking-your-content_eng.pdf "wikilink").
 
