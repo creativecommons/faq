@@ -731,7 +731,7 @@ through CC-enabled search engines.
 CC offers resources on the [best practices for marking your
 material](https://wiki.creativecommons.org/wiki/Marking_your_work_with_a_CC_license) and on [how to mark material in
 different media
-(.pdf)](Media:Creativecommons-licensing-and-marking-your-content_eng.pdf "wikilink").
+(.pdf)](https://wiki.creativecommons.org/images/6/61/Creativecommons-licensing-and-marking-your-content_eng.pdf).
 
 <span id="Do_I_need_to_sign_something_or_register_to_obtain_a_Creative_Commons_license"></span>
 <span id="Is_applying_a_Creative_Commons_license_to_my_work_the_same_or_an_alternative_to_registering_the_copyright_to_my_work"></span>
@@ -750,7 +750,7 @@ license.
 CC does not require or provide any means for creators or other rights
 holders to register use of a CC license, [nor does CC maintain a
 database of
-works](#Does_Creative_Commons_collect_or_track_materials_licensed_under_a_CC_license "wikilink")
+works](http://creativecommons.org/faq/#does-creative-commons-collect-or-track-material-licensed-under-a-cc-license)
 distributed under Creative Commons licenses. CC also does not require
 registration of the work with a national copyright agency.
 
@@ -761,15 +761,15 @@ registration of the work with a national copyright agency.
 
 Although CC licenses get attached to tangible works (such as photos and
 novels), the license terms and conditions apply to the licensor’s
-[copyright](#How_do_CC_licenses_operate "wikilink") in the
+[copyright](http://creativecommons.org/faq/#how-do-cc-licenses-operate) in the
 licensed material. The public is granted “permission to exercise” those
 rights in [any medium or
-format](#Can_I_take_a_CC-licensed_work_and_use_it_in_a_different_format "wikilink").
+format](http://creativecommons.org/faq/#can-i-take-a-cc-licensed-work-and-use-it-in-a-different-format).
 It is the expression that is protected by copyright and covered by the
 licenses, not any particular medium or format in which the expression is
 manifested. This means, for example, that a CC license [applied to a
 digitized
-copy](#Can_I_apply_a_CC_license_to_low-resolution_copies_of_a_licensed_work_and_reserve_more_rights_in_high-resolution_copies "wikilink")
+copy](http://creativecommons.org/faq/#can-i-apply-a-cc-license-to-low-resolution-copies-of-a-licensed-work-and-reserve-more-rights-in-high-resolution-copies)
 of a novel grants the public permission under copyright to use a print
 version of the same novel on the same terms and conditions (though you
 may have to purchase the print version from a bookstore).
@@ -804,11 +804,11 @@ mechanism is designed for situations in which content is integrated into
 software code in a way that makes it difficult or impossible to
 distinguish the two. There are special considerations required before
 using this compatibility mechanism. Read more about it
-[here](ShareAlike_compatibility:_GPLv3 "wikilink").
+[here](https://wiki.creativecommons.org/wiki/ShareAlike_compatibility:_GPLv3).
 
 Also, the CC0 Public Domain Dedication **is** GPL-compatible and
 acceptable for software. For details, [see the relevant CC0 FAQ
-entry](CC0_FAQ#May_I_apply_CC0_to_computer_software_If_so.2C_is_there_a_recommended_implementation "wikilink").
+entry](https://wiki.creativecommons.org/wiki/CC0_FAQ#May_I_apply_CC0_to_computer_software.3F_If_so.2C_is_there_a_recommended_implementation.3F).
 
 While we recommend against using a CC license on software itself, CC
 licenses may be used for software documentation, as well as for separate
@@ -819,15 +819,15 @@ artistic elements such as game art or music.
 #### Can I apply a Creative Commons license to databases?
 
 Yes. CC licenses [can be used on
-databases](#Can_databases_be_released_under_CC_licenses "wikilink").
+databases](http://creativecommons.org/faq/#can-i-apply-a-creative-commons-license-to-databases ).
 In the 4.0 license suite, applicable [sui generis database
-rights](#What_are_sui_generis_database_rights "wikilink") are
+rights](http://creativecommons.org/faq/#what-are-sui-generis-database-rights ) are
 licensed under the same license conditions as copyright. Many
 [governments and others use CC
-licenses](Data_and_CC_licenses "wikilink") for data and databases.
+licenses](https://wiki.creativecommons.org/wiki/Data_and_CC_licenses) for data and databases.
 
 For more detailed information about how CC licenses apply to data and
-databases, visit our detailed [Data FAQ](Data "wikilink").
+databases, visit our detailed [Data FAQ](https://wiki.creativecommons.org/wiki/Data ).
 
 #### Could I use a CC license to share my logo or trademark?
 
@@ -842,7 +842,7 @@ matter of copyright could result in your inability to limit use of your
 logo or trademark selectively to accomplish those purposes. Applying a
 CC license to your trademarks and logos could even result in a loss of
 your trademark rights altogether. See
-[below](#Can_I_place_a_trademark_on_a_work_and_offer_the_work_under_a_CC_license_without_also_licensing_or_otherwise_affecting_rights_in_the_trademark_If_so.2C_how "wikilink")
+[below](http://creativecommons.org/faq/#can-i-offer-material-under-a-cc-license-that-has-my-trademark-on-it-without-also-licensing-or-affecting-rights-in-the-trademark )
 for more about how to license material that includes a trademark or
 logo.
 
@@ -862,9 +862,9 @@ reuse and preserving trademark rights.
 #### May I apply a Creative Commons license to a work in the public domain?
 
 CC licenses should not be applied to works in the worldwide [public
-domain](#What_is_the_public_domain "wikilink"). All CC licenses are
+domain](http://creativecommons.org/faq/#what-is-the-public-domain ). All CC licenses are
 clear that they [do not have the
-effect](#Do_Creative_Commons_licenses_affect_exceptions_and_limitations_to_copyright.2C_such_as_fair_dealing_and_fair_use "wikilink")
+effect](http://creativecommons.org/faq/#do-creative-commons-licenses-affect-exceptions-and-limitations-to-copyright-such-as-fair-dealing-and-fair-use )
 of placing restrictions on material that would otherwise be
 unrestricted, and you cannot remove a work from the public domain by
 applying a CC license to it. If you want to dedicate your own work to
@@ -889,7 +889,7 @@ material, databases, or collections that include work in the public
 domain. However, in each of these instances, the license does not affect
 parts of the work that are unrestricted by copyright or similar rights.
 We strongly encourage you to [mark the public domain
-material](Marking/Creators/Marking_third_party_content "wikilink"), so
+material](https://wiki.creativecommons.org/wiki/Marking/Creators/Marking_third_party_content ), so
 that others know they are also free to use this material without legal
 restriction.
 
