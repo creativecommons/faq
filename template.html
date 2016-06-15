@@ -188,12 +188,10 @@ _  _ ____ ____ _  _ ___  ____ _ _ _ _  _    ____ _ _    ____
 </div>
 <main id="main" class="site-main" role="main">
 <aside id="content-above-mobile" class="widget-area" role="complementary">
-<section id="advanced_sidebar_menu-4" class="widget-1 widget-first widget-last widget-odd widget advanced-sidebar-menu"><h2 class="widget-title">In this section</h2><ul class="child-sidebar-menu"><li class="page_item page-item-48573 has_children"><a href="https://staging.creativecommons.org/share-your-work/licensing-considerations/">Licensing considerations</a></li>
-<li class="page_item page-item-48575"><a href="https://staging.creativecommons.org/share-your-work/licensing-types-examples/">Licensing types/examples</a></li>
-<li class="page_item page-item-48577 has_children"><a href="https://staging.creativecommons.org/share-your-work/public-domain/">Public domain</a></li>
-<li class="page_item page-item-48579"><a href="https://staging.creativecommons.org/share-your-work/places-to-share/">Places to share</a></li>
-<li class="page_item page-item-48583"><a href="https://staging.creativecommons.org/share-your-work/for-developers/">For developers</a></li>
-</ul> 
+<section id="advanced_sidebar_menu-4" class="widget-1 widget-first widget-last widget-odd widget advanced-sidebar-menu"><h2 class="widget-title">In this section</h2> 
+      $if(toc)$
+      $toc$
+      $endif$
 </section>
 </aside>
 <article>
@@ -203,18 +201,6 @@ _  _ ____ ____ _  _ ___  ____ _ _ _ _  _    ____ _ _    ____
       <p><small>$lastmodified$</small></p>
 
       
-      $if(toc)$
-      <div class="well">
-      <a class="btn btn-primary" role="button" data-toggle="collapse" href="#$idprefix$TOC" aria-expanded="false" aria-controls="collapseExample">
-$if(toctitle)$$toctitle$$else$Table of Contents$endif$
-      </a>
-      <nav class="collapse" id="$idprefix$TOC">
-
-	<h1>$if(toctitle)$$toctitle$$else$Table of Contents$endif$</h1>
-	
-      $toc$
-    </nav>
-      $endif$
       </div>
       <div id="main">
 	$body$
