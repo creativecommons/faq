@@ -489,6 +489,11 @@ context.](https://wiki.creativecommons.org/wiki/Intergovernmental_Organizations)
 <span id="What_are_the_official_translations_of_the_CC_licenses"></span>
 <span id="officialtranslations"></span>
 
+#### Can children apply Creative Commons licenses to work they create? 
+
+This issue depends largely on the laws in place where the child lives. In the United States, children can be copyright holders and are entitled to license their works in the same manner as adults. However, they may have the right to disaffirm certain types of legal agreements, including licenses. In many parts of the United States, for example, children have the ability to disaffirm some types of agreements under certain circumstances once they reach the age where they are considered adults within the relevant jurisdiction. We are unaware of any attempt by a licensor to exercise the disaffirmation right with respect to a CC license applied to a work.
+
+
 #### What are the official translations of the CC licenses and CC0?
 
 Official language translations will be available for the 4.0 licenses
@@ -1640,14 +1645,22 @@ for copyright in the relevant jurisdiction.
 
 Under U.S. copyright law, for example, mechanical reproduction of a work
 into a different format
-[<http://en.wikipedia.org/wiki/Bridgeman_Art_Library_v._Corel_Corp>. is
-unlikely to create a separate, new work]. Consequently, digitally
+[is unlikely to create a separate, new work](<http://en.wikipedia.org/wiki/Bridgeman_Art_Library_v._Corel_Corp>). Consequently, digitally
 enhancing or changing the format of a work *absent some originality*,
 such as expressive choices made in the enhancement or encoding, will not
 likely create a separate work for copyright purposes. The creative bar
 is low, but it is not non-existent. Accordingly, in some jurisdictions
 releasing a photograph under a CC license will give the public
 permission to reuse the photograph in a different resolution.
+
+#### Can I reuse an excerpt of a larger work that is licensed with the NoDerivs restriction?
+
+The NoDerivs licenses (BY-ND and BY-NC-ND) prohibit reusers from creating adaptations. What constitutes an [adaptation](https://creativecommons.org/faq/#when-is-my-use-considered-an-adaptation), otherwise known as a derivative work, varies slightly based on the law of the relevant jurisdiction. 
+
+Incorporating an unaltered excerpt from an ND-licensed work into a larger work only creates an adaptation if the larger work can be said to be built upon and derived from the work from which the excerpt was taken. Generally, no derivative work is made of the original from which the excerpt was taken when the excerpt is used to illuminate an idea or provide an example in another larger work. Instead, only the reproduction right of the original copyright holder is being exercised by person reusing the excerpt. All CC licenses grant the right to reproduce a CC-licensed work for noncommercial purposes (at a minimum).   For example, a person could make copies of one chapter of an ND-licensed book and not be in violation of the license so long as other conditions of the license are met. 
+
+There are exceptions to that general rule, however, when the excerpts are combined with other material in a way that creates some new version of the original from which the excerpt is taken. For example, if a portion of a song was used as part of a new song, that may rise to the level of creating an adaptation of the original song, even though only a portion of it was used and even if that portion was used as-is. 
+
 
 #### Can I use effective technological measures (such as DRM) when I share CC-licensed material?
 
