@@ -233,7 +233,7 @@ In order to...
     organization
 
 ...we need \$ to make it all happen! For more information, please take a
-look at our [Annual Report](http://dispatches.creativecommons.org/).
+look at our [Annual Report](https://stateof.creativecommons.org/).
 
 Creative Commons has always relied on the generosity of both individuals
 and organizations to fund its ongoing operations. It is essential we
