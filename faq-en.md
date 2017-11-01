@@ -187,9 +187,7 @@ you can purchase them in CC’s
 #### I love Creative Commons. How can I help?
 
 Please support CC by making a donation through our [support
-page](http://creativecommons.net/). If you give \$50 or more, you can
-get a special-edition t-shirt only available to CC supporters. Donations
-and shipping information can be handled through PayPal or by credit
+page](http://creativecommons.net/). Donations can be handled through PayPal or by credit
 card. You can also support CC by visiting our
 [store](http://creativecommons.net/store).
 
