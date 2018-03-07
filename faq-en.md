@@ -282,7 +282,7 @@ ShareAlike (SA), which requires adaptations of the material be released
 under the same license.
 
 CC licenses may be applied to any type of work, including [educational
-resources](https://creativecommons.org/education/ "wikilink"), [music]https://wiki.creativecommons.org/wiki/Musician "wikilink"),
+resources](https://creativecommons.org/education/ "wikilink"), [music](https://wiki.creativecommons.org/wiki/Musician "wikilink"),
 [photographs](https://wiki.creativecommons.org/wiki/Photography "wikilink"), [databases](https://wiki.creativecommons.org/wiki/Data "wikilink"),
 [government and public sector
 information](https://wiki.creativecommons.org/wiki/Government_use_of_Creative_Commons "wikilink"), and [many
