@@ -180,16 +180,16 @@ not permitted by our policies unless you first receive express, written
 permission. This means, for example, that you cannot (without our
 permission) print your own buttons and t-shirts using CC logos, although
 you can purchase them in CC’s
-[store](https://creativecommons.net/store/).
+[store](https://creativecommons.org/store/).
 
 <span id="I_love_what_Creative_Commons_does._How_can_I_help"></span>
 
 #### I love Creative Commons. How can I help?
 
 Please support CC by making a donation through our [support
-page](http://creativecommons.net/). Donations can be handled through PayPal or by credit
+page](https://creativecommons.org/donate/). Donations can be handled through PayPal or by credit
 card. You can also support CC by visiting our
-[store](http://creativecommons.net/store).
+[store](http://creativecommons.org/store).
 
 CC always welcomes your feedback, which you can provide by emailing
 <info@creativecommons.org>. You can also participate in CC's [email
