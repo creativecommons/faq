@@ -241,11 +241,11 @@ have the public's support because it is the creators and users of CC
 material who make our tools relevant in this digital age. They depend on
 the tools and services CC provides through their reuse and remix of the
 rich, open resources available on [Wikipedia](http://en.wikipedia.org),
-[Flickr](http://www.flickr.com), [SoundCloud](http://soundcloud.com/‎),
-[Vimeo](http://www.vimeo.com/‎), [‎Europeana](http://www.europeana.eu/),
+[Flickr](http://www.flickr.com), [SoundCloud](http://soundcloud.com/),
+[Vimeo](http://www.vimeo.com/), [Europeana](http://www.europeana.eu/),
 [MIT OpenCourseWare](http://ocw.mit.edu/), the [Library of
-Science](http://www.plos.org/‎Public), [Al
-Jazeera](http://www.aljazeera.com/‎), and
+Science](http://www.plos.org/Public), [Al
+Jazeera](http://www.aljazeera.com/), and
 [YouTube](http://youtube.com)—just to name a few. Many of these people
 donate \$10, \$25, or \$50 to CC, to help keep it up and running so we
 can continue to provide our tools and services for free, as a nonprofit
