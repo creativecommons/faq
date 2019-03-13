@@ -2828,39 +2828,116 @@ have in the individual contents of the database.
 
 #### What are the limits on how CC-licensed works can be used in the development of new technologies, such as training of artificial intelligence software?
 
-The licenses grant permission for reuse in any situation that requires permission under copyright. There are many ways in which a CC-licensed work (or even an all rights reserved work, for that matter) can be reused without permission. This includes [uses that are fair uses](https://creativecommons.org/faq/#do-creative-commons-licenses-affect-exceptions-and-limitations-to-copyright-such-as-fair-dealing-and-fair-use), for example.
+The licenses grant permission for reuse in any situation that requires
+permission under copyright. There are many ways in which CC-licensed work works
+and even all rights reserved works can be reused without permission. This
+includes [uses that are fair
+uses](https://creativecommons.org/faq/#do-creative-commons-licenses-affect-exceptions-and-limitations-to-copyright-such-as-fair-dealing-and-fair-use),
+for example.
 
-If someone uses a CC-licensed work with any new or developing technology, and if copyright permission is required, then the CC license allows that use without the need to seek permission from the copyright owner so long as the license conditions are respected. This is one of the enduring qualities of our licenses — they have been carefully designed to work with all new technologies where copyright comes into play. No special or explicit permission regarding new technologies from a copyright perspective is required.
+If someone uses a CC-licensed work with any new or developing technology, and
+if copyright permission is required, then the CC license allows that use
+without the need to seek permission from the copyright owner so long as the
+license conditions are respected. This is one of the enduring qualities of our
+licenses — they have been carefully designed to work with all new technologies
+where copyright comes into play. No special or explicit permission regarding
+new technologies from a copyright perspective is required.
 
 #### But what about privacy laws, rules governing ethical research, and data protection laws?
 
-CC’s copyright licenses are not universal policy tools. Copyright is the primary obstacle to reuse that our licenses solve, but there are many other issues related to the reuse of content that our licenses do not address and that reusers should know about. These can include [privacy](https://creativecommons.org/faq/#how-are-publicity-privacy-and-personality-rights-affected-when-i-apply-a-cc-license) and rules governing ethical research and the collection or use of data, which have to be addressed and respected separate and apart from the copyright issues that CC licenses cover.
+CC’s copyright licenses are not universal policy tools. Copyright is the
+primary obstacle to reuse that our licenses solve, but there are many other
+issues related to the reuse of content that our licenses do not address and
+that reusers should be aware of. These can include
+[privacy](https://creativecommons.org/faq/#how-are-publicity-privacy-and-personality-rights-affected-when-i-apply-a-cc-license)
+and rules governing ethical research and the collection or use of data, which
+have to be addressed and respected separate and apart from the copyright issues
+that CC licenses cover.
 
 #### What attribution obligations exist when CC-licensed images are included in a published dataset? Is linking to the original image or URI required, and if so, is it adequate?
 
-It depends. First, keep in mind that CC licenses never limit uses that copyright doesn’t control. For example, as a general matter text and data mining in the United States is considered a fair use and does not require permission under copyright. This means that reusers engaged in text and data mining do not have to adhere to the marking and attribution requirements in our licenses for that activity even though we strongly recommend they do so anyway. A second example is linking. In some countries, linking to copyrighted content doesn’t require permission under copyright law, which means the CC license obligations do not come into play even though the linked content is CC-licensed.
+It depends. First, keep in mind that CC licenses never limit uses that
+copyright doesn’t control. For example, as a general matter text and data
+mining in the United States is considered a fair use and does not require
+permission under copyright. This means that reusers engaged in text and data
+mining do not have to adhere to the marking and attribution requirements in our
+licenses for that activity even though we strongly recommend they do so anyway.
+A second example is linking. In some countries, linking to copyrighted content
+doesn’t require permission under copyright law, which means the CC license
+obligations do not come into play even though the linked content is
+CC-licensed.
 
-Where a CC-licensed work is distributed as part of a database or dataset, and assuming copyright (or in the European Union, copyright or sui generis database rights) is triggered, then the license conditions must be respected. This means providing the required attribution information in a way that is reasonable under the circumstances. Our licenses allow for some flexibility, and in some cases that may be as simple as providing a link to the website where the relevant attribution information is provided. Visit our [marking practices](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution) page for more information.
+Where a CC-licensed work is distributed as part of a database or dataset, and
+assuming copyright (or in the European Union, copyright or sui generis database
+rights) is triggered, then the license conditions must be respected. This means
+providing the required attribution information in a way that is reasonable
+under the circumstances. Our licenses allow for some flexibility, and in some
+cases that may be as simple as providing a link to the website where the
+relevant attribution information is provided. Visit our [marking
+practices](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution)
+page for more information.
 
 #### If a for-profit company uses CC-licensed content under a Non Commercial license and releases the work under terms that allow only research purposes, is the NC restriction violated?
 
-This depends on whether any of the uses made of the works by the company, whether for profit or non profit, are primarily intended for commercial advantage or monetary compensation. Visit our [NC page](https://wiki.creativecommons.org/wiki/NonCommercial_interpretation) for more information about what constitutes commercial and non commercial uses of works.
+This depends on whether any of the uses made of the works by the company,
+whether for profit or non profit, are primarily intended for commercial
+advantage or monetary compensation. This is hard to know without having all of
+the facts about how a work was used, whether internally by the company for its
+own purposes or how the work was distributed for further use. Visit our [NC
+page](https://wiki.creativecommons.org/wiki/NonCommercial_interpretation) for
+more information about what constitutes commercial and non commercial uses of
+works.
 
-If NC-licensed content is redistributed to the public under an NC license, that distribution would not violate the NC clause. (Note that CC strongly discourages the use of any license terms other than a CC NC license for redistributions of NC-licensed content.)
+If NC-licensed content is redistributed to the public under an NC license, that
+distribution would not violate the NC clause. (Note that CC strongly
+discourages the use of any license terms other than a CC NC license for
+redistributions of NC-licensed content.)
 
 #### If CC SA-licensed content is included in a database, does the entire database have to be licensed under an SA license?
 
-CC licenses never require a reuser of a CC-licensed work to make the original work or resulting works (collections, derivatives, etc.) publicly available. There are lots of private reuses of works that are permitted by CC's licenses that do not require compliance with their terms. Regarding ShareAlike, the condition only applies if a work is modified and if the work is shared publicly. In the situation where a reuser created a dataset of photos and made it publicly available, and assuming copyright permission is required, then what is released is likely a collection or compilation of pre-existing works. CC licenses do not require the collection or the compilation itself to be made available under an SA license, even though each individual work is still licensed individually under an SA license and if they were modified by the distributor the modified photo would need to be licensed under the same terms. For example, were Creative Commons to compile photographs from a photo sharing website under a BY-SA 2.0 license and create a database that it then publicly distributed, CC could license the collection as a whole under a BY license, but the photographs would continue to be licensed under BY-SA 2.0.
+CC licenses never require a reuser of a CC-licensed work to make the original
+work or resulting works (collections, derivatives, etc.) publicly available.
+There are lots of private reuses of works that are permitted by CC's licenses
+that do not require compliance with their terms. Regarding ShareAlike, the
+condition only applies if a work is modified and if the work is shared
+publicly. In the situation where a reuser created a dataset of photos and made
+it publicly available, and assuming copyright permission is required, then what
+is released is likely a collection or compilation of pre-existing works. CC
+licenses do not require the collection or the compilation itself to be made
+available under an SA license, even though each individual work is still
+licensed individually under an SA license and if they were modified by the
+distributor the modified photo would need to be licensed under the same terms.
+For example, were Creative Commons to compile photographs from a photo sharing
+website under a BY-SA 2.0 license and create a database that it then publicly
+distributed, CC could license the collection as a whole under a BY license, but
+the photographs would continue to be licensed under BY-SA 2.0.
 
 #### What, if any, remedies, do users have if they dislike how their photos or images have been reused?
 
-Several remedies are potentially available. Some may be available if the CC license terms have been violated, and others may be available through other, separate avenues because they involve other laws or regulations that the CC licenses do not cover. It’s important to remember, however, that absent a violation of the license the permissions granted under the [license remain in place and cannot be revoked](https://wiki.creativecommons.org/wiki/Considerations_for_licensors_and_licensees#Considerations_for_licensors).
+Several remedies are potentially available. Some may be available if the CC
+license terms have been violated, and others may be available through other,
+separate avenues because they involve other laws or regulations that the CC
+licenses do not cover. It’s important to remember, however, that absent a
+violation of the license the permissions granted under the [license remain in
+place and cannot be
+revoked](https://wiki.creativecommons.org/wiki/Considerations_for_licensors_and_licensees#Considerations_for_licensors).
 
 * Under the CC licenses, even if a license condition has not been violated licensors can ask that attribution to them be removed so they can distance themselves from the reuse.
 * For violations of a CC license term where the license was required (not a fair use, etc.) then you may have a claim for copyright infringement. Fortunately, in the CC community most license violations are handled amicably without resorting to the courts.
 * For claims involving laws and regulations other than copyright, recourse may be available depending on your local laws.
 
-An important starting point for any would-be sharer of content under a CC license is to educate yourself in advance about how they work and what rights they do and do not cover. We have many [FAQs](https://creativecommons.org/faq/) on our website. We also provide [human-readable deeds](https://creativecommons.org/licenses/by/4.0/) with links to the [full text of our licenses](https://creativecommons.org/licenses/by/4.0/legalcode). Additionally, all of our licenses highlight at the beginning many [considerations that licensors](https://wiki.creativecommons.org/wiki/Considerations_for_licensors_and_licensees#Considerations_for_licensors) should have in mind before they license, and considerations for [reusers of works](https://wiki.creativecommons.org/wiki/Considerations_for_licensors_and_licensees#Considerations_for_licensees) before they do so in order to avoid inadvertent violations.
+An important starting point for any would-be sharer of content under a CC
+license is to educate yourself in advance about how they work and what rights
+they do and do not cover. We have many [FAQs](https://creativecommons.org/faq/)
+on our website. We also provide [human-readable
+deeds](https://creativecommons.org/licenses/by/4.0/) with links to the [full
+text of our licenses](https://creativecommons.org/licenses/by/4.0/legalcode).
+Additionally, all of our licenses highlight at the beginning many
+[considerations that
+licensors](https://wiki.creativecommons.org/wiki/Considerations_for_licensors_and_licensees#Considerations_for_licensors)
+should have in mind before they license, and considerations for [reusers of
+works](https://wiki.creativecommons.org/wiki/Considerations_for_licensors_and_licensees#Considerations_for_licensees)
+before they do so in order to avoid inadvertent violations.
 
 ## Notes
 
