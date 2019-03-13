@@ -48,7 +48,7 @@ into the public domain before the expiration of copyright, and the
 [Public Domain Mark](https://creativecommons.org/publicdomain/mark/1.0),
 a tool for marking a work that is in the worldwide public domain.
 Creative Commons licenses and tools were designed specifically to work
-with the web, which makes content that is offered under their terms easy 
+with the web, which makes content that is offered under their terms easy
 to search for, discover, and use.
 
 For more information about CC, our [main
@@ -487,7 +487,7 @@ context.](https://wiki.creativecommons.org/wiki/Intergovernmental_Organizations)
 <span id="What_are_the_official_translations_of_the_CC_licenses"></span>
 <span id="officialtranslations"></span>
 
-#### Can children apply Creative Commons licenses to work they create? 
+#### Can children apply Creative Commons licenses to work they create?
 
 This issue depends largely on the laws in place where the child lives. In the United States, children can be copyright holders and are entitled to license their works in the same manner as adults. However, they may have the right to disaffirm certain types of legal agreements, including licenses. In many parts of the United States, for example, children have the ability to disaffirm some types of agreements under certain circumstances once they reach the age where they are considered adults within the relevant jurisdiction. We are unaware of any attempt by a licensor to exercise the disaffirmation right with respect to a CC license applied to a work.
 
@@ -1653,11 +1653,11 @@ permission to reuse the photograph in a different resolution.
 
 #### Can I reuse an excerpt of a larger work that is licensed with the NoDerivs restriction?
 
-The NoDerivs licenses (BY-ND and BY-NC-ND) prohibit reusers from creating adaptations. What constitutes an [adaptation](https://creativecommons.org/faq/#when-is-my-use-considered-an-adaptation), otherwise known as a derivative work, varies slightly based on the law of the relevant jurisdiction. 
+The NoDerivs licenses (BY-ND and BY-NC-ND) prohibit reusers from creating adaptations. What constitutes an [adaptation](https://creativecommons.org/faq/#when-is-my-use-considered-an-adaptation), otherwise known as a derivative work, varies slightly based on the law of the relevant jurisdiction.
 
-Incorporating an unaltered excerpt from an ND-licensed work into a larger work only creates an adaptation if the larger work can be said to be built upon and derived from the work from which the excerpt was taken. Generally, no derivative work is made of the original from which the excerpt was taken when the excerpt is used to illuminate an idea or provide an example in another larger work. Instead, only the reproduction right of the original copyright holder is being exercised by person reusing the excerpt. All CC licenses grant the right to reproduce a CC-licensed work for noncommercial purposes (at a minimum).   For example, a person could make copies of one chapter of an ND-licensed book and not be in violation of the license so long as other conditions of the license are met. 
+Incorporating an unaltered excerpt from an ND-licensed work into a larger work only creates an adaptation if the larger work can be said to be built upon and derived from the work from which the excerpt was taken. Generally, no derivative work is made of the original from which the excerpt was taken when the excerpt is used to illuminate an idea or provide an example in another larger work. Instead, only the reproduction right of the original copyright holder is being exercised by person reusing the excerpt. All CC licenses grant the right to reproduce a CC-licensed work for noncommercial purposes (at a minimum).   For example, a person could make copies of one chapter of an ND-licensed book and not be in violation of the license so long as other conditions of the license are met.
 
-There are exceptions to that general rule, however, when the excerpts are combined with other material in a way that creates some new version of the original from which the excerpt is taken. For example, if a portion of a song was used as part of a new song, that may rise to the level of creating an adaptation of the original song, even though only a portion of it was used and even if that portion was used as-is. 
+There are exceptions to that general rule, however, when the excerpts are combined with other material in a way that creates some new version of the original from which the excerpt is taken. For example, if a portion of a song was used as part of a new song, that may rise to the level of creating an adaptation of the original song, even though only a portion of it was used and even if that portion was used as-is.
 
 
 #### Can I use effective technological measures (such as DRM) when I share CC-licensed material?
@@ -2828,7 +2828,7 @@ have in the individual contents of the database.
 
 #### What are the limits on how CC-licensed works can be used in the development of new technologies, such as training of artificial intelligence software?
 
-The licenses grant permission for reuse in any situation that requires permission under copyright. There are many ways in which a CC-licensed work (or even an all rights reserved work, for that matter) can be reused without permission. This includes [uses that are fair uses](https://creativecommons.org/faq/#do-creative-commons-licenses-affect-exceptions-and-limitations-to-copyright-such-as-fair-dealing-and-fair-use), for example. 
+The licenses grant permission for reuse in any situation that requires permission under copyright. There are many ways in which a CC-licensed work (or even an all rights reserved work, for that matter) can be reused without permission. This includes [uses that are fair uses](https://creativecommons.org/faq/#do-creative-commons-licenses-affect-exceptions-and-limitations-to-copyright-such-as-fair-dealing-and-fair-use), for example.
 
 If someone uses a CC-licensed work with any new or developing technology, and if copyright permission is required, then the CC license allows that use without the need to seek permission from the copyright owner so long as the license conditions are respected. This is one of the enduring qualities of our licenses — they have been carefully designed to work with all new technologies where copyright comes into play. No special or explicit permission regarding new technologies from a copyright perspective is required.
 
