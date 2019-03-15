@@ -84,7 +84,7 @@ reform](https://creativecommons.org/about/reform).
 
 #### What does "Some Rights Reserved" mean?
 
-[Copyright](http://creativecommons.org/faq/#What-is-copyright-and-why-does-it-matter )
+[Copyright](http://creativecommons.org/faq/#what-is-copyright-and-why-does-it-matter )
 grants to creators a bundle of exclusive rights over their creative
 works, which generally include, at a minimum, the right to reproduce,
 distribute, display, and make adaptations. The phrase "All Rights
@@ -262,7 +262,7 @@ to CC, the more independent it will remain.
 [Creative Commons licenses](https://creativecommons.org/licenses) provide
 an easy way to manage the copyright terms that attach automatically to
 all creative material under
-[copyright](#What-is-copyright-and-why-does-it-matter ).
+[copyright](#what-is-copyright-and-why-does-it-matter ).
 Our licenses allow that material to be shared and reused under terms
 that are flexible and legally sound. Creative Commons offers a core
 suite of six copyright licenses. Because there is no single "Creative
