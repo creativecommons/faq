@@ -20,7 +20,7 @@ pandoc --from markdown --to html5 --ascii \
     --variable pagetitle:'Frequently Asked Questions' \
     --variable title:'Frequently Asked Questions' \
     --variable lastmodified:"${DATE}" \
-    --output faq-en.html faq-en.md
+    --output faq/index.html faq-en.md
 
 pandoc --from markdown --to html5 --ascii \
     --toc --toc-depth 4 \
@@ -30,4 +30,4 @@ pandoc --from markdown --to html5 --ascii \
     --variable title:'Foire Aux Questions' \
     --variable lastmodified:"${DATE}" \
     --variable toctitle:'Table des matières' \
-    --output faq-fr.html faq-fr.md
+    --output faq/fr/index.html faq-fr.md
