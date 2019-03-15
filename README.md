@@ -17,11 +17,15 @@ script.
 2. `./build.sh`
 3. `git diff` to review changes
 4. Commit your changes
-5. Manually copy the files into place on the `faq` server:
-   - `faq-en.html` => `/var/www/html/faq/index.html`
-   - `faq-fr.html` => `/var/www/html/faq/fr/index.html`
+5. Pull changes on `faq` server:
+   ```shell
+   cd /var/www/faq
+   sudo git pull
+   ```
 6. Restart varish on the `www` server:
-   - `sudo service varnish restart`
+   ```shell
+   sudo service varnish restart
+   ```
 
 
 # License
