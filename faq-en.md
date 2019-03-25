@@ -198,7 +198,7 @@ feedback and ideas in one of those forums.
 
 If you are a software developer, sysadmin, or have other technical
 expertise, please [join our developer
-community](http://lists.ibiblio.org/mailman/listinfo/cc-devel) and help
+community](https://creativecommons.github.io/community/) and help
 build the tools that build the commons.
 
 Finally, one of the best ways to support CC is by supporting our causes
