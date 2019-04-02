@@ -84,7 +84,7 @@ reform](https://creativecommons.org/about/reform).
 
 #### What does "Some Rights Reserved" mean?
 
-[Copyright](http://creativecommons.org/faq/#what-is-copyright-and-why-does-it-matter )
+[Copyright](#what-is-copyright-and-why-does-it-matter)
 grants to creators a bundle of exclusive rights over their creative
 works, which generally include, at a minimum, the right to reproduce,
 distribute, display, and make adaptations. The phrase "All Rights
@@ -915,7 +915,7 @@ conditions if they reproduce your entire photograph in verbatim form,
 absent some applicable exception or limitation such as fair use.
 However, [they would not have to comply with the license conditions if
 they reproduce only those parts of the work in the public
-domain](https://creativecommons.org/faq/#do-i-always-have-to-comply-with-the-license-terms-if-not-what-are-the-exceptions "wikilink").
+domain](#do-i-always-have-to-comply-with-the-license-terms-if-not-what-are-the-exceptions "wikilink").
 This is because your copyright in the adaptation only extends to the
 material you contributed, not to the underlying work.
 
@@ -940,9 +940,9 @@ more considerations for licensors
 CC licenses are copyright licenses, but the latest version of CC
 licenses also cover certain other rights similar to copyright, including
 [performance, broadcast, and sound recording
-rights](https://creativecommons.org/faq/#what-are-neighboring-rights "wikilink"),
+rights](#what-are-neighboring-rights "wikilink"),
 as well as [sui generis database
-rights](https://creativecommons.org/faq/#what-are-sui-generis-database-rights "wikilink"). You may
+rights](#what-are-sui-generis-database-rights "wikilink"). You may
 apply a 4.0 license to material subject to any of those rights, whether
 or not the material is also subject to copyright. Note that the scope of
 prior versions of CC licenses was more limited. You should refer to our
@@ -1009,7 +1009,7 @@ trademarks, refer to
 When you apply the latest version (4.0) of a CC license to your
 material, you also agree to waive or not assert any [publicity, privacy,
 or personality
-rights](https://creativecommons.org/faq/#what-are-publicity-personality-and-privacy-rights "wikilink")
+rights](#what-are-publicity-personality-and-privacy-rights "wikilink")
 that you hold in the material you are licensing, to the limited extent
 necessary for others to exercise the licensed rights. For example, if
 you have licensed a photograph of yourself, you may not assert your
@@ -1038,24 +1038,24 @@ website, but only distribute high-resolution copies to people who have
 paid for access. This is a practice CC supports. However, if the
 low-resolution and high-resolution copies are the [same work under
 applicable copyright
-law](https://creativecommons.org/faq/#how-do-i-know-if-a-low-resolution-photo-and-a-high-resolution-photo-are-the-same-work "wikilink"),
+law](#how-do-i-know-if-a-low-resolution-photo-and-a-high-resolution-photo-are-the-same-work "wikilink"),
 permission under a CC license is not limited to a particular copy, and
 someone who receives a copy in high resolution may use it under the
 terms of the CC license applied to the low-resolution copy.
 
 Note that, although CC [strongly discourages the
-practice](https://creativecommons.org/faq/#can-i-enter-into-separate-or-supplemental-agreements-with-users-of-my-work "wikilink"),
+practice](#can-i-enter-into-separate-or-supplemental-agreements-with-users-of-my-work "wikilink"),
 CC cannot prevent licensors from attempting to impose restrictions
 through separate agreements on uses the license otherwise would allow.
 In that case, licensees may be [contractually
-restricted](https://creativecommons.org/faq/#what-if-i-have-received-cc-licensed-material-with-additional-restrictions "wikilink")
+restricted](#what-if-i-have-received-cc-licensed-material-with-additional-restrictions "wikilink")
 from using the high-resolution copy, for example, even if the licensor
 has placed a CC license on the low-resolution copy.
 
 #### Can I use a Creative Commons license if I am a member of a collecting society?
 
 Creators and other rights holders may wish to check with their
-[collecting society](https://creativecommons.org/faq/#what-are-collecting-societies "wikilink")
+[collecting society](#what-are-collecting-societies "wikilink")
 before applying a CC license to their material. Many rights holders who
 are members of a collecting society can waive the right to collect
 royalties for uses allowed under the license, but only to the extent
@@ -1084,7 +1084,7 @@ experiment with new ways to promote and market their work. There are
 several possible ways of doing this.
 
 CC's [NonCommercial
-(NC)](https://creativecommons.org/faq/#Does_my_use_violate_the_NonCommercial_clause_of_the_licenses "wikilink")
+(NC)](#Does_my_use_violate_the_NonCommercial_clause_of_the_licenses "wikilink")
 licenses allow rights holders to maximize distribution while maintaining
 control of the commercialization of their works. If you want to reserve
 the right to commercialize your work, you may do this by choosing a
@@ -1184,14 +1184,14 @@ to fee-paying customers.
 terms or arrangements to serve not as separate, alternative licensing
 arrangements but as supplemental terms [having the effect of changing
 the standard terms within the CC
-license](https://creativecommons.org/faq/#can-i-waive-license-terms-or-conditions "wikilink").
+license](#can-i-waive-license-terms-or-conditions "wikilink").
 While you may offer separate terms and conditions to other parties, you
 should not do so in such a way that would neutralize terms of the CC
 license.
 
 Except in the limited situation where [more permissions are being
 granted or license conditions are
-waived](https://creativecommons.org/faq/#can-i-waive-license-terms-or-conditions "wikilink"),
+waived](#can-i-waive-license-terms-or-conditions "wikilink"),
 if the additional arrangement modifies or conflicts with the CC license
 terms, then the resulting licensing arrangement is no longer a CC
 licensing arrangement. To avoid confusing those who may mistakenly
@@ -1219,7 +1219,7 @@ constitute copyright infringement.
 #### What happens if I offer my material under a Creative Commons license and someone misuses them?
 
 A CC license [terminates
-automatically](https://creativecommons.org/faq/#how-can-i-lose-my-rights-under-a-creative-commons-license-if-that-happens-how-do-i-get-them-back "wikilink")
+automatically](#how-can-i-lose-my-rights-under-a-creative-commons-license-if-that-happens-how-do-i-get-them-back "wikilink")
 when its conditions are violated. For example, if a reuser of
 CC-licensed material does not provide the attribution required when
 sharing the work, then the user no longer has the right to continue
@@ -1237,7 +1237,7 @@ rectify the situation or consult a lawyer to act on your behalf.
 Creative Commons is not a law firm and cannot represent you or give you
 legal advice, but there are [lawyers who have identified themselves as
 interested in representing people in CC-related
-matters](#https://creativecommons.org/faq/#Can_Creative_Commons_give_legal_advice_about_its_licenses_or_other_tools.2C_or_help_with_CC_license_enforcement.3F "wikilink").
+matters](#Can_Creative_Commons_give_legal_advice_about_its_licenses_or_other_tools.2C_or_help_with_CC_license_enforcement.3F "wikilink").
 
 <span id="What_can_I_do_if_I_offer_my_work_under_a_Creative_Commons_license_and_I_do_not_like_the_way_someone_uses_my_work"></span>
 
@@ -1251,7 +1251,7 @@ disagree.
 
 First, all CC licenses [prohibit using the attribution requirement to
 suggest that the licensor endorses or supports a particular
-use](https://creativecommons.org/faq/#do-i-need-to-be-aware-of-anything-else-when-providing-attribution "wikilink").
+use](#do-i-need-to-be-aware-of-anything-else-when-providing-attribution "wikilink").
 Second, licensors may waive the attribution requirement, choosing not to
 be identified as the licensor, if they wish. Third, if the licensor does
 not like how the material has been modified or used, CC licenses require
@@ -1272,12 +1272,12 @@ the licensor approves of them--are not attributed back to the licensor.
 
 The use of [any effective technical protection measures (such as digital
 rights management or
-"DRM")](#https://creativecommons.org/faq/#can-i-use-effective-technological-measures-such-as-drm-when-i-share-cc-licensed-material )
+"DRM")](#can-i-use-effective-technological-measures-such-as-drm-when-i-share-cc-licensed-material )
 by licensees to prevent others from exercising the licensed rights is
 prohibited.
 
 Not all kinds of encryption or [access
-limitations](https://creativecommons.org/faq/#can-i-share-cc-licensed-material-on-password-protected-sites "wikilink")
+limitations](#can-i-share-cc-licensed-material-on-password-protected-sites "wikilink")
 are prohibited by the licenses. For example, sending content via email
 and encrypting it with the recipient's public key does not restrict use
 of the work by the recipient. Likewise, limiting recipients to a
@@ -1313,7 +1313,7 @@ licensor, you may stop distributing under the CC license at any time,
 but anyone who has access to a copy of the material may continue to
 redistribute it under the CC license terms. While you cannot revoke the
 license, CC licenses do provide a
-[mechanism](https://creativecommons.org/faq/#what-can-i-do-if-i-offer-my-material-under-a-creative-commons-license-and-i-do-not-like-the-way-someone-uses-it "wikilink")
+[mechanism](#what-can-i-do-if-i-offer-my-material-under-a-creative-commons-license-and-i-do-not-like-the-way-someone-uses-it "wikilink")
 for licensors to ask that others using their material remove the
 attribution information. You should [think carefully before choosing a
 Creative Commons
@@ -1340,14 +1340,14 @@ use. Note that if you use material in a way that is not permitted by the
 applicable license and your use is not otherwise permitted by an
 applicable copyright exception or limitation, the license is
 [automatically
-terminated](https://creativecommons.org/faq/#how-can-i-lose-my-rights-under-a-creative-commons-license-if-that-happens-how-do-i-get-them-back "wikilink")
+terminated](#how-can-i-lose-my-rights-under-a-creative-commons-license-if-that-happens-how-do-i-get-them-back "wikilink")
 and you may be liable for copyright infringement, even if you are
 eligible to have your rights reinstated later.
 
 Before using material offered under a Creative Commons license, you
 should know that [CC licenses only grant permissions needed under
 copyright and similar
-rights](https://creativecommons.org/faq/#does-a-creative-commons-license-give-me-all-the-rights-i-need-to-use-the-work "wikilink"),
+rights](#does-a-creative-commons-license-give-me-all-the-rights-i-need-to-use-the-work "wikilink"),
 and there may be additional rights you need to use it as intended. You
 should also understand that licensors do not offer warranties or
 guarantees about the material they are licensing unless expressly
@@ -1362,14 +1362,14 @@ should talk with the licensor before using it.
 
 It depends. CC licenses do not license rights other than copyright and
 [similar
-rights](https://creativecommons.org/faq/#can-i-use-cc-licenses-to-license-rights-other-than-copyright "wikilink")
+rights](#can-i-use-cc-licenses-to-license-rights-other-than-copyright "wikilink")
 (which include [sui generis database
-rights](https://creativecommons.org/faq/#what-are-sui-generis-database-rights "wikilink") in version
+rights](#what-are-sui-generis-database-rights "wikilink") in version
 4.0). For example, they do not license trademark or patent rights, or
 the [publicity, personality, and privacy
-rights](https://creativecommons.org/faq/#what-are-publicity-personality-and-privacy-rights "wikilink")
+rights](#what-are-publicity-personality-and-privacy-rights "wikilink")
 of third parties. However, licensors agree to waive or not assert any
-[moral rights](https://creativecommons.org/faq/#what-are-moral-rights "wikilink"), publicity rights,
+[moral rights](#what-are-moral-rights "wikilink"), publicity rights,
 personality rights, or privacy rights they themselves hold, to the
 limited extent necessary to allow exercise of the licensed rights. Any
 rights outside of the scope of the license may require clearance (i.e.,
@@ -1390,7 +1390,7 @@ she owns the copyright, has received permission to include third-party
 content within her work, or secured other rights such as through the use
 of model releases if a person's image is used in the work. You [may wish
 to obtain legal
-advice](https://creativecommons.org/faq/#can-creative-commons-give-legal-advice-about-its-licenses-or-other-tools-or-help-with-cc-license-enforcement "wikilink")
+advice](#can-creative-commons-give-legal-advice-about-its-licenses-or-other-tools-or-help-with-cc-license-enforcement "wikilink")
 before using CC-licensed material if you are not sure whether you have
 all the rights you need.
 
@@ -1430,7 +1430,7 @@ uses permitted by the license without paying licensing fees.
 
 (If you wish to make uses that are not permitted by the license—for
 example, making a [commercial
-use](https://creativecommons.org/faq/#Does_my_use_violate_the_NonCommercial_clause_of_the_licenses "wikilink")
+use](#Does_my_use_violate_the_NonCommercial_clause_of_the_licenses "wikilink")
 of an NC-licensed photo—the licensor may charge for those additional
 rights.)
 
@@ -1439,7 +1439,7 @@ rights.)
 As a licensee, you should always read and understand the relevant
 license's legal code before using CC-licensed material, particularly if
 you are using material that is licensed using a [ported
-license](https://creativecommons.org/faq/#what-are-the-international-unported-creative-commons-licenses-and-why-does-cc-offer-ported-licenses "wikilink")
+license](#what-are-the-international-unported-creative-commons-licenses-and-why-does-cc-offer-ported-licenses "wikilink")
 with which you are unfamiliar. Our porting process involved adapting the
 international licenses to the legal framework of different
 jurisdictions, and in that process slight adjustments may have been made
@@ -1468,11 +1468,11 @@ a few of the ported licenses contain forum selection clauses.
 
 Contact the rights holders to ask for permission. Otherwise, [unless an
 exception or limitation to copyright
-applies](https://creativecommons.org/faq/#do-i-always-have-to-comply-with-the-license-terms-if-not-what-are-the-exceptions "wikilink"),
+applies](#do-i-always-have-to-comply-with-the-license-terms-if-not-what-are-the-exceptions "wikilink"),
 your use of the material may violate the Creative Commons license. If
 you violate the terms of the license, your rights to use the material
 will be [automatically
-terminated](https://creativecommons.org/faq/#how-can-i-lose-my-rights-under-a-creative-commons-license-if-that-happens-how-do-i-get-them-back "wikilink"),
+terminated](#how-can-i-lose-my-rights-under-a-creative-commons-license-if-that-happens-how-do-i-get-them-back "wikilink"),
 and you may be liable for copyright infringement.
 
 #### Do I always have to comply with the license terms? If not, what are the exceptions?
@@ -1504,9 +1504,9 @@ this.
 
 All CC licenses require users to attribute the creator of licensed
 material, unless the creator has [waived that
-requirement](https://creativecommons.org/faq/#can-i-waive-license-terms-or-conditions "wikilink"),
+requirement](#can-i-waive-license-terms-or-conditions "wikilink"),
 not supplied a name, or [asked that her name be
-removed](https://creativecommons.org/faq/#what-can-i-do-if-i-offer-my-material-under-a-creative-commons-license-and-i-do-not-like-the-way-someone-uses-it "wikilink").
+removed](#what-can-i-do-if-i-offer-my-material-under-a-creative-commons-license-and-i-do-not-like-the-way-someone-uses-it "wikilink").
 Additionally, you must retain a copyright notice, a link to the license
 (or to the deed), a license notice, a notice about the disclaimer of
 warranties, and a URI if reasonable. For versions prior to 4.0, you must
@@ -1559,7 +1559,7 @@ else endorses you or your use of a work may be unlawful. Creative
 Commons makes the obligation not to imply endorsement explicit in its
 licenses. In addition, if the licensor of a work [requests that you
 remove the identifying
-credit](https://creativecommons.org/faq/#what-can-i-do-if-i-offer-my-material-under-a-creative-commons-license-and-i-do-not-like-the-way-someone-uses-it "wikilink"),
+credit](#what-can-i-do-if-i-offer-my-material-under-a-creative-commons-license-and-i-do-not-like-the-way-someone-uses-it "wikilink"),
 you must do so to the extent practical.
 
 Additionally, when you are using a work that is an adaptation of one or
@@ -1577,7 +1577,7 @@ adaptations of it available to others, you do not have to attribute the
 licensor. Similarly, if you are only distributing the material or
 adaptations of it within your company or organization, you do not have
 to comply with the attribution requirement. Learn
-[more](https://creativecommons.org/faq/#do-i-always-have-to-comply-with-the-license-terms-if-not-what-are-the-exceptions "wikilink")
+[more](#do-i-always-have-to-comply-with-the-license-terms-if-not-what-are-the-exceptions "wikilink")
 about when compliance with the license is not required.
 
 ### Using licensed material
@@ -1653,7 +1653,7 @@ permission to reuse the photograph in a different resolution.
 
 #### Can I reuse an excerpt of a larger work that is licensed with the NoDerivs restriction?
 
-The NoDerivs licenses (BY-ND and BY-NC-ND) prohibit reusers from creating adaptations. What constitutes an [adaptation](https://creativecommons.org/faq/#when-is-my-use-considered-an-adaptation), otherwise known as a derivative work, varies slightly based on the law of the relevant jurisdiction.
+The NoDerivs licenses (BY-ND and BY-NC-ND) prohibit reusers from creating adaptations. What constitutes an [adaptation](#when-is-my-use-considered-an-adaptation), otherwise known as a derivative work, varies slightly based on the law of the relevant jurisdiction.
 
 Incorporating an unaltered excerpt from an ND-licensed work into a larger work only creates an adaptation if the larger work can be said to be built upon and derived from the work from which the excerpt was taken. Generally, no derivative work is made of the original from which the excerpt was taken when the excerpt is used to illuminate an idea or provide an example in another larger work. Instead, only the reproduction right of the original copyright holder is being exercised by person reusing the excerpt. All CC licenses grant the right to reproduce a CC-licensed work for noncommercial purposes (at a minimum).   For example, a person could make copies of one chapter of an ND-licensed book and not be in violation of the license so long as other conditions of the license are met.
 
@@ -1694,7 +1694,7 @@ For example, you may post material under any CC license on a site
 restricted to members of a certain school, or to paying customers, but
 [you may not place effective technological measures (including DRM) on
 the
-files](https://creativecommons.org/faq/#can-i-use-effective-technological-measures-such-as-drm-when-i-share-cc-licensed-material "wikilink")
+files](#can-i-use-effective-technological-measures-such-as-drm-when-i-share-cc-licensed-material "wikilink")
 that prevents them from sharing the material elsewhere.
 
 (Note that charging for access may not be permitted with NC-licensed
@@ -1732,7 +1732,7 @@ It is possible that CC-licensed material will appear on platforms that
 impose terms in addition to the copyright license (though [Creative
 Commons strongly discourages restrictions that interfere with exercise
 of the licensed
-rights](https://creativecommons.org/faq/#can-i-enter-into-separate-or-supplemental-agreements-with-users-of-my-work "wikilink")).
+rights](#can-i-enter-into-separate-or-supplemental-agreements-with-users-of-my-work "wikilink")).
 These additional terms do not form part of the license for the work. For
 example, if you download CC-licensed material from a site that does not
 permit downloading, you may be breaking the terms of use of the site,
@@ -1747,7 +1747,7 @@ and information.
 #### When is my use considered an adaptation?
 
 Whether a modification of licensed material is considered an
-[adaptation](https://creativecommons.org/faq/#what-is-an-adaptation "wikilink") for the purpose of CC
+[adaptation](#what-is-an-adaptation "wikilink") for the purpose of CC
 licenses depends primarily on the applicable copyright law. Copyright
 law reserves to an original creator the right to create adaptations of
 the original work. CC licenses that allow for adaptations to be
@@ -1771,7 +1771,7 @@ For more details about adaptations in the database context, see the
 
 Note that all CC licenses allow the user to exercise the rights
 permitted under the license [in any format or
-medium](https://creativecommons.org/faq/#can-i-take-a-cc-licensed-work-and-use-it-in-a-different-format "wikilink").
+medium](#can-i-take-a-cc-licensed-work-and-use-it-in-a-different-format "wikilink").
 Those changes are not considered adaptations even if applicable law
 would suggest otherwise. For example, you may redistribute a book that
 uses the CC
@@ -1783,7 +1783,7 @@ compliance with the other terms of the license.
 ***Note on terminology: throughout these FAQs, we use the term "remix"
 interchangeably with “adapt.” Both are designed to mean doing something
 that constitutes an [adaptation under copyright
-law](https://creativecommons.org/faq/#what-is-an-adaptation "wikilink").***
+law](#what-is-an-adaptation "wikilink").***
 
 <span id="If_I_use_a_Creative_Commons-licensed_work_with_other_works.2C_do_I_have_to_Creative_Commons_license_everything_else_as_well"></span>
 <span id="Can_I_combine_two_different_Creative_Commons_licensed_works_Can_I_combine_a_Creative_Commons_licensed_work_with_another_non-CC_licensed_work"></span>
@@ -1792,7 +1792,7 @@ law](https://creativecommons.org/faq/#what-is-an-adaptation "wikilink").***
 #### Can I combine material under different Creative Commons licenses in my work?
 
 It depends. The first question to ask is whether doing so constitutes an
-[adaptation.](https://creativecommons.org/faq/#When_is_my_use_considered_an_adaptation "wikilink")
+[adaptation.](#When_is_my_use_considered_an_adaptation "wikilink")
 If the combination does ***not*** create an adaptation, then you may
 combine any CC-licensed content so long as you provide attribution and
 comply with the NonCommercial restriction if it applies. If you want to
@@ -1811,10 +1811,10 @@ material contributed to the remix is licensed under the same license or
 compatible](https://creativecommons.org/compatiblelicenses), and you must
 [properly credit all of the sources](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution "wikilink") with the
 [required
-attribution](https://creativecommons.org/faq/#how-do-i-properly-attribute-material-offered-under-a-creative-commons-license "wikilink")
+attribution](#how-do-i-properly-attribute-material-offered-under-a-creative-commons-license "wikilink")
 and license information. Similarly, if you want to use a remix for
 [commercial
-purposes](https://creativecommons.org/faq/#Does_my_use_violate_the_NonCommercial_clause_of_the_licenses "wikilink"),
+purposes](#Does_my_use_violate_the_NonCommercial_clause_of_the_licenses "wikilink"),
 you cannot incorporate material released under one of the NonCommercial
 licenses.
 
@@ -1824,7 +1824,7 @@ If there is a check mark in the box where that row and column intersect,
 then the works can be remixed. If there is an “X” in the box, then the
 works may not be remixed unless an exception or limitation applies. See
 [below for details on how remixes may be
-licensed](https://creativecommons.org/faq/#if-i-derive-or-adapt-material-offered-under-a-creative-commons-license-which-cc-licenses-can-i-use "wikilink").
+licensed](#if-i-derive-or-adapt-material-offered-under-a-creative-commons-license-which-cc-licenses-can-i-use "wikilink").
 
 <img src="/faq/CC_License_Compatibility_Chart.png" class="img-responsive" />
 
@@ -1834,7 +1834,7 @@ licensed](https://creativecommons.org/faq/#if-i-derive-or-adapt-material-offered
 #### If I derive or adapt material offered under a Creative Commons license, which CC license(s) can I use?
 
 If you make
-[adaptations](https://creativecommons.org/faq/#When_is_my_use_considered_an_adaptation "wikilink")
+[adaptations](#When_is_my_use_considered_an_adaptation "wikilink")
 of material under a CC license (i.e. "remix"), the original CC license
 always applies to the material you are adapting even once adapted. The
 license you may choose for your own contribution (called your "adapter's
@@ -2001,7 +2001,7 @@ When you include CC-licensed content in a collection, you still must
 adhere to the license conditions governing your use of the material
 incorporated. For example, material under any of the Creative Commons
 NonCommercial licenses cannot be used
-[commercially](https://creativecommons.org/faq/#does-my-use-violate-the-noncommercial-clause-of-the-licenses "wikilink").
+[commercially](#does-my-use-violate-the-noncommercial-clause-of-the-licenses "wikilink").
 The table below indicates what type of CC-licensed works you may
 incorporate into collections licensed for commercial and noncommercial
 uses.
@@ -2062,7 +2062,7 @@ example, you may have a CC-licensed song where the rights in the musical
 arrangement expire before the rights in the lyrics. In this case, when
 the copyright in the music expires, you may use it [without being
 required to comply with the conditions of the CC
-license](https://creativecommons.org/faq/#do-i-always-have-to-comply-with-the-license-terms-if-not-what-are-the-exceptions "wikilink");
+license](#do-i-always-have-to-comply-with-the-license-terms-if-not-what-are-the-exceptions "wikilink");
 however, you must still comply with the license if you use the lyrics.
 
 #### What happens if the author decides to revoke the CC license to material I am using?
@@ -2133,7 +2133,7 @@ recommends:
 -   Including a link to the human-readable deed (which itself contains a
     link to the legal code).
 -   Embedding
-    [machine-readable](https://creativecommons.org/faq/#what-does-it-mean-that-creative-commons-licenses-are-machine-readable "wikilink")
+    [machine-readable](#what-does-it-mean-that-creative-commons-licenses-are-machine-readable "wikilink")
     metadata in the code of the license indicator or code of the
     licensed page.
 
@@ -2267,7 +2267,7 @@ Licensed Rights by any such recipient.”
 While licensors may apply effective technological measures (ETMs) to
 their own materials, the licensor provides a [limited permission to
 circumvent these
-measures](https://creativecommons.org/faq/#what-if-i-received-cc-licensed-material-encumbered-with-effective-technological-measures-such-as-drm ):
+measures](#what-if-i-received-cc-licensed-material-encumbered-with-effective-technological-measures-such-as-drm ):
 “The Licensor waives and/or agrees not to assert any right or authority
 to forbid You from making technical modifications necessary to exercise
 the Licensed Rights, including technical modifications necessary to
@@ -2389,7 +2389,7 @@ The CC licenses are intended to minimize the effect of moral rights on a
 licensee’s ability to use licensed material; however, in some
 jurisdictions, these rights may still have an effect. CC offers some
 additional information on [how CC licenses may affect your moral
-rights](https://creativecommons.org/faq/#how-do-creative-commons-licenses-affect-my-moral-rights-if-at-all "wikilink").
+rights](#how-do-creative-commons-licenses-affect-my-moral-rights-if-at-all "wikilink").
 
 #### What are neighboring rights?
 
@@ -2448,7 +2448,7 @@ what extent these rights exist, and if so, how they are labeled, varies
 depending on the jurisdiction.
 
 [Creative Commons licenses have a limited effect on these
-rights](https://creativecommons.org/faq/#how-are-publicity-privacy-and-personality-rights-affected-when-i-apply-a-cc-license "wikilink")
+rights](#how-are-publicity-privacy-and-personality-rights-affected-when-i-apply-a-cc-license "wikilink")
 where the licensor holds them. Where the licensor has publicity,
 personality, or privacy rights that may affect your ability to use the
 material as the license intends, the licensor agrees to waive or not
@@ -2491,11 +2491,11 @@ data. For case studies about how these tools are applied, see:
 #### Can databases be released under CC licenses?
 
 Yes, [CC licenses can be used to license
-databases](https://creativecommons.org/faq/#can-i-apply-a-creative-commons-license-to-databases "wikilink").
+databases](#can-i-apply-a-creative-commons-license-to-databases "wikilink").
 The most recent version (4.0) may be used to license databases subject
 to copyright and, where applicable, sui generis database rights. Sui
 generis database rights prevent copying and reusing of [substantial
-parts](https://creativecommons.org/faq/#what-constitutes-a-substantial-portion-of-a-database "wikilink")
+parts](#what-constitutes-a-substantial-portion-of-a-database "wikilink")
 of a database (including frequent extraction of insubstantial parts).
 However unlike copyright, database rights protect the maker's
 investment, not originality.
@@ -2516,16 +2516,16 @@ potential users, encouraging maximal reuse and sharing of information.
 
 The license terms and conditions apply to the database structure (its
 selection and arrangement, [to the extent
-copyrightable](https://creativecommons.org/faq/#which-components-of-databases-are-protected-by-copyright "wikilink")),
+copyrightable](#which-components-of-databases-are-protected-by-copyright "wikilink")),
 its contents (if copyrightable), and in those instances where the
 database maker has [sui generis database
-rights](https://creativecommons.org/faq/#which-components-of-a-database-are-protected-by-sui-generis-database-rights "wikilink")
+rights](#which-components-of-a-database-are-protected-by-sui-generis-database-rights "wikilink")
 then the rights that are granted those makers. Notwithstanding,
 licensors can choose to license some rather than all of the rights they
 have in a database. Creative Commons advises against this practice.
 However, if a licensor chooses to do so anyway, we strongly encourage
 licensors to clearly demarcate what is and is not licensed. See
-[below](https://creativecommons.org/faq/#how-do-i-apply-a-cc-legal-tool-to-a-database "wikilink")
+[below](#how-do-i-apply-a-cc-legal-tool-to-a-database "wikilink")
 for more information regarding how to provide clear notice of what is
 licensed.
 
@@ -2555,26 +2555,26 @@ more information on how to clearly distinguish unlicensed content.
 
 Under version 4.0, if an NC license has been applied then any use of the
 licensed database or its contents [that is restricted by copyright
-law](https://creativecommons.org/faq/#how-do-i-know-whether-a-particular-use-of-a-database-is-restricted-by-copyright "wikilink")
+law](#how-do-i-know-whether-a-particular-use-of-a-database-is-restricted-by-copyright "wikilink")
 or [sui generis database
-rights](https://creativecommons.org/faq/#how-do-i-know-whether-a-particular-use-of-a-database-is-restricted-by-sui-generis-database-rights "wikilink")
+rights](#how-do-i-know-whether-a-particular-use-of-a-database-is-restricted-by-sui-generis-database-rights "wikilink")
 requires compliance with the [NC
-term](https://creativecommons.org/faq/#does-my-use-violate-the-noncommercial-clause-of-the-licenses "wikilink"),
+term](#does-my-use-violate-the-noncommercial-clause-of-the-licenses "wikilink"),
 even if the database is not publicly shared. The other license elements
 (BY, ND, and SA, as applicable) must be complied with only if your use
 is so restricted and public sharing is involved. Learn more about how to
 comply when [your use implicates
-copyright](https://creativecommons.org/faq/#if-my-use-of-a-database-is-restricted-by-sui-generis-database-rights-how-do-i-comply-with-the-license "wikilink")
+copyright](#if-my-use-of-a-database-is-restricted-by-sui-generis-database-rights-how-do-i-comply-with-the-license "wikilink")
 and/or [sui generis database
-rights](https://creativecommons.org/faq/#if-my-use-of-a-database-is-restricted-by-sui-generis-database-rights-how-do-i-comply-with-the-license "wikilink").
+rights](#if-my-use-of-a-database-is-restricted-by-sui-generis-database-rights-how-do-i-comply-with-the-license "wikilink").
 
 Prior CC license versions do not require compliance with the license
 restrictions or conditions when only sui generis database rights (and
 not copyright) are implicated. Please see below for more detail about
 [how this works in the
-current](https://creativecommons.org/faq/#if-my-use-of-a-database-is-restricted-by-sui-generis-database-rights-how-do-i-comply-with-the-license "wikilink")
+current](#if-my-use-of-a-database-is-restricted-by-sui-generis-database-rights-how-do-i-comply-with-the-license "wikilink")
 and [prior
-versions](https://creativecommons.org/faq/#how-does-the-treatment-of-sui-generis-database-rights-vary-in-prior-versions-of-cc-licenses "wikilink")
+versions](#how-does-the-treatment-of-sui-generis-database-rights-vary-in-prior-versions-of-cc-licenses "wikilink")
 of the licenses.
 
 #### Can I conduct text/data mining on a CC-licensed database?
@@ -2597,7 +2597,7 @@ permission***, you should note the following:
     adapted databases.
 -   *Commercial purposes:* If you are conducting text and data mining
     for [commercial
-    purposes](https://creativecommons.org/faq/#does-my-use-violate-the-noncommercial-clause-of-the-licenses ),
+    purposes](#does-my-use-violate-the-noncommercial-clause-of-the-licenses ),
     you should not mine NC-licensed databases or other material.
 -   *Outputs:* If you publicly share the results of your mining activity
     or the data you mined, you should attribute the rights holder. If
@@ -2607,14 +2607,14 @@ permission***, you should note the following:
     license to the adaptation that results.
 
 [If your use is not one that requires permission under the
-license](https://creativecommons.org/faq/#do-i-always-have-to-comply-with-the-license-terms-if-not-what-are-the-exceptions ),
+license](#do-i-always-have-to-comply-with-the-license-terms-if-not-what-are-the-exceptions ),
 you may conduct text and data mining activity without regard to the
 above considerations.
 
 #### How does the treatment of sui generis database rights vary in prior versions of CC licenses?
 
 As explained
-[above](https://creativecommons.org/faq/#can-databases-be-released-under-cc-licenses "wikilink"),
+[above](#can-databases-be-released-under-cc-licenses "wikilink"),
 the current version of the CC license suite (4.0) licenses sui generis
 database rights in addition to copyright and other closely related
 rights. Past versions of CC licenses operate differently with respect to
@@ -2665,7 +2665,7 @@ the individual contents of the database. The latest version of the CC
 licenses on the other hand apply to sui generis database rights and all
 copyright and neighboring rights in the database structure as well as
 the contents. (See
-[above](https://creativecommons.org/faq/#how-does-the-treatment-of-sui-generis-database-rights-vary-in-prior-versions-of-cc-licenses "wikilink")
+[above](#how-does-the-treatment-of-sui-generis-database-rights-vary-in-prior-versions-of-cc-licenses "wikilink")
 for more detail about how past versions of CC licenses vary with respect
 to sui generis database rights.)
 
@@ -2674,7 +2674,7 @@ obligations even in jurisdictions where database rights would not
 otherwise exist and but for the license permission would not be
 necessary. CC has crafted its licenses to ensure that they [never impose
 obligations where permission is not otherwise
-required](https://creativecommons.org/faq/#how-do-cc-licenses-operate )
+required](#how-do-cc-licenses-operate )
 to use the licensed material.
 
 ### Frequently asked questions about data, generally
@@ -2738,7 +2738,7 @@ the contents will not require attribution (or compliance with other
 applicable license conditions), unless doing so implicates copyright in
 the database structure as explained above. This [important limitation of
 all CC
-licenses](https://creativecommons.org/faq/#how-do-cc-licenses-operate )
+licenses](#how-do-cc-licenses-operate )
 is highlighted on the license deeds in the Notice section, where we
 emphasize that compliance with the license is not required for elements
 of the material in the public domain.
@@ -2749,11 +2749,11 @@ All CC licenses require that you attribute the licensor when your use
 involves public sharing. Your other obligations depend on the particular
 CC license applied to the database. If it is a NC license, any regulated
 use must be limited to [noncommercial
-purposes](https://creativecommons.org/faq/#does-my-use-violate-the-noncommercial-clause-of-the-licenses "wikilink")
+purposes](#does-my-use-violate-the-noncommercial-clause-of-the-licenses "wikilink")
 only. If a ND is applied, you may produce an adapted database but cannot
 share it publicly. If it is a ShareAlike (SA) license, you must apply
 the same or a [compatible
-license](https://creativecommons.org/faq/#if-i-derive-or-adapt-material-offered-under-a-creative-commons-license-which-cc-licenses-can-i-use "wikilink")
+license](#if-i-derive-or-adapt-material-offered-under-a-creative-commons-license-which-cc-licenses-can-i-use "wikilink")
 to any adaptation of the database you share publicly.
 
 <span id="What_are_sui_generis_database_rights"></span>
@@ -2813,12 +2813,12 @@ of the database contents. The other requirements depend on the
 particular license applied to the database. Under the NC licenses, you
 may not extract and reuse a substantial portion of the database contents
 for [commercial
-purposes](https://creativecommons.org/faq/#does-my-use-violate-the-noncommercial-clause-of-the-licenses).
+purposes](#does-my-use-violate-the-noncommercial-clause-of-the-licenses).
 The ND licenses prohibit you from including a substantial portion of the
 database contents in another publicly shared database in which you have
 sui generis database rights of your own. And finally, the SA licenses
 require you to apply the same or a [compatible
-license](https://creativecommons.org/faq/#if-i-derive-or-adapt-material-offered-under-a-creative-commons-license-which-cc-licenses-can-i-use "wikilink")
+license](#if-i-derive-or-adapt-material-offered-under-a-creative-commons-license-which-cc-licenses-can-i-use "wikilink")
 to any database you share publicly and in which you include a
 substantial portion of the licensed database contents. Note that this
 does **not** require you to ShareAlike any copyright or other rights you
@@ -2832,7 +2832,7 @@ The licenses grant permission for reuse in any situation that requires
 permission under copyright. There are many ways in which CC-licensed work works
 and even all rights reserved works can be reused without permission. This
 includes [uses that are fair
-uses](https://creativecommons.org/faq/#do-creative-commons-licenses-affect-exceptions-and-limitations-to-copyright-such-as-fair-dealing-and-fair-use),
+uses](#do-creative-commons-licenses-affect-exceptions-and-limitations-to-copyright-such-as-fair-dealing-and-fair-use),
 for example.
 
 If someone uses a CC-licensed work with any new or developing technology, and
@@ -2849,7 +2849,7 @@ CC’s copyright licenses are not universal policy tools. Copyright is the
 primary obstacle to reuse that our licenses solve, but there are many other
 issues related to the reuse of content that our licenses do not address and
 that reusers should be aware of. These can include
-[privacy](https://creativecommons.org/faq/#how-are-publicity-privacy-and-personality-rights-affected-when-i-apply-a-cc-license)
+[privacy](#how-are-publicity-privacy-and-personality-rights-affected-when-i-apply-a-cc-license)
 and rules governing ethical research and the collection or use of data, which
 have to be addressed and respected separate and apart from the copyright issues
 that CC licenses cover.
