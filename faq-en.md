@@ -782,9 +782,8 @@ may have to purchase the print version from a bookstore).
 We recommend against using Creative Commons licenses for software.
 Instead, we strongly encourage you to use one of the very good software
 licenses which are already available. We recommend considering [licenses
-made
-available](https://www.gnu.org/licenses/license-recommendations.html) by
-the [Free Software Foundation](http://www.fsf.org/) or [listed as “open
+listed as free](https://www.gnu.org/licenses/license-list#SoftwareLicenses) by
+the [Free Software Foundation](http://www.fsf.org/) and [listed as “open
 source”](http://opensource.org/licenses) by the [Open Source
 Initiative](http://www.opensource.org/).
 
