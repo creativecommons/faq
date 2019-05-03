@@ -546,7 +546,7 @@ use your material for the full duration of applicable copyright and
 similar rights.
 
 CC has identified [some things that you should
-consider](Considerations for licensors and licensees "wikilink") before
+ consider](https://wiki.creativecommons.org/wiki/Considerations_for_licensors_and_licensees "wikilink") before
 you apply a CC license, some of which relate to your ability to apply a
 CC license at all. Here are some highlights:
 
