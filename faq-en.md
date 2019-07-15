@@ -864,16 +864,16 @@ reuse and preserving trademark rights.
 #### May I apply a Creative Commons license to a work in the public domain?
 
 CC licenses should not be applied to works in the worldwide [public
-domain](http://creativecommons.org/faq/#what-is-the-public-domain ). All CC licenses are
-clear that they [do not have the
-effect](http://creativecommons.org/faq/#do-creative-commons-licenses-affect-exceptions-and-limitations-to-copyright-such-as-fair-dealing-and-fair-use )
-of placing restrictions on material that would otherwise be
-unrestricted, and you cannot remove a work from the public domain by
-applying a CC license to it. If you want to dedicate your own work to
-the public domain before the expiration of applicable copyright or
-similar rights, use CC's legally robust [public domain
-dedication](https://creativecommons.org/about/cc0|CC0). If a work is
-already in the worldwide public domain, you should mark it with CC's
+domain](http://creativecommons.org/faq/#what-is-the-public-domain ). All CC
+licenses are clear that they [do not have the
+effect](http://creativecommons.org/faq/#do-creative-commons-licenses-affect-exceptions-and-limitations-to-copyright-such-as-fair-dealing-and-fair-use)
+of placing restrictions on material that would otherwise be unrestricted, and
+you cannot remove a work from the public domain by applying a CC license to it.
+If you want to dedicate your own work to the public domain before the
+expiration of applicable copyright or similar rights, use CC's legally robust
+[public domain
+dedication](https://creativecommons.org/share-your-work/public-domain/cc0/). If
+a work is already in the worldwide public domain, you should mark it with CC's
 [Public Domain Mark](https://creativecommons.org/about/pdm).
 
 Note that, in some cases, a work may be in the public domain under the
