@@ -55,8 +55,8 @@ For more information about CC, our [main
 website](https://creativecommons.org) contains in-depth information about
 [the organization](https://creativecommons.org/about/), its [staff and
 board of directors](https://creativecommons.org/staff/), its
-[history](https://creativecommons.org/about/history), and its
-[supporters](https://support.creativecommons.org/supporters). You can
+[history](https://wiki.creativecommons.org/wiki/History), and its
+[supporters](https://creativecommons.org/supporters/). You can
 also read [CC case
 studies](http://wiki.creativecommons.org/Case_Studies) to learn about
 some of the inspiring ways CC licenses and tools have been used to share
@@ -2352,7 +2352,7 @@ laws require the creator of the adaptation to add original expression to
 the pre-existing work. However, there is no international standard for
 originality, and the definition differs depending on the jurisdiction.
 Civil law jurisdictions (such as
-[Germany](http://www.wipo.int/clea/en/text_html.jsp?lang=EN&id=1034) and
+[Germany](https://wipolex.wipo.int/en/legislation/profile/DE) and
 [France](http://www.legifrance.gouv.fr/html/codes_traduits/cpialtext.htm))
 tend to require that the work contain an imprint of the adapter's
 personality. Common law jurisdictions (such as the
@@ -2361,7 +2361,7 @@ personality. Common law jurisdictions (such as the
 hand, tend to have a lower threshold for originality, requiring only a
 minimal level of creativity and “independent conception.” Some countries
 approach originality completely differently. For example,
-[Brazil's](http://www.wipo.int/clea/en/text_html.jsp?lang=EN&id=514)
+[Brazil's](https://wipolex.wipo.int/en/legislation/profile/BR)
 copyright code protects all works of the mind that do not fall within
 the list of works that are expressly defined in the statue as
 “unprotected works.” Consult [your jurisdiction's copyright
