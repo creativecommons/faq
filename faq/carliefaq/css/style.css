@@ -23,3 +23,19 @@
     display: none;
 }
 
+
+#more-3 {
+    display: none;
+}
+
+#more-4 {
+    display: none;
+}
+
+#more-5 {
+    display: none;
+}
+
+a {
+    cursor: pointer;
+}
