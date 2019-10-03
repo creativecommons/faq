@@ -11,6 +11,21 @@
     width: 33%;
 }
 
+.faq-1 h4 a {
+    color: black;
+}
+
+.faq-1 h4 a:hover {
+    color: rgb(238, 104, 51);
+}
+.faq-1 h5 a {
+    color: black;
+}
+
+.faq-1 h5 a:hover {
+    color: rgb(238, 104, 51);
+}
+
 #more {
     display: none;
 }
