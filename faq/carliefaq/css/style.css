@@ -1,0 +1,10 @@
+.flex-container {
+    display: flex;
+    justify-content: center;
+}
+
+.faq-1 {
+    margin: 20px;
+    background-color: antiquewhite;
+    padding: 10px;
+}
