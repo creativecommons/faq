@@ -1,7 +1,7 @@
 .flex-container {
     display: flex;
     justify-content: space-around;
-    
+
 }
 
 .faq-1 {
@@ -54,3 +54,13 @@
 a {
     cursor: pointer;
 }
+
+@media screen and (max-width: 700px) {
+    .flex-container {   
+      flex-direction: column;
+    }
+
+    .faq-1 {
+        width: 100%;
+    }
+  }
