@@ -1,0 +1,92 @@
+:root {
+  font-size: 62.5%;
+}
+
+:root body {
+  margin: 0;
+  font-size: 1.6rem;
+}
+
+#search {
+  position: relative;
+  font-size: 1.8rem;
+  padding-top: 4rem;
+  margin-bottom: 4rem;
+}
+
+#search label {
+  position: absolute;
+  left: 1.7rem;
+  top: 5rem;
+}
+
+#search-input {
+  width: 100%;
+  padding: 1rem 2rem 1rem 5rem;
+  border: 0.1rem solid #e9e9e9;
+  margin-bottom: 1.2rem;
+  border-radius: 2rem;
+}
+
+@media (min-width: 700px) {
+  #search-input {
+    width: 80%;
+  }
+}
+
+label {
+  display: inline-block;
+  max-width: 100%;
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+}
+
+.faq__content {
+  margin-bottom: 2rem;
+}
+
+.faq__head {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  border-bottom: 0.1rem solid #e9e9e9;
+  padding: 0.5rem 1rem;
+}
+
+.faq__head::after {
+  content: '\002B';
+  font-size: 3rem;
+  margin: 0 1rem 0 2rem;
+}
+
+.faq__title {
+  color: #f8722a;
+  font-weight: 400;
+}
+
+.faq__head.expanded::after {
+  content: '\2212';
+  font-size: 3rem;
+}
+
+.faq__body {
+  padding: 1rem;
+  max-height: 0vh;
+  overflow: hidden;
+  padding: 0;
+}
+
+.faq__body.open {
+  max-height: 100vh;
+  overflow: auto;
+  padding: 1.25em;
+  visibility: visible;
+}
+/*# sourceMappingURL=10faq.css.map */

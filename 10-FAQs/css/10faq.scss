@@ -1,0 +1,108 @@
+:root {
+  font-size: 62.5%;
+}
+:root body {
+  margin: 0;
+  font-size: 1.6rem;
+}
+
+// COLOURS
+$light-grey: #e9e9e9;
+$dark: #333;
+$title: #f8722a;
+
+// MIXINS
+$tablet: 700px;
+@mixin tablet {
+  @media (min-width: #{$tablet}) {
+    @content;
+  }
+}
+
+$desktop: 1024px;
+@mixin desktop {
+  @media (min-width: #{$desktop}) {
+    @content;
+  }
+}
+
+// FAQ SEARCH
+
+#search {
+  position: relative;
+  font-size: 1.8rem;
+  padding-top: 4rem;
+  margin-bottom: 4rem;
+
+  label {
+    position: absolute;
+    left: 1.7rem;
+    top: 5rem;
+  }
+}
+
+#search-input {
+  width: 100%;
+  padding: 1rem 2rem 1rem 5rem;
+  border: 0.1rem solid $light-grey;
+  margin-bottom: 1.2rem;
+  border-radius: 2rem;
+
+  @include tablet {
+    width: 80%;
+  }
+}
+
+label {
+  display: inline-block;
+  max-width: 100%;
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+}
+
+// FAQ CONTENT
+.faq {
+  &__content {
+    margin-bottom: 2rem;
+  }
+
+  &__head {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border-bottom: 0.1rem solid $light-grey;
+    padding: 0.5rem 1rem;
+
+    &::after {
+      content: '\002B';
+      font-size: 3rem;
+      margin: 0 1rem 0 2rem;
+    }
+  }
+
+  &__title {
+    color: $title;
+    font-weight: 400;
+  }
+
+  &__head.expanded {
+    &::after {
+      content: '\2212';
+      font-size: 3rem;
+    }
+  }
+
+  &__body {
+    padding: 1rem;
+    max-height: 0vh;
+    overflow: hidden;
+    padding: 0;
+  }
+
+  &__body.open {
+    max-height: 100vh;
+    overflow: auto;
+    padding: 1.25em;
+    visibility: visible;
+  }
+}
