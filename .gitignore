@@ -39,3 +39,10 @@ tramp
 
 .sass-cache
 _site/
+
+# for gh-phages
+faq/
+.cc-metadata.yml
+build.sh
+.md 
+template.html
