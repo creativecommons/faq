@@ -41,8 +41,8 @@ tramp
 _site/
 
 # for gh-phages
-faq/
 .cc-metadata.yml
 build.sh
-.md 
+faq-en.md 
+faq-fr.md
 template.html
