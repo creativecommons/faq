@@ -1,0 +1,66 @@
+.flex-container {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.faq-1 {
+    margin: 10px;
+    background-color: antiquewhite;
+    padding: 10px;
+    width: 33%;
+}
+
+.faq-1 h4 a {
+    color: black;
+}
+
+.faq-1 h4 a:hover {
+    color: rgb(238, 104, 51);
+}
+.faq-1 h5 a {
+    color: black;
+}
+
+.faq-1 h5 a:hover {
+    color: rgb(238, 104, 51);
+}
+
+#more {
+    display: none;
+}
+
+#more-1 {
+    display: none;
+}
+
+#more-2 {
+    display: none;
+}
+
+
+#more-3 {
+    display: none;
+}
+
+#more-4 {
+    display: none;
+}
+
+#more-5 {
+    display: none;
+}
+
+a {
+    cursor: pointer;
+}
+
+@media screen and (max-width: 700px) {
+    .flex-container {   
+      flex-direction: column;
+    }
+
+    .faq-1 {
+        width: 100%;
+    }
+  }
