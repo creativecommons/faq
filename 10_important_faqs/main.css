@@ -111,3 +111,33 @@ a.active:after {
   position: sticky;
   top: 0;
 }
+main .live-search-list {
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+padding: 1em;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+}
+
+main .live-search-box {
+  width: 60%;
+  margin: auto;
+  display: block;
+padding: 1em;
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+border: 1px solid #4a6e78 ;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+}
+
+main .live-search-list li {
+color: fff;
+list-style: none;
+padding: 0;
+margin: 5px 0;
+}
