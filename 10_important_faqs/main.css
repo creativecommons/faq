@@ -1,3 +1,56 @@
+.col-left {
+  float: left;
+  width: 30%;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.verticalline {
+  border-right: thick solid #f26a2b;
+}
+.col-right{ 
+  float: left;
+  width: 70%;
+}
+.col-right h4{
+    text-align: center;
+    padding: 1em;
+    color: #f4854d;
+  }
+.vertical-menu a {
+  width: 100%;
+  display: block;
+  cursor: pointer;
+  font-weight: 600;
+  line-height: 3;
+  font-size: 16px;
+  text-indent: 80px;
+  user-select: none;
+  color: #f26a2b;
+    text-align: left;
+}
+.vertical-menu a:hover {
+  background-color: #f26a2b;
+  color: #fff;
+}
+body {
+  font-family: "Open Sans";
+  font-size: 13px;
+  font-size: 0.8125rem;
+  font-weight: 300;
+  color: #4a6e78;
+}
+
+h1 {
+  text-align: center;
+  font-size: 35px;
+  line-height: 1.8;
+  padding: 50px 0;
+    color: #f26a2b;
+
+}
 
 .accordion {
   max-width: 700px;
@@ -52,4 +105,9 @@ a.active:after {
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
+}
+.sticky{
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
 }
