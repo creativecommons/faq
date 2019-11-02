@@ -141,3 +141,16 @@ list-style: none;
 padding: 0;
 margin: 5px 0;
 }
+
+@media screen and (max-width: 500px) {
+  .vertical-menu{
+    display: none;
+    text-align: center;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
+.col-right{
+  width: 100%;
+  }
+}
