@@ -1313,7 +1313,7 @@ license, CC licenses do provide a
 [mechanism](#what-can-i-do-if-i-offer-my-material-under-a-creative-commons-license-and-i-do-not-like-the-way-someone-uses-it "wikilink")
 for licensors to ask that others using their material remove the
 attribution information. You should [think carefully before choosing a
-Creative Commons license][consideations].
+Creative Commons license][considerations].
 
 
 ## For Licensees
