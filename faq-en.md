@@ -545,10 +545,9 @@ decision. When you apply a CC license, you give permission to anyone to
 use your material for the full duration of applicable copyright and
 similar rights.
 
-CC has identified [some things that you should
- consider](https://wiki.creativecommons.org/wiki/Considerations_for_licensors_and_licensees "wikilink") before
-you apply a CC license, some of which relate to your ability to apply a
-CC license at all. Here are some highlights:
+CC has identified [some things that you should consider][considerations] before
+you apply a CC license, some of which relate to your ability to apply a CC
+license at all. Here are some highlights:
 
 -   Is the material copyrightable? If not, is it subject to [neighboring
     rights](http://creativecommons.org/faq/#what-are-neighboring-rights) or [sui generis
@@ -929,8 +928,7 @@ that image as not being subject to the CC license. For more information
 about incorporating work owned by others, see our page about [marking
 third party
 content](https://wiki.creativecommons.org/wiki/Marking/Creators/Marking_third_party_content "wikilink"). Read
-more considerations for licensors
-[here](https://wiki.creativecommons.org/wiki/Considerations_for_licensors_and_licensees "wikilink").
+more considerations for licensors [here][considerations].
 
 ### Rights other than copyright
 
@@ -1315,8 +1313,8 @@ license, CC licenses do provide a
 [mechanism](#what-can-i-do-if-i-offer-my-material-under-a-creative-commons-license-and-i-do-not-like-the-way-someone-uses-it "wikilink")
 for licensors to ask that others using their material remove the
 attribution information. You should [think carefully before choosing a
-Creative Commons
-license](Considerations for licensors and licensees "wikilink").
+Creative Commons license][consideations].
+
 
 ## For Licensees
 
@@ -2540,9 +2538,7 @@ the database without securing permission from the author(s) of the
 database contents, it should clearly indicate the material for which
 permission has not been secured and clearly mark the material as not
 being offered under the terms of the license. For more information, read
-our
-[pre-licensing](https://wiki.creativecommons.org/wiki/Considerations_for_licensors_and_licensees "wikilink")
-guidelines.
+our [pre-licensing][considerations] guidelines.
 
 Database providers should also consider carefully what elements of the
 database she wants covered by the CC legal tool and identify those
@@ -2919,7 +2915,7 @@ separate avenues because they involve other laws or regulations that the CC
 licenses do not cover. It’s important to remember, however, that absent a
 violation of the license the permissions granted under the [license remain in
 place and cannot be
-revoked](https://wiki.creativecommons.org/wiki/Considerations_for_licensors_and_licensees#Considerations_for_licensors).
+revoked][considerations].
 
 * Under the CC licenses, even if a license condition has not been violated licensors can ask that attribution to them be removed so they can distance themselves from the reuse.
 * For violations of a CC license term where the license was required (not a fair use, etc.) then you may have a claim for copyright infringement. Fortunately, in the CC community most license violations are handled amicably without resorting to the courts.
@@ -2932,13 +2928,14 @@ on our website. We also provide [human-readable
 deeds](https://creativecommons.org/licenses/by/4.0/) with links to the [full
 text of our licenses](https://creativecommons.org/licenses/by/4.0/legalcode).
 Additionally, all of our licenses highlight at the beginning many
-[considerations that
-licensors](https://wiki.creativecommons.org/wiki/Considerations_for_licensors_and_licensees#Considerations_for_licensors)
-should have in mind before they license, and considerations for [reusers of
-works](https://wiki.creativecommons.org/wiki/Considerations_for_licensors_and_licensees#Considerations_for_licensees)
-before they do so in order to avoid inadvertent violations.
+[considerations that licensors][considerations] should have in mind before they
+license, and considerations for [reusers of works][considerations] before they
+do so in order to avoid inadvertent violations.
 
 ## Notes
 
 [^1]: Key Publications, Inc. v. Chinatown Today Publishing Enterprises
     Inc., 945 F.2d 509 (2d Cir. 1991).
+
+[considerations]: https://wiki.creativecommons.org/wiki/Considerations_for_licensors_and_licensees "Considerations for licensors and licensees - Creative Commons Wiki"
+
