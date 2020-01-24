@@ -333,7 +333,10 @@ revocable](http://creativecommons.org/faq/#what-if-i-change-my-mind-about-using-
 once granted unless there has been a breach, and even then the license
 is terminated only for the breaching licensee.
 
-Please note that CC0 is not a license; it is a public domain dedication. When CC0 is applied to a work, copyright no longer applies to the work in most jurisdictions around the world. Therefore, references to dual licensing arrangements like the one above are inapplicable to CC0. 
+Please note that CC0 is not a license; it is a public domain dedication. When
+CC0 is applied to a work, copyright no longer applies to the work in most
+jurisdictions around the world. Therefore, references to dual licensing
+arrangements like the one above are inapplicable to CC0.
 
 There are also [videos and comics](https://creativecommons.org/videos/)
 that offer visual descriptions of how CC licenses work.
