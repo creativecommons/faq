@@ -1028,6 +1028,41 @@ material you are licensing, we recommend [marking the
 material](https://wiki.creativecommons.org/wiki/Marking_your_work_with_a_CC_license#Noting_third-party_content_in_your_work "wikilink") to
 give notice to reusers.
 
+#### What is the difference between plagiarism and copyright infringement? And what role do CC licenses play to address plagiarism?
+
+Plagiarism involves the copying of someone else’s creation or ideas and passing
+them off as one’s own without attribution to the original author. Plagiarism is
+generally a matter of ethics and is dealt with primarily through social norms,
+ethics policies, academic standards, and codes of conduct. Plagiarism will
+usually give rise to professional or academic sanctions, and will not
+necessarily be the subject of legal proceedings.
+
+Copyright infringement is a matter of law and will give rise to legal
+sanctions. An action may be considered plagiarism but not copyright
+infringement and vice versa, or both at the same time. For example, copying
+part of a text and not crediting the author could be considered plagiarism in
+an academic context, but not copyright infringement if the reproduction is
+allowed under an exception or if the text is in the public domain (subject to
+the application of moral rights). Conversely, copying part of a text without
+authorization and without benefiting from an exception but with correctly
+crediting the author could be copyright infringement but not plagiarism.
+
+Creative Commons licenses are not designed to address issues that fall outside
+the scope of copyright law, although, when the licenses were first developed,
+Creative Commons expected that the [attribution][attribution] requirement would
+contribute to reducing instances of plagiarism. Regardless, activities such as
+plagiarism are not directly governed by the application of CC licenses. That
+said, the attribution requirement and the obligation to indicate modifications
+made to a work can alleviate authors’ concerns over plagiarism and serve to
+assist in the enforcement of attribution and citation in the scholarly and
+academic contexts.
+
+For more information, read our blog post [Why Sharing Academic Publications
+Under "No Derivatives" Licenses is Misguided][why-sharing-acadmemic].
+
+[attribution]: https://wiki.creativecommons.org/wiki/Best_practices_for_attribution
+[why-sharing-acadmemic]: https://creativecommons.org/2020/04/21/academic-publications-under-no-derivatives-licenses-is-misguided/
+
 ### Business models
 
 <span id="I_am_a_member_of_a_collecting_society.2C_can_I_use_Creative_Commons_licenses"></span>
