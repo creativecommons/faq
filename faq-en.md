@@ -2404,7 +2404,7 @@ approach originality completely differently. For example,
 copyright code protects all works of the mind that do not fall within
 the list of works that are expressly defined in the statue as
 “unprotected works.” Consult [your jurisdiction's copyright
-law](http://www.wipo.int/clea/en/) for more information.
+law](https://wipolex.wipo.int/en/main/legislation) for more information.
 
 <span id="What_are_moral_rights.2C_and_how_could_I_exercise_them_to_prevent_uses_of_my_work_that_I_don.E2.80.99t_like"></span>
 
