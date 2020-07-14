@@ -2370,7 +2370,8 @@ In some jurisdictions, creators may be required to register with a
 national agency in order to enforce copyright in court. If you would
 like more information, please consult the [Berne
 Convention](http://www.wipo.int/treaties/en/ip/berne/trtdocs_wo001.html)
-or [your jurisdiction's copyright law](http://www.wipo.int/clea/en/).
+or [your jurisdiction's copyright
+law](https://wipolex.wipo.int/en/main/legislation).
 
 Although you do not have to apply a copyright notice for your work to be
 protected, it may be a useful tool to clearly signal to people that the
