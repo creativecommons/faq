@@ -1696,7 +1696,6 @@ Incorporating an unaltered excerpt from an ND-licensed work into a larger work o
 
 There are exceptions to that general rule, however, when the excerpts are combined with other material in a way that creates some new version of the original from which the excerpt is taken. For example, if a portion of a song was used as part of a new song, that may rise to the level of creating an adaptation of the original song, even though only a portion of it was used and even if that portion was used as-is.
 
-
 #### Can I use effective technological measures (such as DRM) when I share CC-licensed material?
 
 No. When you receive material under a Creative Commons license, you may
@@ -1744,6 +1743,32 @@ any means, including distribution via file-sharing networks. Note that
 file-trading is expressly considered to be noncommercial for purposes of
 compliance with the NC licenses. Barter of NC-licensed material for
 other items of value is not permitted.
+
+#### Do I need to worry about website terms of service when I share CC-licensed content on social media platforms?
+
+It is always a good idea to familiarize yourself with the terms and conditions
+that apply to any service you are using. Generally speaking, most social media
+platforms allow users to keep the copyright they have in their content and ask
+users to grant them a copyright license to use that content for purposes of
+providing their service. In some cases, platforms may also ask for a license to
+use your content in advertising and other promotions of their service. Creative
+Commons licenses do not allow sublicensing, which means you cannot grant a
+license to a platform with respect to the rights in any CC-licensed content you
+do not own. For example, if you share on Facebook a CC-licensed image you
+downloaded from Flickr, you cannot grant Facebook any rights to that image
+under copyright. However, it is unusual for social media platforms to require
+you to own or control the copyright on all content you share on their sites.
+Instead, they often simply require that you have the rights to post it. As with
+content in the public domain or copyrighted content you are using under fair
+use or some other exception or limitation to copyright, when you share third
+party CC-licensed content on a platform, you aren’t granting that platform any
+rights to the content under copyright. When sharing CC-licensed content, always
+remember to provide proper attribution and otherwise comply with the relevant
+license conditions.
+
+Don't forget that a CC license only speaks to copyright, and there may be other
+rights (for example, privacy rights) that are relevant when sharing on social
+media.
 
 ### Additional restrictions on licensed material
 
