@@ -2744,6 +2744,4 @@ avez sur les différents contenus de la base de données.
 * Aller jusqu'à ↑ Publications, Inc. v.  Chinatown Today Publishing
 Enterprises Inc., 945 F.2d 509 (2d Cir.  1991
 
-* Support for this French translation was provided by Open Data Institute as part of the OD4D program. Translation by Dr Pierre El Khoury (CC Lebanon Legal Lead).
-
 ---
