@@ -2887,6 +2887,8 @@ have in the individual contents of the database.
 
 ## Artificial intelligence and CC licenses
 
+<img src="/faq/AI_and_CC_Licenses_v4_flowchart.jpg" class="img-responsive" />
+
 #### What are the limits on how CC-licensed works can be used in the development of new technologies, such as training of artificial intelligence software?
 
 The licenses grant permission for reuse in any situation that requires
