@@ -542,18 +542,14 @@ de la licence désirée.
 
 #### Comment savoir quelle licence choisir?
 
-Si vous n’êtes pas sûr quelle licence correspond le mieux à vos
-besoins, il y a beaucoup de moyens pour aider les titulaires de droits
-à choisir la licence CC convenable. CC Australie a élaboré un
-organigramme qui peut vous être utile pour vous aider à choisir la
-meilleur licence CC pour votre œuvre. Creative Commons a également
-compilé une liste d’exemples qui démontrent comment les diverses
-licences correspondent aux différentes stratégies globales des
-concédants. Vous pouvez aussi lire des études de cas d’autres
-personnes qui utilisent les licences CC. La communauté de CC peut
-également répondre à des questions, et a peut-être déjà abordé les
-questions que vous soulevez. Les listes de discussion par courriel  de
-la communauté CC et les archives de discussion peuvent être des
+Si vous n’êtes pas sûr quelle licence correspond le mieux à vos besoins, il y a
+beaucoup de moyens pour aider les titulaires de droits à choisir la licence CC
+convenable. CC Australie a élaboré un organigramme qui peut vous être utile
+pour vous aider à choisir la meilleur licence CC pour votre œuvre. Vous pouvez
+aussi lire des études de cas d’autres personnes qui utilisent les licences CC.
+La communauté de CC peut également répondre à des questions, et a peut-être
+déjà abordé les questions que vous soulevez. Les listes de discussion par
+courriel de la communauté CC et les archives de discussion peuvent être des
 sources d’information utiles.
 
 Enfin, vous pouvez également consulter un avocat  pour obtenir des
