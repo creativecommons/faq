@@ -1252,55 +1252,11 @@ constitute copyright infringement.
 
 #### What happens if I offer my material under a Creative Commons license and someone misuses them?
 
-A CC license [terminates
-automatically](#how-can-i-lose-my-rights-under-a-creative-commons-license-if-that-happens-how-do-i-get-them-back "wikilink")
-when its conditions are violated. For example, if a reuser of
-CC-licensed material does not provide the attribution required when
-sharing the work, then the user no longer has the right to continue
-using the material and may be liable for copyright infringement. The
-license is terminated for the user who violated the license. However,
-all other users still have a valid license, so long as they are in
-compliance.
-
-Under the 4.0 licenses, a licensee automatically gets these rights back
-if she fixes the violation within 30 days of discovering it.
-
-If you apply a Creative Commons license and a user violates the license
-conditions, you may opt to contact the person directly to ask them to
-rectify the situation or consult a lawyer to act on your behalf.
-Creative Commons is not a law firm and cannot represent you or give you
-legal advice, but there are [lawyers who have identified themselves as
-interested in representing people in CC-related
-matters](#Can_Creative_Commons_give_legal_advice_about_its_licenses_or_other_tools.2C_or_help_with_CC_license_enforcement.3F "wikilink").
-
-<span id="What_can_I_do_if_I_offer_my_work_under_a_Creative_Commons_license_and_I_do_not_like_the_way_someone_uses_my_work"></span>
+Please see our guide on [What to do if Your CC-Licensed Work is Misused](https://creativecommons.org/misuse-of-works/).
 
 #### What can I do if I offer my material under a Creative Commons license and I do not like the way someone uses it?
 
-As long as users abide by license terms and conditions, licensors cannot
-control how the material is used. However, CC licenses do provide
-several mechanisms that allow licensors to choose not to be associated
-with their material or to uses of their material with which they
-disagree.
-
-First, all CC licenses [prohibit using the attribution requirement to
-suggest that the licensor endorses or supports a particular
-use](#do-i-need-to-be-aware-of-anything-else-when-providing-attribution "wikilink").
-Second, licensors may waive the attribution requirement, choosing not to
-be identified as the licensor, if they wish. Third, if the licensor does
-not like how the material has been modified or used, CC licenses require
-that the licensee [remove the attribution information upon
-request](https://wiki.creativecommons.org/wiki/License_Versions#Licensors_may_request_removal_of_attribution ).
-(In 3.0 and earlier, this is only a requirement for adaptations and
-collections; in 4.0, this also applies to the unmodified work.) Finally,
-anyone modifying licensed material must [indicate that the original has
-been
-modified](https://wiki.creativecommons.org/wiki/License_Versions#Modifications_and_adaptations_must_be_indicated "wikilink").
-This ensures that changes made to the original material--whether or not
-the licensor approves of them--are not attributed back to the licensor.
-
-<span id="What_happens_if_someone_tries_to_restrict_a_CC-licensed_work_with_digital_rights_management_.28DRM.29_tools"></span>
-<span id="What_do_I_do_if_someone_tries_to_restrict_my_work_with_digital_rights_management_.28DRM.29"></span>
+Please see our guide on [What to do if Your CC-Licensed Work is Misused](https://creativecommons.org/misuse-of-works/).
 
 #### What do I do if someone tries to place effective technological measures (such as DRM) on my CC-licensed material?
 

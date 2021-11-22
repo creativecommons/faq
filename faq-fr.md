@@ -1148,51 +1148,11 @@ d’auteur.
 
 #### Qu’advient-il si j’offre mon matériel sous une licence Creative Commons, et quelqu’un l’abuse?
 
-Une licence CC se termine automatiquement  lorsque ses conditions sont
-violées. Par exemple, si un reutilsateur de matériel sous licence CC
-ne prévoit pas l’attribution requise lors du partage de l’œuvre, alors
-l’utilisateur n’a plus le droit de continuer à utiliser le matériel et
-peut être responsable d’une violation du droit d’auteur. La licence
-est résiliée pour l’utilisateur qui a violé la licence.  Cependant,
-tous les autres utilisateurs ont toujours une licence valide, tant
-qu’ils sont en conformité.
-
-Sous les licences 4.0, le titulaire obtient de nouveau ces droits s’il
-corrige la violation dans les 30 jours après sa découverte.
-
-Si vous appliquez une licence Creative Commons et un utilisateur viole
-les conditions de la licence, vous pouvez choisir de communiquer avec
-lui directement pour lui demander de remédier à la situation ou
-consulter un avocat pour agir en votre nom. Creative Commons n’est pas
-un cabinet d’avocats et ne peut pas vous représenter ou vous donner
-des conseils juridiques, mais il y a des <!--<span class="c0 ">
--->avocats qui se sont identifiés comme intéressé à représenter les
-gens dans les questions liées CC.
+Veuillez consulter le guide [What to do if Your CC-Licensed Work is Misused](https://creativecommons.org/misuse-of-works/).
 
 #### Que puis-je faire si je vous offre mon matériel sous une licence Creative Commons, et je n’aime pas la façon dont quelqu’un l’utilise?
 
-Tant que les utilisateurs respectent les termes et conditions de
-licence, les concédants de licence ne peuvent pas contrôler la façon
-dont le matériel est utilisé. Toutefois, les licences CC fournissent
-plusieurs mécanismes qui permettent aux concédants de choisir de ne
-pas être associé à leur matériel ou à des usages de leur matériel avec
-lesquels ils sont en désaccord.
-
-Premièrement, toutes les licences CC interdisent d’utiliser l’exigence
-d’attribution pour suggérer que le donneur de licence endosse ou
-soutient un usage particulier. Deuxièmement, les concédants de licence
-peuvent renoncer à l’exigence d’attribution, choisissant de ne pas
-être identifié comme donneur de licence, s’ils le souhaitent.
-Troisièmement, si le donneur n’aime pas comment le matériel a été
-modifié ou utilisé, les licences CC exigent que le titulaire supprime
-les informations d’attribution sur demande. (Dans la version 3.0 et
-les versions antérieures, cela est seulement une exigence pour les
-adaptations et les collections; pour le 4.0, cela vaut aussi pour
-l’œuvre non modifiée.)  Enfin, toute modification de matériel sous
-licence doit indiquer que l’original a été modifié<!--<span class="c6
-c7"> -->. Cela garantit que les modifications apportées au matériel
-original - acceptées ou non par le concédant- ne sont pas attribuées
-au donneur de licence.
+Veuillez consulter le guide [What to do if Your CC-Licensed Work is Misused](https://creativecommons.org/misuse-of-works/).
 
 #### Que dois-je faire si quelqu’un tente de placer des mesures techniques efficaces (tels que les DRM) sur mon matériel sous licence CC?
 
