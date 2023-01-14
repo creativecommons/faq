@@ -1748,8 +1748,9 @@ impose terms in addition to the copyright license (though [Creative
 Commons strongly discourages restrictions that interfere with exercise
 of the licensed
 rights](#can-i-enter-into-separate-or-supplemental-agreements-with-users-of-my-work "wikilink")).
-These additional terms do not form part of the license for the work. For
-example, if you download CC-licensed material from a site that does not
+These additional terms do not form part of the license for the work and 
+may not be applicable to distributions of the work outside of the platform. 
+For example, if you download CC-licensed material from a site that does not
 permit downloading, you may be breaking the terms of use of the site,
 but you are not infringing the CC license. See our guide to [Modifying
 the CC licenses](https://wiki.creativecommons.org/wiki/Modifying_the_CC_licenses "wikilink") for more guidance
