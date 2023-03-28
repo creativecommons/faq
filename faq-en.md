@@ -243,8 +243,7 @@ the tools and services CC provides through their reuse and remix of the
 rich, open resources available on [Wikipedia](http://en.wikipedia.org),
 [Flickr](http://www.flickr.com), [SoundCloud](http://soundcloud.com/),
 [Vimeo](http://www.vimeo.com/), [Europeana](http://www.europeana.eu/),
-[MIT OpenCourseWare](http://ocw.mit.edu/), the [Library of
-Science](http://www.plos.org/Public), [Al
+[MIT OpenCourseWare](http://ocw.mit.edu/), [PLOS](https://plos.org/), [Al
 Jazeera](http://www.aljazeera.com/), and
 [YouTube](http://youtube.com)—just to name a few. Many of these people
 donate \$10, \$25, or \$50 to CC, to help keep it up and running so we
