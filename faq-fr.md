@@ -238,7 +238,7 @@ et les utilisateurs de matériel CC qui rendent nos outils pertinents
 dans cette ère numérique. Ils dépendent des outils et services fournit
 par CC par leur réutilisation et remix des riches, des ressources
 ouvertes disponibles sur Wikipedia, Flickr, SoundCloud, Vimeo,
-Europeana, MIT OpenCourseWare, la Library of Science, Al Jazeera, et
+Europeana, MIT OpenCourseWare, PLOS, Al Jazeera, et
 YouTube , pour nommer quelques-uns. Beaucoup de ces gens donnent 10
 \$, 25 \$ ou 50 \$ à CC, pour l’aider à se maintenir en place et à
 fonctionner afin que nous puissions continuer à fournir nos outils et
