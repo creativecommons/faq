@@ -1256,7 +1256,26 @@ Please see our guide on [What to do if Your CC-Licensed Work is Misused](https:/
 
 #### What can I do if I offer my material under a Creative Commons license and I do not like the way someone uses it?
 
-Please see our guide on [What to do if Your CC-Licensed Work is Misused](https://creativecommons.org/misuse-of-works/).
+If someone has made an adaptation of your CC-licensed work in a way that you 
+no longer wish to be associated with, the adapter must comply with a request 
+that your name be removed. (See Section 3(a)(3) of CC 4.0 legal codes.)
+
+If you believe that someone is using your work in a way that is violating the 
+license terms——for example, not giving correct credit, or using an NC work 
+commercially, we have a guide on license enforcement here:
+[What to do if Your CC-Licensed Work is Misused](https://creativecommons.org/misuse-of-works/).
+
+#### Do I have to provide my name? Can I ask that my name be removed?
+
+As a licensor, you may choose to receive under any name that you wish, such as 
+a pseudonym or pen name, or you may choose not to be credited by name at all, 
+and to publish anonymously. You do not have to be credited under your legal name. 
+Most jurisdictions permit this, but you should check to be sure this is valid
+in your jurisdiction.
+
+If someone has made an adaptation of your CC-licensed work in a way that you 
+no longer wish to be associated with, the adapter must comply with a request 
+that your name be removed. (See Section 3(a)(3) of CC 4.0 legal codes.)
 
 #### What do I do if someone tries to place effective technological measures (such as DRM) on my CC-licensed material?
 
