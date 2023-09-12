@@ -20,14 +20,14 @@ informational purposes and is not a substitute for legal advice. It
 may not cover important issues that affect you. You should consult
 with your own lawyer if you have questions.
 
-### About CC
+## About CC
 
 <span id="What_is_Creative_Commons"></span>
 <span id="Who_started_Creative_Commons"></span>
 <span id="What_problem_does_Creative_Commons_intend_to_solve"></span>
 <span id="Whom_does_Creative_Commons_serve_or_represent"></span>
 
-#### What is Creative Commons and what do you do?
+### What is Creative Commons and what do you do?
 
 Creative Commons is a global nonprofit organization that enables sharing
 and reuse of creativity and knowledge through the provision of free
@@ -64,7 +64,7 @@ works and support innovative business models. You can find regularly
 updated information about CC by visiting the
 [blog](https://creativecommons.org/weblog).
 
-#### Is Creative Commons against copyright?
+### Is Creative Commons against copyright?
 
 Absolutely not. CC has [responded to claims to the
 contrary](https://creativecommons.org/weblog/entry/22643). CC licenses
@@ -82,7 +82,7 @@ participants in the copyright reform movement. For more information, see
 our [statement in support of copyright
 reform](https://creativecommons.org/about/reform).
 
-#### What does "Some Rights Reserved" mean?
+### What does "Some Rights Reserved" mean?
 
 [Copyright](#what-is-copyright-and-why-does-it-matter)
 grants to creators a bundle of exclusive rights over their creative
@@ -101,7 +101,7 @@ of choices between retaining all rights and relinquishing all rights
 <span id="Will_Creative_Commons_help_me_enforce_my_license"></span>
 <span id="Can_Creative_Commons_give_legal_advice_about_its_licenses_or_help_with_CC_license_enforcement"></span>
 
-#### Can Creative Commons give legal advice about its licenses or other tools, or help with CC license enforcement?
+### Can Creative Commons give legal advice about its licenses or other tools, or help with CC license enforcement?
 
 No. Creative Commons is not a law firm and does not provide legal advice
 or legal services. CC is similar to a self-help service that offers
@@ -138,7 +138,7 @@ services, and does not endorse or recommend any person on that list.
 
 <span id="Does_Creative_Commons_collect_or_track_materials_licensed_under_a_CC_license"></span>
 
-#### Does Creative Commons collect or track material licensed under a CC license?
+### Does Creative Commons collect or track material licensed under a CC license?
 
 No, CC does not collect content or track licensed material. However, CC
 builds technical tools that help the public search for and use works
@@ -150,7 +150,7 @@ licenses on the internet via CC-aware search engines and repositories.
 
 <span id="What_does_the_Creative_Commons_.E2.80.9CSome_Rights_Reserved.E2.80.9D_button_mean_What_does_a_Creative_Commons_license_do "></span>
 
-#### What do the Creative Commons buttons do?
+### What do the Creative Commons buttons do?
 
 The CC buttons are a shorthand way to convey the basic permissions
 associated with material offered under CC licenses. Creators and owners
@@ -165,7 +165,7 @@ license deeds (which, in turn, link to the license itself).
 <span id="Where_can_I_get_a_high_resolution_version_of_the_Creative_Commons_logos"></span>
 <span id="Can_I_change_the_Creative_Commons_logos_so_that_they_look_better_on_my_site_or_with_my_work"></span>
 
-#### May I use the Creative Commons logo and buttons?
+### May I use the Creative Commons logo and buttons?
 
 You may [download high resolution
 versions](https://creativecommons.org/about/downloads) of the Creative
@@ -184,7 +184,7 @@ you can purchase them in CC’s
 
 <span id="I_love_what_Creative_Commons_does._How_can_I_help"></span>
 
-#### I love Creative Commons. How can I help?
+### I love Creative Commons. How can I help?
 
 Please support CC by making a donation through our [support
 page](https://creativecommons.org/donate/). Donations can be handled through PayPal or by credit
@@ -208,7 +208,7 @@ word, and advocate for free and open licensing in your own communities.
 
 <span id="Who_funds_Creative_Commons"></span>
 
-#### Why does Creative Commons run an annual fundraising campaign? What is the money used for and where does it go?
+### Why does Creative Commons run an annual fundraising campaign? What is the money used for and where does it go?
 
 Creative Commons is a global nonprofit organization that enables sharing
 and reuse of creativity and knowledge through free legal tools, with
@@ -251,12 +251,12 @@ can continue to provide our tools and services for free, as a nonprofit
 organization. The more people who [donate](https://donate.creativecommons.org/)
 to CC, the more independent it will remain.
 
-### General License Information
+## General License Information
 
 <span id="How_does_a_Creative_Commons_license_operate"></span>
 <span id="What_are_the_terms_of_a_Creative_Commons_license"></span>
 
-#### What are Creative Commons licenses?
+### What are Creative Commons licenses?
 
 [Creative Commons licenses](https://creativecommons.org/licenses) provide
 an easy way to manage the copyright terms that attach automatically to
@@ -296,7 +296,7 @@ Instead, for those works in the worldwide public domain, we recommend
 that you mark them with the [Public Domain
 Mark](https://creativecommons.org/about/pdm).
 
-#### How do CC licenses operate?
+### How do CC licenses operate?
 
 CC licenses are operative only when applied to material in which a
 [copyright]( http://creativecommons.org/faq/#what-is-copyright-and-why-does-it-matter)
@@ -340,7 +340,7 @@ arrangements like the one above are inapplicable to CC0.
 There are also [videos and comics](https://creativecommons.org/videos/)
 that offer visual descriptions of how CC licenses work.
 
-#### Which is the latest version of the licenses offered by Creative Commons?
+### Which is the latest version of the licenses offered by Creative Commons?
 
 In November 2013, Creative Commons published the version 4.0 license
 suite. These licenses are the most up-to-date licenses offered by CC,
@@ -352,7 +352,7 @@ available after publication.
 
 <span id="Do_Creative_Commons_licenses_affect_fair_use.2C_fair_dealing_or_other_exceptions_to_copyright"></span>
 
-#### Do Creative Commons licenses affect exceptions and limitations to copyright, such as fair dealing and fair use?
+### Do Creative Commons licenses affect exceptions and limitations to copyright, such as fair dealing and fair use?
 
 No. By design, CC licenses do not reduce, limit, or restrict any rights
 under exceptions and limitations to copyright, such as [fair
@@ -364,7 +364,7 @@ comply with its terms and conditions. [This is a fundamental principle
 of CC
 licensing.](http://creativecommons.org/faq/#how-do-cc-licenses-operate)
 
-#### Who gives permission to use material offered under Creative Commons licenses?
+### Who gives permission to use material offered under Creative Commons licenses?
 
 Our licenses and legal tools are intended for use by anyone who holds
 copyright in the material. This is often, but not always, the creator.
@@ -389,7 +389,7 @@ holder](http://creativecommons.org/faq/#what-happens-if-i-want-to-use-the-materi
 <span id="Is_Creative_Commons_building_a_database_of_licensed_content"></span>
 <span id="Does_Creative_Commons_determine_what_content_is_released_under_its_licenses"></span>
 
-#### Are Creative Commons licenses enforceable in a court of law?
+### Are Creative Commons licenses enforceable in a court of law?
 
 Creative Commons licenses are drafted to be enforceable around the
 world, and have been [enforced in
@@ -401,7 +401,7 @@ CC licenses contain a “severability” clause. This allows a court to
 eliminate any provision determined to be unenforceable, and enforce the
 remaining provisions of the license.
 
-#### What happens if someone applies a Creative Commons license to my work without my knowledge or authorization?
+### What happens if someone applies a Creative Commons license to my work without my knowledge or authorization?
 
 CC [alerts prospective
 licensors](http://wiki.creativecommons.org/Before_Licensing) they need
@@ -416,7 +416,7 @@ matters](http://creativecommons.org/faq/#can-creative-commons-give-legal-advice-
 
 <span id="What_are_the_international_.28.22unported.22.29_CC_licenses.2C_and_why_does_CC_offer_.E2.80.9Cported.E2.80.9D_licenses"></span>
 
-#### What are the international (“unported”) Creative Commons licenses, and why does CC offer “ported” licenses?
+### What are the international (“unported”) Creative Commons licenses, and why does CC offer “ported” licenses?
 
 One of CC’s goals is ensuring that all of its legal tools work globally,
 so that anyone anywhere in the world can share their work on globally
@@ -445,7 +445,7 @@ considerations you are aware
 of](http://creativecommons.org/faq/#should-i-choose-an-international-license-or-a-ported-license)
 that would require a ported license.
 
-#### Can I include a work licensed with CC BY in a Wikipedia article even though they use a CC BY-SA license?
+### Can I include a work licensed with CC BY in a Wikipedia article even though they use a CC BY-SA license?
 
 Yes. Works licensed under CC BY may be incorporated into works that are
 licensed under CC BY-SA. For example, you may incorporate a CC BY
@@ -459,7 +459,7 @@ about the licenses.
 <span id="What_law_would_be_applied_if_an_IGO_itself_chooses_to_enforce_the_terms_of_the_license_against_a_violator"></span>
 <span id="#Why_should_governments_and_intergovernmental_organizations_.28.22IGOs.22.29_use_CC_licenses"></span>
 
-#### Can governments and intergovernmental organizations ("IGOs") use CC licenses?
+### Can governments and intergovernmental organizations ("IGOs") use CC licenses?
 
 Yes, anyone may use CC licenses for material they own, including
 governments and IGOs, and these institutions [frequently use CC licenses
@@ -491,12 +491,12 @@ context.](https://wiki.creativecommons.org/wiki/Intergovernmental_Organizations)
 <span id="What_are_the_official_translations_of_the_CC_licenses"></span>
 <span id="officialtranslations"></span>
 
-#### Can children apply Creative Commons licenses to work they create?
+### Can children apply Creative Commons licenses to work they create?
 
 This issue depends largely on the laws in place where the child lives. In the United States, children can be copyright holders and are entitled to license their works in the same manner as adults. However, they may have the right to disaffirm certain types of legal agreements, including licenses. In many parts of the United States, for example, children have the ability to disaffirm some types of agreements under certain circumstances once they reach the age where they are considered adults within the relevant jurisdiction. We are unaware of any attempt by a licensor to exercise the disaffirmation right with respect to a CC license applied to a work.
 
 
-#### What are the official translations of the CC licenses and CC0?
+### What are the official translations of the CC licenses and CC0?
 
 Official language translations will be available for the 4.0 licenses
 and CC0. When you license your own work, you may use or link to the text
@@ -524,7 +524,7 @@ to the international licenses, and do not serve as substitutable
 references for purposes of complying with the terms and conditions of
 the licenses.)
 
-#### What is a BY-SA Compatible License?
+### What is a BY-SA Compatible License?
 
 A BY-SA Compatible License is a license officially designated by
 Creative Commons pursuant to the [ShareAlike compatibility
