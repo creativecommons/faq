@@ -1255,25 +1255,25 @@ Please see our guide on [What to do if Your CC-Licensed Work is Misused](https:/
 
 #### What can I do if I offer my material under a Creative Commons license and I do not like the way someone uses it?
 
-If someone has made an adaptation of your CC-licensed work in a way that you 
-no longer wish to be associated with, the adapter must comply with a request 
+If someone has made an adaptation of your CC-licensed work in a way that you
+no longer wish to be associated with, the adapter must comply with a request
 that your name be removed. (See Section 3(a)(3) of CC 4.0 legal codes.)
 
-If you believe that someone is using your work in a way that is violating the 
-license terms——for example, not giving correct credit, or using an NC work 
+If you believe that someone is using your work in a way that is violating the
+license terms——for example, not giving correct credit, or using an NC work
 commercially, we have a guide on license enforcement here:
 [What to do if Your CC-Licensed Work is Misused](https://creativecommons.org/misuse-of-works/).
 
 #### Do I have to provide my name? Can I ask that my name be removed?
 
-As a licensor, you may choose to receive under any name that you wish, such as 
-a pseudonym or pen name, or you may choose not to be credited by name at all, 
-and to publish anonymously. You do not have to be credited under your legal name. 
+As a licensor, you may choose to receive under any name that you wish, such as
+a pseudonym or pen name, or you may choose not to be credited by name at all,
+and to publish anonymously. You do not have to be credited under your legal name.
 Most jurisdictions permit this, but you should check to be sure this is valid
 in your jurisdiction.
 
-If someone has made an adaptation of your CC-licensed work in a way that you 
-no longer wish to be associated with, the adapter must comply with a request 
+If someone has made an adaptation of your CC-licensed work in a way that you
+no longer wish to be associated with, the adapter must comply with a request
 that your name be removed. (See Section 3(a)(3) of CC 4.0 legal codes.)
 
 #### What do I do if someone tries to place effective technological measures (such as DRM) on my CC-licensed material?
@@ -1766,8 +1766,8 @@ impose terms in addition to the copyright license (though [Creative
 Commons strongly discourages restrictions that interfere with exercise
 of the licensed
 rights](#can-i-enter-into-separate-or-supplemental-agreements-with-users-of-my-work "wikilink")).
-These additional terms do not form part of the license for the work and 
-may not be applicable to distributions of the work outside of the platform. 
+These additional terms do not form part of the license for the work and
+may not be applicable to distributions of the work outside of the platform.
 For example, if you download CC-licensed material from a site that does not
 permit downloading, you may be breaking the terms of use of the site,
 but you are not infringing the CC license. See our guide to [Modifying
