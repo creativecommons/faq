@@ -987,7 +987,7 @@ license to use the trademark in connection with the licensed material,
 although not in ways that require permission under trademark law. To
 avoid any uncertainty, Creative Commons recommends that licensors who
 wish to mark material with trademarks or other branding materials give
-notice to licensors expressly disclaiming application of the license to
+notice to licensees expressly disclaiming application of the license to
 those elements. This can be done in the copyright notice, but could also
 be noted on the website where the work is published.
 
