@@ -33,20 +33,21 @@ _  _ ____ ____ _  _ ___  ____ _ _ _ _  _    ____ _ _    ____
 
 https://github.com/creativecommons/faq
 -->
-
 <!DOCTYPE html>
 <html lang="$lang$">
 <head>
     <meta charset="UTF-8">
     <title>$title$ - Creative Commons</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="/wp-content/themes/vocabulary-theme/vocabulary/favicon/favicon.ico" sizes="any">
+    <link rel="icon" href="/wp-content/themes/vocabulary-theme/vocabulary/favicon/favicon.svg" type="image/svg+xml">
+    <link rel="manifest" href="/wp-content/themes/vocabulary-theme/vocabulary/favicon/manifest.webmanifest">
+    <link rel="apple-touch-icon" sizes="180x180" href="/wp-content/themes/vocabulary-theme/vocabulary/favicon/apple-touch-icon.png" />
     <link rel="stylesheet" media="all" href="/wp-content/themes/vocabulary-theme/style.css">
-    <link rel="icon" href="/wp-content/uploads/2016/05/cc-site-icon-300x300.png" sizes="192x192" />
-    <link rel="apple-touch-icon-precomposed" href="/wp-content/uploads/2016/05/cc-site-icon-300x300.png" />
-    <meta name="msapplication-TileImage" content="/wp-content/uploads/2016/05/cc-site-icon-300x300.png" />
+    <link href="/faq/base.css" rel="stylesheet"/>
 </head>
 
-<body class="home-narrative">
+<body class="default-page faq">
 <a class="skip-to-content" href="#main-content-marker">Skip to content</a>
 
 <header>
@@ -67,9 +68,6 @@ https://github.com/creativecommons/faq
 
         <nav class="ancilliary-menu">
             <ul>
-                <!-- uncomment below line, if translation functionality is present on site -->
-                <!-- <li><button class="locale icon-attach fa-globe">English</button></li> -->
-                <!-- uncomment below line, if search functionality is present on site -->
                 <li><a class="search icon-attach fa-search" href="/?s">Search</a></li>
                 <li><a class="donate icon-attach fa-heart" href="https://www.classy.org/give/313412/#!/donation/checkout?c_src=website&c_src2=top-of-page-banner" target="_blank">Donate</a></li>
                 <li><button class="explore">Explore CC</button></li>
@@ -80,14 +78,6 @@ https://github.com/creativecommons/faq
 
 
     <div class="explore-panel">
-
-    <!-- (optional main CC logo, p, link on non-home site back to main site) -->
-    <!-- <aside>
-        <a class="identity-logo" href="#">Creative Commons</a>
-        <h2>Our Work Relies On You!</h2>
-        <p>Help us keep the internet free and open.</p>
-    </aside> -->
-
     <nav class="explore-menu">
         <ul>
             <li>
@@ -131,10 +121,15 @@ https://github.com/creativecommons/faq
 <br><small>$lastmodified$</small></p>
 </header>
 
-<div class="content">
+<aside>
+<nav>
 $if(toc)$
 $toc$
 $endif$
+</nav>
+</aside>
+
+<div class="content">
 
 $body$
 </div>
@@ -163,7 +158,6 @@ $body$
 
     <nav class="social-menu">
         <ul>
-            <!-- <li><a class="icon-replace fa-instagram" href="#">Instagram</a></li> -->
             <li><a class="icon-replace fa-twitter" href="https://twitter.com/creativecommons" target="_blank">Twitter</a></li>
             <li><a class="icon-replace fa-mastodon" href="https://mastodon.social/@creativecommons" target="_blank">Mastodon</a></li>
             <li><a class="icon-replace fa-facebook" href="https://www.facebook.com/creativecommons" target="_blank">Facebook</a></li>
