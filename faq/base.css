@@ -1,0 +1,16 @@
+/* right nav */
+.faq main > aside {
+  background-color: var(--vocabulary-brand-color-soft-gold);
+  padding: 1em;
+}
+.faq main > aside a {
+  --underline-background-color: var(--vocabulary-brand-color-soft-gold);
+}
+.faq main > aside > nav ul > li { /* TODO: resolve with vocabulary-theme */
+  font-size: 1rem;
+}
+
+/* footnotes */
+.faq .footnotes ol, .faq .footnotes ol > li > p {
+  font-size: 1rem;
+}

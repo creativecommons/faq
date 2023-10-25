@@ -27,9 +27,9 @@ juridiques. Elle peut ne pas porter sur des questions importantes qui
 vous touchent. Vous devriez consulter votre propre avocat si vous
 avez des questions.
 
-### A propos de CC
+## A propos de CC
 
-#### Qu’est-ce que CC et que faites-vous?
+### Qu’est-ce que CC et que faites-vous?
 
 Creative Commons est une organisation à but non lucratif qui permet le
 partage et la réutilisation de la créativité et des connaissances
@@ -63,7 +63,7 @@ utilisés pour partager des œuvres et soutenir des modèles d’affaires
 innovants. Vous pouvez trouver des informations à propos de CC
 régulièrement mises à jour en visitant le blog .
 
-#### Est-ce que Creative Commons est contre le droit d’auteur?
+### Est-ce que Creative Commons est contre le droit d’auteur?
 
 Absolument pas. CC a répondu contrairement aux affirmations. Les
 licences CC sont des licences de droit d’auteur, et dépendent de
@@ -82,7 +82,7 @@ réforme du droit d’auteur. Pour plus d’informations, consultez
 notre déclaration à l’appui de la réforme du
 droit d’auteur.
 
-#### Qu’est-ce que «certains droits réservés» signifie?
+### Qu’est-ce que «certains droits réservés» signifie?
 
 Les droits d’auteur accordent aux créateurs un ensemble de droits
 exclusifs sur leurs œuvres créatives, qui comprennent généralement, au
@@ -99,7 +99,7 @@ juridictions. Les licences Creative Commons offrent aux créateurs un
 renonciation de tous les droits (domaine public), une approche que
 nous appelons «certains droits réservés».
 
-#### Est-ce que Creative Commons peut donner des conseils juridiques au sujet de ses licences ou d’autres outils, ou aider à l’application de la licence CC?
+### Est-ce que Creative Commons peut donner des conseils juridiques au sujet de ses licences ou d’autres outils, ou aider à l’application de la licence CC?
 
 Non. Creative Commons n’est pas un cabinet d’avocats et ne délivre pas
 de conseils ou de services juridiques. CC est similaire à un service
@@ -137,7 +137,7 @@ informations sur les questions de licence CC.  Toutefois, s’il vous
 plaît noter que CC ne fournit pas de services d’orientation, et ne
 cautionne ni ne recommande aucune personne sur cette liste.
 
-#### Est-ce que Creative Commons recueille ou suit les œuvres sous licence CC?
+### Est-ce que Creative Commons recueille ou suit les œuvres sous licence CC?
 
 Non, CC ne recueille pas des contenus et ne suit pas les œuvres sous
 licence CC. Toutefois, CC construit des outils techniques et autres
@@ -148,7 +148,7 @@ par CC pour aider le public à découvrir sur Internet via les moteurs
 de recherche et les référentiels CC-aware des œuvres offertes sous
 licence Creative Commons.
 
-#### Que font les boutons Creative Commons?
+### Que font les boutons Creative Commons?
 
 Les boutons de CC sont un raccourci pour transmettre les autorisations
 de base associées au matériel offert sous licence CC.  Les créateurs
@@ -159,7 +159,7 @@ matériel est offert en ligne, les boutons doivent généralement relier
 vers les actes de licence lisibles par l’homme (qui, à son tour, un
 lien vers la licence elle-même).
 
-#### Puis-je utiliser le logo et les boutons Creative Commons?
+### Puis-je utiliser le logo et les boutons Creative Commons?
 
 Vous pouvez télécharger des versions haute résolution des logos
 Creative Commons et les utiliser dans le cadre de votre œuvre ou de
@@ -174,7 +174,7 @@ règles, sauf si vous recevez au préalable une autorisation expresse et
 permission) imprimer vos propres boutons et t-shirts avec des logos
 CC, mais vous pouvez par contre les acheter dans le magasin CC .
 
-#### J’aime Creative Commons. Comment puis-je aider?
+### J’aime Creative Commons. Comment puis-je aider?
 
 SVP soutenez CC en faisant un don via notre page de support. Si vous
 donnez 50 \$ ou plus, vous pouvez obtenir un t-shirt en édition
@@ -197,7 +197,7 @@ questions d’actualité où vous pouvez vous impliquer et passez le
 messager et plaider pour les licences libres et ouvertes dans vos
 propres communautés.
 
-#### Pourquoi Creative Commons mène une campagne annuelle de collecte de fonds? Pourquoi l’argent est utilisé et il sert à quoi?
+### Pourquoi Creative Commons mène une campagne annuelle de collecte de fonds? Pourquoi l’argent est utilisé et il sert à quoi?
 
 Creative Commons est une organisation mondiale à but non lucratif qui
 permet le partage et la réutilisation de la créativité et des
@@ -245,9 +245,9 @@ fonctionner afin que nous puissions continuer à fournir nos outils et
 services gratuitement, telle une organisation à but non lucratif. Plus
 les gens font des dons à CC, plus indépendant, il restera.
 
-### Informations Générales sur la licence
+## Informations Générales sur la licence
 
-#### Qu’est-ce que les licences Creative Commons?
+### Qu’est-ce que les licences Creative Commons?
 
 Les licences Creative Commons offrent un moyen facile de gérer les
 termes de droit d’auteur appliqués automatiquement sur tous le
@@ -284,7 +284,7 @@ le droit d’auteur ou qui sont dans le domaine public. Pour ces œuvres
 qui sont dans le domaine public du monde entier, nous vous
 recommandons de les marquer avec la Marquage Domaine Public .
 
-#### Comment les licences CC fonctionnent?
+### Comment les licences CC fonctionnent?
 
 Les licences CC ne sont en vigueur que lorsqu’elles sont appliquées à
 du matériel couvert par le droit d’auteur et même si une utilisation
@@ -317,7 +317,7 @@ violation, et même à ce moment-là, la licence est terminée uniquement
 Il y a des vidéos et des bandes dessinées qui offrent des descriptions
 visuelles de la manière de fonctionnement des licences CC.
 
-#### Quelle est la dernière version des licences proposée par Creative Commons?
+### Quelle est la dernière version des licences proposée par Creative Commons?
 
 En Novembre 2013, Creative Commons a publié la suite de licence
 version 4.0. Ces licences offertes par CC sont les plus mises à jour
@@ -327,7 +327,7 @@ sur la page des versions de licence<!--<span class="c6 c7"> -->. 4.0 a
 été rédigé pour être valable à l’échelle internationale, et aura des
 traductions officielles disponibles après la publication.
 
-#### Est-ce que les licences Creative Commons affectent les exceptions et limitations au droit d’auteur, comme l’utilisation équitable et l’usage équitable?
+### Est-ce que les licences Creative Commons affectent les exceptions et limitations au droit d’auteur, comme l’utilisation équitable et l’usage équitable?
 
 Non. De par leur conception, les licences CC ne réduisent et ne
 limitent pas les droits prévus par les exceptions et limitations au
@@ -337,7 +337,7 @@ permise en raison d’une exception ou limitation applicable, alors vous
 ne devriez pas compter sur la licence CC ou se conformer à ses termes
 et conditions.  Ceci est un principe fondamental des licences CC.
 
-#### Qui donne l’autorisation d’utiliser le matériel offert sous licence Creative Commons?
+### Qui donne l’autorisation d’utiliser le matériel offert sous licence Creative Commons?
 
 Nos licences et outils juridiques sont destinés à être utilisés par
 toute personne qui détient des droits d’auteur sur le
@@ -358,7 +358,7 @@ utiliser l’œuvre au-delà de celles accordées par la licence appliquée,
 ou si vous n’êtes pas sûr si votre utilisation prévue est permise par
 la licence, vous devez contacter le titulaire des droits.
 
-#### Les licences Creative Commons sont-elles exécutoires dans un tribunal de droit?
+### Les licences Creative Commons sont-elles exécutoires dans un tribunal de droit?
 
 Les licences Creative Commons sont rédigées pour être exécutées dans
 le monde entier, et ont déjà été appliquées au tribunal de diverses
@@ -369,7 +369,7 @@ Les licences CC contiennent une clause de “séparabilité”. Cela permet
 à un tribunal d’éliminer toute disposition déterminée à être
 inapplicable, et d’appliquer les autres dispositions de la licence.
 
-#### Qu’advient-il si quelqu’un applique une licence Creative Commons à mon œuvre sans ma connaissance ou autorisation?
+### Qu’advient-il si quelqu’un applique une licence Creative Commons à mon œuvre sans ma connaissance ou autorisation?
 
 CC informe tous les concédants potentiels de licence
 qu’ils ont besoin d’avoir tous les droits nécessaires avant d’appliquer
@@ -382,7 +382,7 @@ donnez des conseils juridiques, mais il y a des
 avocats qui se sont identifiés comme intéressés à représenter les gens
 dans les questions liées à CC .
 
-#### Quelles sont les licences Creative Commons internationales (non-adaptées), et pourquoi CC offre des licences “adaptées” ?
+### Quelles sont les licences Creative Commons internationales (non-adaptées), et pourquoi CC offre des licences “adaptées” ?
 
 L’un des objectifs de CC est de veiller à ce que tous
 ses outils juridiques s’appliquent à l’échelle mondiale, afin que toute
@@ -412,7 +412,7 @@ suite 4.0 expliquées sur la page des versions de
 licence  sauf si vous êtes au courant de
 considérations particulières qu’exigeraient une licence adaptée.
 
-#### Puis-je inclure une œuvre sous licence CC BY dans un article de Wikipedia même si ils utilisent une licence CC BY-SA ?
+### Puis-je inclure une œuvre sous licence CC BY dans un article de Wikipedia même si ils utilisent une licence CC BY-SA ?
 
 Oui. Des œuvres sous licence CC BY peuvent être incorporées dans des
 œuvres qui sont sous licence CC BY-SA. Par exemple, vous pouvez
@@ -421,7 +421,7 @@ tout en gardant toutes les mentions de droit d’auteur intactes,
 fournir une attribution appropriée, et en se conformant aux termes de
 CC BY. En savoir plus sur les licences.
 
-#### Les organisations gouvernementales et inter-gouvernementales peuvent-elles utiliser des licences CC ?
+### Les organisations gouvernementales et inter-gouvernementales peuvent-elles utiliser des licences CC ?
 
 Oui, tout le monde y compris les gouvernements et les organisations
 intergouvernementales peuvent utiliser les licences CC pour le
@@ -455,7 +455,7 @@ efficacement CC et les outils juridiques, les considérations pour
 l’utilisation de nos licences, et comment ils fonctionnent dans le
 contexte de l’OIG.
 
-#### Quelles sont les traductions officielles des licences CC et CC0?
+### Quelles sont les traductions officielles des licences CC et CC0?
 
 Des Traductions officielles seront disponibles pour les
 licences 4.0 et CC0. Lorsque votre propre œuvre est sous licence, vous
@@ -482,7 +482,7 @@ juridiction appropriée. Toutefois, les licences adaptées ne sont pas
 références substituables pour se conformer aux termes et conditions
 des licences.)
 
-#### Qu’est-ce qu’une licence compatible BY-SA?
+### Qu’est-ce qu’une licence compatible BY-SA?
 
 Une licence compatible BY-SA est une licence officiellement désignée
 par Creative Commons, conformément au processus de compatibilité
