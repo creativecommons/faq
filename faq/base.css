@@ -2,6 +2,7 @@
 .faq main > aside {
   background-color: var(--vocabulary-brand-color-soft-gold);
   padding: 1em;
+  height: fit-content;
 }
 .faq main > aside a {
   --underline-background-color: var(--vocabulary-brand-color-soft-gold);
