@@ -2581,7 +2581,7 @@ our [pre-licensing][considerations] guidelines.
 Database providers should also consider carefully what elements of the
 database she wants covered by the CC legal tool and identify those
 elements in a manner that reusers will see and understand. Please see
-our [marking page]https://wiki.creativecommons.org/wiki/Marking_your_work_with_a_CC_license "wikilink") for
+our [marking page](https://wiki.creativecommons.org/wiki/Marking_your_work_with_a_CC_license "wikilink") for
 more information on how to clearly distinguish unlicensed content.
 
 #### How do the different CC license elements operate for a CC-licensed database?
