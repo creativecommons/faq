@@ -1,6 +1,7 @@
 /* right nav */
 .faq main > aside {
   background-color: var(--vocabulary-brand-color-soft-gold);
+  margin-left: 4.1rem;
   padding: 1em;
   height: fit-content;
 }
@@ -9,6 +10,17 @@
 }
 .faq main > aside > nav ul > li { /* TODO: resolve with vocabulary-theme */
   font-size: 1rem;
+}
+
+/* imgs */
+.faq p img {
+  width: 100%;
+}
+
+/* headings */
+.faq h4 {
+  font-family: "Source Sans Pro";
+  font-size: 1.4em;
 }
 
 /* footnotes */
