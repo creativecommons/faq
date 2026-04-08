@@ -1,3 +1,6 @@
+
+@import "/wp-content/themes/vocabulary-theme/pidgin/css/pidgin.css" layer(vocabulary);
+
 /* right nav */
 .faq main > aside {
   background-color: var(--vocabulary-brand-color-soft-gold);
